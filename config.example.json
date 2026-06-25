@@ -1,0 +1,29 @@
+{
+  "pexels_api_key": "",
+  "buffer_token": "",
+  "buffer_channels": [
+    { "id": "6a3d9d855ab6d2f106712ca6", "service": "instagram", "name": "thewealthmindset.yt667" },
+    { "id": "6a3d9dab5ab6d2f106712d3e", "service": "youtube", "name": "WealthMindset" },
+    { "id": "6a3d9dcf5ab6d2f106712dcd", "service": "tiktok", "name": "wealth_mindset34" }
+  ],
+  "cloudinary_cloud_name": "",
+  "cloudinary_api_key": "",
+  "cloudinary_api_secret": "",
+  "voice": "en-US-GuyNeural",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "music_volume": 0.10,
+  "music_credit": "Music: CO.AG Music - https://www.youtube.com/c/COAGmusic",
+  "brand_name": "WealthMindset",
+  "brand_handle": "",
+  "brand_cta": "Follow for the money mindset they don't teach you 💰",
+  "brand_hashtags": ["#wealthmindset", "#money", "#millionairemindset", "#success", "#shorts", "#fyp", "#motivation"],
+  "color_grade": "eq=contrast=1.10:saturation=1.10:gamma=0.98,vignette=angle=PI/5",
+  "caption_words_per_line": 3,
+  "caption_fontsize": 80,
+  "caption_margin_v": 880,
+  "caption_margin_h": 185,
+  "ffmpeg": "ffmpeg",
+  "ffprobe": "ffprobe"
+}
