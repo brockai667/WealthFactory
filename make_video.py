@@ -57,10 +57,10 @@ def slugify(text):
 
 
 # ----------------------------------------------------------------------------- TTS
-async def _tts(text, voice, out_mp3):
+async def _tts(text, voice, out_mp3, rate="+0%", pitch="+0Hz"):
     import edge_tts
     words = []
-    comm = edge_tts.Communicate(text, voice, boundary="WordBoundary")
+    comm = edge_tts.Communicate(text, voice, rate=rate, pitch=pitch, boundary="WordBoundary")
     with open(out_mp3, "wb") as f:
         async for chunk in comm.stream():
             if chunk["type"] == "audio":
@@ -71,8 +71,23 @@ async def _tts(text, voice, out_mp3):
     return words
 
 
-def tts(text, voice, out_mp3):
-    return asyncio.run(_tts(text, voice, out_mp3))
+def tts(text, voice, out_mp3, rate="+0%", pitch="+0Hz"):
+    return asyncio.run(_tts(text, voice, out_mp3, rate, pitch))
+
+
+def trim_trailing_silence(ff, src, dst):
+    """Odreze dlhe ticho na konci segmentu a necha jednotnu malu pauzu (0.1s)
+    -> ziadne divne dlhe pauzy medzi vetami. Trailing-only (cez areverse),
+    takze casovanie slov pre titulky ostava platne."""
+    af = ("areverse,silenceremove=start_periods=1:start_duration=0.02:"
+          "start_threshold=-50dB,areverse,apad=pad_dur=0.1")
+    try:
+        run([ff, "-y", "-i", src, "-af", af, dst])
+        return dst
+    except Exception:
+        import shutil
+        shutil.copyfile(src, dst)   # fallback: ak orez zlyha, pouzi povodne audio
+        return dst
 
 
 # ----------------------------------------------------------------------------- B-roll (Pexels)
@@ -274,8 +289,11 @@ def main():
     for i, seg in enumerate(segments):
         text = seg["text"].strip()
         print(f"  [{i+1}/{len(segments)}] TTS: {text[:55]}...")
+        raw_audio = os.path.join(tmp, f"seg_{i:03d}_raw.mp3")
         audio = os.path.join(tmp, f"seg_{i:03d}.mp3")
-        words = tts(text, voice, audio)
+        words = tts(text, voice, raw_audio,
+                    cfg.get("tts_rate", "+0%"), cfg.get("tts_pitch", "+0Hz"))
+        trim_trailing_silence(cfg["ffmpeg"], raw_audio, audio)
         dur = probe_duration(cfg["ffprobe"], audio)
         broll, vid = get_broll(seg.get("keywords", ""), cfg, broll_dir, used_ids)
         if vid is not None:
