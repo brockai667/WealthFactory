@@ -75,12 +75,12 @@ def tts(text, voice, out_mp3, rate="+0%", pitch="+0Hz"):
     return asyncio.run(_tts(text, voice, out_mp3, rate, pitch))
 
 
-def trim_trailing_silence(ff, src, dst):
-    """Odreze dlhe ticho na konci segmentu a necha jednotnu malu pauzu (0.1s)
-    -> ziadne divne dlhe pauzy medzi vetami. Trailing-only (cez areverse),
+def trim_trailing_silence(ff, src, dst, gap=0.12):
+    """Odreze dlhe ticho na konci segmentu a necha jednotnu pauzu (gap s)
+    -> oddeli vety/fakty ako odseky. Trailing-only (cez areverse),
     takze casovanie slov pre titulky ostava platne."""
     af = ("areverse,silenceremove=start_periods=1:start_duration=0.02:"
-          "start_threshold=-50dB,areverse,apad=pad_dur=0.1")
+          f"start_threshold=-50dB,areverse,apad=pad_dur={gap}")
     try:
         run([ff, "-y", "-i", src, "-af", af, dst])
         return dst
@@ -135,21 +135,38 @@ def render_segment(i, audio_path, duration, broll_path, cfg, tmp):
     common_out = ["-c:v", "libx264", "-preset", "veryfast", "-crf", "23",
                   "-pix_fmt", "yuv420p", "-r", str(FPS),
                   "-c:a", "aac", "-ar", "44100", "-b:a", "160k", out]
-    if broll_path:
-        vf = (f"scale={W}:{H}:force_original_aspect_ratio=increase,"
-              f"crop={W}:{H},setsar=1,fps={FPS}")
+    motion = cfg.get("motion", True)
+
+    def broll_cmd(use_motion):
+        if use_motion:
+            # Ken Burns: pomaly zoom-in -> dynamika, drzi pozornost (retencia)
+            o_w, o_h = int(W * 1.5), int(H * 1.5)
+            vf = (f"scale={o_w}:{o_h}:force_original_aspect_ratio=increase,"
+                  f"crop={o_w}:{o_h},setsar=1,"
+                  f"zoompan=z='min(zoom+0.0012,1.18)':d=1:"
+                  f"x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':s={W}x{H}:fps={FPS}")
+        else:
+            vf = (f"scale={W}:{H}:force_original_aspect_ratio=increase,"
+                  f"crop={W}:{H},setsar=1,fps={FPS}")
         if grade:
             vf += "," + grade
         vf += ",format=yuv420p"
-        cmd = [ff, "-y", "-stream_loop", "-1", "-i", broll_path, "-i", audio_path,
-               "-t", f"{duration:.3f}", "-vf", vf, "-map", "0:v", "-map", "1:a", *common_out]
+        return [ff, "-y", "-stream_loop", "-1", "-i", broll_path, "-i", audio_path,
+                "-t", f"{duration:.3f}", "-vf", vf, "-map", "0:v", "-map", "1:a", *common_out]
+
+    if broll_path:
+        try:
+            run(broll_cmd(motion))
+        except Exception:
+            if not motion:
+                raise
+            run(broll_cmd(False))   # fallback bez pohybu, nech sa video vzdy vyrenderuje
     else:
         color = PALETTE[i % len(PALETTE)]
         vf = (grade + "," if grade else "") + "format=yuv420p"
-        cmd = [ff, "-y", "-f", "lavfi", "-i", f"color=c={color}:s={W}x{H}:r={FPS}",
-               "-i", audio_path, "-t", f"{duration:.3f}", "-vf", vf,
-               "-map", "0:v", "-map", "1:a", *common_out]
-    run(cmd)
+        run([ff, "-y", "-f", "lavfi", "-i", f"color=c={color}:s={W}x{H}:r={FPS}",
+             "-i", audio_path, "-t", f"{duration:.3f}", "-vf", vf,
+             "-map", "0:v", "-map", "1:a", *common_out])
     return out
 
 
@@ -293,7 +310,7 @@ def main():
         audio = os.path.join(tmp, f"seg_{i:03d}.mp3")
         words = tts(text, voice, raw_audio,
                     cfg.get("tts_rate", "+0%"), cfg.get("tts_pitch", "+0Hz"))
-        trim_trailing_silence(cfg["ffmpeg"], raw_audio, audio)
+        trim_trailing_silence(cfg["ffmpeg"], raw_audio, audio, cfg.get("segment_gap", 0.12))
         dur = probe_duration(cfg["ffprobe"], audio)
         broll, vid = get_broll(seg.get("keywords", ""), cfg, broll_dir, used_ids)
         if vid is not None:
