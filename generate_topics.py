@@ -67,6 +67,8 @@ def build_prompt(n, existing_titles):
         "about compounding -> 'growing plant money', about assets -> 'luxury house real estate', about "
         "time -> 'luxury watch'). Concrete, never abstract.\n"
         "- description: one engaging sentence ending with 'Follow for daily money wisdom!'.\n"
+        "- About half the time, add ONE fitting emoji at the very END of the description (e.g. 💰, 📈, 💡, 🏦). "
+        "Emoji ONLY in the description text, NEVER inside any segment 'text' (spoken captions).\n"
         "- hashtags: 6-8 relevant tags including #money #wealthmindset #shorts #fyp.\n"
         f"- Do NOT reuse any of these existing titles: {existing_titles}\n"
         "Return ONLY the JSON array."
