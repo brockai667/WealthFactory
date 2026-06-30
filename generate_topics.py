@@ -12,9 +12,19 @@ import sys
 
 import requests
 
+try:
+    import trends                      # trend scanner (Reddit + YouTube), voliteľný
+except Exception:
+    trends = None
+
 ROOT = os.path.dirname(os.path.abspath(__file__))
 BANK = os.path.join(ROOT, "topics_bank.json")
 STATE = os.path.join(ROOT, "used_topics.json")
+
+# Nika: PENIAZE / wealth-mindset -> kde ľudia o peniazoch reálne diskutujú / čo pozerajú
+TREND_SUBREDDITS = ["personalfinance", "Frugal", "financialindependence",
+                    "Entrepreneur", "FinancialPlanning"]
+TREND_YT_QUERIES = ["money habits", "wealth mindset", "how the rich think"]
 
 TARGET = int(os.environ.get("TOPICS_TARGET", "15"))   # min. pocet nepouzitych tem
 MODEL = os.environ.get("MODELS_MODEL", "openai/gpt-4o-mini")
@@ -24,7 +34,7 @@ TOKEN = os.environ.get("MODELS_TOKEN") or os.environ.get("GITHUB_TOKEN")
 SYSTEM = ("You are a viral short-form video scriptwriter for a money & wealth-mindset brand. "
           "You teach timeless money psychology and habits in plain language. You ONLY use "
           "widely-accepted principles (no invented numbers, no specific stock/crypto picks, "
-          "no promises of returns). You output strict JSON, nothing else. THE HOOK (the very first line / segment 1) is the single most important thing in the whole video: it MUST stop the scroll within 2 seconds. Make it concrete and specific (a number, a name, a vivid image, or a sharp contradiction) and open a curiosity gap that can ONLY be closed by watching to the end. Lead with the most shocking part FIRST, never a slow setup. Forbidden hook openers: 'Did you know', 'Have you ever', 'Imagine', 'Here are', 'In this video', 'Let me tell you'.")
+          "no promises of returns). You output strict JSON, nothing else.")
 
 EXAMPLE = {
     "title": "3 Money Habits of the Rich",
@@ -41,7 +51,19 @@ EXAMPLE = {
 }
 
 
-def build_prompt(n, existing_titles):
+def build_prompt(n, existing_titles, trending=None):
+    trend_block = ""
+    if trending:
+        joined = "\n".join(f"- {t}" for t in trending)
+        trend_block = (
+            "\nWHAT REAL PEOPLE ARE ASKING / WATCHING RIGHT NOW (live trending headlines from "
+            "Reddit money communities and top YouTube money videos — these reveal the worries, "
+            "questions and desires people care about THIS WEEK):\n"
+            f"{joined}\n"
+            "Use these as INSPIRATION: turn the most universal, emotionally-charged worries and "
+            "desires above into fresh, original video hooks and angles. Do NOT copy a headline "
+            "verbatim, do NOT mention Reddit/YouTube, and still obey all the niche rules below.\n"
+        )
     return (
         f"Generate {n} NEW faceless short-form video topics for a MONEY & WEALTH-MINDSET brand "
         "(TikTok / Reels / YouTube Shorts).\n"
@@ -71,6 +93,7 @@ def build_prompt(n, existing_titles):
         "Emoji ONLY in the description text, NEVER inside any segment 'text' (spoken captions).\n"
         "- hashtags: 6-8 relevant tags including #money #wealthmindset #shorts #fyp.\n"
         f"- Do NOT reuse any of these existing titles: {existing_titles}\n"
+        + trend_block +
         "Return ONLY the JSON array."
     )
 
@@ -132,7 +155,17 @@ def main():
         print(f"Banka OK: {len(unused)} nepouzitych tem (>= {TARGET}), netreba dopnat.")
         return
     print(f"Nepouzitych {len(unused)} < {TARGET} -> generujem ~{need} novych tem cez {MODEL}...")
-    raw = call_model(build_prompt(need + 3, sorted(titles)))
+    trending = []
+    if trends is not None:
+        try:
+            trending = trends.gather(TREND_SUBREDDITS, TREND_YT_QUERIES, top=18)
+            if trending:
+                print(f"Trendy: {len(trending)} aktualnych titulkov (Reddit+YouTube) -> temy z realneho dopytu.")
+            else:
+                print("Trendy: zdroj nedostupny -> generujem klasicky (bez trendov).")
+        except Exception as e:
+            print("Trendy preskocene:", str(e)[:120])
+    raw = call_model(build_prompt(need + 3, sorted(titles), trending))
     items = extract_json(raw)
     added = 0
     for t in items:
