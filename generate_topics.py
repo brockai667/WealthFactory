@@ -161,11 +161,13 @@ def main():
     trending = []
     if trends is not None:
         try:
-            trending = trends.gather(TREND_SUBREDDITS, TREND_YT_QUERIES, top=18)
+            trending, meta = trends.gather(TREND_SUBREDDITS, TREND_YT_QUERIES, top=18, return_meta=True)
             if trending:
-                print(f"Trendy: {len(trending)} aktualnych titulkov (Reddit+YouTube) -> temy z realneho dopytu.")
+                print(f"Trendy: {len(trending)} titulkov (Reddit={meta['reddit']}, YouTube={meta['youtube']}) "
+                      "-> temy z realneho dopytu.")
             else:
-                print("Trendy: zdroj nedostupny -> generujem klasicky (bez trendov).")
+                print(f"Trendy: zdroj nedostupny (Reddit={meta['reddit']}, YouTube={meta['youtube']}) "
+                      "-> generujem klasicky.")
         except Exception as e:
             print("Trendy preskocene:", str(e)[:120])
     raw = call_model(build_prompt(need + 3, sorted(titles), trending))
