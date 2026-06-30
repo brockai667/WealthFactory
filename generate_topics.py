@@ -56,13 +56,16 @@ def build_prompt(n, existing_titles, trending=None):
     if trending:
         joined = "\n".join(f"- {t}" for t in trending)
         trend_block = (
-            "\nWHAT REAL PEOPLE ARE ASKING / WATCHING RIGHT NOW (live trending headlines from "
-            "Reddit money communities and top YouTube money videos — these reveal the worries, "
-            "questions and desires people care about THIS WEEK):\n"
+            "\nWHAT REAL PEOPLE ARE WORRIED ABOUT / WATCHING THIS WEEK (live headlines from Reddit "
+            "money communities and top YouTube money videos — this is what the audience ACTUALLY "
+            "cares about right now):\n"
             f"{joined}\n"
-            "Use these as INSPIRATION: turn the most universal, emotionally-charged worries and "
-            "desires above into fresh, original video hooks and angles. Do NOT copy a headline "
-            "verbatim, do NOT mention Reddit/YouTube, and still obey all the niche rules below.\n"
+            "IMPORTANT: at least HALF of the topics you generate MUST be directly inspired by a "
+            "SPECIFIC worry, question or desire in the list above (e.g. emergency funds, fear of "
+            "retiring with nothing, renting vs buying, getting out of debt, lifestyle creep, "
+            "lending money to family). Take that real-life worry and turn it into a money-MINDSET "
+            "hook — a timeless principle or psychology angle, NOT specific financial advice. "
+            "Do NOT copy any headline word-for-word, and NEVER mention Reddit or YouTube.\n"
         )
     return (
         f"Generate {n} NEW faceless short-form video topics for a MONEY & WEALTH-MINDSET brand "
