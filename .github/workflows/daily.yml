@@ -32,10 +32,11 @@ jobs:
       - name: Prepare config
         run: cp config.example.json config.json
 
-      - name: Top up topic bank (GitHub Models, free)
+      - name: Top up topic bank (GitHub Models + trendy zadarmo)
         continue-on-error: true   # ak by zlyhalo, dennny beh aj tak pokracuje z existujucich tem
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}   # YouTube trend signal (Reddit ide bez kluca)
         run: python generate_topics.py
 
       - name: Generate 3 videos + push to Buffer
