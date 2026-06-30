@@ -91,14 +91,13 @@ def youtube_trends(queries, key, limit=8, days=30):
     return out
 
 
-def gather(subreddits=None, youtube_queries=None, top=20):
-    """Zlúči Reddit + YouTube, odstráni duplikáty, vráti zoznam titulkov (str)."""
+def gather(subreddits=None, youtube_queries=None, top=20, return_meta=False):
+    """Zlúči Reddit + YouTube, odstráni duplikáty, vráti zoznam titulkov (str).
+    return_meta=True -> (headlines, {"reddit": n, "youtube": n})."""
     yt_key = os.environ.get("YT_API_KEY") or os.environ.get("YOUTUBE_API_KEY", "")
-    items = []
-    if subreddits:
-        items += reddit_trends(subreddits)
-    if youtube_queries:
-        items += youtube_trends(youtube_queries, yt_key)
+    red = reddit_trends(subreddits) if subreddits else []
+    yt = youtube_trends(youtube_queries, yt_key) if youtube_queries else []
+    items = red + yt
 
     seen, headlines = set(), []
     for it in items:
@@ -108,8 +107,10 @@ def gather(subreddits=None, youtube_queries=None, top=20):
             if k and k not in seen:
                 seen.add(k)
                 headlines.append(t)
-    # mierne uprednostni Reddit-ové (majú score) — už zoradené hore; doplň YT
-    return headlines[:top]
+    headlines = headlines[:top]   # Reddit (so score) je hore, YouTube dopĺňa
+    if return_meta:
+        return headlines, {"reddit": len(red), "youtube": len(yt)}
+    return headlines
 
 
 if __name__ == "__main__":
