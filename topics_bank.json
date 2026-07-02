@@ -1715,5 +1715,133 @@
       "#fyp",
       "#motivation"
     ]
+  },
+  {
+    "title": "Why You Should Never Stop Renting",
+    "segments": [
+      {
+        "text": "Renting can actually build wealth faster than buying.",
+        "keywords": "modern apartment",
+        "visual": {
+          "type": "hook",
+          "prompt": "city skyline with rental apartments",
+          "big": "SHOCKING RENTING FACT"
+        }
+      },
+      {
+        "text": "But many think homeownership is the only path.",
+        "keywords": "house with sold sign",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "house with a for sale sign"
+        }
+      },
+      {
+        "text": "Here's the surprising truth about flexibility.",
+        "keywords": "person exploring options",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "person looking at a map"
+        }
+      },
+      {
+        "text": "Renters can invest the difference and grow assets.",
+        "keywords": "investments growing",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "growing money plants"
+        }
+      },
+      {
+        "text": "And when markets shift, renters avoid risks.",
+        "keywords": "economic downturn",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "stormy financial graph"
+        }
+      },
+      {
+        "text": "Follow for the wealth lessons school skipped.",
+        "keywords": "money mindset",
+        "visual": {
+          "type": "cta",
+          "prompt": "iconic dollar sign"
+        }
+      }
+    ],
+    "description": "Discover why renting might be a better wealth strategy. Follow for daily money wisdom! 💡",
+    "hashtags": [
+      "#money",
+      "#wealthmindset",
+      "#renting",
+      "#finance",
+      "#shorts",
+      "#fyp",
+      "#realestate"
+    ]
+  },
+  {
+    "title": "The Hidden Risks of Credit Cards",
+    "segments": [
+      {
+        "text": "Using credit cards can secretly crush your wealth.",
+        "keywords": "credit card shadow",
+        "visual": {
+          "type": "hook",
+          "prompt": "dark silhouette of a credit card",
+          "big": "CREDIT CARD DANGER"
+        }
+      },
+      {
+        "text": "But many believe they're a smart choice.",
+        "keywords": "shopping spree",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "shopping cart filled with expensive items"
+        }
+      },
+      {
+        "text": "Let’s talk about compound interest on debt.",
+        "keywords": "growing debt",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "bills piling up"
+        }
+      },
+      {
+        "text": "Every month of unpaid balance increases your risk.",
+        "keywords": "counting unpaid bills",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "person stressed with bills"
+        }
+      },
+      {
+        "text": "And the longer you wait, the more you lose.",
+        "keywords": "time slipping away",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "sand timer running out"
+        }
+      },
+      {
+        "text": "Follow if you're done staying broke.",
+        "keywords": "financial wisdom",
+        "visual": {
+          "type": "cta",
+          "prompt": "iconic light bulb"
+        }
+      }
+    ],
+    "description": "Learn how credit cards could sabotage your wealth. Follow for daily money wisdom! 🏦",
+    "hashtags": [
+      "#money",
+      "#wealthmindset",
+      "#creditcards",
+      "#finance",
+      "#shorts",
+      "#fyp",
+      "#debt"
+    ]
   }
 ]
