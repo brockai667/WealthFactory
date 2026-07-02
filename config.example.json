@@ -68,5 +68,8 @@
   "caption_pop_fontsize": 116,
   "caption_pop_margin_v": 560,
   "broll_fallback_query": "money finance business city",
-  "pixabay_api_key": ""
+  "pixabay_api_key": "",
+  "visual_engine": "motion",
+  "motion_bg": "gradient",
+  "motion_style": "dark premium cinematic still, subtle gold accents, moody luxury light, ultra detailed, no text, no watermark"
 }
