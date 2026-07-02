@@ -70,6 +70,6 @@
   "broll_fallback_query": "money finance business city",
   "pixabay_api_key": "",
   "visual_engine": "motion",
-  "motion_bg": "gradient",
+  "motion_bg": "auto",
   "motion_style": "premium cinematic photograph, dark background, warm golden light, single clear subject, no text, no watermark"
 }
