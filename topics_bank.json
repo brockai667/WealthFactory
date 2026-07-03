@@ -1843,5 +1843,364 @@
       "#fyp",
       "#debt"
     ]
+  },
+  {
+    "title": "Why You Should Embrace Renting",
+    "segments": [
+      {
+        "text": "Renting can actually be smarter than buying a home.",
+        "keywords": "luxury apartment",
+        "visual": {
+          "type": "hook",
+          "prompt": "dramatic scene image",
+          "big": "SHOCKING TRUTH!"
+        }
+      },
+      {
+        "text": "But here's the reason many miss.",
+        "keywords": "modern city skyline",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "a vibrant city skyline at sunset"
+        }
+      },
+      {
+        "text": "It’s all about cash flow, not just equity.",
+        "keywords": "cash flow money",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "flowing streams of cash"
+        }
+      },
+      {
+        "text": "Invest that extra cash into opportunities.",
+        "keywords": "investment growth",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "growing plant with coins"
+        }
+      },
+      {
+        "text": "Owning doesn’t always equal wealth building.",
+        "keywords": "house keys money",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "gravity-defying house keys with money"
+        }
+      },
+      {
+        "text": "Follow for daily money habits that actually work.",
+        "keywords": "money growth",
+        "visual": {
+          "type": "cta",
+          "prompt": "gold coins pouring from a pot"
+        }
+      }
+    ],
+    "description": "Embracing renting might be the key to smarter wealth. Follow for daily money wisdom! 🏦",
+    "hashtags": [
+      "#money",
+      "#wealthmindset",
+      "#renting",
+      "#finance",
+      "#shorts",
+      "#fyp",
+      "#motivation"
+    ]
+  },
+  {
+    "title": "Facing Medical Debt? Shift Your Perspective!",
+    "segments": [
+      {
+        "text": "Medical debt doesn't define your financial future.",
+        "keywords": "hospital bills",
+        "visual": {
+          "type": "hook",
+          "prompt": "dramatic scene image",
+          "big": "UNEXPECTED TRUTH!"
+        }
+      },
+      {
+        "text": "It’s time to change how you view it.",
+        "keywords": "reassured patient",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "a calm patient in a modern clinic"
+        }
+      },
+      {
+        "text": "Debt can be managed, not ignored.",
+        "keywords": "debt management",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "calendar marking payment dates"
+        }
+      },
+      {
+        "text": "Small payments chip away at big bills.",
+        "keywords": "small coins",
+        "visual": {
+          "type": "lineup",
+          "items": [
+            {
+              "name": "A",
+              "prompt": "a pile of small coins"
+            },
+            {
+              "name": "B",
+              "prompt": "a large hospital bill"
+            },
+            {
+              "name": "C",
+              "prompt": "a shrinking debt graph"
+            }
+          ]
+        }
+      },
+      {
+        "text": "Your mindset is the first step to overcoming it.",
+        "keywords": "positive mindset",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "a confident person looking to the horizon"
+        }
+      },
+      {
+        "text": "Follow for the wealth lessons school skipped.",
+        "keywords": "financial advice",
+        "visual": {
+          "type": "cta",
+          "prompt": "money tree with growing leaves"
+        }
+      }
+    ],
+    "description": "Changing perspective on medical debt can empower you. Follow for daily money wisdom! 💡",
+    "hashtags": [
+      "#money",
+      "#wealthmindset",
+      "#medicaldebt",
+      "#finance",
+      "#shorts",
+      "#fyp",
+      "#motivation"
+    ]
+  },
+  {
+    "title": "The Hidden Cost of Ownership",
+    "segments": [
+      {
+        "text": "Ownership often costs more than you think.",
+        "keywords": "car ownership",
+        "visual": {
+          "type": "hook",
+          "prompt": "dramatic scene image",
+          "big": "MIND-BLOWING TRUTH!"
+        }
+      },
+      {
+        "text": "Everyone talks about the price tag.",
+        "keywords": "car price tag",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "a price tag hanging from a luxury car"
+        }
+      },
+      {
+        "text": "But what about the ongoing expenses?",
+        "keywords": "fuel, maintenance, insurance",
+        "visual": {
+          "type": "lineup",
+          "items": [
+            {
+              "name": "A",
+              "prompt": "gas station"
+            },
+            {
+              "name": "B",
+              "prompt": "auto shop"
+            },
+            {
+              "name": "C",
+              "prompt": "insurance paperwork"
+            }
+          ]
+        }
+      },
+      {
+        "text": "Consider these costs before buying.",
+        "keywords": "cost analysis",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "calculator with a car silhouette shadow"
+        }
+      },
+      {
+        "text": "Investing in alternatives can be wise.",
+        "keywords": "public transport, ride sharing",
+        "visual": {
+          "type": "lineup",
+          "items": [
+            {
+              "name": "A",
+              "prompt": "bus with passengers"
+            },
+            {
+              "name": "B",
+              "prompt": "ride-sharing app screen"
+            },
+            {
+              "name": "C",
+              "prompt": "bicycle"
+            }
+          ]
+        }
+      },
+      {
+        "text": "Follow and your future rich self will thank you.",
+        "keywords": "money insights",
+        "visual": {
+          "type": "cta",
+          "prompt": "path leading to financial freedom"
+        }
+      }
+    ],
+    "description": "Understand the true costs of ownership before deciding. Follow for daily money wisdom! 📈",
+    "hashtags": [
+      "#money",
+      "#wealthmindset",
+      "#carownership",
+      "#finance",
+      "#shorts",
+      "#fyp",
+      "#motivation"
+    ]
+  },
+  {
+    "title": "Your Spending Habits Matter!",
+    "segments": [
+      {
+        "text": "Every dollar you spend creates your future.",
+        "keywords": "spending habits",
+        "visual": {
+          "type": "hook",
+          "prompt": "dramatic scene image",
+          "big": "POWERFUL REALITY!"
+        }
+      },
+      {
+        "text": "But most don’t connect spending and wealth.",
+        "keywords": "wealth connection",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "broken chain between spending and saving"
+        }
+      },
+      {
+        "text": "Track your expenses to understand your flow.",
+        "keywords": "expense tracking",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "person writing in a ledger"
+        }
+      },
+      {
+        "text": "Small changes can lead to big savings.",
+        "keywords": "saving money",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "saving jar with coins"
+        }
+      },
+      {
+        "text": "Your habits today shape your wealth tomorrow.",
+        "keywords": "future wealth",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "road leading to a brighter skyline"
+        }
+      },
+      {
+        "text": "Follow and your future rich self will thank you.",
+        "keywords": "wealth growth",
+        "visual": {
+          "type": "cta",
+          "prompt": "golden tree with coins"
+        }
+      }
+    ],
+    "description": "Your spending today builds your financial future. Follow for daily money wisdom! 💰",
+    "hashtags": [
+      "#money",
+      "#wealthmindset",
+      "#spendinghabits",
+      "#finance",
+      "#shorts",
+      "#fyp",
+      "#motivation"
+    ]
+  },
+  {
+    "title": "Stop Wasting Your Time and Money!",
+    "segments": [
+      {
+        "text": "Time wasted is money lost.",
+        "keywords": "time management",
+        "visual": {
+          "type": "hook",
+          "prompt": "dramatic scene image",
+          "big": "CRUCIAL TRUTH!"
+        }
+      },
+      {
+        "text": "We often overlook how we spend both.",
+        "keywords": "time vs money",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "clock and dollar bills intersecting"
+        }
+      },
+      {
+        "text": "Evaluate your daily habits critically.",
+        "keywords": "daily habits",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "list of daily activities on paper"
+        }
+      },
+      {
+        "text": "Are you investing time in your growth?",
+        "keywords": "personal growth",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "person climbing a mountain"
+        }
+      },
+      {
+        "text": "The rich maximize both time and cash.",
+        "keywords": "wealth empowerment",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "person in a suit reviewing financials"
+        }
+      },
+      {
+        "text": "Follow for the money mindset they don't teach you.",
+        "keywords": "money strategies",
+        "visual": {
+          "type": "cta",
+          "prompt": "rich tree with sparkling coins"
+        }
+      }
+    ],
+    "description": "Managing your time wisely can enhance your wealth. Follow for daily money wisdom! 📊",
+    "hashtags": [
+      "#money",
+      "#wealthmindset",
+      "#timemanagement",
+      "#finance",
+      "#shorts",
+      "#fyp",
+      "#motivation"
+    ]
   }
 ]
