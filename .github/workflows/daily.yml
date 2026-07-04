@@ -1,8 +1,11 @@
 name: WealthFactory Daily
 
 on:
-  schedule:
-    - cron: "3 20 * * *"   # 01:03 UTC (~03:03 Bratislava) - skoro rano, hotove davno pred publik. slotom
+  # POZASTAVENE 2026-07-04: YouTube kanal WealthMindset deaktivovany (appeal podany).
+  # Denny cron vypnuty, aby sa zbytocne nevyrabali videa co aj tak spadnu na YT.
+  # Az sa ucet obnovi -> odkomentuj 'schedule'. Manualne spustenie ostava cez workflow_dispatch.
+  # schedule:
+  #   - cron: "3 20 * * *"   # 01:03 UTC (~03:03 Bratislava)
   workflow_dispatch: {}    # umoznuje rucne spustenie z GitHub UI
 
 permissions:
