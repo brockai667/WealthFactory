@@ -1,0 +1,68 @@
+{
+  "title": "Pay Yourself First",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Most people save what's left after spending. The wealthy spend what's left after saving.",
+      "hook_top": "PAY YOURSELF FIRST",
+      "query": "person saving money jar",
+      "query2": "coins jar savings"
+    },
+    {
+      "role": "fact",
+      "text": "The moment the paycheck lands, a slice goes straight to savings and investments, before a single bill.",
+      "query": "bank app phone finance",
+      "query2": "person budgeting desk money",
+      "chips": [
+        {
+          "t": "SAVE BEFORE YOU SPEND",
+          "on": "before",
+          "style": "accent"
+        }
+      ],
+      "punch": "before"
+    },
+    {
+      "role": "fact",
+      "text": "It works because you never see the money, so you never miss it. The habit builds the wealth, not the amount.",
+      "query": "calendar planning desk",
+      "query2": "person writing goals notebook",
+      "chips": [
+        {
+          "t": "THE HABIT, NOT THE AMOUN",
+          "on": "habit",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Automate it once, and your future self gets paid on autopilot.",
+      "query": "phone banking transfer",
+      "query2": "laptop finance app",
+      "label": "AUTOMATE IT",
+      "sub": "pay your future self first",
+      "label_on": "automate",
+      "punch": "autopilot"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the money mindset they don't teach you.",
+      "query": "luxury lifestyle sunset city",
+      "query2": "business man suit city"
+    }
+  ],
+  "description": "Don't save what's left after spending - spend what's left after saving. Automate it and pay your future self first. Follow for daily money wisdom!",
+  "hashtags": [
+    "#money",
+    "#wealthmindset",
+    "#savings",
+    "#payyourselffirst",
+    "#financialfreedom",
+    "#budgeting",
+    "#shorts",
+    "#fyp"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "title": "Why the Rich Buy Assets First",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "The rich don't buy things. They buy things that pay them.",
+      "hook_top": "THE RICH BUY ASSETS FIRST",
+      "query": "luxury house real estate",
+      "query2": "modern mansion exterior"
+    },
+    {
+      "role": "fact",
+      "text": "An asset puts money in your pocket. A liability takes it out. Most people fill their lives with liabilities that just look like success.",
+      "query": "person counting money cash",
+      "query2": "money bills close up",
+      "chips": [
+        {
+          "t": "ASSETS PAY YOU",
+          "on": "asset",
+          "style": "accent"
+        }
+      ],
+      "punch": "liability"
+    },
+    {
+      "role": "fact",
+      "text": "The wealthy buy the asset first, then let it pay for the lifestyle. The car comes after the investment, not before.",
+      "query": "stock market chart screen",
+      "query2": "city skyline finance night",
+      "chips": [
+        {
+          "t": "ASSET BEFORE LIFESTYLE",
+          "on": "first",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Every dollar is a seed. Spend it and it's gone. Plant it and it grows.",
+      "query": "plant growing coins money",
+      "query2": "green plant sunlight growth",
+      "label": "PLANT, DON'T SPEND",
+      "sub": "every dollar is a seed",
+      "label_on": "seed",
+      "punch": "grows"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the money mindset they don't teach you.",
+      "query": "luxury lifestyle sunset city",
+      "query2": "business man suit city"
+    }
+  ],
+  "description": "The rich buy assets first and let them pay for the lifestyle. Master the difference between an asset and a liability. Follow for daily money wisdom!",
+  "hashtags": [
+    "#money",
+    "#wealthmindset",
+    "#assets",
+    "#financialfreedom",
+    "#millionairemindset",
+    "#investing",
+    "#shorts",
+    "#fyp"
+  ]
+}

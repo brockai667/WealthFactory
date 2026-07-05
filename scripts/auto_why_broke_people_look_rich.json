@@ -1,0 +1,68 @@
+{
+  "title": "Why Broke People Look Rich",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "The person flexing the new car is often the one closest to broke.",
+      "hook_top": "LOOKING RICH IS NOT BEING RICH",
+      "query": "luxury car showroom",
+      "query2": "expensive sports car city"
+    },
+    {
+      "role": "fact",
+      "text": "Real wealth is quiet. It's the assets you don't see, not the logos you do.",
+      "query": "luxury watch close up",
+      "query2": "designer shopping bags",
+      "chips": [
+        {
+          "t": "WEALTH IS QUIET",
+          "on": "quiet",
+          "style": "accent"
+        }
+      ],
+      "punch": "quiet"
+    },
+    {
+      "role": "fact",
+      "text": "Spending to look rich is the fastest way to never become rich. Every status buy is money that could have worked for you.",
+      "query": "stock market chart green",
+      "query2": "money growth chart screen",
+      "chips": [
+        {
+          "t": "STATUS COSTS YOU TWICE",
+          "on": "status",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Buy assets in private. Let your money grow where no one is watching.",
+      "query": "person reading finance calm",
+      "query2": "quiet home office laptop",
+      "label": "STAY QUIET, GET RICH",
+      "sub": "let money work unseen",
+      "label_on": "private",
+      "punch": "grow"
+    },
+    {
+      "role": "cta",
+      "text": "Follow and your future rich self will thank you.",
+      "query": "city skyline finance night",
+      "query2": "luxury home interior"
+    }
+  ],
+  "description": "Looking rich and being rich are opposites. Real wealth is quiet - the assets you don't see, not the logos you do. Follow for daily money wisdom!",
+  "hashtags": [
+    "#money",
+    "#wealthmindset",
+    "#richvsbroke",
+    "#financialfreedom",
+    "#millionairemindset",
+    "#assets",
+    "#shorts",
+    "#fyp"
+  ]
+}
