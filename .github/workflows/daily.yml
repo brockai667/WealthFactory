@@ -1,11 +1,8 @@
 name: WealthFactory Daily
 
 on:
-  # POZASTAVENE 2026-07-04: YouTube kanal WealthMindset deaktivovany (appeal podany).
-  # Denny cron vypnuty, aby sa zbytocne nevyrabali videa co aj tak spadnu na YT.
-  # Az sa ucet obnovi -> odkomentuj 'schedule'. Manualne spustenie ostava cez workflow_dispatch.
-  # schedule:
-  #   - cron: "3 20 * * *"   # 01:03 UTC (~03:03 Bratislava)
+  schedule:
+    - cron: "3 20 * * *"   # 01:03 UTC (~03:03 Bratislava) - OBNOVENE 2026-07-05 (kanal je spat)
   workflow_dispatch: {}    # umoznuje rucne spustenie z GitHub UI
 
 permissions:
@@ -30,7 +27,7 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y ffmpeg fonts-dejavu-core
 
       - name: Install Python deps
-        run: pip install edge-tts requests cloudinary kokoro-onnx soundfile Pillow faster-whisper
+        run: pip install edge-tts requests cloudinary kokoro-onnx soundfile Pillow faster-whisper scipy numpy
 
       - name: Prepare config
         run: cp config.example.json config.json
