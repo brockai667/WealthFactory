@@ -1,0 +1,67 @@
+{
+  "title": "Why You Should Trust the Process of Investing",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Investing isn't a sprint; it's a marathon with rewards.",
+      "hook_top": "INVESTING IS A MARATHON",
+      "query": "people running marathon",
+      "query2": "marathon finish line"
+    },
+    {
+      "role": "fact",
+      "text": "Wealthy individuals know that consistent investing over time leads to greater returns.",
+      "query": "stock market growth",
+      "query2": "investment portfolio",
+      "chips": [
+        {
+          "t": "TIME BUILD WEALTH",
+          "on": "time",
+          "style": "accent"
+        }
+      ],
+      "punch": "returns"
+    },
+    {
+      "role": "fact",
+      "text": "Financial experts suggest that the earlier you start, the more your money compounds.",
+      "query": "compound interest graph",
+      "query2": "calculator financial planning",
+      "chips": [
+        {
+          "t": "COMPOUND INTEREST",
+          "on": "compounds",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Embrace patience. Wealth is built over time, not overnight.",
+      "query": "hourglass time passing",
+      "query2": "patient person waiting",
+      "label": "EMBRACE PATIENCE",
+      "sub": "wealth is built over time",
+      "label_on": "patience",
+      "punch": "built"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the wealth lessons school skipped.",
+      "query": "financial advisor meeting",
+      "query2": "business growth"
+    }
+  ],
+  "description": "Investing wisely takes time and patience, but the rewards are worth it. Follow for daily money wisdom!",
+  "hashtags": [
+    "#investment",
+    "#wealthbuilding",
+    "#moneytips",
+    "#financialplanning",
+    "#financialfreedom",
+    "#shorts",
+    "#fyp"
+  ]
+}

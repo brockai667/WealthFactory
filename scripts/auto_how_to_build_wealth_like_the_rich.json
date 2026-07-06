@@ -1,0 +1,67 @@
+{
+  "title": "How to Build Wealth Like the Rich",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Wealthy people build wealth through strategic choices.",
+      "hook_top": "BUILD WEALTH STRATEGICALLY",
+      "query": "strategic planning person",
+      "query2": "wealth growth concept"
+    },
+    {
+      "role": "fact",
+      "text": "Investing consistently in income-generating assets is a common practice among the wealthy.",
+      "query": "rental properties investment",
+      "query2": "dividend stocks visual",
+      "chips": [
+        {
+          "t": "INCOME-GENERATING",
+          "on": "assets",
+          "style": "accent"
+        }
+      ],
+      "punch": "wealthy"
+    },
+    {
+      "role": "fact",
+      "text": "They often develop multiple streams of income to secure their financial health.",
+      "query": "multiple income streams diagram",
+      "query2": "person managing multiple jobs",
+      "chips": [
+        {
+          "t": "DIVERSIFY INCOME",
+          "on": "streams",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Focus on asset creation rather than consumption for real wealth.",
+      "query": "asset creation workshop",
+      "query2": "investment ideas brainstorming",
+      "label": "CREATE ASSETS",
+      "sub": "focus on creation",
+      "label_on": "creation",
+      "punch": "wealth"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for daily money habits that actually work.",
+      "query": "wealthy lifestyle",
+      "query2": "successful business people"
+    }
+  ],
+  "description": "Learn the strategic choices that wealthy individuals make to build their wealth. Follow for daily money wisdom!",
+  "hashtags": [
+    "#wealthbuilding",
+    "#financialfreedom",
+    "#investing",
+    "#moneyhabits",
+    "#wealthylifestyle",
+    "#shorts",
+    "#fyp"
+  ]
+}

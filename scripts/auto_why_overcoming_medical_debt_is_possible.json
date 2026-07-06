@@ -1,0 +1,67 @@
+{
+  "title": "Why Overcoming Medical Debt is Possible",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Medical debt doesn't have to control your life.",
+      "hook_top": "OVERCOME MEDICAL DEBT",
+      "query": "person with medical bills",
+      "query2": "doctor office bills"
+    },
+    {
+      "role": "fact",
+      "text": "Many wealthy people prioritize debt management as part of their financial strategy.",
+      "query": "debt management plan",
+      "query2": "financial advisor office",
+      "chips": [
+        {
+          "t": "SMART DEBT STRATEGY",
+          "on": "debt management",
+          "style": "accent"
+        }
+      ],
+      "punch": "strategy"
+    },
+    {
+      "role": "fact",
+      "text": "Creating a plan and communicating with health providers can lead to more manageable payments.",
+      "query": "person discussing payment plan",
+      "query2": "healthcare representative",
+      "chips": [
+        {
+          "t": "COMMUNICATE",
+          "on": "plan",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Knowledge is power. Understand your options to negotiate your debt.",
+      "query": "person studying financial options",
+      "query2": "books finance study",
+      "label": "KNOW YOUR OPTIONS",
+      "sub": "knowledge is power",
+      "label_on": "knowledge",
+      "punch": "negotiate"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the money mindset they don't teach you.",
+      "query": "debt relief meeting",
+      "query2": "group discussing finance"
+    }
+  ],
+  "description": "Don't let medical debt overwhelm you; develop a smart strategy. Follow for daily money wisdom!",
+  "hashtags": [
+    "#medicaldebt",
+    "#debtmanagement",
+    "#financialliteracy",
+    "#wealthmindset",
+    "#moneytips",
+    "#shorts",
+    "#fyp"
+  ]
+}

@@ -2406,5 +2406,407 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "Why You Should Trust the Process of Investing",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Investing isn't a sprint; it's a marathon with rewards.",
+        "hook_top": "INVESTING IS A MARATHON",
+        "query": "people running marathon",
+        "query2": "marathon finish line"
+      },
+      {
+        "role": "fact",
+        "text": "Wealthy individuals know that consistent investing over time leads to greater returns.",
+        "query": "stock market growth",
+        "query2": "investment portfolio",
+        "chips": [
+          {
+            "t": "TIME BUILD WEALTH",
+            "on": "time",
+            "style": "accent"
+          }
+        ],
+        "punch": "returns"
+      },
+      {
+        "role": "fact",
+        "text": "Financial experts suggest that the earlier you start, the more your money compounds.",
+        "query": "compound interest graph",
+        "query2": "calculator financial planning",
+        "chips": [
+          {
+            "t": "COMPOUND INTEREST",
+            "on": "compounds",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Embrace patience. Wealth is built over time, not overnight.",
+        "query": "hourglass time passing",
+        "query2": "patient person waiting",
+        "label": "EMBRACE PATIENCE",
+        "sub": "wealth is built over time",
+        "label_on": "patience",
+        "punch": "built"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the wealth lessons school skipped.",
+        "query": "financial advisor meeting",
+        "query2": "business growth"
+      }
+    ],
+    "description": "Investing wisely takes time and patience, but the rewards are worth it. Follow for daily money wisdom!",
+    "hashtags": [
+      "#investment",
+      "#wealthbuilding",
+      "#moneytips",
+      "#financialplanning",
+      "#financialfreedom",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Why Overcoming Medical Debt is Possible",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Medical debt doesn't have to control your life.",
+        "hook_top": "OVERCOME MEDICAL DEBT",
+        "query": "person with medical bills",
+        "query2": "doctor office bills"
+      },
+      {
+        "role": "fact",
+        "text": "Many wealthy people prioritize debt management as part of their financial strategy.",
+        "query": "debt management plan",
+        "query2": "financial advisor office",
+        "chips": [
+          {
+            "t": "SMART DEBT STRATEGY",
+            "on": "debt management",
+            "style": "accent"
+          }
+        ],
+        "punch": "strategy"
+      },
+      {
+        "role": "fact",
+        "text": "Creating a plan and communicating with health providers can lead to more manageable payments.",
+        "query": "person discussing payment plan",
+        "query2": "healthcare representative",
+        "chips": [
+          {
+            "t": "COMMUNICATE",
+            "on": "plan",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Knowledge is power. Understand your options to negotiate your debt.",
+        "query": "person studying financial options",
+        "query2": "books finance study",
+        "label": "KNOW YOUR OPTIONS",
+        "sub": "knowledge is power",
+        "label_on": "knowledge",
+        "punch": "negotiate"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the money mindset they don't teach you.",
+        "query": "debt relief meeting",
+        "query2": "group discussing finance"
+      }
+    ],
+    "description": "Don't let medical debt overwhelm you; develop a smart strategy. Follow for daily money wisdom!",
+    "hashtags": [
+      "#medicaldebt",
+      "#debtmanagement",
+      "#financialliteracy",
+      "#wealthmindset",
+      "#moneytips",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "How to Build Wealth Like the Rich",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Wealthy people build wealth through strategic choices.",
+        "hook_top": "BUILD WEALTH STRATEGICALLY",
+        "query": "strategic planning person",
+        "query2": "wealth growth concept"
+      },
+      {
+        "role": "fact",
+        "text": "Investing consistently in income-generating assets is a common practice among the wealthy.",
+        "query": "rental properties investment",
+        "query2": "dividend stocks visual",
+        "chips": [
+          {
+            "t": "INCOME-GENERATING",
+            "on": "assets",
+            "style": "accent"
+          }
+        ],
+        "punch": "wealthy"
+      },
+      {
+        "role": "fact",
+        "text": "They often develop multiple streams of income to secure their financial health.",
+        "query": "multiple income streams diagram",
+        "query2": "person managing multiple jobs",
+        "chips": [
+          {
+            "t": "DIVERSIFY INCOME",
+            "on": "streams",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Focus on asset creation rather than consumption for real wealth.",
+        "query": "asset creation workshop",
+        "query2": "investment ideas brainstorming",
+        "label": "CREATE ASSETS",
+        "sub": "focus on creation",
+        "label_on": "creation",
+        "punch": "wealth"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for daily money habits that actually work.",
+        "query": "wealthy lifestyle",
+        "query2": "successful business people"
+      }
+    ],
+    "description": "Learn the strategic choices that wealthy individuals make to build their wealth. Follow for daily money wisdom!",
+    "hashtags": [
+      "#wealthbuilding",
+      "#financialfreedom",
+      "#investing",
+      "#moneyhabits",
+      "#wealthylifestyle",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Is it Wise to Hesitate Before Investing?",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Hesitation can lead to missed opportunity in investing.",
+        "hook_top": "DON'T HESITATE TO INVEST",
+        "query": "person pondering investment",
+        "query2": "question marks investment"
+      },
+      {
+        "role": "fact",
+        "text": "Successful investors know they must take calculated risks with their money.",
+        "query": "risk assessment analysis",
+        "query2": "investing risk factors",
+        "chips": [
+          {
+            "t": "CALCULATED RISKS",
+            "on": "risks",
+            "style": "accent"
+          }
+        ],
+        "punch": "success"
+      },
+      {
+        "role": "fact",
+        "text": "Overthinking can often cost you potential gains; act decisively.",
+        "query": "person making financial decision",
+        "query2": "urgent investment sign",
+        "chips": [
+          {
+            "t": "ACT DECISIVELY",
+            "on": "act",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Opportunities come and go. Seize them while you can.",
+        "query": "person capturing opportunity",
+        "query2": "opening door concept",
+        "label": "SEIZE OPPORTUNITIES",
+        "sub": "act fast!",
+        "label_on": "seize",
+        "punch": "go"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the money mindset they don't teach you.",
+        "query": "successful investor lifestyle",
+        "query2": "investment success"
+      }
+    ],
+    "description": "Hesitation in investing can cost you opportunities. Learn to act decisively. Follow for daily money wisdom!",
+    "hashtags": [
+      "#investmentstrategy",
+      "#wealthmindset",
+      "#financialfreedom",
+      "#moneytips",
+      "#timing",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Why Saving is More Important Than Ever",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "In uncertain times, savings become your safety net.",
+        "hook_top": "SAVINGS ARE YOUR SAFETY NET",
+        "query": "piggy bank savings",
+        "query2": "safety net concept"
+      },
+      {
+        "role": "fact",
+        "text": "Wealthy individuals often emphasize the importance of having an emergency fund.",
+        "query": "emergency fund jar",
+        "query2": "person saving money",
+        "chips": [
+          {
+            "t": "EMERGENCY FUND",
+            "on": "fund",
+            "style": "accent"
+          }
+        ],
+        "punch": "savings"
+      },
+      {
+        "role": "fact",
+        "text": "A solid savings strategy allows you to navigate life's unpredictability.",
+        "query": "navigating uncertainty concept",
+        "query2": "financial planning diagram",
+        "chips": [
+          {
+            "t": "NAVIGATE UNCERTAINTY",
+            "on": "navigate",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Savings provide peace of mind; they’re a cushion for your future.",
+        "query": "happy person with savings",
+        "query2": "cushion lifestyle",
+        "label": "SAVINGS = PEACE OF MIND",
+        "sub": "plan for the future",
+        "label_on": "peace",
+        "punch": "cushion"
+      },
+      {
+        "role": "cta",
+        "text": "Follow and your future rich self will thank you.",
+        "query": "important savings visuals",
+        "query2": "savings goals"
+      }
+    ],
+    "description": "In uncertain times, having savings can provide immense peace of mind. Follow for daily money wisdom!",
+    "hashtags": [
+      "#savings",
+      "#financialplanning",
+      "#wealthmindset",
+      "#savingstrategies",
+      "#moneytips",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Impact of Budgeting on Wealth Growth",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "A budget is your blueprint for wealth creation!",
+        "hook_top": "BUDGETING BUILDS WEALTH",
+        "query": "person budgeting",
+        "query2": "budgeting tools"
+      },
+      {
+        "role": "fact",
+        "text": "Wealthy individuals consistently track their expenses to ensure financial growth.",
+        "query": "expense tracking app",
+        "query2": "financial growth chart",
+        "chips": [
+          {
+            "t": "TRACK EXPENSES",
+            "on": "track",
+            "style": "accent"
+          }
+        ],
+        "punch": "growth"
+      },
+      {
+        "role": "fact",
+        "text": "Effective budgeting helps prioritize saving and investing over spending.",
+        "query": "person prioritizing savings",
+        "query2": "saving vs spending chart",
+        "chips": [
+          {
+            "t": "SAVE OVER SPEND",
+            "on": "save",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Budgeting gives you control over your financial destiny.",
+        "query": "person feeling in control",
+        "query2": "financial planning concept",
+        "label": "CONTROL YOUR FINANCES",
+        "sub": "budget wisely",
+        "label_on": "control",
+        "punch": "destiny"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the wealth lessons school skipped.",
+        "query": "effective budgeting session",
+        "query2": "goal-oriented budget"
+      }
+    ],
+    "description": "Budgeting is essential for controlling your financial future and growing wealth. Follow for daily money wisdom!",
+    "hashtags": [
+      "#budgeting",
+      "#wealthgrowth",
+      "#financialcontrol",
+      "#moneytips",
+      "#financialfreedom",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]
