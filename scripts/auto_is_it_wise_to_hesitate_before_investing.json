@@ -1,0 +1,67 @@
+{
+  "title": "Is it Wise to Hesitate Before Investing?",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Hesitation can lead to missed opportunity in investing.",
+      "hook_top": "DON'T HESITATE TO INVEST",
+      "query": "person pondering investment",
+      "query2": "question marks investment"
+    },
+    {
+      "role": "fact",
+      "text": "Successful investors know they must take calculated risks with their money.",
+      "query": "risk assessment analysis",
+      "query2": "investing risk factors",
+      "chips": [
+        {
+          "t": "CALCULATED RISKS",
+          "on": "risks",
+          "style": "accent"
+        }
+      ],
+      "punch": "success"
+    },
+    {
+      "role": "fact",
+      "text": "Overthinking can often cost you potential gains; act decisively.",
+      "query": "person making financial decision",
+      "query2": "urgent investment sign",
+      "chips": [
+        {
+          "t": "ACT DECISIVELY",
+          "on": "act",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Opportunities come and go. Seize them while you can.",
+      "query": "person capturing opportunity",
+      "query2": "opening door concept",
+      "label": "SEIZE OPPORTUNITIES",
+      "sub": "act fast!",
+      "label_on": "seize",
+      "punch": "go"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the money mindset they don't teach you.",
+      "query": "successful investor lifestyle",
+      "query2": "investment success"
+    }
+  ],
+  "description": "Hesitation in investing can cost you opportunities. Learn to act decisively. Follow for daily money wisdom!",
+  "hashtags": [
+    "#investmentstrategy",
+    "#wealthmindset",
+    "#financialfreedom",
+    "#moneytips",
+    "#timing",
+    "#shorts",
+    "#fyp"
+  ]
+}

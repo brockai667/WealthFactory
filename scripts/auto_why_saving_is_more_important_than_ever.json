@@ -1,0 +1,67 @@
+{
+  "title": "Why Saving is More Important Than Ever",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "In uncertain times, savings become your safety net.",
+      "hook_top": "SAVINGS ARE YOUR SAFETY NET",
+      "query": "piggy bank savings",
+      "query2": "safety net concept"
+    },
+    {
+      "role": "fact",
+      "text": "Wealthy individuals often emphasize the importance of having an emergency fund.",
+      "query": "emergency fund jar",
+      "query2": "person saving money",
+      "chips": [
+        {
+          "t": "EMERGENCY FUND",
+          "on": "fund",
+          "style": "accent"
+        }
+      ],
+      "punch": "savings"
+    },
+    {
+      "role": "fact",
+      "text": "A solid savings strategy allows you to navigate life's unpredictability.",
+      "query": "navigating uncertainty concept",
+      "query2": "financial planning diagram",
+      "chips": [
+        {
+          "t": "NAVIGATE UNCERTAINTY",
+          "on": "navigate",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Savings provide peace of mind; they’re a cushion for your future.",
+      "query": "happy person with savings",
+      "query2": "cushion lifestyle",
+      "label": "SAVINGS = PEACE OF MIND",
+      "sub": "plan for the future",
+      "label_on": "peace",
+      "punch": "cushion"
+    },
+    {
+      "role": "cta",
+      "text": "Follow and your future rich self will thank you.",
+      "query": "important savings visuals",
+      "query2": "savings goals"
+    }
+  ],
+  "description": "In uncertain times, having savings can provide immense peace of mind. Follow for daily money wisdom!",
+  "hashtags": [
+    "#savings",
+    "#financialplanning",
+    "#wealthmindset",
+    "#savingstrategies",
+    "#moneytips",
+    "#shorts",
+    "#fyp"
+  ]
+}

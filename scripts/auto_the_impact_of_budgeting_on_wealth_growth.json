@@ -1,0 +1,67 @@
+{
+  "title": "The Impact of Budgeting on Wealth Growth",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "A budget is your blueprint for wealth creation!",
+      "hook_top": "BUDGETING BUILDS WEALTH",
+      "query": "person budgeting",
+      "query2": "budgeting tools"
+    },
+    {
+      "role": "fact",
+      "text": "Wealthy individuals consistently track their expenses to ensure financial growth.",
+      "query": "expense tracking app",
+      "query2": "financial growth chart",
+      "chips": [
+        {
+          "t": "TRACK EXPENSES",
+          "on": "track",
+          "style": "accent"
+        }
+      ],
+      "punch": "growth"
+    },
+    {
+      "role": "fact",
+      "text": "Effective budgeting helps prioritize saving and investing over spending.",
+      "query": "person prioritizing savings",
+      "query2": "saving vs spending chart",
+      "chips": [
+        {
+          "t": "SAVE OVER SPEND",
+          "on": "save",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Budgeting gives you control over your financial destiny.",
+      "query": "person feeling in control",
+      "query2": "financial planning concept",
+      "label": "CONTROL YOUR FINANCES",
+      "sub": "budget wisely",
+      "label_on": "control",
+      "punch": "destiny"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the wealth lessons school skipped.",
+      "query": "effective budgeting session",
+      "query2": "goal-oriented budget"
+    }
+  ],
+  "description": "Budgeting is essential for controlling your financial future and growing wealth. Follow for daily money wisdom!",
+  "hashtags": [
+    "#budgeting",
+    "#wealthgrowth",
+    "#financialcontrol",
+    "#moneytips",
+    "#financialfreedom",
+    "#shorts",
+    "#fyp"
+  ]
+}
