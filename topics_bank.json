@@ -2711,5 +2711,332 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "Why You Should Avoid Credit Debt",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Credit card debt is a trap that keeps you poor.",
+        "hook_top": "AVOID CREDIT DEBT",
+        "query": "credit card debt pile",
+        "query2": "stressed person with bills"
+      },
+      {
+        "role": "fact",
+        "text": "Carrying high credit card debt can cost you hundreds in interest each year.",
+        "query": "person paying bills calculator",
+        "query2": "money falling coins",
+        "chips": [
+          {
+            "t": "HIGH INTEREST COSTS",
+            "on": "can cost",
+            "style": "accent"
+          }
+        ]
+      },
+      {
+        "role": "fact",
+        "text": "Debt can restrict your ability to invest in assets that grow wealth.",
+        "query": "broken chain representing debt",
+        "query2": "wealthy person counting money",
+        "chips": [
+          {
+            "t": "INVEST IN ASSETS",
+            "on": "invest",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Debt is a thief. It steals your freedom and opportunities.",
+        "query": "person in chains representing debt",
+        "query2": "open road freedom concept",
+        "label": "DEBT STEALS FREEDOM",
+        "sub": "don't let it win",
+        "label_on": "thief",
+        "punch": "steals"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the wealth lessons school skipped.",
+        "query": "happy person celebrating",
+        "query2": "person with money in hand"
+      }
+    ],
+    "description": "Credit debt can trap you in a cycle of financial stress. Learn how to avoid it and empower your wealth journey. Follow for daily money wisdom!",
+    "hashtags": [
+      "#money",
+      "#debtfree",
+      "#financialfreedom",
+      "#moneytips",
+      "#wealthmindset",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Why People Trust Their Bank Less",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "More people are turning away from traditional banks.",
+        "hook_top": "BANK TRUST DECLINING",
+        "query": "person thinking about bank",
+        "query2": "empty bank lobby"
+      },
+      {
+        "role": "fact",
+        "text": "Many believe banks prioritize profits over customer service and safety.",
+        "query": "bank building exterior",
+        "query2": "frustrated customer at bank",
+        "chips": [
+          {
+            "t": "PROFIT OVER PEOPLE",
+            "on": "prioritize",
+            "style": "accent"
+          }
+        ]
+      },
+      {
+        "role": "fact",
+        "text": "Alternative financial services are on the rise, offering more flexibility.",
+        "query": "alternative payment options graphic",
+        "query2": "user-friendly app interface",
+        "chips": [
+          {
+            "t": "ALTERNATIVE SERVICES",
+            "on": "rise",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Trust is priceless; choose wisely where you store your wealth.",
+        "query": "person examining options",
+        "query2": "stacking money coins",
+        "label": "CHOOSING BANKS WISELY",
+        "sub": "trust is key",
+        "label_on": "trust",
+        "punch": "priceless"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if you're done staying broke.",
+        "query": "confident person researching",
+        "query2": "money growth concepts"
+      }
+    ],
+    "description": "Trust in banks is eroding as people seek better options. Understand the shift and choose wisely. Follow for financial insights!",
+    "hashtags": [
+      "#banking",
+      "#financialindependence",
+      "#wealthmindset",
+      "#financialliteracy",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Why You Need to Start Saving Early",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Starting to save early is crucial for financial security!",
+        "hook_top": "START SAVING EARLY",
+        "query": "young person saving money",
+        "query2": "piggy bank and coins"
+      },
+      {
+        "role": "fact",
+        "text": "The earlier you save, the more you benefit from compound interest.",
+        "query": "graph showing compound interest",
+        "query2": "person smiling with investment",
+        "chips": [
+          {
+            "t": "COMPOUND INTEREST MAGIC",
+            "on": "benefit",
+            "style": "accent"
+          }
+        ]
+      },
+      {
+        "role": "fact",
+        "text": "Even small amounts can grow significantly over time with consistent savings.",
+        "query": "small savings can grow",
+        "query2": "growing money tree",
+        "chips": [
+          {
+            "t": "SMALL ACTS GROW",
+            "on": "grow",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Every dollar saved today is a step towards future wealth.",
+        "query": "person taking steps toward goals",
+        "query2": "path leading to success",
+        "label": "SAVE FOR A BETTER FUTURE",
+        "sub": "every dollar counts",
+        "label_on": "saved",
+        "punch": "future"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if you're done staying broke.",
+        "query": "confident young investor",
+        "query2": "successful savings plan"
+      }
+    ],
+    "description": "Starting to save early can drastically change your financial future. Learn why compound interest is your best friend. Follow for daily money wisdom!",
+    "hashtags": [
+      "#savings",
+      "#financialliteracy",
+      "#wealthmindset",
+      "#compoundinterest",
+      "#moneytips",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "What Makes Wealthy People Generationally Rich?",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Generational wealth isn't just about money; it's a mindset!",
+        "hook_top": "GENERATIONAL WEALTH MINDSET",
+        "query": "wealthy family discussing money",
+        "query2": "family generational photo"
+      },
+      {
+        "role": "fact",
+        "text": "Rich families teach their children about financial literacy from a young age.",
+        "query": "child learning finance",
+        "query2": "family reading financial books",
+        "chips": [
+          {
+            "t": "FINANCIAL EDUCATION",
+            "on": "teach",
+            "style": "accent"
+          }
+        ]
+      },
+      {
+        "role": "fact",
+        "text": "Investing early and consistently can help sustain wealth across generations.",
+        "query": "investment strategies over time",
+        "query2": "family celebrating success",
+        "chips": [
+          {
+            "t": "INVEST CONSISTENTLY",
+            "on": "sustain",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "It's about creating habits that last, not just inheriting money.",
+        "query": "habits and routines chart",
+        "query2": "wealth building journey",
+        "label": "BUILD LASTING HABITS",
+        "sub": "create wealth mindset",
+        "label_on": "habits",
+        "punch": "create"
+      },
+      {
+        "role": "cta",
+        "text": "Follow and your future rich self will thank you.",
+        "query": "happy family with property",
+        "query2": "financial planning visuals"
+      }
+    ],
+    "description": "Generational wealth comes from the right mindset and habits, not just money. Learn the principles wealthy families pass on. Follow for daily money wisdom!",
+    "hashtags": [
+      "#generationalwealth",
+      "#financialliteracy",
+      "#wealthmindset",
+      "#moneyhabits",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Why Medical Debt Can Be Overwhelming",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Medical debt can trap you financially like nothing else.",
+        "hook_top": "MEDICAL DEBT TRAP",
+        "query": "person stressed about bills",
+        "query2": "hospital bills piling up"
+      },
+      {
+        "role": "fact",
+        "text": "Unexpected healthcare costs can lead to devastating financial repercussions.",
+        "query": "doctor's bill being paid",
+        "query2": "people discussing financial stress",
+        "chips": [
+          {
+            "t": "DEVASTATING COSTS",
+            "on": "unexpected",
+            "style": "accent"
+          }
+        ]
+      },
+      {
+        "role": "fact",
+        "text": "Many Americans face medical bills that exceed their savings completely.",
+        "query": "person looking at empty wallet",
+        "query2": "calculator showing high medical expenses",
+        "chips": [
+          {
+            "t": "EXCEEDS SAVINGS",
+            "on": "exceed",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Protect yourself by planning ahead for healthcare costs.",
+        "query": "person researching health plans",
+        "query2": "considering health options",
+        "label": "PLAN FOR HEALTH COSTS",
+        "sub": "take control",
+        "label_on": "plan",
+        "punch": "protect"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if you're done staying broke.",
+        "query": "confident person managing finances",
+        "query2": "successful budgeting plans"
+      }
+    ],
+    "description": "Medical debt can lead to significant financial hardship if not planned for. Learn how to manage and prevent it. Follow for daily strategies!",
+    "hashtags": [
+      "#medicaldebt",
+      "#financialplanning",
+      "#wealthmindset",
+      "#moneytips",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]

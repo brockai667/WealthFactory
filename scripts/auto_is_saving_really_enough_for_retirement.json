@@ -1,0 +1,65 @@
+{
+  "title": "Is Saving Really Enough for Retirement?",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Saving alone may not secure your retirement!",
+      "hook_top": "SAVING ISN'T ENOUGH",
+      "query": "retirement planning meeting",
+      "query2": "elderly couple discussing"
+    },
+    {
+      "role": "fact",
+      "text": "Many wealthy individuals invest their savings to maximize growth over time.",
+      "query": "investment portfolio analysis",
+      "query2": "charts and graphs",
+      "chips": [
+        {
+          "t": "INVEST FOR GROWTH",
+          "on": "invest",
+          "style": "accent"
+        }
+      ],
+      "punch": "growth"
+    },
+    {
+      "role": "fact",
+      "text": "Most retirees have multiple revenue streams, not just savings.",
+      "query": "diverse income sources chart",
+      "query2": "financial documents",
+      "chips": [
+        {
+          "t": "DIVERSIFY INCOME",
+          "on": "revenue",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Retirement should be about living well, not just surviving on savings.",
+      "query": "happy retired couple",
+      "query2": "couple enjoying life",
+      "label": "THRIVE, DON'T JUST SURVIVE",
+      "sub": "enjoy your retirement",
+      "label_on": "thrive",
+      "punch": "live"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the wealth lessons school skipped.",
+      "query": "people discussing investment",
+      "query2": "group planning meeting"
+    }
+  ],
+  "description": "Just saving for retirement isn't sufficient. Learn how to grow your wealth! Follow for daily money wisdom!",
+  "hashtags": [
+    "#retirementplanning",
+    "#financialfreedom",
+    "#wealthcreation",
+    "#shorts",
+    "#fyp"
+  ]
+}

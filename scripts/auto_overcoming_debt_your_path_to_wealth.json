@@ -1,0 +1,65 @@
+{
+  "title": "Overcoming Debt: Your Path to Wealth",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Debt doesn't have to define your financial future!",
+      "hook_top": "OVERCOMING DEBT FOR WEALTH",
+      "query": "person breaking chains",
+      "query2": "freedom from debt"
+    },
+    {
+      "role": "fact",
+      "text": "Wealthy individuals often view debt as a tool, not a burden.",
+      "query": "toolbox with finance tools",
+      "query2": "person using financial tools",
+      "chips": [
+        {
+          "t": "DEBT AS A TOOL",
+          "on": "tool",
+          "style": "accent"
+        }
+      ],
+      "punch": "tool"
+    },
+    {
+      "role": "fact",
+      "text": "They create plans to manage and pay off debt strategically.",
+      "query": "financial planning session",
+      "query2": "people planning finances",
+      "chips": [
+        {
+          "t": "STRATEGIC PAYOFF",
+          "on": "manage",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Debt can open doors if handled wisely!",
+      "query": "door opening with light",
+      "query2": "bright light through door",
+      "label": "USE DEBT WISELY",
+      "sub": "open new opportunities",
+      "label_on": "doors",
+      "punch": "doors"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you're done staying broke.",
+      "query": "people collaborating on finance",
+      "query2": "team meeting success"
+    }
+  ],
+  "description": "Debt can be managed and used strategically. Follow for daily money wisdom!",
+  "hashtags": [
+    "#debtmanagement",
+    "#wealthmindset",
+    "#financialstrategy",
+    "#shorts",
+    "#fyp"
+  ]
+}

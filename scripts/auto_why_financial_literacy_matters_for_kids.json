@@ -1,0 +1,65 @@
+{
+  "title": "Why Financial Literacy Matters for Kids",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Teaching kids money management is crucial for their future!",
+      "hook_top": "KIDS NEED MONEY SKILLS",
+      "query": "children learning about money",
+      "query2": "kids studying finance"
+    },
+    {
+      "role": "fact",
+      "text": "Wealthy families often teach financial literacy early, setting a strong foundation.",
+      "query": "family financial education",
+      "query2": "parents teaching children",
+      "chips": [
+        {
+          "t": "START YOUNG",
+          "on": "early",
+          "style": "accent"
+        }
+      ],
+      "punch": "foundation"
+    },
+    {
+      "role": "fact",
+      "text": "Kids who learn about money grow into financially savvy adults.",
+      "query": "successful young adults",
+      "query2": "happy professionals",
+      "chips": [
+        {
+          "t": "FINANCIALLY SAVVY",
+          "on": "savvy",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Financial literacy equips them for a secure future!",
+      "query": "road leading to success",
+      "query2": "path to opportunity",
+      "label": "EQUIP FOR SUCCESS",
+      "sub": "set the pathway early",
+      "label_on": "literacy",
+      "punch": "success"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the money mindset they don't teach you.",
+      "query": "parent-child money learning",
+      "query2": "family discussing finance"
+    }
+  ],
+  "description": "Teaching kids about money management is key for their success. Follow for daily money wisdom!",
+  "hashtags": [
+    "#financialliteracy",
+    "#parentingtips",
+    "#wealthyhabits",
+    "#shorts",
+    "#fyp"
+  ]
+}
