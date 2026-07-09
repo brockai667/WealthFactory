@@ -1,0 +1,65 @@
+{
+  "title": "Creating Multiple Income Streams",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Relying on a single income is a risky move!",
+      "hook_top": "MULTIPLE INCOMES ARE ESSENTIAL",
+      "query": "man juggling finances",
+      "query2": "balancing multiple tasks"
+    },
+    {
+      "role": "fact",
+      "text": "Wealthy individuals often create various income streams to ensure stability.",
+      "query": "streams of income diagram",
+      "query2": "financial flowchart",
+      "chips": [
+        {
+          "t": "DIVERSIFY INCOME",
+          "on": "streams",
+          "style": "accent"
+        }
+      ],
+      "punch": "diversify"
+    },
+    {
+      "role": "fact",
+      "text": "This strategy not only protects them but also accelerates wealth growth.",
+      "query": "wealth growth chart",
+      "query2": "growing tree graph",
+      "chips": [
+        {
+          "t": "ACCELERATE WEALTH",
+          "on": "growth",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Having multiple sources of income creates freedom!",
+      "query": "freedom living abroad",
+      "query2": "person enjoying life",
+      "label": "FREEDOM THROUGH DIVERSITY",
+      "sub": "reduce financial stress",
+      "label_on": "freedom",
+      "punch": "freedom"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you're done staying broke.",
+      "query": "diverse team planning",
+      "query2": "teamwork session"
+    }
+  ],
+  "description": "Creating multiple income streams is essential for financial security. Follow for daily money wisdom!",
+  "hashtags": [
+    "#multipleincomes",
+    "#wealthbuilding",
+    "#financialfreedom",
+    "#shorts",
+    "#fyp"
+  ]
+}

@@ -3038,5 +3038,407 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "How a Maxed-Out Credit Card Ruins Futures",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "A maxed-out credit card can haunt your future.",
+        "hook_top": "CREDIT CARD DANGER",
+        "query": "credit card maxed out",
+        "query2": "sad person holding card"
+      },
+      {
+        "role": "fact",
+        "text": "Credit card debt compounding interest can lead to a financial spiral.",
+        "query": "calculator financial debt",
+        "query2": "person looking worried",
+        "chips": [
+          {
+            "t": "DEBT CAN GROW",
+            "on": "debt",
+            "style": "accent"
+          }
+        ],
+        "punch": "spiral"
+      },
+      {
+        "role": "fact",
+        "text": "Most people overlook how quickly payments can become unmanageable.",
+        "query": "busy person in debt",
+        "query2": "person stressed with bills",
+        "chips": [
+          {
+            "t": "UNMANAGEABLE PAYMENTS",
+            "on": "payments",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Avoiding debt starts with education and awareness.",
+        "query": "person reading finance book",
+        "query2": "someone learning",
+        "label": "EDUCATE & AVOID",
+        "sub": "start understanding money",
+        "label_on": "education",
+        "punch": "avoid"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for daily money habits that actually work.",
+        "query": "group of diverse people",
+        "query2": "people discussing finance"
+      }
+    ],
+    "description": "Learn how credit card debt can trip you up for years! Follow for essential money habits!",
+    "hashtags": [
+      "#money",
+      "#debtfreeliving",
+      "#financialliteracy",
+      "#personalfinance",
+      "#wealthmindset",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Why Relying on Banks is Risky",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Trusting banks with all your money can backfire.",
+        "hook_top": "BANKS CAN FAIL YOU",
+        "query": "person at bank",
+        "query2": "bank building exterior"
+      },
+      {
+        "role": "fact",
+        "text": "Many people lose savings when relying solely on traditional banks.",
+        "query": "savings bank account",
+        "query2": "money in bank vault",
+        "chips": [
+          {
+            "t": "BANKS ARE NOT SAFE",
+            "on": "banks",
+            "style": "accent"
+          }
+        ],
+        "punch": "lose"
+      },
+      {
+        "role": "fact",
+        "text": "Diversifying your savings can safeguard your financial future.",
+        "query": "various financial instruments",
+        "query2": "money diversifying",
+        "chips": [
+          {
+            "t": "DIVERSIFY YOUR SAVINGS",
+            "on": "savings",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "A balanced approach to savings can minimize risks.",
+        "query": "person planning finances",
+        "query2": "individual budget planning",
+        "label": "BALANCED SAVINGS",
+        "sub": "minimize your risks",
+        "label_on": "balance",
+        "punch": "minimize"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if you're done staying broke.",
+        "query": "people brainstorming",
+        "query2": "team discussing finances"
+      }
+    ],
+    "description": "Learn why it's crucial to diversify beyond banks. Follow for savvy money strategies!",
+    "hashtags": [
+      "#money",
+      "#financialfreedom",
+      "#savings",
+      "#wealthmindset",
+      "#personalfinance",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Is It Smart to Pay Down Your Mortgage Aggressively?",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Aggressively paying down your mortgage can be a double-edged sword.",
+        "hook_top": "MORTGAGE MISTAKES",
+        "query": "person reviewing mortgage",
+        "query2": "mortgage paperwork"
+      },
+      {
+        "role": "fact",
+        "text": "Paying off your mortgage early might reduce your liquidity.",
+        "query": "liquid assets cash",
+        "query2": "money in hand",
+        "chips": [
+          {
+            "t": "LIQUIDITY MATTERS",
+            "on": "liquidity",
+            "style": "accent"
+          }
+        ],
+        "punch": "reduce"
+      },
+      {
+        "role": "fact",
+        "text": "Equity isn't cash, liquid assets are essential for emergencies.",
+        "query": "stacks of cash",
+        "query2": "cash emergency fund",
+        "chips": [
+          {
+            "t": "EQUITY IS NOT CASH",
+            "on": "equity",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Evaluating your financial situation is key before making decisions.",
+        "query": "financial advisor consulting",
+        "query2": "meeting with an advisor",
+        "label": "EVALUATE SMARTLY",
+        "sub": "make informed choices",
+        "label_on": "evaluate",
+        "punch": "choose"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for daily money habits that actually work.",
+        "query": "financial planning discussion",
+        "query2": "group planning finances"
+      }
+    ],
+    "description": "Consider the balance between mortgage payments and liquidity. Follow for essential money strategies!",
+    "hashtags": [
+      "#money",
+      "#mortgage",
+      "#financialliteracy",
+      "#wealthmindset",
+      "#personalfinance",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Hidden Costs of Financing a Car",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Financing a car can lead to heaps of hidden costs.",
+        "hook_top": "CAR FINANCING DANGER",
+        "query": "person buying car",
+        "query2": "car dealership"
+      },
+      {
+        "role": "fact",
+        "text": "Interest rates on financed cars can inflate the total cost significantly.",
+        "query": "calculating car cost",
+        "query2": "financial calculator close-up",
+        "chips": [
+          {
+            "t": "INFLATED COSTS",
+            "on": "inflate",
+            "style": "accent"
+          }
+        ],
+        "punch": "significantly"
+      },
+      {
+        "role": "fact",
+        "text": "Many overlook added fees like insurance and depreciation.",
+        "query": "car losing value",
+        "query2": "depreciation graph",
+        "chips": [
+          {
+            "t": "ADDED FEES MATTER",
+            "on": "fees",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Researching total ownership costs can save you money.",
+        "query": "person researching",
+        "query2": "person calculating costs",
+        "label": "RESEARCH COSTS",
+        "sub": "avoid hidden surprises",
+        "label_on": "research",
+        "punch": "save"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the wealth lessons school skipped.",
+        "query": "diverse group discussing",
+        "query2": "people brainstorming finances"
+      }
+    ],
+    "description": "Explore how financing a car can lead to unexpected costs. Follow for more smart financial tips!",
+    "hashtags": [
+      "#money",
+      "#carfinancing",
+      "#financialliteracy",
+      "#wealthmindset",
+      "#personalfinance",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Why You Should Set Up 529 Accounts for Your Kids",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "529 accounts are a smart way to invest in your child's future.",
+        "hook_top": "529 ACCOUNTS BENEFIT",
+        "query": "children education savings",
+        "query2": "children studying"
+      },
+      {
+        "role": "fact",
+        "text": "These accounts offer tax advantages for education savings.",
+        "query": "tax benefits illustration",
+        "query2": "tax saving concept",
+        "chips": [
+          {
+            "t": "TAX ADVANTAGES",
+            "on": "tax",
+            "style": "accent"
+          }
+        ],
+        "punch": "advantages"
+      },
+      {
+        "role": "fact",
+        "text": "Investing early allows the funds to grow over time.",
+        "query": "growth investment graph",
+        "query2": "plant growing",
+        "chips": [
+          {
+            "t": "EARLY GROWTH POTENTIAL",
+            "on": "growth",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Every dollar saved today helps your kids tomorrow.",
+        "query": "parent saving money",
+        "query2": "child holding money piggy bank",
+        "label": "SAVE FOR THEIR FUTURE",
+        "sub": "fund their dreams",
+        "label_on": "save",
+        "punch": "future"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the money mindset they don't teach you.",
+        "query": "happy family together",
+        "query2": "family portrait"
+      }
+    ],
+    "description": "Learn why setting up 529 accounts is crucial for your kids' future. Follow for financial wisdom for families!",
+    "hashtags": [
+      "#money",
+      "#529accounts",
+      "#educationfunding",
+      "#wealthmindset",
+      "#financialliteracy",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "How to Avoid Financial Disaster After an Accident",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Accidents can lead to financial disaster if you're unprepared.",
+        "hook_top": "FINANCIAL DISASTER AHEAD",
+        "query": "car accident scene",
+        "query2": "crashed car"
+      },
+      {
+        "role": "fact",
+        "text": "Unforeseen medical bills can pile up quickly after an accident.",
+        "query": "medical bill stack",
+        "query2": "person looking at bills",
+        "chips": [
+          {
+            "t": "MEDICAL BILLS CAN SOAR",
+            "on": "bills",
+            "style": "accent"
+          }
+        ],
+        "punch": "pile"
+      },
+      {
+        "role": "fact",
+        "text": "Having an emergency fund can protect you from financial strain.",
+        "query": "safe emergency cash",
+        "query2": "money in a jar",
+        "chips": [
+          {
+            "t": "EMERGENCY FUNDS MATTER",
+            "on": "emergency",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Be proactive and plan for the unexpected.",
+        "query": "person planning finances",
+        "query2": "writing a budget",
+        "label": "PLAN AHEAD",
+        "sub": "be ready for anything",
+        "label_on": "plan",
+        "punch": "unexpected"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the money mindset they don't teach you.",
+        "query": "person reviewing budget",
+        "query2": "person checking finance"
+      }
+    ],
+    "description": "Learn how to safeguard your finances after an unforeseen accident. Follow for essential financial tips!",
+    "hashtags": [
+      "#money",
+      "#financialliteracy",
+      "#emergencyfund",
+      "#wealthmindset",
+      "#personalfinance",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]

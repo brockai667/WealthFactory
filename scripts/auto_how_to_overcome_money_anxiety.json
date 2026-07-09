@@ -1,0 +1,65 @@
+{
+  "title": "How to Overcome Money Anxiety",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Money anxiety can hold you back from wealth!",
+      "hook_top": "CONQUER MONEY ANXIETY",
+      "query": "stressful financial situation",
+      "query2": "person worried about bills"
+    },
+    {
+      "role": "fact",
+      "text": "Wealthy individuals practice mindfulness to reduce financial stress.",
+      "query": "meditation for stress relief",
+      "query2": "calm meditation setting",
+      "chips": [
+        {
+          "t": "MINDFULNESS HELPS",
+          "on": "mindfulness",
+          "style": "accent"
+        }
+      ],
+      "punch": "relieve"
+    },
+    {
+      "role": "fact",
+      "text": "They create budgets and plans to achieve financial clarity.",
+      "query": "budgeting tools and apps",
+      "query2": "calculating finance",
+      "chips": [
+        {
+          "t": "CLARITY THROUGH BUDGETIN",
+          "on": "budgeting",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Conquering money anxiety opens doors to financial success!",
+      "query": "open success door",
+      "query2": "bright future ahead",
+      "label": "OVERCOME TO SUCCEED",
+      "sub": "mental clarity for growth",
+      "label_on": "conquering",
+      "punch": "success"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you're done staying broke.",
+      "query": "people discussing money",
+      "query2": "collaborative finance meeting"
+    }
+  ],
+  "description": "Overcoming money anxiety is key to building wealth. Follow for daily money wisdom!",
+  "hashtags": [
+    "#moneyanxiety",
+    "#financialclarity",
+    "#wealthmindset",
+    "#shorts",
+    "#fyp"
+  ]
+}

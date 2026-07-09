@@ -1,0 +1,65 @@
+{
+  "title": "Strategies to Build Generational Wealth",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Creating generational wealth requires strategic thinking!",
+      "hook_top": "BUILD GENERATIONAL WEALTH",
+      "query": "family passing wealth",
+      "query2": "family legacy planning"
+    },
+    {
+      "role": "fact",
+      "text": "Wealthy families invest in assets to ensure wealth is preserved for generations.",
+      "query": "inheritance planning",
+      "query2": "families discussing finances",
+      "chips": [
+        {
+          "t": "INVEST FOR FUTURE",
+          "on": "invest",
+          "style": "accent"
+        }
+      ],
+      "punch": "legacy"
+    },
+    {
+      "role": "fact",
+      "text": "They teach financial literacy to their children, ensuring smart money habits continue.",
+      "query": "children learning about finance",
+      "query2": "kids studying with parents",
+      "chips": [
+        {
+          "t": "TEACH FINANCE",
+          "on": "literacy",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Generational wealth is built on knowledge and smart planning!",
+      "query": "growing tree representing wealth",
+      "query2": "tree of life",
+      "label": "KNOWLEDGE IS WEALTH",
+      "sub": "plan for future",
+      "label_on": "generational",
+      "punch": "build"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the wealth lessons school skipped.",
+      "query": "successful family life",
+      "query2": "happy family"
+    }
+  ],
+  "description": "Building generational wealth is a smart strategy for lasting financial security. Follow for daily money wisdom!",
+  "hashtags": [
+    "#generationalwealth",
+    "#wealthpreservation",
+    "#financialliteracy",
+    "#shorts",
+    "#fyp"
+  ]
+}
