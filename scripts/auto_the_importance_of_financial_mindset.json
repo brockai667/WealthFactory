@@ -1,0 +1,65 @@
+{
+  "title": "The Importance of Financial Mindset",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Your financial mindset can determine your wealth potential!",
+      "hook_top": "MINDSET IS KEY TO WEALTH",
+      "query": "positive mindset in finance",
+      "query2": "person inspired by finance"
+    },
+    {
+      "role": "fact",
+      "text": "Wealthy individuals cultivate a positive money mindset to attract opportunities.",
+      "query": "person thinking success",
+      "query2": "successful person",
+      "chips": [
+        {
+          "t": "POSITIVE MINDSET",
+          "on": "mindset",
+          "style": "accent"
+        }
+      ],
+      "punch": "success"
+    },
+    {
+      "role": "fact",
+      "text": "They focus on solutions rather than problems, fostering growth.",
+      "query": "team brainstorming solutions",
+      "query2": "group planning session",
+      "chips": [
+        {
+          "t": "SOLUTION FOCUS",
+          "on": "focus",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "A strong financial mindset unlocks potential for success!",
+      "query": "road to success",
+      "query2": "path to success",
+      "label": "EMBRACE A GROWTH MINDSET",
+      "sub": "think positive for wealth",
+      "label_on": "growth",
+      "punch": "unlock"
+    },
+    {
+      "role": "cta",
+      "text": "Follow and your future rich self will thank you.",
+      "query": "people enjoying success",
+      "query2": "celebrating achievements"
+    }
+  ],
+  "description": "A positive financial mindset is crucial for attracting wealth. Follow for daily money wisdom!",
+  "hashtags": [
+    "#financialmindset",
+    "#wealthpotential",
+    "#successmindset",
+    "#shorts",
+    "#fyp"
+  ]
+}

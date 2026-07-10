@@ -3440,5 +3440,273 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "Why Spending Addiction Destroys Wealth",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Spending addiction is a hidden wealth killer.",
+        "hook_top": "SPENDING ADDICTION POVERTY",
+        "query": "shopping addiction",
+        "query2": "person shopping with bags"
+      },
+      {
+        "role": "fact",
+        "text": "The average American credit card debt is significant, often leading to financial struggles.",
+        "query": "credit card bills",
+        "query2": "stack of bills and calculator",
+        "chips": [
+          {
+            "t": "DEBT HINDERS WEALTH",
+            "on": "debt",
+            "style": "accent"
+          }
+        ],
+        "punch": "debt"
+      },
+      {
+        "role": "fact",
+        "text": "Wealthy individuals prioritize saving and investing over unnecessary spending.",
+        "query": "wealthy person investing",
+        "query2": "person looking at investments",
+        "chips": [
+          {
+            "t": "WEALTHY INVEST FIRST",
+            "on": "invest",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Shifting focus from spending to saving is crucial for wealth building.",
+        "query": "saving money concept",
+        "query2": "jar of savings with coins",
+        "label": "SPEND LESS, SAVE MORE",
+        "sub": "wealth building mindset",
+        "label_on": "mindset",
+        "punch": "building"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for daily money habits that actually work.",
+        "query": "motivational quote about saving",
+        "query2": "inspirational landscape"
+      }
+    ],
+    "description": "Spending addiction can sabotage your financial future. Learn the mindset shift needed for wealth building! Follow for daily money wisdom!",
+    "hashtags": [
+      "#money",
+      "#wealthmindset",
+      "#spendingaddiction",
+      "#financialfreedom",
+      "#saving",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "How to Protect Wealth After an Accident",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Accidents can ruin your financial stability in seconds.",
+        "hook_top": "ACCIDENTS CAN RUIN YOU",
+        "query": "car accident scene",
+        "query2": "damaged car"
+      },
+      {
+        "role": "fact",
+        "text": "Many face financial disaster after unexpected events, especially without insurance.",
+        "query": "insurance papers",
+        "query2": "insurance document stack",
+        "chips": [
+          {
+            "t": "INSURANCE IS ESSENTIAL",
+            "on": "insurance",
+            "style": "accent"
+          }
+        ],
+        "punch": "financial"
+      },
+      {
+        "role": "fact",
+        "text": "Establishing an emergency fund can safeguard against sudden expenses.",
+        "query": "emergency fund concept",
+        "query2": "person saving money",
+        "chips": [
+          {
+            "t": "EMERGENCY FUNDS PROTECT",
+            "on": "protect",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Prioritize a safety net to weather financial storms.",
+        "query": "safety net concept",
+        "query2": "net catching falling objects",
+        "label": "CREATE A SAFETY NET",
+        "sub": "prepare for the unexpected",
+        "label_on": "safety",
+        "punch": "weather"
+      },
+      {
+        "role": "cta",
+        "text": "Follow and your future rich self will thank you.",
+        "query": "financial planning meeting",
+        "query2": "people discussing finances"
+      }
+    ],
+    "description": "Accidents can financially derail anyone. Learn how to protect your wealth with smart strategies. Follow for daily money wisdom!",
+    "hashtags": [
+      "#money",
+      "#wealthmindset",
+      "#financialsafety",
+      "#financialfreedom",
+      "#emergencyfund",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "How Trust Issues Can Impact Wealth",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Distrust can keep your money stagnant.",
+        "hook_top": "DON'T LET DISTRACTING TRUST ISSUES RUIN",
+        "query": "person thinking about trust",
+        "query2": "worried person"
+      },
+      {
+        "role": "fact",
+        "text": "Many individuals avoid investments due to a lack of trust in banks and financial institutions.",
+        "query": "person looking at bank",
+        "query2": "bank building",
+        "chips": [
+          {
+            "t": "TRUST IS KEY",
+            "on": "trust",
+            "style": "accent"
+          }
+        ],
+        "punch": "avoid"
+      },
+      {
+        "role": "fact",
+        "text": "Wealthy people diversify assets to mitigate risks and build trust over time.",
+        "query": "diverse investments concept",
+        "query2": "portfolio overview",
+        "chips": [
+          {
+            "t": "DIVERSIFY TO BUILD WEALT",
+            "on": "diversify",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Building trust is essential for financial growth—you have to take calculated risks.",
+        "query": "trust fall concept",
+        "query2": "trust fall exercise",
+        "label": "TRUST TO GROW",
+        "sub": "calculated risks matter",
+        "label_on": "trust",
+        "punch": "grow"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the wealth lessons school skipped.",
+        "query": "financial advisor meeting",
+        "query2": "people discussing investments"
+      }
+    ],
+    "description": "Distrust can significantly impact your financial growth. Learn strategies to build trust for wealth building! Follow for daily money wisdom!",
+    "hashtags": [
+      "#money",
+      "#wealthmindset",
+      "#trustissues",
+      "#financialfreedom",
+      "#investing",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Why Generational Wealth is Built on Mindset",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Mindset is the foundation of generational wealth.",
+        "hook_top": "MINDSET BUILDS WEALTH",
+        "query": "generational wealth concept",
+        "query2": "family with kids"
+      },
+      {
+        "role": "fact",
+        "text": "Focus on long-term thinking and investing creates a pathway for wealth to continue.",
+        "query": "long term investments",
+        "query2": "clock with financial graphs",
+        "chips": [
+          {
+            "t": "LONG-TERM THINKING",
+            "on": "thinking",
+            "style": "accent"
+          }
+        ],
+        "punch": "pathway"
+      },
+      {
+        "role": "fact",
+        "text": "Families that instill financial literacy in their children create a sustainable wealth cycle.",
+        "query": "children learning finance",
+        "query2": "kids reading financial books",
+        "chips": [
+          {
+            "t": "FINANCIAL LITERACY",
+            "on": "literacy",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "A wealth-building mindset is crucial to pass down through generations.",
+        "query": "passing down knowledge",
+        "query2": "older person teaching child",
+        "label": "CULTIVATE WEALTH MINDSET",
+        "sub": "pass it to the next generation",
+        "label_on": "mindset",
+        "punch": "cultivate"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for daily money habits that actually work.",
+        "query": "successful family together",
+        "query2": "happy family bonding"
+      }
+    ],
+    "description": "Generational wealth begins with the right mindset and knowledge. Learn the keys to cultivate wealth for future generations! Follow for daily money wisdom!",
+    "hashtags": [
+      "#money",
+      "#wealthmindset",
+      "#generationalwealth",
+      "#financialliteracy",
+      "#investing",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]

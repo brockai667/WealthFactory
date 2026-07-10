@@ -1,0 +1,65 @@
+{
+  "title": "How Wealthy Manage Their Time",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Time management is a wealth-building skill!",
+      "hook_top": "TIME IS MONEY",
+      "query": "person managing tasks",
+      "query2": "calendar and clock"
+    },
+    {
+      "role": "fact",
+      "text": "Wealthy individuals prioritize their time for maximum productivity.",
+      "query": "successful businesspeople working",
+      "query2": "team collaborating",
+      "chips": [
+        {
+          "t": "PRIORITIZE TIME",
+          "on": "prioritize",
+          "style": "accent"
+        }
+      ],
+      "punch": "productivity"
+    },
+    {
+      "role": "fact",
+      "text": "They delegate tasks effectively to focus on high-value activities.",
+      "query": "team delegating tasks",
+      "query2": "person passing task",
+      "chips": [
+        {
+          "t": "DELEGATE TO GROW",
+          "on": "delegate",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Effective time management creates room for wealth accumulation!",
+      "query": "clock with money symbols",
+      "query2": "time and money concept",
+      "label": "TIME MANAGEMENT MATTERS",
+      "sub": "make your time count",
+      "label_on": "management",
+      "punch": "wealth"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you're done staying broke.",
+      "query": "people being productive",
+      "query2": "busy professionals"
+    }
+  ],
+  "description": "Managing time effectively is key to building wealth. Follow for daily money wisdom!",
+  "hashtags": [
+    "#timemanagement",
+    "#wealthbuilding",
+    "#productivitytips",
+    "#shorts",
+    "#fyp"
+  ]
+}

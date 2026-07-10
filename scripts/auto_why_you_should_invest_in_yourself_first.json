@@ -1,0 +1,65 @@
+{
+  "title": "Why You Should Invest in Yourself First",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Investing in yourself yields the highest returns!",
+      "hook_top": "INVEST IN YOU FIRST",
+      "query": "person studying or learning",
+      "query2": "individual engaged in education"
+    },
+    {
+      "role": "fact",
+      "text": "Wealthy individuals invest in their skills and knowledge to increase earning potential.",
+      "query": "person attending a workshop",
+      "query2": "education session",
+      "chips": [
+        {
+          "t": "SKILLS GROWTH",
+          "on": "skills",
+          "style": "accent"
+        }
+      ],
+      "punch": "growth"
+    },
+    {
+      "role": "fact",
+      "text": "They understand that personal development leads to long-term financial success.",
+      "query": "young professional advancing",
+      "query2": "career progress",
+      "chips": [
+        {
+          "t": "LONG-TERM SUCCESS",
+          "on": "development",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Investing in yourself creates opportunities for financial growth!",
+      "query": "open door to opportunities",
+      "query2": "pathway to success",
+      "label": "OPPORTUNITIES AWAIT",
+      "sub": "invest in your future",
+      "label_on": "invest",
+      "punch": "grow"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the money mindset they don't teach you.",
+      "query": "people learning together",
+      "query2": "collaborative classroom"
+    }
+  ],
+  "description": "Investing in yourself is crucial for financial success. Follow for daily money wisdom!",
+  "hashtags": [
+    "#selfinvestment",
+    "#growthmindset",
+    "#financialsuccess",
+    "#shorts",
+    "#fyp"
+  ]
+}
