@@ -1,0 +1,65 @@
+{
+  "title": "Why People Trust Their Bank Less",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "More people are turning away from traditional banks.",
+      "hook_top": "BANK TRUST DECLINING",
+      "query": "person thinking about bank",
+      "query2": "empty bank lobby"
+    },
+    {
+      "role": "fact",
+      "text": "Many believe banks prioritize profits over customer service and safety.",
+      "query": "bank building exterior",
+      "query2": "frustrated customer at bank",
+      "chips": [
+        {
+          "t": "PROFIT OVER PEOPLE",
+          "on": "prioritize",
+          "style": "accent"
+        }
+      ]
+    },
+    {
+      "role": "fact",
+      "text": "Alternative financial services are on the rise, offering more flexibility.",
+      "query": "alternative payment options graphic",
+      "query2": "user-friendly app interface",
+      "chips": [
+        {
+          "t": "ALTERNATIVE SERVICES",
+          "on": "rise",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Trust is priceless; choose wisely where you store your wealth.",
+      "query": "person examining options",
+      "query2": "stacking money coins",
+      "label": "CHOOSING BANKS WISELY",
+      "sub": "trust is key",
+      "label_on": "trust",
+      "punch": "priceless"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you're done staying broke.",
+      "query": "confident person researching",
+      "query2": "money growth concepts"
+    }
+  ],
+  "description": "Trust in banks is eroding as people seek better options. Understand the shift and choose wisely. Follow for financial insights!",
+  "hashtags": [
+    "#banking",
+    "#financialindependence",
+    "#wealthmindset",
+    "#financialliteracy",
+    "#shorts",
+    "#fyp"
+  ]
+}

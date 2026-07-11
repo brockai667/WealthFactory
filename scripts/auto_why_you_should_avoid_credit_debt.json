@@ -1,0 +1,66 @@
+{
+  "title": "Why You Should Avoid Credit Debt",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Credit card debt is a trap that keeps you poor.",
+      "hook_top": "AVOID CREDIT DEBT",
+      "query": "credit card debt pile",
+      "query2": "stressed person with bills"
+    },
+    {
+      "role": "fact",
+      "text": "Carrying high credit card debt can cost you hundreds in interest each year.",
+      "query": "person paying bills calculator",
+      "query2": "money falling coins",
+      "chips": [
+        {
+          "t": "HIGH INTEREST COSTS",
+          "on": "can cost",
+          "style": "accent"
+        }
+      ]
+    },
+    {
+      "role": "fact",
+      "text": "Debt can restrict your ability to invest in assets that grow wealth.",
+      "query": "broken chain representing debt",
+      "query2": "wealthy person counting money",
+      "chips": [
+        {
+          "t": "INVEST IN ASSETS",
+          "on": "invest",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Debt is a thief. It steals your freedom and opportunities.",
+      "query": "person in chains representing debt",
+      "query2": "open road freedom concept",
+      "label": "DEBT STEALS FREEDOM",
+      "sub": "don't let it win",
+      "label_on": "thief",
+      "punch": "steals"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the wealth lessons school skipped.",
+      "query": "happy person celebrating",
+      "query2": "person with money in hand"
+    }
+  ],
+  "description": "Credit debt can trap you in a cycle of financial stress. Learn how to avoid it and empower your wealth journey. Follow for daily money wisdom!",
+  "hashtags": [
+    "#money",
+    "#debtfree",
+    "#financialfreedom",
+    "#moneytips",
+    "#wealthmindset",
+    "#shorts",
+    "#fyp"
+  ]
+}

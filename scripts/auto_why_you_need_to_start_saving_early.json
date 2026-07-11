@@ -1,0 +1,66 @@
+{
+  "title": "Why You Need to Start Saving Early",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Starting to save early is crucial for financial security!",
+      "hook_top": "START SAVING EARLY",
+      "query": "young person saving money",
+      "query2": "piggy bank and coins"
+    },
+    {
+      "role": "fact",
+      "text": "The earlier you save, the more you benefit from compound interest.",
+      "query": "graph showing compound interest",
+      "query2": "person smiling with investment",
+      "chips": [
+        {
+          "t": "COMPOUND INTEREST MAGIC",
+          "on": "benefit",
+          "style": "accent"
+        }
+      ]
+    },
+    {
+      "role": "fact",
+      "text": "Even small amounts can grow significantly over time with consistent savings.",
+      "query": "small savings can grow",
+      "query2": "growing money tree",
+      "chips": [
+        {
+          "t": "SMALL ACTS GROW",
+          "on": "grow",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Every dollar saved today is a step towards future wealth.",
+      "query": "person taking steps toward goals",
+      "query2": "path leading to success",
+      "label": "SAVE FOR A BETTER FUTURE",
+      "sub": "every dollar counts",
+      "label_on": "saved",
+      "punch": "future"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you're done staying broke.",
+      "query": "confident young investor",
+      "query2": "successful savings plan"
+    }
+  ],
+  "description": "Starting to save early can drastically change your financial future. Learn why compound interest is your best friend. Follow for daily money wisdom!",
+  "hashtags": [
+    "#savings",
+    "#financialliteracy",
+    "#wealthmindset",
+    "#compoundinterest",
+    "#moneytips",
+    "#shorts",
+    "#fyp"
+  ]
+}
