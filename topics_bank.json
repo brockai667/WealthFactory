@@ -3708,5 +3708,407 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "Why Most People Live Paycheck to Paycheck",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Many are trapped in a cycle they can't escape.",
+        "hook_top": "PAYCHECK TO PAYCHECK TRAP",
+        "query": "person counting coins",
+        "query2": "empty wallet close up"
+      },
+      {
+        "role": "fact",
+        "text": "Most people prioritize short-term spending over long-term savings.",
+        "query": "shopping bags overflowing",
+        "query2": "person looking stressed with bills",
+        "chips": [
+          {
+            "t": "SHORT-TERM FOCUS",
+            "on": "prioritize",
+            "style": "accent"
+          }
+        ],
+        "punch": "savings"
+      },
+      {
+        "role": "fact",
+        "text": "Wealthy individuals create budgets to manage their expenses and savings.",
+        "query": "person writing budget",
+        "query2": "calculator and notepad",
+        "chips": [
+          {
+            "t": "BUDGETING IS KEY",
+            "on": "create",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Your financial health starts with planning, not just earning.",
+        "query": "calendar with money",
+        "query2": "hands stacking coins",
+        "label": "PLAN FOR WEALTH",
+        "sub": "financial health requires planning",
+        "label_on": "planning",
+        "punch": "earning"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the money mindset they don't teach you.",
+        "query": "person looking at sunset",
+        "query2": "open road horizon"
+      }
+    ],
+    "description": "Break the cycle of living paycheck to paycheck by prioritizing budgeting and planning. Follow for daily money wisdom!",
+    "hashtags": [
+      "#money",
+      "#wealthmindset",
+      "#saving",
+      "#financialfreedom",
+      "#budgeting",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Myth Behind Shopaholic Spending",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Shopping addiction isn't just about splurging; it can destroy lives.",
+        "hook_top": "SHOPPING ADDICTION IMPACT",
+        "query": "shopping frenzy",
+        "query2": "person overwhelmed with bags"
+      },
+      {
+        "role": "fact",
+        "text": "Many shopaholics are actually coping with deeper emotional issues.",
+        "query": "person looking sad while shopping",
+        "query2": "empty store with sale signs",
+        "chips": [
+          {
+            "t": "EMOTIONAL SPENDING",
+            "on": "coping",
+            "style": "accent"
+          }
+        ],
+        "punch": "deeper"
+      },
+      {
+        "role": "fact",
+        "text": "Discussing financial habits openly can help address spending issues.",
+        "query": "group talking finances",
+        "query2": "people sitting in circle",
+        "chips": [
+          {
+            "t": "COMMUNITY SUPPORT",
+            "on": "discussing",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Recognizing triggers is the first step to overcoming addiction.",
+        "query": "person reflecting in mirror",
+        "query2": "thoughtful person standing alone",
+        "label": "RECOGNIZE TRIGGERS",
+        "sub": "awareness is key",
+        "label_on": "triggers",
+        "punch": "overcoming"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the money mindset they don't teach you.",
+        "query": "happy person outdoors",
+        "query2": "bright sunny landscape"
+      }
+    ],
+    "description": "Understanding the emotional underpinnings of shopping addiction can help foster healthier financial habits. Follow for daily money wisdom!",
+    "hashtags": [
+      "#money",
+      "#wealthmindset",
+      "#shopaholic",
+      "#financialwellness",
+      "#selfawareness",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Is Your Credit Card Holding You Back?",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Credit card debt can trap you in a cycle of financial stress.",
+        "hook_top": "CREDIT CARD CYCLE",
+        "query": "person stressed with credit cards",
+        "query2": "overwhelmed bills on table"
+      },
+      {
+        "role": "fact",
+        "text": "High credit card debt can significantly impact your credit score and options.",
+        "query": "credit score report",
+        "query2": "calculator analyzing credit",
+        "chips": [
+          {
+            "t": "DEBT IMPACTS SCORE",
+            "on": "debt",
+            "style": "accent"
+          }
+        ],
+        "punch": "options"
+      },
+      {
+        "role": "fact",
+        "text": "Wealthy people avoid credit card debt by spending within their means.",
+        "query": "person using cash",
+        "query2": "coins in hand",
+        "chips": [
+          {
+            "t": "SPEND WITHIN MEANS",
+            "on": "avoid",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Control your spending habits before they control you.",
+        "query": "person sealing envelope",
+        "query2": "hands locking safe",
+        "label": "CONTROL YOUR HABITS",
+        "sub": "tutorial on self-control",
+        "label_on": "control",
+        "punch": "spending"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if you're done staying broke.",
+        "query": "person looking hopeful",
+        "query2": "sunrise over cityscape"
+      }
+    ],
+    "description": "Credit card debt can lead to financial distress. Learn to manage your spending habits wisely. Follow for daily money wisdom!",
+    "hashtags": [
+      "#money",
+      "#wealthmindset",
+      "#creditcard",
+      "#financialfreedom",
+      "#spendinghabits",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Why Every Family Should Discuss Finances?",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Discussing money can strengthen family bonds and financial literacy.",
+        "hook_top": "FINANCE DISCUSSIONS MATTER",
+        "query": "family sitting at table",
+        "query2": "children learning from parents"
+      },
+      {
+        "role": "fact",
+        "text": "Families that communicate about finances tend to make better financial decisions.",
+        "query": "happy family budgeting",
+        "query2": "family looking at computer together",
+        "chips": [
+          {
+            "t": "BETTER DECISIONS",
+            "on": "communicate",
+            "style": "accent"
+          }
+        ],
+        "punch": "decisions"
+      },
+      {
+        "role": "fact",
+        "text": "Open discussions can reduce financial anxiety and stress among family members.",
+        "query": "family talking openly",
+        "query2": "family playing board games",
+        "chips": [
+          {
+            "t": "REDUCE ANXIETY",
+            "on": "discussions",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Financial transparency builds trust within families.",
+        "query": "family smiling together",
+        "query2": "family enjoying meal",
+        "label": "BUILD TRUST",
+        "sub": "financial transparency matters",
+        "label_on": "transparency",
+        "punch": "trust"
+      },
+      {
+        "role": "cta",
+        "text": "Follow and your future rich self will thank you.",
+        "query": "family walking together",
+        "query2": "smiling family in nature"
+      }
+    ],
+    "description": "Discussing finances openly can enhance trust and understanding among family members. Follow for daily money wisdom!",
+    "hashtags": [
+      "#money",
+      "#wealthmindset",
+      "#families",
+      "#financialliteracy",
+      "#communication",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Why Saving for Healthcare is Crucial",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Healthcare costs are rising, and savings are essential to avoid disaster.",
+        "hook_top": "SAVE FOR HEALTHCARE NOW",
+        "query": "medical bills being paid",
+        "query2": "hospital bills piling up"
+      },
+      {
+        "role": "fact",
+        "text": "Most families underestimate the amount they need to save for healthcare emergencies.",
+        "query": "family in hospital waiting",
+        "query2": "doctor reviewing patient file",
+        "chips": [
+          {
+            "t": "UNDERSTIMATED COSTS",
+            "on": "underestimate",
+            "style": "accent"
+          }
+        ],
+        "punch": "emergencies"
+      },
+      {
+        "role": "fact",
+        "text": "Wealthy individuals often allocate funds specifically for health-related expenses.",
+        "query": "savings jar labeled healthcare",
+        "query2": "person organizing savings",
+        "chips": [
+          {
+            "t": "ALLOCATE FUNDS",
+            "on": "allocate",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Your health is your wealth; prioritize savings for it.",
+        "query": "person exercising outdoors",
+        "query2": "healthy food choices",
+        "label": "HEALTH IS WEALTH",
+        "sub": "prioritize your savings",
+        "label_on": "health",
+        "punch": "prioritize"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for daily money habits that actually work.",
+        "query": "family enjoying picnic",
+        "query2": "healthy lifestyle activities"
+      }
+    ],
+    "description": "Saving for healthcare is crucial to protect your family's financial future. Follow for daily money wisdom!",
+    "hashtags": [
+      "#money",
+      "#wealthmindset",
+      "#healthcare",
+      "#financialplanning",
+      "#saving",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Why Generational Wealth Requires Education",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Generational wealth isn’t just about money; it’s about education.",
+        "hook_top": "EDUCATION IS WEALTH",
+        "query": "students learning in class",
+        "query2": "family reading together"
+      },
+      {
+        "role": "fact",
+        "text": "Wealthy families often emphasize education as a path to sustainable success.",
+        "query": "graduate throwing cap",
+        "query2": "students celebrating",
+        "chips": [
+          {
+            "t": "EMPHASIZE EDUCATION",
+            "on": "education",
+            "style": "accent"
+          }
+        ],
+        "punch": "success"
+      },
+      {
+        "role": "fact",
+        "text": "Financial literacy education can empower future generations to make wise choices.",
+        "query": "family discussing finances",
+        "query2": "children learning about money",
+        "chips": [
+          {
+            "t": "EMPOWER FUTURES",
+            "on": "empower",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Invest in knowledge to build lasting wealth for your family.",
+        "query": "books and savings",
+        "query2": "person reading financial books",
+        "label": "INVEST IN KNOWLEDGE",
+        "sub": "the key to generational wealth",
+        "label_on": "knowledge",
+        "punch": "wealth"
+      },
+      {
+        "role": "cta",
+        "text": "Follow and your future rich self will thank you.",
+        "query": "family bonding over books",
+        "query2": "celebration of achievements"
+      }
+    ],
+    "description": "Education is a vital component in building generational wealth. Follow for daily money wisdom!",
+    "hashtags": [
+      "#money",
+      "#wealthmindset",
+      "#generationalwealth",
+      "#education",
+      "#financialfreedom",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]

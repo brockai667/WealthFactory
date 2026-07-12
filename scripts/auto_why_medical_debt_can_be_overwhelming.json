@@ -1,0 +1,65 @@
+{
+  "title": "Why Medical Debt Can Be Overwhelming",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Medical debt can trap you financially like nothing else.",
+      "hook_top": "MEDICAL DEBT TRAP",
+      "query": "person stressed about bills",
+      "query2": "hospital bills piling up"
+    },
+    {
+      "role": "fact",
+      "text": "Unexpected healthcare costs can lead to devastating financial repercussions.",
+      "query": "doctor's bill being paid",
+      "query2": "people discussing financial stress",
+      "chips": [
+        {
+          "t": "DEVASTATING COSTS",
+          "on": "unexpected",
+          "style": "accent"
+        }
+      ]
+    },
+    {
+      "role": "fact",
+      "text": "Many Americans face medical bills that exceed their savings completely.",
+      "query": "person looking at empty wallet",
+      "query2": "calculator showing high medical expenses",
+      "chips": [
+        {
+          "t": "EXCEEDS SAVINGS",
+          "on": "exceed",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Protect yourself by planning ahead for healthcare costs.",
+      "query": "person researching health plans",
+      "query2": "considering health options",
+      "label": "PLAN FOR HEALTH COSTS",
+      "sub": "take control",
+      "label_on": "plan",
+      "punch": "protect"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you're done staying broke.",
+      "query": "confident person managing finances",
+      "query2": "successful budgeting plans"
+    }
+  ],
+  "description": "Medical debt can lead to significant financial hardship if not planned for. Learn how to manage and prevent it. Follow for daily strategies!",
+  "hashtags": [
+    "#medicaldebt",
+    "#financialplanning",
+    "#wealthmindset",
+    "#moneytips",
+    "#shorts",
+    "#fyp"
+  ]
+}

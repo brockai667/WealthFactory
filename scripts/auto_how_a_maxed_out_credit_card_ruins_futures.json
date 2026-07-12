@@ -1,0 +1,67 @@
+{
+  "title": "How a Maxed-Out Credit Card Ruins Futures",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "A maxed-out credit card can haunt your future.",
+      "hook_top": "CREDIT CARD DANGER",
+      "query": "credit card maxed out",
+      "query2": "sad person holding card"
+    },
+    {
+      "role": "fact",
+      "text": "Credit card debt compounding interest can lead to a financial spiral.",
+      "query": "calculator financial debt",
+      "query2": "person looking worried",
+      "chips": [
+        {
+          "t": "DEBT CAN GROW",
+          "on": "debt",
+          "style": "accent"
+        }
+      ],
+      "punch": "spiral"
+    },
+    {
+      "role": "fact",
+      "text": "Most people overlook how quickly payments can become unmanageable.",
+      "query": "busy person in debt",
+      "query2": "person stressed with bills",
+      "chips": [
+        {
+          "t": "UNMANAGEABLE PAYMENTS",
+          "on": "payments",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Avoiding debt starts with education and awareness.",
+      "query": "person reading finance book",
+      "query2": "someone learning",
+      "label": "EDUCATE & AVOID",
+      "sub": "start understanding money",
+      "label_on": "education",
+      "punch": "avoid"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for daily money habits that actually work.",
+      "query": "group of diverse people",
+      "query2": "people discussing finance"
+    }
+  ],
+  "description": "Learn how credit card debt can trip you up for years! Follow for essential money habits!",
+  "hashtags": [
+    "#money",
+    "#debtfreeliving",
+    "#financialliteracy",
+    "#personalfinance",
+    "#wealthmindset",
+    "#shorts",
+    "#fyp"
+  ]
+}

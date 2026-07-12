@@ -1,0 +1,65 @@
+{
+  "title": "What Makes Wealthy People Generationally Rich?",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Generational wealth isn't just about money; it's a mindset!",
+      "hook_top": "GENERATIONAL WEALTH MINDSET",
+      "query": "wealthy family discussing money",
+      "query2": "family generational photo"
+    },
+    {
+      "role": "fact",
+      "text": "Rich families teach their children about financial literacy from a young age.",
+      "query": "child learning finance",
+      "query2": "family reading financial books",
+      "chips": [
+        {
+          "t": "FINANCIAL EDUCATION",
+          "on": "teach",
+          "style": "accent"
+        }
+      ]
+    },
+    {
+      "role": "fact",
+      "text": "Investing early and consistently can help sustain wealth across generations.",
+      "query": "investment strategies over time",
+      "query2": "family celebrating success",
+      "chips": [
+        {
+          "t": "INVEST CONSISTENTLY",
+          "on": "sustain",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "It's about creating habits that last, not just inheriting money.",
+      "query": "habits and routines chart",
+      "query2": "wealth building journey",
+      "label": "BUILD LASTING HABITS",
+      "sub": "create wealth mindset",
+      "label_on": "habits",
+      "punch": "create"
+    },
+    {
+      "role": "cta",
+      "text": "Follow and your future rich self will thank you.",
+      "query": "happy family with property",
+      "query2": "financial planning visuals"
+    }
+  ],
+  "description": "Generational wealth comes from the right mindset and habits, not just money. Learn the principles wealthy families pass on. Follow for daily money wisdom!",
+  "hashtags": [
+    "#generationalwealth",
+    "#financialliteracy",
+    "#wealthmindset",
+    "#moneyhabits",
+    "#shorts",
+    "#fyp"
+  ]
+}
