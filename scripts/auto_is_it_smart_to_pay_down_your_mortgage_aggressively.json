@@ -1,0 +1,67 @@
+{
+  "title": "Is It Smart to Pay Down Your Mortgage Aggressively?",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Aggressively paying down your mortgage can be a double-edged sword.",
+      "hook_top": "MORTGAGE MISTAKES",
+      "query": "person reviewing mortgage",
+      "query2": "mortgage paperwork"
+    },
+    {
+      "role": "fact",
+      "text": "Paying off your mortgage early might reduce your liquidity.",
+      "query": "liquid assets cash",
+      "query2": "money in hand",
+      "chips": [
+        {
+          "t": "LIQUIDITY MATTERS",
+          "on": "liquidity",
+          "style": "accent"
+        }
+      ],
+      "punch": "reduce"
+    },
+    {
+      "role": "fact",
+      "text": "Equity isn't cash, liquid assets are essential for emergencies.",
+      "query": "stacks of cash",
+      "query2": "cash emergency fund",
+      "chips": [
+        {
+          "t": "EQUITY IS NOT CASH",
+          "on": "equity",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Evaluating your financial situation is key before making decisions.",
+      "query": "financial advisor consulting",
+      "query2": "meeting with an advisor",
+      "label": "EVALUATE SMARTLY",
+      "sub": "make informed choices",
+      "label_on": "evaluate",
+      "punch": "choose"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for daily money habits that actually work.",
+      "query": "financial planning discussion",
+      "query2": "group planning finances"
+    }
+  ],
+  "description": "Consider the balance between mortgage payments and liquidity. Follow for essential money strategies!",
+  "hashtags": [
+    "#money",
+    "#mortgage",
+    "#financialliteracy",
+    "#wealthmindset",
+    "#personalfinance",
+    "#shorts",
+    "#fyp"
+  ]
+}

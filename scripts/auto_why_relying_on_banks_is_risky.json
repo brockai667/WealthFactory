@@ -1,0 +1,67 @@
+{
+  "title": "Why Relying on Banks is Risky",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Trusting banks with all your money can backfire.",
+      "hook_top": "BANKS CAN FAIL YOU",
+      "query": "person at bank",
+      "query2": "bank building exterior"
+    },
+    {
+      "role": "fact",
+      "text": "Many people lose savings when relying solely on traditional banks.",
+      "query": "savings bank account",
+      "query2": "money in bank vault",
+      "chips": [
+        {
+          "t": "BANKS ARE NOT SAFE",
+          "on": "banks",
+          "style": "accent"
+        }
+      ],
+      "punch": "lose"
+    },
+    {
+      "role": "fact",
+      "text": "Diversifying your savings can safeguard your financial future.",
+      "query": "various financial instruments",
+      "query2": "money diversifying",
+      "chips": [
+        {
+          "t": "DIVERSIFY YOUR SAVINGS",
+          "on": "savings",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "A balanced approach to savings can minimize risks.",
+      "query": "person planning finances",
+      "query2": "individual budget planning",
+      "label": "BALANCED SAVINGS",
+      "sub": "minimize your risks",
+      "label_on": "balance",
+      "punch": "minimize"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you're done staying broke.",
+      "query": "people brainstorming",
+      "query2": "team discussing finances"
+    }
+  ],
+  "description": "Learn why it's crucial to diversify beyond banks. Follow for savvy money strategies!",
+  "hashtags": [
+    "#money",
+    "#financialfreedom",
+    "#savings",
+    "#wealthmindset",
+    "#personalfinance",
+    "#shorts",
+    "#fyp"
+  ]
+}

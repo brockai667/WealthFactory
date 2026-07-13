@@ -1,0 +1,67 @@
+{
+  "title": "The Hidden Costs of Financing a Car",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Financing a car can lead to heaps of hidden costs.",
+      "hook_top": "CAR FINANCING DANGER",
+      "query": "person buying car",
+      "query2": "car dealership"
+    },
+    {
+      "role": "fact",
+      "text": "Interest rates on financed cars can inflate the total cost significantly.",
+      "query": "calculating car cost",
+      "query2": "financial calculator close-up",
+      "chips": [
+        {
+          "t": "INFLATED COSTS",
+          "on": "inflate",
+          "style": "accent"
+        }
+      ],
+      "punch": "significantly"
+    },
+    {
+      "role": "fact",
+      "text": "Many overlook added fees like insurance and depreciation.",
+      "query": "car losing value",
+      "query2": "depreciation graph",
+      "chips": [
+        {
+          "t": "ADDED FEES MATTER",
+          "on": "fees",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Researching total ownership costs can save you money.",
+      "query": "person researching",
+      "query2": "person calculating costs",
+      "label": "RESEARCH COSTS",
+      "sub": "avoid hidden surprises",
+      "label_on": "research",
+      "punch": "save"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the wealth lessons school skipped.",
+      "query": "diverse group discussing",
+      "query2": "people brainstorming finances"
+    }
+  ],
+  "description": "Explore how financing a car can lead to unexpected costs. Follow for more smart financial tips!",
+  "hashtags": [
+    "#money",
+    "#carfinancing",
+    "#financialliteracy",
+    "#wealthmindset",
+    "#personalfinance",
+    "#shorts",
+    "#fyp"
+  ]
+}
