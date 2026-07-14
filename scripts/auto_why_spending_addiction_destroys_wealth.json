@@ -1,0 +1,67 @@
+{
+  "title": "Why Spending Addiction Destroys Wealth",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Spending addiction is a hidden wealth killer.",
+      "hook_top": "SPENDING ADDICTION POVERTY",
+      "query": "shopping addiction",
+      "query2": "person shopping with bags"
+    },
+    {
+      "role": "fact",
+      "text": "The average American credit card debt is significant, often leading to financial struggles.",
+      "query": "credit card bills",
+      "query2": "stack of bills and calculator",
+      "chips": [
+        {
+          "t": "DEBT HINDERS WEALTH",
+          "on": "debt",
+          "style": "accent"
+        }
+      ],
+      "punch": "debt"
+    },
+    {
+      "role": "fact",
+      "text": "Wealthy individuals prioritize saving and investing over unnecessary spending.",
+      "query": "wealthy person investing",
+      "query2": "person looking at investments",
+      "chips": [
+        {
+          "t": "WEALTHY INVEST FIRST",
+          "on": "invest",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Shifting focus from spending to saving is crucial for wealth building.",
+      "query": "saving money concept",
+      "query2": "jar of savings with coins",
+      "label": "SPEND LESS, SAVE MORE",
+      "sub": "wealth building mindset",
+      "label_on": "mindset",
+      "punch": "building"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for daily money habits that actually work.",
+      "query": "motivational quote about saving",
+      "query2": "inspirational landscape"
+    }
+  ],
+  "description": "Spending addiction can sabotage your financial future. Learn the mindset shift needed for wealth building! Follow for daily money wisdom!",
+  "hashtags": [
+    "#money",
+    "#wealthmindset",
+    "#spendingaddiction",
+    "#financialfreedom",
+    "#saving",
+    "#shorts",
+    "#fyp"
+  ]
+}

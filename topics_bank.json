@@ -4110,5 +4110,206 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "Can You Afford Not to Save for Retirement?",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Retirement may feel far away, but can you afford to ignore it?",
+        "hook_top": "RETIREMENT IS CRUCIAL",
+        "query": "older couple planning retirement",
+        "query2": "retirement planning"
+      },
+      {
+        "role": "fact",
+        "text": "Most retirees rely on fixed income, making savings essential to maintain a lifestyle.",
+        "query": "retired couple enjoying life",
+        "query2": "happy seniors",
+        "chips": [
+          {
+            "t": "FIXED INCOME REQUIRES SA",
+            "on": "fixed income",
+            "style": "accent"
+          }
+        ],
+        "punch": "lifestyle"
+      },
+      {
+        "role": "fact",
+        "text": "Wealthy individuals start saving for retirement early to benefit from compound interest.",
+        "query": "time-lapse of growing savings",
+        "query2": "investment growth graph",
+        "chips": [
+          {
+            "t": "SAVINGS EARLY PAY OFF",
+            "on": "early",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Start saving today, even a little. It adds up over time.",
+        "query": "coins dropping into piggy bank",
+        "query2": "piggy bank accumulation",
+        "label": "SAVE TODAY",
+        "sub": "even small amounts matter",
+        "label_on": "save",
+        "punch": "add up"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the money mindset they don't teach you.",
+        "query": "happy retiree with family",
+        "query2": "family time together"
+      }
+    ],
+    "description": "Retirement is crucial for your financial future. Start saving today to ensure the lifestyle you desire tomorrow. Follow for daily money wisdom!",
+    "hashtags": [
+      "#retirementsavings",
+      "#wealthmindset",
+      "#financialfreedom",
+      "#savings",
+      "#moneytips",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "What It Means to Have a Financial Safety Net",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Do you have a financial safety net? Here's why it matters.",
+        "hook_top": "FINANCIAL SAFETY MATTERS",
+        "query": "net safety symbol",
+        "query2": "protective net"
+      },
+      {
+        "role": "fact",
+        "text": "A safety net can prevent financial ruin during unexpected life events, like job loss.",
+        "query": "person looking for jobs",
+        "query2": "job search",
+        "chips": [
+          {
+            "t": "PREVENT FINANCIAL RUIN",
+            "on": "prevent",
+            "style": "accent"
+          }
+        ],
+        "punch": "loss"
+      },
+      {
+        "role": "fact",
+        "text": "Wealthy individuals often have multiple safety nets to ensure financial security.",
+        "query": "wealthy person with advisors",
+        "query2": "financial advisors meeting",
+        "chips": [
+          {
+            "t": "MULTIPLE SAFETY NETS",
+            "on": "multiple",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Assess and build your safety net now. It's your financial cushion.",
+        "query": "cushion on chair",
+        "query2": "cushion collection",
+        "label": "BUILD YOUR CUSHION",
+        "sub": "financial protection matters",
+        "label_on": "cushion",
+        "punch": "cushion"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if you're done staying broke.",
+        "query": "resilient business person",
+        "query2": "confident entrepreneur"
+      }
+    ],
+    "description": "A financial safety net protects you from unexpected events. Assess and build yours today for peace of mind. Follow for daily money wisdom!",
+    "hashtags": [
+      "#financialsafetynet",
+      "#wealthmindset",
+      "#financialfreedom",
+      "#moneytips",
+      "#financialresilience",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Is Your Family Discussing Finances Enough?",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Are family discussions about money common in your home?",
+        "hook_top": "FAMILY MONEY TALKS",
+        "query": "family discussing finances",
+        "query2": "family meeting"
+      },
+      {
+        "role": "fact",
+        "text": "Families that communicate about finances tend to manage money better together.",
+        "query": "family budgeting together",
+        "query2": "budget planning",
+        "chips": [
+          {
+            "t": "COMMUNICATION BUILDS WEA",
+            "on": "communication",
+            "style": "accent"
+          }
+        ],
+        "punch": "wealth"
+      },
+      {
+        "role": "fact",
+        "text": "Wealthy families regularly discuss money management and goals to stay aligned.",
+        "query": "wealthy family enjoying vacation",
+        "query2": "wealthy family time",
+        "chips": [
+          {
+            "t": "REGULAR DISCUSSIONS",
+            "on": "discussions",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Initiate these conversations. They can lead to better financial outcomes.",
+        "query": "family talking happily",
+        "query2": "happy family interactions",
+        "label": "START THE CONVERSATION",
+        "sub": "better financial outcomes",
+        "label_on": "conversation",
+        "punch": "outcomes"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the money mindset they don't teach you.",
+        "query": "family enjoying dinner together",
+        "query2": "family bonding"
+      }
+    ],
+    "description": "Family discussions about finances lead to better management and alignment. Start talking for a brighter financial future. Follow for daily money wisdom!",
+    "hashtags": [
+      "#familyfinances",
+      "#wealthmindset",
+      "#financialfreedom",
+      "#moneytalks",
+      "#familycommunication",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]

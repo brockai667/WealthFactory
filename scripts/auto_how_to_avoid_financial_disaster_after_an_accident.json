@@ -1,0 +1,67 @@
+{
+  "title": "How to Avoid Financial Disaster After an Accident",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Accidents can lead to financial disaster if you're unprepared.",
+      "hook_top": "FINANCIAL DISASTER AHEAD",
+      "query": "car accident scene",
+      "query2": "crashed car"
+    },
+    {
+      "role": "fact",
+      "text": "Unforeseen medical bills can pile up quickly after an accident.",
+      "query": "medical bill stack",
+      "query2": "person looking at bills",
+      "chips": [
+        {
+          "t": "MEDICAL BILLS CAN SOAR",
+          "on": "bills",
+          "style": "accent"
+        }
+      ],
+      "punch": "pile"
+    },
+    {
+      "role": "fact",
+      "text": "Having an emergency fund can protect you from financial strain.",
+      "query": "safe emergency cash",
+      "query2": "money in a jar",
+      "chips": [
+        {
+          "t": "EMERGENCY FUNDS MATTER",
+          "on": "emergency",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Be proactive and plan for the unexpected.",
+      "query": "person planning finances",
+      "query2": "writing a budget",
+      "label": "PLAN AHEAD",
+      "sub": "be ready for anything",
+      "label_on": "plan",
+      "punch": "unexpected"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the money mindset they don't teach you.",
+      "query": "person reviewing budget",
+      "query2": "person checking finance"
+    }
+  ],
+  "description": "Learn how to safeguard your finances after an unforeseen accident. Follow for essential financial tips!",
+  "hashtags": [
+    "#money",
+    "#financialliteracy",
+    "#emergencyfund",
+    "#wealthmindset",
+    "#personalfinance",
+    "#shorts",
+    "#fyp"
+  ]
+}

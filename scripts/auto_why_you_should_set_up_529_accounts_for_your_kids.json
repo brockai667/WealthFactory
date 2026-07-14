@@ -1,0 +1,67 @@
+{
+  "title": "Why You Should Set Up 529 Accounts for Your Kids",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "529 accounts are a smart way to invest in your child's future.",
+      "hook_top": "529 ACCOUNTS BENEFIT",
+      "query": "children education savings",
+      "query2": "children studying"
+    },
+    {
+      "role": "fact",
+      "text": "These accounts offer tax advantages for education savings.",
+      "query": "tax benefits illustration",
+      "query2": "tax saving concept",
+      "chips": [
+        {
+          "t": "TAX ADVANTAGES",
+          "on": "tax",
+          "style": "accent"
+        }
+      ],
+      "punch": "advantages"
+    },
+    {
+      "role": "fact",
+      "text": "Investing early allows the funds to grow over time.",
+      "query": "growth investment graph",
+      "query2": "plant growing",
+      "chips": [
+        {
+          "t": "EARLY GROWTH POTENTIAL",
+          "on": "growth",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Every dollar saved today helps your kids tomorrow.",
+      "query": "parent saving money",
+      "query2": "child holding money piggy bank",
+      "label": "SAVE FOR THEIR FUTURE",
+      "sub": "fund their dreams",
+      "label_on": "save",
+      "punch": "future"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the money mindset they don't teach you.",
+      "query": "happy family together",
+      "query2": "family portrait"
+    }
+  ],
+  "description": "Learn why setting up 529 accounts is crucial for your kids' future. Follow for financial wisdom for families!",
+  "hashtags": [
+    "#money",
+    "#529accounts",
+    "#educationfunding",
+    "#wealthmindset",
+    "#financialliteracy",
+    "#shorts",
+    "#fyp"
+  ]
+}
