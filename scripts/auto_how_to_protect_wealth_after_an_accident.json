@@ -1,0 +1,67 @@
+{
+  "title": "How to Protect Wealth After an Accident",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Accidents can ruin your financial stability in seconds.",
+      "hook_top": "ACCIDENTS CAN RUIN YOU",
+      "query": "car accident scene",
+      "query2": "damaged car"
+    },
+    {
+      "role": "fact",
+      "text": "Many face financial disaster after unexpected events, especially without insurance.",
+      "query": "insurance papers",
+      "query2": "insurance document stack",
+      "chips": [
+        {
+          "t": "INSURANCE IS ESSENTIAL",
+          "on": "insurance",
+          "style": "accent"
+        }
+      ],
+      "punch": "financial"
+    },
+    {
+      "role": "fact",
+      "text": "Establishing an emergency fund can safeguard against sudden expenses.",
+      "query": "emergency fund concept",
+      "query2": "person saving money",
+      "chips": [
+        {
+          "t": "EMERGENCY FUNDS PROTECT",
+          "on": "protect",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Prioritize a safety net to weather financial storms.",
+      "query": "safety net concept",
+      "query2": "net catching falling objects",
+      "label": "CREATE A SAFETY NET",
+      "sub": "prepare for the unexpected",
+      "label_on": "safety",
+      "punch": "weather"
+    },
+    {
+      "role": "cta",
+      "text": "Follow and your future rich self will thank you.",
+      "query": "financial planning meeting",
+      "query2": "people discussing finances"
+    }
+  ],
+  "description": "Accidents can financially derail anyone. Learn how to protect your wealth with smart strategies. Follow for daily money wisdom!",
+  "hashtags": [
+    "#money",
+    "#wealthmindset",
+    "#financialsafety",
+    "#financialfreedom",
+    "#emergencyfund",
+    "#shorts",
+    "#fyp"
+  ]
+}

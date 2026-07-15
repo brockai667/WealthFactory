@@ -1,0 +1,67 @@
+{
+  "title": "How Trust Issues Can Impact Wealth",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Distrust can keep your money stagnant.",
+      "hook_top": "DON'T LET DISTRACTING TRUST ISSUES RUIN",
+      "query": "person thinking about trust",
+      "query2": "worried person"
+    },
+    {
+      "role": "fact",
+      "text": "Many individuals avoid investments due to a lack of trust in banks and financial institutions.",
+      "query": "person looking at bank",
+      "query2": "bank building",
+      "chips": [
+        {
+          "t": "TRUST IS KEY",
+          "on": "trust",
+          "style": "accent"
+        }
+      ],
+      "punch": "avoid"
+    },
+    {
+      "role": "fact",
+      "text": "Wealthy people diversify assets to mitigate risks and build trust over time.",
+      "query": "diverse investments concept",
+      "query2": "portfolio overview",
+      "chips": [
+        {
+          "t": "DIVERSIFY TO BUILD WEALT",
+          "on": "diversify",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Building trust is essential for financial growth—you have to take calculated risks.",
+      "query": "trust fall concept",
+      "query2": "trust fall exercise",
+      "label": "TRUST TO GROW",
+      "sub": "calculated risks matter",
+      "label_on": "trust",
+      "punch": "grow"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the wealth lessons school skipped.",
+      "query": "financial advisor meeting",
+      "query2": "people discussing investments"
+    }
+  ],
+  "description": "Distrust can significantly impact your financial growth. Learn strategies to build trust for wealth building! Follow for daily money wisdom!",
+  "hashtags": [
+    "#money",
+    "#wealthmindset",
+    "#trustissues",
+    "#financialfreedom",
+    "#investing",
+    "#shorts",
+    "#fyp"
+  ]
+}

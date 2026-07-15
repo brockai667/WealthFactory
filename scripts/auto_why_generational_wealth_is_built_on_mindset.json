@@ -1,0 +1,67 @@
+{
+  "title": "Why Generational Wealth is Built on Mindset",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Mindset is the foundation of generational wealth.",
+      "hook_top": "MINDSET BUILDS WEALTH",
+      "query": "generational wealth concept",
+      "query2": "family with kids"
+    },
+    {
+      "role": "fact",
+      "text": "Focus on long-term thinking and investing creates a pathway for wealth to continue.",
+      "query": "long term investments",
+      "query2": "clock with financial graphs",
+      "chips": [
+        {
+          "t": "LONG-TERM THINKING",
+          "on": "thinking",
+          "style": "accent"
+        }
+      ],
+      "punch": "pathway"
+    },
+    {
+      "role": "fact",
+      "text": "Families that instill financial literacy in their children create a sustainable wealth cycle.",
+      "query": "children learning finance",
+      "query2": "kids reading financial books",
+      "chips": [
+        {
+          "t": "FINANCIAL LITERACY",
+          "on": "literacy",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "A wealth-building mindset is crucial to pass down through generations.",
+      "query": "passing down knowledge",
+      "query2": "older person teaching child",
+      "label": "CULTIVATE WEALTH MINDSET",
+      "sub": "pass it to the next generation",
+      "label_on": "mindset",
+      "punch": "cultivate"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for daily money habits that actually work.",
+      "query": "successful family together",
+      "query2": "happy family bonding"
+    }
+  ],
+  "description": "Generational wealth begins with the right mindset and knowledge. Learn the keys to cultivate wealth for future generations! Follow for daily money wisdom!",
+  "hashtags": [
+    "#money",
+    "#wealthmindset",
+    "#generationalwealth",
+    "#financialliteracy",
+    "#investing",
+    "#shorts",
+    "#fyp"
+  ]
+}

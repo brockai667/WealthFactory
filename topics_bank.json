@@ -4311,5 +4311,345 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "Why Shopping Addiction Can Ruin Your Future",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Shopping addiction can derail your financial future.",
+        "hook_top": "SHOPPING ADDICTION RUINS WEALTH",
+        "query": "person shopping credit card",
+        "query2": "shopping mall interior"
+      },
+      {
+        "role": "fact",
+        "text": "People often spend beyond their means to maintain a certain image.",
+        "query": "shopping bags luxury",
+        "query2": "people at checkout",
+        "chips": [
+          {
+            "t": "SPENDING BEYOND MEANS",
+            "on": "spend",
+            "style": "accent"
+          }
+        ],
+        "punch": "image"
+      },
+      {
+        "role": "fact",
+        "text": "Financial stability decreases as your debt from compulsive spending increases.",
+        "query": "debt bills paperwork",
+        "query2": "overwhelmed person at desk",
+        "chips": [
+          {
+            "t": "DEBT AFFECTS STABILITY",
+            "on": "debt",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Recognize the difference between needs and wants.",
+        "query": "needs vs wants concept",
+        "query2": "balancing scales needs wants",
+        "label": "NEEDS VS WANTS",
+        "sub": "know your priorities",
+        "label_on": "needs",
+        "punch": "difference"
+      },
+      {
+        "role": "cta",
+        "text": "Follow and your future rich self will thank you.",
+        "query": "financial advice books",
+        "query2": "person reading finance book"
+      }
+    ],
+    "description": "Shopping addiction can sabotage your financial future. Learn how to distinguish needs from wants. Follow for daily money wisdom!",
+    "hashtags": [
+      "#money",
+      "#wealthmindset",
+      "#shoppingaddiction",
+      "#financialfreedom",
+      "#personaldevelopment",
+      "#financialliteracy",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "How to Fix Your Money Mindset",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Your mindset could be the reason you're not wealthy.",
+        "hook_top": "FIX YOUR MONEY MINDSET",
+        "query": "person thinking financial goals",
+        "query2": "thinking person at desk"
+      },
+      {
+        "role": "fact",
+        "text": "Most people have limiting beliefs about money that hold them back.",
+        "query": "barriers breaking walls",
+        "query2": "person pushing through wall",
+        "chips": [
+          {
+            "t": "LIMITING BELIEFS",
+            "on": "beliefs",
+            "style": "accent"
+          }
+        ],
+        "punch": "back"
+      },
+      {
+        "role": "fact",
+        "text": "Wealthy people view money as a tool for opportunity and growth.",
+        "query": "person receiving money",
+        "query2": "handing over cash",
+        "chips": [
+          {
+            "t": "MONEY AS TOOL",
+            "on": "tool",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Change your thoughts to change your financial reality.",
+        "query": "thoughts becoming reality concept",
+        "query2": "mind manifesting success",
+        "label": "CHANGE YOUR THOUGHTS",
+        "sub": "transform your finances",
+        "label_on": "thoughts",
+        "punch": "reality"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for daily money habits that actually work.",
+        "query": "wealthy lifestyle concept",
+        "query2": "successful city skyline"
+      }
+    ],
+    "description": "Your mindset can be the reason for financial struggles. Learn to change your thoughts for financial success. Follow for daily money wisdom!",
+    "hashtags": [
+      "#money",
+      "#wealthmindset",
+      "#mindsetshift",
+      "#financialsuccess",
+      "#selfimprovement",
+      "#financialliteracy",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Why You Might Be Working Too Hard for Money",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Are you trading time for money too often?",
+        "hook_top": "WORKING HARD FOR MONEY",
+        "query": "person working late",
+        "query2": "office desk at night"
+      },
+      {
+        "role": "fact",
+        "text": "Many struggle with the 9-to-5 mindset and miss opportunities for passive income.",
+        "query": "passive income concept",
+        "query2": "flowing money illustration",
+        "chips": [
+          {
+            "t": "9-TO-5 MINDSET",
+            "on": "mindset",
+            "style": "accent"
+          }
+        ],
+        "punch": "income"
+      },
+      {
+        "role": "fact",
+        "text": "Wealthy people invest time into building assets that earn money for them.",
+        "query": "person investing time",
+        "query2": "investing in stocks",
+        "chips": [
+          {
+            "t": "BUILDING ASSETS",
+            "on": "assets",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Let your money work for you, not the other way around.",
+        "query": "money working concept",
+        "query2": "money machine illustration",
+        "label": "LET MONEY WORK",
+        "sub": "shift your approach",
+        "label_on": "money",
+        "punch": "work"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for daily money habits that actually work.",
+        "query": "successful entrepreneur relaxing",
+        "query2": "entrepreneur on vacation"
+      }
+    ],
+    "description": "Many people work excessively hard for money. Learn how to let your money work for you instead! Follow for daily money wisdom!",
+    "hashtags": [
+      "#money",
+      "#wealthmindset",
+      "#passiveincome",
+      "#financialfreedom",
+      "#entrepreneurship",
+      "#investing",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Do You Feel Behind Financially?",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Feeling behind financially? You're not alone.",
+        "hook_top": "FEELING FINANCIALLY BEHIND",
+        "query": "worried person",
+        "query2": "stressed adult"
+      },
+      {
+        "role": "fact",
+        "text": "Many people feel overwhelmed by financial responsibilities at various stages of life.",
+        "query": "overwhelmed emotions",
+        "query2": "person sitting in despair",
+        "chips": [
+          {
+            "t": "OVERWHELMED BY RESPONSIB",
+            "on": "overwhelmed",
+            "style": "accent"
+          }
+        ],
+        "punch": "overwhelmed"
+      },
+      {
+        "role": "fact",
+        "text": "Awareness and planning can ease financial anxiety.",
+        "query": "financial planning concept",
+        "query2": "planning with calculator",
+        "chips": [
+          {
+            "t": "AWARENESS EASES ANXIETY",
+            "on": "planning",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "It's never too late to take control of your finances.",
+        "query": "person taking control of finances",
+        "query2": "writing a budget",
+        "label": "TAKE CONTROL NOW",
+        "sub": "empower yourself financially",
+        "label_on": "control",
+        "punch": "late"
+      },
+      {
+        "role": "cta",
+        "text": "Follow and your future rich self will thank you.",
+        "query": "person looking hopeful",
+        "query2": "person achieving goals"
+      }
+    ],
+    "description": "Feeling financially behind? Many experience this but awareness can help. Take control of your financial journey! Follow for daily money wisdom!",
+    "hashtags": [
+      "#money",
+      "#wealthmindset",
+      "#financialanxiety",
+      "#selfimprovement",
+      "#financialjourney",
+      "#financialplanning",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Why Kids Need Financial Education",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Are we failing our children financially?",
+        "hook_top": "FINANCIAL EDUCATION FOR KIDS",
+        "query": "child learning about money",
+        "query2": "students in classroom"
+      },
+      {
+        "role": "fact",
+        "text": "Many adults wish they learned about finances in school.",
+        "query": "adult reflecting on lost education",
+        "query2": "nostalgic classroom scene",
+        "chips": [
+          {
+            "t": "ADULTS REGRET FINANCIAL ",
+            "on": "regret",
+            "style": "accent"
+          }
+        ],
+        "punch": "learned"
+      },
+      {
+        "role": "fact",
+        "text": "Financial literacy can set kids up for lifelong success.",
+        "query": "successful young adult",
+        "query2": "group of young professionals",
+        "chips": [
+          {
+            "t": "LIFELONG SUCCESS",
+            "on": "success",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Teaching money management early creates future wealth.",
+        "query": "children saving money",
+        "query2": "kids enjoying financial success",
+        "label": "CREATE FUTURE WEALTH",
+        "sub": "teach kids wisely",
+        "label_on": "teaching",
+        "punch": "wealth"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the money mindset they don't teach you.",
+        "query": "parents educating children",
+        "query2": "family discussing finances"
+      }
+    ],
+    "description": "Are we failing to educate our children about money? Teaching financial literacy can build their wealth. Follow for daily money wisdom!",
+    "hashtags": [
+      "#money",
+      "#wealthmindset",
+      "#financialeducation",
+      "#kidsfinance",
+      "#financialliteracy",
+      "#selfimprovement",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]
