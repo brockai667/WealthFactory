@@ -1,0 +1,67 @@
+{
+  "title": "Why Most People Live Paycheck to Paycheck",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Many are trapped in a cycle they can't escape.",
+      "hook_top": "PAYCHECK TO PAYCHECK TRAP",
+      "query": "person counting coins",
+      "query2": "empty wallet close up"
+    },
+    {
+      "role": "fact",
+      "text": "Most people prioritize short-term spending over long-term savings.",
+      "query": "shopping bags overflowing",
+      "query2": "person looking stressed with bills",
+      "chips": [
+        {
+          "t": "SHORT-TERM FOCUS",
+          "on": "prioritize",
+          "style": "accent"
+        }
+      ],
+      "punch": "savings"
+    },
+    {
+      "role": "fact",
+      "text": "Wealthy individuals create budgets to manage their expenses and savings.",
+      "query": "person writing budget",
+      "query2": "calculator and notepad",
+      "chips": [
+        {
+          "t": "BUDGETING IS KEY",
+          "on": "create",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Your financial health starts with planning, not just earning.",
+      "query": "calendar with money",
+      "query2": "hands stacking coins",
+      "label": "PLAN FOR WEALTH",
+      "sub": "financial health requires planning",
+      "label_on": "planning",
+      "punch": "earning"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the money mindset they don't teach you.",
+      "query": "person looking at sunset",
+      "query2": "open road horizon"
+    }
+  ],
+  "description": "Break the cycle of living paycheck to paycheck by prioritizing budgeting and planning. Follow for daily money wisdom!",
+  "hashtags": [
+    "#money",
+    "#wealthmindset",
+    "#saving",
+    "#financialfreedom",
+    "#budgeting",
+    "#shorts",
+    "#fyp"
+  ]
+}

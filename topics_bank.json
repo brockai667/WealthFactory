@@ -4651,5 +4651,202 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "Why You Need to Teach Kids Money Skills",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Money skills learned young can lead to financial freedom!",
+        "hook_top": "TEACH KIDS MONEY SKILLS",
+        "query": "children learning finance",
+        "query2": "kids counting coins"
+      },
+      {
+        "role": "fact",
+        "text": "Studies show that financial education increases future wealth and financial stability.",
+        "query": "financial literacy classes",
+        "query2": "young adults studying finance",
+        "chips": [
+          {
+            "t": "FINANCIAL EDUCATION",
+            "on": "education",
+            "style": "accent"
+          }
+        ]
+      },
+      {
+        "role": "fact",
+        "text": "Wealthy families prioritize teaching kids about budgeting, saving, and investing.",
+        "query": "family budgeting together",
+        "query2": "parents teaching kids money",
+        "chips": [
+          {
+            "t": "BUDGETING SKILLS",
+            "on": "budgeting",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Financial literacy today means security tomorrow.",
+        "query": "children with piggy banks",
+        "query2": "children planning finances",
+        "label": "SECURITY COMES WITH KNOWLEDGE",
+        "sub": "financial literacy = freedom",
+        "label_on": "literacy",
+        "punch": "security"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if you're done staying broke.",
+        "query": "happy family discussing finance",
+        "query2": "family enjoying time together"
+      }
+    ],
+    "description": "Teaching kids about money ensures a brighter financial future. Invest in their financial literacy today! Follow for daily money wisdom!",
+    "hashtags": [
+      "#financialliteracy",
+      "#moneytips",
+      "#familyfinance",
+      "#wealthmindset",
+      "#moneyhabits",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "How to Plant the Seeds of Wealth Early",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Every dollar spent today is a future seed planted.",
+        "hook_top": "PLANT SEEDS OF WEALTH",
+        "query": "planting seeds money",
+        "query2": "growing money plant"
+      },
+      {
+        "role": "fact",
+        "text": "Compounding interest can turn small investments into huge returns over time.",
+        "query": "compounding interest graphic",
+        "query2": "graph showing growth",
+        "chips": [
+          {
+            "t": "COMPOUNDING INTEREST",
+            "on": "interest",
+            "style": "accent"
+          }
+        ]
+      },
+      {
+        "role": "fact",
+        "text": "Wealthy individuals often begin investing smaller amounts, allowing them to grow over time.",
+        "query": "person investing small amounts",
+        "query2": "young investor planning",
+        "chips": [
+          {
+            "t": "START SMALL",
+            "on": "investing",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Investing early not only grows wealth but builds financial habits.",
+        "query": "person planting money",
+        "query2": "money growing plant",
+        "label": "EARLY INVESTMENTS COUNT",
+        "sub": "habits lead to wealth",
+        "label_on": "investments",
+        "punch": "grows"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the money mindset they don't teach you.",
+        "query": "wealthy lifestyle",
+        "query2": "prosperous living"
+      }
+    ],
+    "description": "Starting to invest early can have profound impacts on your financial future. Follow for daily money wisdom!",
+    "hashtags": [
+      "#investing",
+      "#wealthcreation",
+      "#financialfreedom",
+      "#shorts",
+      "#fyp",
+      "#moneyhabits"
+    ]
+  },
+  {
+    "title": "Why Most People Miss Financial Opportunities",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "The biggest risk is not taking any risk at all!",
+        "hook_top": "MISSED OPPORTUNITIES",
+        "query": "person looking confused about finance",
+        "query2": "worried person with bills"
+      },
+      {
+        "role": "fact",
+        "text": "According to studies, 70% of people fear taking financial risks, missing out on gains.",
+        "query": "people discussing investment opportunities",
+        "query2": "investment meeting",
+        "chips": [
+          {
+            "t": "TAKING RISKS",
+            "on": "risk",
+            "style": "accent"
+          }
+        ]
+      },
+      {
+        "role": "fact",
+        "text": "Wealthy individuals often take calculated risks to access greater opportunities.",
+        "query": "successful investor making decisions",
+        "query2": "wealthy discussion",
+        "chips": [
+          {
+            "t": "CALCULATED RISKS",
+            "on": "risks",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Seize opportunities by evaluating rewards and risks smartly.",
+        "query": "person analyzing stock market",
+        "query2": "investor at computer",
+        "label": "EVALUATE RISKS SMARTLY",
+        "sub": "consider before dismissing",
+        "label_on": "evaluate",
+        "punch": "rewards"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the wealth lessons school skipped.",
+        "query": "successful people celebrating",
+        "query2": "wealthy people networking"
+      }
+    ],
+    "description": "Understanding risk is key to seizing financial opportunities. Don’t miss out on growth! Follow for daily money wisdom!",
+    "hashtags": [
+      "#financialrisk",
+      "#opportunity",
+      "#wealthmindset",
+      "#moneyhabits",
+      "#investmenttips",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]

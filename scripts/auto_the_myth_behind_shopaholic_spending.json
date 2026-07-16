@@ -1,0 +1,67 @@
+{
+  "title": "The Myth Behind Shopaholic Spending",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Shopping addiction isn't just about splurging; it can destroy lives.",
+      "hook_top": "SHOPPING ADDICTION IMPACT",
+      "query": "shopping frenzy",
+      "query2": "person overwhelmed with bags"
+    },
+    {
+      "role": "fact",
+      "text": "Many shopaholics are actually coping with deeper emotional issues.",
+      "query": "person looking sad while shopping",
+      "query2": "empty store with sale signs",
+      "chips": [
+        {
+          "t": "EMOTIONAL SPENDING",
+          "on": "coping",
+          "style": "accent"
+        }
+      ],
+      "punch": "deeper"
+    },
+    {
+      "role": "fact",
+      "text": "Discussing financial habits openly can help address spending issues.",
+      "query": "group talking finances",
+      "query2": "people sitting in circle",
+      "chips": [
+        {
+          "t": "COMMUNITY SUPPORT",
+          "on": "discussing",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Recognizing triggers is the first step to overcoming addiction.",
+      "query": "person reflecting in mirror",
+      "query2": "thoughtful person standing alone",
+      "label": "RECOGNIZE TRIGGERS",
+      "sub": "awareness is key",
+      "label_on": "triggers",
+      "punch": "overcoming"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the money mindset they don't teach you.",
+      "query": "happy person outdoors",
+      "query2": "bright sunny landscape"
+    }
+  ],
+  "description": "Understanding the emotional underpinnings of shopping addiction can help foster healthier financial habits. Follow for daily money wisdom!",
+  "hashtags": [
+    "#money",
+    "#wealthmindset",
+    "#shopaholic",
+    "#financialwellness",
+    "#selfawareness",
+    "#shorts",
+    "#fyp"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Is Your Credit Card Holding You Back?",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Credit card debt can trap you in a cycle of financial stress.",
+      "hook_top": "CREDIT CARD CYCLE",
+      "query": "person stressed with credit cards",
+      "query2": "overwhelmed bills on table"
+    },
+    {
+      "role": "fact",
+      "text": "High credit card debt can significantly impact your credit score and options.",
+      "query": "credit score report",
+      "query2": "calculator analyzing credit",
+      "chips": [
+        {
+          "t": "DEBT IMPACTS SCORE",
+          "on": "debt",
+          "style": "accent"
+        }
+      ],
+      "punch": "options"
+    },
+    {
+      "role": "fact",
+      "text": "Wealthy people avoid credit card debt by spending within their means.",
+      "query": "person using cash",
+      "query2": "coins in hand",
+      "chips": [
+        {
+          "t": "SPEND WITHIN MEANS",
+          "on": "avoid",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Control your spending habits before they control you.",
+      "query": "person sealing envelope",
+      "query2": "hands locking safe",
+      "label": "CONTROL YOUR HABITS",
+      "sub": "tutorial on self-control",
+      "label_on": "control",
+      "punch": "spending"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you're done staying broke.",
+      "query": "person looking hopeful",
+      "query2": "sunrise over cityscape"
+    }
+  ],
+  "description": "Credit card debt can lead to financial distress. Learn to manage your spending habits wisely. Follow for daily money wisdom!",
+  "hashtags": [
+    "#money",
+    "#wealthmindset",
+    "#creditcard",
+    "#financialfreedom",
+    "#spendinghabits",
+    "#shorts",
+    "#fyp"
+  ]
+}
