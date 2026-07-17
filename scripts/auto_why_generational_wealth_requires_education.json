@@ -1,0 +1,67 @@
+{
+  "title": "Why Generational Wealth Requires Education",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Generational wealth isn’t just about money; it’s about education.",
+      "hook_top": "EDUCATION IS WEALTH",
+      "query": "students learning in class",
+      "query2": "family reading together"
+    },
+    {
+      "role": "fact",
+      "text": "Wealthy families often emphasize education as a path to sustainable success.",
+      "query": "graduate throwing cap",
+      "query2": "students celebrating",
+      "chips": [
+        {
+          "t": "EMPHASIZE EDUCATION",
+          "on": "education",
+          "style": "accent"
+        }
+      ],
+      "punch": "success"
+    },
+    {
+      "role": "fact",
+      "text": "Financial literacy education can empower future generations to make wise choices.",
+      "query": "family discussing finances",
+      "query2": "children learning about money",
+      "chips": [
+        {
+          "t": "EMPOWER FUTURES",
+          "on": "empower",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Invest in knowledge to build lasting wealth for your family.",
+      "query": "books and savings",
+      "query2": "person reading financial books",
+      "label": "INVEST IN KNOWLEDGE",
+      "sub": "the key to generational wealth",
+      "label_on": "knowledge",
+      "punch": "wealth"
+    },
+    {
+      "role": "cta",
+      "text": "Follow and your future rich self will thank you.",
+      "query": "family bonding over books",
+      "query2": "celebration of achievements"
+    }
+  ],
+  "description": "Education is a vital component in building generational wealth. Follow for daily money wisdom!",
+  "hashtags": [
+    "#money",
+    "#wealthmindset",
+    "#generationalwealth",
+    "#education",
+    "#financialfreedom",
+    "#shorts",
+    "#fyp"
+  ]
+}

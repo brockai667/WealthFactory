@@ -4848,5 +4848,206 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "Why Your Money Habits Matter",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Your money habits can make or break your future.",
+        "hook_top": "YOUR HABITS SHAPE WEALTH",
+        "query": "money habits transformation",
+        "query2": "successful person thinking"
+      },
+      {
+        "role": "fact",
+        "text": "Wealthy individuals continuously invest in their financial education and personal growth.",
+        "query": "person reading finance book",
+        "query2": "person attending seminar",
+        "chips": [
+          {
+            "t": "EDUCATION IS KEY",
+            "on": "personal growth",
+            "style": "accent"
+          }
+        ],
+        "punch": "invest"
+      },
+      {
+        "role": "fact",
+        "text": "Procrastination is the enemy of wealth. Action today leads to wealth tomorrow.",
+        "query": "person taking action",
+        "query2": "calendar pages flipping",
+        "chips": [
+          {
+            "t": "ACTION OVER DELAY",
+            "on": "procrastination",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Your regular habits define your financial path. Mind your daily choices!",
+        "query": "daily habits checklist",
+        "query2": "person meditating",
+        "label": "MINDFUL MONEY HABITS",
+        "sub": "every choice counts!",
+        "label_on": "habits",
+        "punch": "define"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for daily money habits that actually work.",
+        "query": "wealthy person enjoying life",
+        "query2": "person overlooking city skyline"
+      }
+    ],
+    "description": "The habits you cultivate today determine your financial future. Follow for daily money wisdom!",
+    "hashtags": [
+      "#moneyhabits",
+      "#financialeducation",
+      "#wealthmindset",
+      "#personalgrowth",
+      "#mindfulness",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Are You Missing the Money Secret?",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Feeling like everyone knows a financial secret you don’t?",
+        "hook_top": "MISSING THE MONEY SECRET",
+        "query": "people discussing finances",
+        "query2": "people sharing ideas"
+      },
+      {
+        "role": "fact",
+        "text": "Most people underestimate the power of compounding. It can turn a small investment into a fortune over time.",
+        "query": "compounding interest chart",
+        "query2": "time lapse of growing plant",
+        "chips": [
+          {
+            "t": "COMPOUNDING IS POWERFUL",
+            "on": "compounding",
+            "style": "accent"
+          }
+        ],
+        "punch": "fortunes"
+      },
+      {
+        "role": "fact",
+        "text": "Wealthy individuals focus on playing the long game. Patience pays off.",
+        "query": "puzzle pieces connecting",
+        "query2": "long road ahead",
+        "chips": [
+          {
+            "t": "LONG GAME WINS",
+            "on": "patience",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Understanding compounding is a crucial step toward financial success. Are you in?",
+        "query": "compounding money graphic",
+        "query2": "hands counting coins",
+        "label": "UNDERSTAND COMPOUNDING",
+        "sub": "the secret to wealth!",
+        "label_on": "compounding",
+        "punch": "step"
+      },
+      {
+        "role": "cta",
+        "text": "Follow and your future rich self will thank you.",
+        "query": "person with calculator working",
+        "query2": "person smiling with money"
+      }
+    ],
+    "description": "Discover the often-overlooked secret of compounding wealth. Follow for daily money wisdom!",
+    "hashtags": [
+      "#compounding",
+      "#financialsecret",
+      "#wealthbuilding",
+      "#patience",
+      "#financialliteracy",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Your Future Self Needs You",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Are you underestimating your future self's needs?",
+        "hook_top": "FUTURE SELF MATTERS",
+        "query": "person looking into mirror",
+        "query2": "thoughtful person"
+      },
+      {
+        "role": "fact",
+        "text": "Many people fail to save for retirement, impacting their future lifestyle and happiness.",
+        "query": "retirement savings",
+        "query2": "old couple enjoying retirement",
+        "chips": [
+          {
+            "t": "SAVE FOR RETIREMENT",
+            "on": "retirement",
+            "style": "accent"
+          }
+        ],
+        "punch": "impact"
+      },
+      {
+        "role": "fact",
+        "text": "Allocating even a small amount today can lead to significant growth over time.",
+        "query": "coins stacking up",
+        "query2": "time lapse of plant growing",
+        "chips": [
+          {
+            "t": "SMALL AMOUNTS COUNT",
+            "on": "allocation",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Your future self will benefit from the choices you make today. Invest wisely!",
+        "query": "future self concept",
+        "query2": "person dreaming about future",
+        "label": "INVEST FOR TOMORROW",
+        "sub": "your future matters!",
+        "label_on": "future",
+        "punch": "benefit"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the wealth lessons school skipped.",
+        "query": "wealthy person enjoying nature",
+        "query2": "person with financial planner"
+      }
+    ],
+    "description": "Think about your future self and make the right financial choices today. Follow for daily money wisdom!",
+    "hashtags": [
+      "#futureplanning",
+      "#retirementfund",
+      "#moneygrowth",
+      "#longtermthinking",
+      "#wealthmindset",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]

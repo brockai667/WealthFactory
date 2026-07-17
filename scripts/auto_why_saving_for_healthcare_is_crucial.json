@@ -1,0 +1,67 @@
+{
+  "title": "Why Saving for Healthcare is Crucial",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Healthcare costs are rising, and savings are essential to avoid disaster.",
+      "hook_top": "SAVE FOR HEALTHCARE NOW",
+      "query": "medical bills being paid",
+      "query2": "hospital bills piling up"
+    },
+    {
+      "role": "fact",
+      "text": "Most families underestimate the amount they need to save for healthcare emergencies.",
+      "query": "family in hospital waiting",
+      "query2": "doctor reviewing patient file",
+      "chips": [
+        {
+          "t": "UNDERSTIMATED COSTS",
+          "on": "underestimate",
+          "style": "accent"
+        }
+      ],
+      "punch": "emergencies"
+    },
+    {
+      "role": "fact",
+      "text": "Wealthy individuals often allocate funds specifically for health-related expenses.",
+      "query": "savings jar labeled healthcare",
+      "query2": "person organizing savings",
+      "chips": [
+        {
+          "t": "ALLOCATE FUNDS",
+          "on": "allocate",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Your health is your wealth; prioritize savings for it.",
+      "query": "person exercising outdoors",
+      "query2": "healthy food choices",
+      "label": "HEALTH IS WEALTH",
+      "sub": "prioritize your savings",
+      "label_on": "health",
+      "punch": "prioritize"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for daily money habits that actually work.",
+      "query": "family enjoying picnic",
+      "query2": "healthy lifestyle activities"
+    }
+  ],
+  "description": "Saving for healthcare is crucial to protect your family's financial future. Follow for daily money wisdom!",
+  "hashtags": [
+    "#money",
+    "#wealthmindset",
+    "#healthcare",
+    "#financialplanning",
+    "#saving",
+    "#shorts",
+    "#fyp"
+  ]
+}

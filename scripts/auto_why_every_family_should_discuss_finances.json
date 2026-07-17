@@ -1,0 +1,67 @@
+{
+  "title": "Why Every Family Should Discuss Finances?",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Discussing money can strengthen family bonds and financial literacy.",
+      "hook_top": "FINANCE DISCUSSIONS MATTER",
+      "query": "family sitting at table",
+      "query2": "children learning from parents"
+    },
+    {
+      "role": "fact",
+      "text": "Families that communicate about finances tend to make better financial decisions.",
+      "query": "happy family budgeting",
+      "query2": "family looking at computer together",
+      "chips": [
+        {
+          "t": "BETTER DECISIONS",
+          "on": "communicate",
+          "style": "accent"
+        }
+      ],
+      "punch": "decisions"
+    },
+    {
+      "role": "fact",
+      "text": "Open discussions can reduce financial anxiety and stress among family members.",
+      "query": "family talking openly",
+      "query2": "family playing board games",
+      "chips": [
+        {
+          "t": "REDUCE ANXIETY",
+          "on": "discussions",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Financial transparency builds trust within families.",
+      "query": "family smiling together",
+      "query2": "family enjoying meal",
+      "label": "BUILD TRUST",
+      "sub": "financial transparency matters",
+      "label_on": "transparency",
+      "punch": "trust"
+    },
+    {
+      "role": "cta",
+      "text": "Follow and your future rich self will thank you.",
+      "query": "family walking together",
+      "query2": "smiling family in nature"
+    }
+  ],
+  "description": "Discussing finances openly can enhance trust and understanding among family members. Follow for daily money wisdom!",
+  "hashtags": [
+    "#money",
+    "#wealthmindset",
+    "#families",
+    "#financialliteracy",
+    "#communication",
+    "#shorts",
+    "#fyp"
+  ]
+}
