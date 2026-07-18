@@ -1,0 +1,67 @@
+{
+  "title": "Is Your Family Discussing Finances Enough?",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Are family discussions about money common in your home?",
+      "hook_top": "FAMILY MONEY TALKS",
+      "query": "family discussing finances",
+      "query2": "family meeting"
+    },
+    {
+      "role": "fact",
+      "text": "Families that communicate about finances tend to manage money better together.",
+      "query": "family budgeting together",
+      "query2": "budget planning",
+      "chips": [
+        {
+          "t": "COMMUNICATION BUILDS WEA",
+          "on": "communication",
+          "style": "accent"
+        }
+      ],
+      "punch": "wealth"
+    },
+    {
+      "role": "fact",
+      "text": "Wealthy families regularly discuss money management and goals to stay aligned.",
+      "query": "wealthy family enjoying vacation",
+      "query2": "wealthy family time",
+      "chips": [
+        {
+          "t": "REGULAR DISCUSSIONS",
+          "on": "discussions",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Initiate these conversations. They can lead to better financial outcomes.",
+      "query": "family talking happily",
+      "query2": "happy family interactions",
+      "label": "START THE CONVERSATION",
+      "sub": "better financial outcomes",
+      "label_on": "conversation",
+      "punch": "outcomes"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the money mindset they don't teach you.",
+      "query": "family enjoying dinner together",
+      "query2": "family bonding"
+    }
+  ],
+  "description": "Family discussions about finances lead to better management and alignment. Start talking for a brighter financial future. Follow for daily money wisdom!",
+  "hashtags": [
+    "#familyfinances",
+    "#wealthmindset",
+    "#financialfreedom",
+    "#moneytalks",
+    "#familycommunication",
+    "#shorts",
+    "#fyp"
+  ]
+}

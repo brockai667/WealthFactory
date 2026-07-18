@@ -5049,5 +5049,206 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "The Mistake Young Adults Make with Money",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Young adults often overlook this crucial financial step.",
+        "hook_top": "DON'T MISS THIS STEP",
+        "query": "young adults budgeting",
+        "query2": "college students planning"
+      },
+      {
+        "role": "fact",
+        "text": "Failing to budget can lead to overspending and debt in early adulthood.",
+        "query": "person budgeting",
+        "query2": "calculator with bills",
+        "chips": [
+          {
+            "t": "BUDGETING IS KEY",
+            "on": "budgeting",
+            "style": "accent"
+          }
+        ],
+        "punch": "overspending"
+      },
+      {
+        "role": "fact",
+        "text": "Creating a budget can help young adults manage expenses and save for future goals.",
+        "query": "savings plan",
+        "query2": "saving money jar",
+        "chips": [
+          {
+            "t": "SAVE FOR GOALS",
+            "on": "save",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Budgeting is not restricting; it's empowering!",
+        "query": "empowered budgeting",
+        "query2": "happy person saving",
+        "label": "BUDGET WITH CONFIDENCE",
+        "sub": "take control of your money",
+        "label_on": "budgeting",
+        "punch": "empowering"
+      },
+      {
+        "role": "cta",
+        "text": "Follow and your future rich self will thank you.",
+        "query": "financial advice",
+        "query2": "happy young adult"
+      }
+    ],
+    "description": "Don't overlook budgeting as a young adult! It's essential for managing your money effectively. Follow for more financial insights that matter!",
+    "hashtags": [
+      "#budgeting",
+      "#financialliteracy",
+      "#youngadults",
+      "#moneytips",
+      "#wealthcreation",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Why Every Dollar Counts in Wealth Building",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Every dollar saved today counts towards your future wealth.",
+        "hook_top": "EVERY DOLLAR MATTERS",
+        "query": "dollars stacking",
+        "query2": "coins stacking"
+      },
+      {
+        "role": "fact",
+        "text": "Just saving a little each month can lead to significant growth over time.",
+        "query": "monthly savings growth",
+        "query2": "growing graph",
+        "chips": [
+          {
+            "t": "SAVE MONTHLY",
+            "on": "saving",
+            "style": "accent"
+          }
+        ],
+        "punch": "significant"
+      },
+      {
+        "role": "fact",
+        "text": "The habit of saving creates a strong financial foundation for the future.",
+        "query": "financial foundation",
+        "query2": "house made of money",
+        "chips": [
+          {
+            "t": "FINANCIAL FOUNDATION",
+            "on": "habit",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "A simple dollar can grow into a wealth-building tool.",
+        "query": "money growing",
+        "query2": "money tree",
+        "label": "DOLLARS ARE SEEDS",
+        "sub": "plant them wisely",
+        "label_on": "dollar",
+        "punch": "grow"
+      },
+      {
+        "role": "cta",
+        "text": "Follow and your future rich self will thank you.",
+        "query": "wealth strategies",
+        "query2": "happy people investing"
+      }
+    ],
+    "description": "Every dollar saved today counts towards your future wealth. Join us for timeless wealth-building strategies!",
+    "hashtags": [
+      "#saving",
+      "#wealthbuilding",
+      "#financialliteracy",
+      "#moneygrowth",
+      "#financialfreedom",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Wealth-Building Habit You Need to Start Now",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "What simple habit can turn your finances around?",
+        "hook_top": "START THIS HABIT TODAY",
+        "query": "habit forming money",
+        "query2": "person building habits"
+      },
+      {
+        "role": "fact",
+        "text": "Paying yourself first ensures you save before spending.",
+        "query": "pay yourself first",
+        "query2": "money jar",
+        "chips": [
+          {
+            "t": "PAY YOURSELF FIRST",
+            "on": "pay",
+            "style": "accent"
+          }
+        ],
+        "punch": "save"
+      },
+      {
+        "role": "fact",
+        "text": "Millionaires often save a portion of every paycheck to build wealth.",
+        "query": "wealthy person saving",
+        "query2": "money-saving plan",
+        "chips": [
+          {
+            "t": "SAVING STRATEGY",
+            "on": "portion",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "This habit creates a buffer for unexpected expenses.",
+        "query": "money buffer savings",
+        "query2": "cushion of money",
+        "label": "BUILD YOUR BUFFER",
+        "sub": "prepare for surprises",
+        "label_on": "buffer",
+        "punch": "buffer"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if you're done staying broke.",
+        "query": "money habits",
+        "query2": "financial success"
+      }
+    ],
+    "description": "Paying yourself first is a crucial habit for building wealth. Follow for money habits that lead to financial success!",
+    "hashtags": [
+      "#moneyhabits",
+      "#wealth",
+      "#financialliteracy",
+      "#payyourselffirst",
+      "#finance",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]

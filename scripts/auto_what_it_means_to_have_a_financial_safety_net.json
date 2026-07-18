@@ -1,0 +1,67 @@
+{
+  "title": "What It Means to Have a Financial Safety Net",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Do you have a financial safety net? Here's why it matters.",
+      "hook_top": "FINANCIAL SAFETY MATTERS",
+      "query": "net safety symbol",
+      "query2": "protective net"
+    },
+    {
+      "role": "fact",
+      "text": "A safety net can prevent financial ruin during unexpected life events, like job loss.",
+      "query": "person looking for jobs",
+      "query2": "job search",
+      "chips": [
+        {
+          "t": "PREVENT FINANCIAL RUIN",
+          "on": "prevent",
+          "style": "accent"
+        }
+      ],
+      "punch": "loss"
+    },
+    {
+      "role": "fact",
+      "text": "Wealthy individuals often have multiple safety nets to ensure financial security.",
+      "query": "wealthy person with advisors",
+      "query2": "financial advisors meeting",
+      "chips": [
+        {
+          "t": "MULTIPLE SAFETY NETS",
+          "on": "multiple",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Assess and build your safety net now. It's your financial cushion.",
+      "query": "cushion on chair",
+      "query2": "cushion collection",
+      "label": "BUILD YOUR CUSHION",
+      "sub": "financial protection matters",
+      "label_on": "cushion",
+      "punch": "cushion"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you're done staying broke.",
+      "query": "resilient business person",
+      "query2": "confident entrepreneur"
+    }
+  ],
+  "description": "A financial safety net protects you from unexpected events. Assess and build yours today for peace of mind. Follow for daily money wisdom!",
+  "hashtags": [
+    "#financialsafetynet",
+    "#wealthmindset",
+    "#financialfreedom",
+    "#moneytips",
+    "#financialresilience",
+    "#shorts",
+    "#fyp"
+  ]
+}

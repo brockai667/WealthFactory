@@ -1,0 +1,67 @@
+{
+  "title": "Can You Afford Not to Save for Retirement?",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Retirement may feel far away, but can you afford to ignore it?",
+      "hook_top": "RETIREMENT IS CRUCIAL",
+      "query": "older couple planning retirement",
+      "query2": "retirement planning"
+    },
+    {
+      "role": "fact",
+      "text": "Most retirees rely on fixed income, making savings essential to maintain a lifestyle.",
+      "query": "retired couple enjoying life",
+      "query2": "happy seniors",
+      "chips": [
+        {
+          "t": "FIXED INCOME REQUIRES SA",
+          "on": "fixed income",
+          "style": "accent"
+        }
+      ],
+      "punch": "lifestyle"
+    },
+    {
+      "role": "fact",
+      "text": "Wealthy individuals start saving for retirement early to benefit from compound interest.",
+      "query": "time-lapse of growing savings",
+      "query2": "investment growth graph",
+      "chips": [
+        {
+          "t": "SAVINGS EARLY PAY OFF",
+          "on": "early",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Start saving today, even a little. It adds up over time.",
+      "query": "coins dropping into piggy bank",
+      "query2": "piggy bank accumulation",
+      "label": "SAVE TODAY",
+      "sub": "even small amounts matter",
+      "label_on": "save",
+      "punch": "add up"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the money mindset they don't teach you.",
+      "query": "happy retiree with family",
+      "query2": "family time together"
+    }
+  ],
+  "description": "Retirement is crucial for your financial future. Start saving today to ensure the lifestyle you desire tomorrow. Follow for daily money wisdom!",
+  "hashtags": [
+    "#retirementsavings",
+    "#wealthmindset",
+    "#financialfreedom",
+    "#savings",
+    "#moneytips",
+    "#shorts",
+    "#fyp"
+  ]
+}
