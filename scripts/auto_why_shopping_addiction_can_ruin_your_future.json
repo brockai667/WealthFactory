@@ -1,0 +1,68 @@
+{
+  "title": "Why Shopping Addiction Can Ruin Your Future",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Shopping addiction can derail your financial future.",
+      "hook_top": "SHOPPING ADDICTION RUINS WEALTH",
+      "query": "person shopping credit card",
+      "query2": "shopping mall interior"
+    },
+    {
+      "role": "fact",
+      "text": "People often spend beyond their means to maintain a certain image.",
+      "query": "shopping bags luxury",
+      "query2": "people at checkout",
+      "chips": [
+        {
+          "t": "SPENDING BEYOND MEANS",
+          "on": "spend",
+          "style": "accent"
+        }
+      ],
+      "punch": "image"
+    },
+    {
+      "role": "fact",
+      "text": "Financial stability decreases as your debt from compulsive spending increases.",
+      "query": "debt bills paperwork",
+      "query2": "overwhelmed person at desk",
+      "chips": [
+        {
+          "t": "DEBT AFFECTS STABILITY",
+          "on": "debt",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Recognize the difference between needs and wants.",
+      "query": "needs vs wants concept",
+      "query2": "balancing scales needs wants",
+      "label": "NEEDS VS WANTS",
+      "sub": "know your priorities",
+      "label_on": "needs",
+      "punch": "difference"
+    },
+    {
+      "role": "cta",
+      "text": "Follow and your future rich self will thank you.",
+      "query": "financial advice books",
+      "query2": "person reading finance book"
+    }
+  ],
+  "description": "Shopping addiction can sabotage your financial future. Learn how to distinguish needs from wants. Follow for daily money wisdom!",
+  "hashtags": [
+    "#money",
+    "#wealthmindset",
+    "#shoppingaddiction",
+    "#financialfreedom",
+    "#personaldevelopment",
+    "#financialliteracy",
+    "#shorts",
+    "#fyp"
+  ]
+}

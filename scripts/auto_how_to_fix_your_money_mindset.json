@@ -1,0 +1,68 @@
+{
+  "title": "How to Fix Your Money Mindset",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Your mindset could be the reason you're not wealthy.",
+      "hook_top": "FIX YOUR MONEY MINDSET",
+      "query": "person thinking financial goals",
+      "query2": "thinking person at desk"
+    },
+    {
+      "role": "fact",
+      "text": "Most people have limiting beliefs about money that hold them back.",
+      "query": "barriers breaking walls",
+      "query2": "person pushing through wall",
+      "chips": [
+        {
+          "t": "LIMITING BELIEFS",
+          "on": "beliefs",
+          "style": "accent"
+        }
+      ],
+      "punch": "back"
+    },
+    {
+      "role": "fact",
+      "text": "Wealthy people view money as a tool for opportunity and growth.",
+      "query": "person receiving money",
+      "query2": "handing over cash",
+      "chips": [
+        {
+          "t": "MONEY AS TOOL",
+          "on": "tool",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Change your thoughts to change your financial reality.",
+      "query": "thoughts becoming reality concept",
+      "query2": "mind manifesting success",
+      "label": "CHANGE YOUR THOUGHTS",
+      "sub": "transform your finances",
+      "label_on": "thoughts",
+      "punch": "reality"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for daily money habits that actually work.",
+      "query": "wealthy lifestyle concept",
+      "query2": "successful city skyline"
+    }
+  ],
+  "description": "Your mindset can be the reason for financial struggles. Learn to change your thoughts for financial success. Follow for daily money wisdom!",
+  "hashtags": [
+    "#money",
+    "#wealthmindset",
+    "#mindsetshift",
+    "#financialsuccess",
+    "#selfimprovement",
+    "#financialliteracy",
+    "#shorts",
+    "#fyp"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "title": "Why You Might Be Working Too Hard for Money",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Are you trading time for money too often?",
+      "hook_top": "WORKING HARD FOR MONEY",
+      "query": "person working late",
+      "query2": "office desk at night"
+    },
+    {
+      "role": "fact",
+      "text": "Many struggle with the 9-to-5 mindset and miss opportunities for passive income.",
+      "query": "passive income concept",
+      "query2": "flowing money illustration",
+      "chips": [
+        {
+          "t": "9-TO-5 MINDSET",
+          "on": "mindset",
+          "style": "accent"
+        }
+      ],
+      "punch": "income"
+    },
+    {
+      "role": "fact",
+      "text": "Wealthy people invest time into building assets that earn money for them.",
+      "query": "person investing time",
+      "query2": "investing in stocks",
+      "chips": [
+        {
+          "t": "BUILDING ASSETS",
+          "on": "assets",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Let your money work for you, not the other way around.",
+      "query": "money working concept",
+      "query2": "money machine illustration",
+      "label": "LET MONEY WORK",
+      "sub": "shift your approach",
+      "label_on": "money",
+      "punch": "work"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for daily money habits that actually work.",
+      "query": "successful entrepreneur relaxing",
+      "query2": "entrepreneur on vacation"
+    }
+  ],
+  "description": "Many people work excessively hard for money. Learn how to let your money work for you instead! Follow for daily money wisdom!",
+  "hashtags": [
+    "#money",
+    "#wealthmindset",
+    "#passiveincome",
+    "#financialfreedom",
+    "#entrepreneurship",
+    "#investing",
+    "#shorts",
+    "#fyp"
+  ]
+}

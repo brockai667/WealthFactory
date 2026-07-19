@@ -5250,5 +5250,204 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "Why You Should Save Your Child's Money Wisely",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Saving early can set your child up for life.",
+        "hook_top": "SAVE FOR YOUR CHILD",
+        "query": "child saving money piggy bank",
+        "query2": "happy child counting coins"
+      },
+      {
+        "role": "fact",
+        "text": "Investing money for kids can compound over time, growing their future wealth exponentially.",
+        "query": "compound interest graph",
+        "query2": "money growth visual",
+        "chips": [
+          {
+            "t": "COMPOUND GROWTH",
+            "on": "investing",
+            "style": "accent"
+          }
+        ],
+        "punch": "wealth"
+      },
+      {
+        "role": "fact",
+        "text": "By age 18, a well-managed fund can greatly aid in college costs, reducing debt burdens.",
+        "query": "college student graduation",
+        "query2": "diploma graduation day",
+        "chips": [
+          {
+            "t": "COLLEGE SAVINGS",
+            "on": "fund",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Every dollar counts. Start planting seeds of wealth for your child now.",
+        "query": "planting seeds money",
+        "query2": "plant growing in garden",
+        "label": "PLANT WEALTH SEEDS",
+        "sub": "for a brighter future",
+        "label_on": "seeds",
+        "punch": "future"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the money mindset they don't teach you.",
+        "query": "happy family financial planning",
+        "query2": "family discussing finances"
+      }
+    ],
+    "description": "Set your child up for a financially secure future by saving wisely today. Every dollar can grow! Follow for daily money wisdom!",
+    "hashtags": [
+      "#money",
+      "#financialliteracy",
+      "#savingmoney",
+      "#parenting",
+      "#wealthbuilding",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Secret Behind Wealthy Habits",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Rich people have daily habits that keep them wealthy.",
+        "hook_top": "WEALTHY HABITS REVEALED",
+        "query": "person working at desk",
+        "query2": "successful person organized workspace"
+      },
+      {
+        "role": "fact",
+        "text": "Wealthy individuals often prioritize planning and budgeting their finances each month.",
+        "query": "person budgeting finances",
+        "query2": "calculator and notes",
+        "chips": [
+          {
+            "t": "BUDGETING MATTERS",
+            "on": "planning",
+            "style": "accent"
+          }
+        ],
+        "punch": "finance"
+      },
+      {
+        "role": "fact",
+        "text": "Successful people also invest time in personal development, enhancing their skills regularly.",
+        "query": "person reading educational book",
+        "query2": "library study area",
+        "chips": [
+          {
+            "t": "PERSONAL GROWTH",
+            "on": "development",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Mastering money starts with mastering your habits. Good habits grow wealth.",
+        "query": "growing money tree",
+        "query2": "money sprouting from soil",
+        "label": "MASTER YOUR HABITS",
+        "sub": "wealth begins here",
+        "label_on": "wealth",
+        "punch": "grow"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the money mindset they don't teach you.",
+        "query": "wealthy lifestyle success",
+        "query2": "businessman smiling"
+      }
+    ],
+    "description": "Wealthy habits can make a significant impact on your financial future. Transform your daily routine! Follow for daily money wisdom!",
+    "hashtags": [
+      "#moneyhabits",
+      "#wealth",
+      "#success",
+      "#financialliteracy",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Why Budgeting is Key to Financial Success",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Budgeting can be the key to financial freedom!",
+        "hook_top": "BUDGETING FREEDOM",
+        "query": "person creating budget",
+        "query2": "laptop with financial tools"
+      },
+      {
+        "role": "fact",
+        "text": "Effective budgeting allows you to allocate funds wisely and reduce unnecessary expenses.",
+        "query": "cutting expenses",
+        "query2": "person with scissors",
+        "chips": [
+          {
+            "t": "ALLOCATE FUNDS",
+            "on": "budgeting",
+            "style": "accent"
+          }
+        ],
+        "punch": "reduce"
+      },
+      {
+        "role": "fact",
+        "text": "People who budget are significantly more likely to save money and achieve financial goals.",
+        "query": "successful person with savings",
+        "query2": "savings account visually",
+        "chips": [
+          {
+            "t": "ACHIEVE GOALS",
+            "on": "save",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Your financial destiny is shaped by your budget. Make it work for you!",
+        "query": "person writing budget plan",
+        "query2": "financial planner workspace",
+        "label": "SHAPE YOUR DESTINY",
+        "sub": "through budgeting",
+        "label_on": "budget",
+        "punch": "work"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the wealth lessons school skipped.",
+        "query": "successful individual celebrating",
+        "query2": "happy person achieving goal"
+      }
+    ],
+    "description": "Budgeting is not just about cutting costs; it's about financial empowerment and achieving goals. Follow for daily money wisdom!",
+    "hashtags": [
+      "#budgeting",
+      "#financialsuccess",
+      "#money",
+      "#wealth",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]
