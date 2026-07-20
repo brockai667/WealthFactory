@@ -1,0 +1,68 @@
+{
+  "title": "Do You Feel Behind Financially?",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Feeling behind financially? You're not alone.",
+      "hook_top": "FEELING FINANCIALLY BEHIND",
+      "query": "worried person",
+      "query2": "stressed adult"
+    },
+    {
+      "role": "fact",
+      "text": "Many people feel overwhelmed by financial responsibilities at various stages of life.",
+      "query": "overwhelmed emotions",
+      "query2": "person sitting in despair",
+      "chips": [
+        {
+          "t": "OVERWHELMED BY RESPONSIB",
+          "on": "overwhelmed",
+          "style": "accent"
+        }
+      ],
+      "punch": "overwhelmed"
+    },
+    {
+      "role": "fact",
+      "text": "Awareness and planning can ease financial anxiety.",
+      "query": "financial planning concept",
+      "query2": "planning with calculator",
+      "chips": [
+        {
+          "t": "AWARENESS EASES ANXIETY",
+          "on": "planning",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "It's never too late to take control of your finances.",
+      "query": "person taking control of finances",
+      "query2": "writing a budget",
+      "label": "TAKE CONTROL NOW",
+      "sub": "empower yourself financially",
+      "label_on": "control",
+      "punch": "late"
+    },
+    {
+      "role": "cta",
+      "text": "Follow and your future rich self will thank you.",
+      "query": "person looking hopeful",
+      "query2": "person achieving goals"
+    }
+  ],
+  "description": "Feeling financially behind? Many experience this but awareness can help. Take control of your financial journey! Follow for daily money wisdom!",
+  "hashtags": [
+    "#money",
+    "#wealthmindset",
+    "#financialanxiety",
+    "#selfimprovement",
+    "#financialjourney",
+    "#financialplanning",
+    "#shorts",
+    "#fyp"
+  ]
+}

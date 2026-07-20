@@ -1,0 +1,66 @@
+{
+  "title": "Why You Need to Teach Kids Money Skills",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Money skills learned young can lead to financial freedom!",
+      "hook_top": "TEACH KIDS MONEY SKILLS",
+      "query": "children learning finance",
+      "query2": "kids counting coins"
+    },
+    {
+      "role": "fact",
+      "text": "Studies show that financial education increases future wealth and financial stability.",
+      "query": "financial literacy classes",
+      "query2": "young adults studying finance",
+      "chips": [
+        {
+          "t": "FINANCIAL EDUCATION",
+          "on": "education",
+          "style": "accent"
+        }
+      ]
+    },
+    {
+      "role": "fact",
+      "text": "Wealthy families prioritize teaching kids about budgeting, saving, and investing.",
+      "query": "family budgeting together",
+      "query2": "parents teaching kids money",
+      "chips": [
+        {
+          "t": "BUDGETING SKILLS",
+          "on": "budgeting",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Financial literacy today means security tomorrow.",
+      "query": "children with piggy banks",
+      "query2": "children planning finances",
+      "label": "SECURITY COMES WITH KNOWLEDGE",
+      "sub": "financial literacy = freedom",
+      "label_on": "literacy",
+      "punch": "security"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you're done staying broke.",
+      "query": "happy family discussing finance",
+      "query2": "family enjoying time together"
+    }
+  ],
+  "description": "Teaching kids about money ensures a brighter financial future. Invest in their financial literacy today! Follow for daily money wisdom!",
+  "hashtags": [
+    "#financialliteracy",
+    "#moneytips",
+    "#familyfinance",
+    "#wealthmindset",
+    "#moneyhabits",
+    "#shorts",
+    "#fyp"
+  ]
+}

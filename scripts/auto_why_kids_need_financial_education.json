@@ -1,0 +1,68 @@
+{
+  "title": "Why Kids Need Financial Education",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Are we failing our children financially?",
+      "hook_top": "FINANCIAL EDUCATION FOR KIDS",
+      "query": "child learning about money",
+      "query2": "students in classroom"
+    },
+    {
+      "role": "fact",
+      "text": "Many adults wish they learned about finances in school.",
+      "query": "adult reflecting on lost education",
+      "query2": "nostalgic classroom scene",
+      "chips": [
+        {
+          "t": "ADULTS REGRET FINANCIAL ",
+          "on": "regret",
+          "style": "accent"
+        }
+      ],
+      "punch": "learned"
+    },
+    {
+      "role": "fact",
+      "text": "Financial literacy can set kids up for lifelong success.",
+      "query": "successful young adult",
+      "query2": "group of young professionals",
+      "chips": [
+        {
+          "t": "LIFELONG SUCCESS",
+          "on": "success",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Teaching money management early creates future wealth.",
+      "query": "children saving money",
+      "query2": "kids enjoying financial success",
+      "label": "CREATE FUTURE WEALTH",
+      "sub": "teach kids wisely",
+      "label_on": "teaching",
+      "punch": "wealth"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the money mindset they don't teach you.",
+      "query": "parents educating children",
+      "query2": "family discussing finances"
+    }
+  ],
+  "description": "Are we failing to educate our children about money? Teaching financial literacy can build their wealth. Follow for daily money wisdom!",
+  "hashtags": [
+    "#money",
+    "#wealthmindset",
+    "#financialeducation",
+    "#kidsfinance",
+    "#financialliteracy",
+    "#selfimprovement",
+    "#shorts",
+    "#fyp"
+  ]
+}
