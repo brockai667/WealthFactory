@@ -1,0 +1,66 @@
+{
+  "title": "Why Budgeting is Key to Financial Success",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Budgeting can be the key to financial freedom!",
+      "hook_top": "BUDGETING FREEDOM",
+      "query": "person creating budget",
+      "query2": "laptop with financial tools"
+    },
+    {
+      "role": "fact",
+      "text": "Effective budgeting allows you to allocate funds wisely and reduce unnecessary expenses.",
+      "query": "cutting expenses",
+      "query2": "person with scissors",
+      "chips": [
+        {
+          "t": "ALLOCATE FUNDS",
+          "on": "budgeting",
+          "style": "accent"
+        }
+      ],
+      "punch": "reduce"
+    },
+    {
+      "role": "fact",
+      "text": "People who budget are significantly more likely to save money and achieve financial goals.",
+      "query": "successful person with savings",
+      "query2": "savings account visually",
+      "chips": [
+        {
+          "t": "ACHIEVE GOALS",
+          "on": "save",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Your financial destiny is shaped by your budget. Make it work for you!",
+      "query": "person writing budget plan",
+      "query2": "financial planner workspace",
+      "label": "SHAPE YOUR DESTINY",
+      "sub": "through budgeting",
+      "label_on": "budget",
+      "punch": "work"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the wealth lessons school skipped.",
+      "query": "successful individual celebrating",
+      "query2": "happy person achieving goal"
+    }
+  ],
+  "description": "Budgeting is not just about cutting costs; it's about financial empowerment and achieving goals. Follow for daily money wisdom!",
+  "hashtags": [
+    "#budgeting",
+    "#financialsuccess",
+    "#money",
+    "#wealth",
+    "#shorts",
+    "#fyp"
+  ]
+}
