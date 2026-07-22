@@ -1,0 +1,51 @@
+{
+  "title": "Is Paying Off Debt Always Wise?",
+  "thumb": "DEBT MYTHS",
+  "scenes": [
+    {
+      "text": "People think that paying off all debt is the best financial move.",
+      "hook_top": "CRUSH YOUR DEBT FIRST",
+      "query": "paying off debt beliefs",
+      "query2": "debt repayment strategies",
+      "label": "MYTH",
+      "role": "hook"
+    },
+    {
+      "text": "However, some debts can be strategically leveraged for growth.",
+      "query": "strategic debt use",
+      "query2": "debts for investment",
+      "label": "TRUTH",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Understand the difference between good and bad debt!",
+      "label": "CALLOUT",
+      "sub": "Not all debt is harmful.",
+      "label_on": "TRUTH",
+      "role": "fact",
+      "query": "Is Paying Off Debt Always Wise?",
+      "query2": "cinematic nature landscape",
+      "chips": []
+    },
+    {
+      "text": "Follow for daily money habits that actually work.",
+      "query": "debt management tips",
+      "query2": "wealth building strategies",
+      "label": "CTA",
+      "role": "cta"
+    }
+  ],
+  "description": "Is it true that paying off all debt is the best choice? Let’s explore the reality behind this popular belief and what it means for your finances. Follow us for smart financial strategies.",
+  "hashtags": [
+    "#shorts",
+    "#debttips",
+    "#moneyhabits",
+    "#finance",
+    "#wealth",
+    "#personalfinance",
+    "#financialliteracy"
+  ],
+  "place": "",
+  "country": ""
+}

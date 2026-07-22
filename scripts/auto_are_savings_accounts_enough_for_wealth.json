@@ -1,0 +1,51 @@
+{
+  "title": "Are Savings Accounts Enough for Wealth?",
+  "thumb": "SAVINGS TRUTHS",
+  "scenes": [
+    {
+      "text": "It's commonly thought that a savings account is enough to build wealth.",
+      "hook_top": "SAVE AND BE WEALTHY",
+      "query": "savings account beliefs",
+      "query2": "wealth building strategies",
+      "label": "MYTH",
+      "role": "hook"
+    },
+    {
+      "text": "In truth, merely saving isn't enough; investments are needed for growth.",
+      "query": "importance of investments",
+      "query2": "saving vs. investing",
+      "label": "TRUTH",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Diversifying is crucial for true wealth accumulation!",
+      "label": "CALLOUT",
+      "sub": "Savings alone won't cut it.",
+      "label_on": "TRUTH",
+      "role": "fact",
+      "query": "Are Savings Accounts Enough for Wealth?",
+      "query2": "cinematic nature landscape",
+      "chips": []
+    },
+    {
+      "text": "Follow and your future rich self will thank you.",
+      "query": "investment advice",
+      "query2": "personal finance insights",
+      "label": "CTA",
+      "role": "cta"
+    }
+  ],
+  "description": "Do you think a savings account can build real wealth? Think again! Discover why diversifying your financial strategy is crucial. Follow for more on building wealth.",
+  "hashtags": [
+    "#shorts",
+    "#wealthbuilding",
+    "#savings",
+    "#investment",
+    "#finance",
+    "#personalfinance",
+    "#financialknowledge"
+  ],
+  "place": "",
+  "country": ""
+}

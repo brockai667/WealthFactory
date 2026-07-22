@@ -1,0 +1,51 @@
+{
+  "title": "Why More Money Means More Stress?",
+  "thumb": "WEALTHY TRUTHS",
+  "scenes": [
+    {
+      "text": "Many believe that earning more money leads to fewer financial worries.",
+      "hook_top": "EARN MORE STRESS LESS",
+      "query": "common belief money stress",
+      "query2": "financial stress and money",
+      "label": "MYTH",
+      "role": "hook"
+    },
+    {
+      "text": "In reality, increased income can lead to complex financial challenges.",
+      "query": "facts on high income stress",
+      "query2": "stress from increased income",
+      "label": "TRUTH",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Don't get trapped by the myth of easy living with money!",
+      "label": "CALLOUT",
+      "sub": "Understanding income complexities is key.",
+      "label_on": "TRUTH",
+      "role": "fact",
+      "query": "Why More Money Means More Stress?",
+      "query2": "cinematic nature landscape",
+      "chips": []
+    },
+    {
+      "text": "Follow and your future rich self will thank you.",
+      "query": "personal finance tips",
+      "query2": "money psychology",
+      "label": "CTA",
+      "role": "cta"
+    }
+  ],
+  "description": "Many believe more money equals less stress, but is it true? Discover the reality behind this common myth! Follow us for a deeper dive into money psychology.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#moneytips",
+    "#finance",
+    "#wealth",
+    "#stress",
+    "#personalfinance"
+  ],
+  "place": "",
+  "country": ""
+}
