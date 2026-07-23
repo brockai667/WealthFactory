@@ -2,7 +2,7 @@ name: WealthFactory Daily
 
 on:
   schedule:
-    - cron: "3 20 * * *"   # 01:03 UTC (~03:03 Bratislava) - OBNOVENE 2026-07-05 (kanal je spat)
+    - cron: "2 5 * * *"   # rozhadzane (anti rate-limit GitHub Models)
   workflow_dispatch: {}    # umoznuje rucne spustenie z GitHub UI
 
 permissions:
