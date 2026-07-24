@@ -1,0 +1,51 @@
+{
+  "title": "Is Money Management Just for the Wealthy?",
+  "thumb": "MONEY MINDSET",
+  "scenes": [
+    {
+      "text": "Many believe financial management is only for rich people.",
+      "hook_top": "MONEY MATH FOR RICH ONLY",
+      "query": "money management myths",
+      "query2": "financial literacy for all",
+      "label": "MYTH",
+      "role": "hook"
+    },
+    {
+      "text": "In fact, everyone can benefit from strong money management skills.",
+      "query": "importance of money management",
+      "query2": "financial management for everyone",
+      "label": "TRUTH",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Good money management is a necessity, not a luxury!",
+      "label": "CALLOUT",
+      "sub": "Skills for everyone!",
+      "label_on": "TRUTH",
+      "role": "fact",
+      "query": "Is Money Management Just for the Wealthy?",
+      "query2": "cinematic nature landscape",
+      "chips": []
+    },
+    {
+      "text": "Follow for the money mindset they don't teach you.",
+      "query": "personal finance skills",
+      "query2": "money management tips",
+      "label": "CTA",
+      "role": "cta"
+    }
+  ],
+  "description": "Do you think money management is just for the wealthy? It’s time to bust this myth! Discover why financial management is essential for everyone. Follow for more tips!",
+  "hashtags": [
+    "#shorts",
+    "#moneymanagement",
+    "#financialliteracy",
+    "#finance",
+    "#wealth",
+    "#personalfinance",
+    "#moneyhabits"
+  ],
+  "place": "",
+  "country": ""
+}

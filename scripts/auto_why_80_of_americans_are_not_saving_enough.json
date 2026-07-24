@@ -1,0 +1,54 @@
+{
+  "title": "Why 80% of Americans Are Not Saving Enough",
+  "thumb": "SAVING ISSUES",
+  "scenes": [
+    {
+      "hook_top": "PAYCHECK TO PAYCHECK",
+      "fact": "In 2023, roughly 80% of US adults are struggling to save money.",
+      "chips": [],
+      "query": "2023 US adults paycheck",
+      "query2": "2023 savings statistics",
+      "role": "hook",
+      "text": "80% of Americans live paycheck to paycheck."
+    },
+    {
+      "chips": [
+        {
+          "t": "$1,000 EMERGENCY",
+          "on": "$1,000",
+          "style": "white"
+        }
+      ],
+      "query": "Americans emergency expenses",
+      "query2": "emergency funds statistics",
+      "role": "fact",
+      "text": "Only 39% of Americans can cover a $1,000 emergency expense."
+    },
+    {
+      "label": "Stop the cycle now!",
+      "sub": "Learn to manage your money better.",
+      "label_on": "LACK OF SAVINGS",
+      "query": "cycle of lack of savings",
+      "query2": "money management",
+      "role": "callout",
+      "text": "LACK OF SAVINGS"
+    },
+    {
+      "query": "money tips",
+      "query2": "personal finance advice",
+      "role": "cta",
+      "text": "Follow if you're done staying broke."
+    }
+  ],
+  "description": "A staggering number of Americans are unprepared for financial emergencies. Learn how to improve your saving habits today! Follow us for more tips.",
+  "hashtags": [
+    "#shorts",
+    "#personalfinance",
+    "#savings",
+    "#moneytips",
+    "#financialliteracy",
+    "#wealth"
+  ],
+  "place": "",
+  "country": ""
+}

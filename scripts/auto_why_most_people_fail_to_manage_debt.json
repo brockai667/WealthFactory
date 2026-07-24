@@ -1,0 +1,53 @@
+{
+  "title": "Why Most People Fail to Manage Debt",
+  "thumb": "DEBT MANAGEMENT",
+  "scenes": [
+    {
+      "hook_top": "STUDENT DEBT CRISIS",
+      "fact": "As of 2023, student loan debt totals over $1.7 trillion in the US.",
+      "chips": [],
+      "query": "2023 student loan debt",
+      "query2": "US student debt statistics",
+      "role": "hook",
+      "text": "Over 44 million Americans have student debt."
+    },
+    {
+      "chips": [
+        {
+          "t": "16% INTEREST RATE",
+          "on": "16%",
+          "style": "accent"
+        }
+      ],
+      "query": "average credit card interest rate",
+      "query2": "credit card statistics",
+      "role": "fact",
+      "text": "The average credit card interest rate exceeds 16%."
+    },
+    {
+      "label": "Take control of your finances!",
+      "sub": "Make a plan to pay off debt.",
+      "label_on": "DEBT MISMANAGEMENT",
+      "query": "debt management tips",
+      "query2": "financial planning",
+      "role": "callout",
+      "text": "DEBT MISMANAGEMENT"
+    },
+    {
+      "query": "debt management strategies",
+      "query2": "financial strategies",
+      "role": "cta",
+      "text": "Follow if you're done staying broke."
+    }
+  ],
+  "description": "Debt is a significant hurdle for many, but it doesn't have to be. Discover strategies to regain control of your finances. Don't forget to follow us!",
+  "hashtags": [
+    "#shorts",
+    "#debtmanagement",
+    "#moneytips",
+    "#financialfreedom",
+    "#wealthbuilding"
+  ],
+  "place": "",
+  "country": ""
+}

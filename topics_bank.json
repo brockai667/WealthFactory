@@ -5053,5 +5053,333 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Why 80% of Americans Are Not Saving Enough",
+    "thumb": "SAVING ISSUES",
+    "scenes": [
+      {
+        "hook_top": "PAYCHECK TO PAYCHECK",
+        "fact": "In 2023, roughly 80% of US adults are struggling to save money.",
+        "chips": [],
+        "query": "2023 US adults paycheck",
+        "query2": "2023 savings statistics",
+        "role": "hook",
+        "text": "80% of Americans live paycheck to paycheck."
+      },
+      {
+        "chips": [
+          {
+            "t": "$1,000 EMERGENCY",
+            "on": "$1,000",
+            "style": "white"
+          }
+        ],
+        "query": "Americans emergency expenses",
+        "query2": "emergency funds statistics",
+        "role": "fact",
+        "text": "Only 39% of Americans can cover a $1,000 emergency expense."
+      },
+      {
+        "label": "Stop the cycle now!",
+        "sub": "Learn to manage your money better.",
+        "label_on": "LACK OF SAVINGS",
+        "query": "cycle of lack of savings",
+        "query2": "money management",
+        "role": "callout",
+        "text": "LACK OF SAVINGS"
+      },
+      {
+        "query": "money tips",
+        "query2": "personal finance advice",
+        "role": "cta",
+        "text": "Follow if you're done staying broke."
+      }
+    ],
+    "description": "A staggering number of Americans are unprepared for financial emergencies. Learn how to improve your saving habits today! Follow us for more tips.",
+    "hashtags": [
+      "#shorts",
+      "#personalfinance",
+      "#savings",
+      "#moneytips",
+      "#financialliteracy",
+      "#wealth"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Why Most People Fail to Manage Debt",
+    "thumb": "DEBT MANAGEMENT",
+    "scenes": [
+      {
+        "hook_top": "STUDENT DEBT CRISIS",
+        "fact": "As of 2023, student loan debt totals over $1.7 trillion in the US.",
+        "chips": [],
+        "query": "2023 student loan debt",
+        "query2": "US student debt statistics",
+        "role": "hook",
+        "text": "Over 44 million Americans have student debt."
+      },
+      {
+        "chips": [
+          {
+            "t": "16% INTEREST RATE",
+            "on": "16%",
+            "style": "accent"
+          }
+        ],
+        "query": "average credit card interest rate",
+        "query2": "credit card statistics",
+        "role": "fact",
+        "text": "The average credit card interest rate exceeds 16%."
+      },
+      {
+        "label": "Take control of your finances!",
+        "sub": "Make a plan to pay off debt.",
+        "label_on": "DEBT MISMANAGEMENT",
+        "query": "debt management tips",
+        "query2": "financial planning",
+        "role": "callout",
+        "text": "DEBT MISMANAGEMENT"
+      },
+      {
+        "query": "debt management strategies",
+        "query2": "financial strategies",
+        "role": "cta",
+        "text": "Follow if you're done staying broke."
+      }
+    ],
+    "description": "Debt is a significant hurdle for many, but it doesn't have to be. Discover strategies to regain control of your finances. Don't forget to follow us!",
+    "hashtags": [
+      "#shorts",
+      "#debtmanagement",
+      "#moneytips",
+      "#financialfreedom",
+      "#wealthbuilding"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "The Hidden Cost of Late Payments",
+    "thumb": "LATE PAYMENTS",
+    "scenes": [
+      {
+        "hook_top": "CREDIT SCORE DROP",
+        "fact": "A single late payment can impact your credit score significantly.",
+        "chips": [],
+        "query": "impact of late payments",
+        "query2": "credit score statistics",
+        "role": "hook",
+        "text": "Late payments can drop your credit score by 100 points."
+      },
+      {
+        "chips": [],
+        "query": "higher interest rates credit",
+        "query2": "interest rate effects",
+        "role": "fact",
+        "text": "Consumers may pay thousands in higher interest rates due to poor credit scores."
+      },
+      {
+        "label": "Avoid late payments!",
+        "sub": "Ensure timely payments to protect your score.",
+        "label_on": "COSTLY MISTAKE",
+        "query": "importance of timely payments",
+        "query2": "credit score protection",
+        "role": "callout",
+        "text": "COSTLY MISTAKE!"
+      },
+      {
+        "query": "smart finance tips",
+        "query2": "personal finance strategies",
+        "role": "cta",
+        "text": "Follow for daily money habits that actually work."
+      }
+    ],
+    "description": "Late payments can severely damage your financial health. Learn how to avoid them and safeguard your credit score! Follow us for more insights.",
+    "hashtags": [
+      "#shorts",
+      "#creditrepair",
+      "#moneytips",
+      "#financialliteracy",
+      "#creditmanagement"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "3 Things Wealthy People Avoid at All Costs",
+    "thumb": "AVOID GETTING BROKE",
+    "scenes": [
+      {
+        "hook_top": "AVOID THIS MONEY MISTAKE",
+        "fact": "Over 70% of wealthy people avoid debt specifically.",
+        "chips": [
+          {
+            "t": "70% of wealthy",
+            "on": "wealthy",
+            "style": "white"
+          }
+        ],
+        "query": "wealthy people avoiding debt",
+        "query2": "mistakes wealthy avoid",
+        "role": "hook",
+        "text": "The wealthy avoid this ONE critical mistake."
+      },
+      {
+        "chips": [
+          {
+            "t": "7 income streams",
+            "on": "income streams",
+            "style": "accent"
+          }
+        ],
+        "query": "millionaire income streams",
+        "query2": "how millionaires earn",
+        "role": "fact",
+        "text": "The average millionaire has at least 7 income streams."
+      },
+      {
+        "reveal_top": "RISKY PLAYS NO WEALTH",
+        "query": "risk management investments",
+        "query2": "wealthy investment strategies",
+        "role": "reveal",
+        "text": "They invest wisely, avoiding risky plays."
+      },
+      {
+        "query": "money insights for wealth",
+        "query2": "personal finance tips",
+        "role": "cta",
+        "text": "Follow for the money mindset they don't teach you."
+      }
+    ],
+    "description": "Discover what wealthy individuals consciously avoid to protect their wealth. Learn about smart money management habits! #shorts #fyp #wealth",
+    "hashtags": [
+      "#wealth",
+      "#moneyhabits",
+      "#financialliteracy",
+      "#financialfreedom",
+      "#investing",
+      "#wealthy"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Why Millionaires Don't Use Credit Cards",
+    "thumb": "CREDIT CARD MYTH",
+    "scenes": [
+      {
+        "hook_top": "CREDIT CARDS USE LESS",
+        "fact": "The majority of millionaires pay cash for purchases.",
+        "chips": [
+          {
+            "t": "30%",
+            "on": "30",
+            "style": "white"
+          }
+        ],
+        "query": "millionaires using credit cards",
+        "query2": "credit card habits",
+        "role": "hook",
+        "text": "Only 30% of millionaires use credit cards!"
+      },
+      {
+        "chips": [
+          {
+            "t": "high-interest debt",
+            "on": "debt",
+            "style": "accent"
+          }
+        ],
+        "query": "high-interest debt statistics",
+        "query2": "wealthy avoiding debt",
+        "role": "fact",
+        "text": "High-interest debt is a common wealth destroyer."
+      },
+      {
+        "reveal_top": "ASSETS LIABILITIES",
+        "query": "assets versus liabilities",
+        "query2": "wealth building strategies",
+        "role": "reveal",
+        "text": "They prefer assets over liabilities."
+      },
+      {
+        "query": "financial wisdom tips",
+        "query2": "money advice",
+        "role": "cta",
+        "text": "Follow for the wealth lessons school skipped."
+      }
+    ],
+    "description": "Learn why most millionaires avoid credit cards and focus on what truly builds wealth. Don't miss these tips! #shorts #fyp #finance",
+    "hashtags": [
+      "#millionaires",
+      "#debtfreeliving",
+      "#personalfinance",
+      "#creditcards",
+      "#wealth",
+      "#investing"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "The Shocking Truth About Wealthy Saving Habits",
+    "thumb": "SAVINGS SECRETS",
+    "scenes": [
+      {
+        "hook_top": "WEALTHY SAVING MISTAKES",
+        "fact": "Over 40% of wealthy individuals save at least 20% of their income.",
+        "chips": [
+          {
+            "t": "20% of income",
+            "on": "save",
+            "style": "white"
+          }
+        ],
+        "query": "wealthy saving statistics",
+        "query2": "how much the wealthy save",
+        "role": "hook",
+        "text": "Wealthy people save differently than you think!"
+      },
+      {
+        "chips": [
+          {
+            "t": "automatic savings",
+            "on": "automatic",
+            "style": "accent"
+          }
+        ],
+        "query": "automatic savings strategies",
+        "query2": "saving habits of rich",
+        "role": "fact",
+        "text": "They focus on automatic savings plans."
+      },
+      {
+        "reveal_top": "SAVE FIRST SPEND LATER",
+        "query": "saving before spending",
+        "query2": "wealthy money habits",
+        "role": "reveal",
+        "text": "Most save before they even see the money!"
+      },
+      {
+        "query": "effective saving habits tips",
+        "query2": "money management strategies",
+        "role": "cta",
+        "text": "Follow for daily money habits that actually work."
+      }
+    ],
+    "description": "Uncover how wealthy individuals approach saving and what you can learn from their habits. Start saving smarter! #shorts #fyp #saving",
+    "hashtags": [
+      "#savingmoney",
+      "#wealthyhabits",
+      "#financialsuccess",
+      "#personalfinance",
+      "#budgeting",
+      "#wealth"
+    ],
+    "place": "",
+    "country": ""
   }
 ]
