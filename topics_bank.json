@@ -5381,5 +5381,515 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "3 Financial Mistakes Homebuyers Make",
+    "thumb": "HOME BUYER MISTAKES",
+    "scenes": [
+      {
+        "hook_top": "HOME BUYER FINANCIAL RISKS",
+        "query": "hidden costs of home buying",
+        "query2": "extra expenses in real estate",
+        "count": "1",
+        "num": 1,
+        "label": "OVERLOOKING HIDDEN COSTS",
+        "label_on": "costs",
+        "role": "hook",
+        "text": "Many new homebuyers risk their future finances."
+      },
+      {
+        "num": 2,
+        "label": "LOCKING IN HIGH INTERE",
+        "label_on": "interest rates",
+        "query": "impact of interest rates on mortgages",
+        "query2": "how mortgage rates affect buyers",
+        "role": "count",
+        "text": "2"
+      },
+      {
+        "num": 3,
+        "label": "NOT SHOPPING FOR LOANS",
+        "label_on": "shopping loans",
+        "query": "importance of comparing mortgage lenders",
+        "query2": "how to choose mortgage lender",
+        "role": "count",
+        "text": "3"
+      },
+      {
+        "query": "financial tips for homebuyers",
+        "query2": "best home buying strategies",
+        "role": "cta",
+        "text": "Follow and your future rich self will thank you."
+      }
+    ],
+    "description": "Avoid these costly financial mistakes when purchasing your home! Discover crucial tips to ensure you're making a sound investment. Follow for more money insights!",
+    "hashtags": [
+      "#FinanceTips",
+      "#HomeBuying",
+      "#WealthBuilding",
+      "#MoneyMistakes",
+      "#RealEstate",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "3 Surprising Costs of Aging",
+    "thumb": "AGING COSTS REVEALED",
+    "scenes": [
+      {
+        "hook_top": "SHOCKING AGING EXPENSES",
+        "query": "costs of aging",
+        "query2": "financial impact of aging",
+        "role": "hook",
+        "text": "Aging can be more expensive than you think!"
+      },
+      {
+        "num": 1,
+        "label": "HEALTHCARE EXPENSES SP",
+        "label_on": "healthcare costs",
+        "query": "healthcare costs for seniors",
+        "query2": "elderly health expenses",
+        "role": "count",
+        "text": "1"
+      },
+      {
+        "num": 2,
+        "label": "LONG-TERM CARE INSURAN",
+        "label_on": "insurance costs",
+        "query": "long-term care insurance costs",
+        "query2": "understanding long-term care",
+        "role": "count",
+        "text": "2"
+      },
+      {
+        "num": 3,
+        "label": "HOME ADAPTATIONS NEEDE",
+        "label_on": "home adaptations",
+        "query": "cost of home adaptations for seniors",
+        "query2": "senior home improvements",
+        "role": "count",
+        "text": "3"
+      },
+      {
+        "query": "financial health for seniors",
+        "query2": "money tips for aging adults",
+        "role": "cta",
+        "text": "Follow for the money mindset they don't teach you."
+      }
+    ],
+    "description": "Discover the hidden costs of aging that could impact your finances! Prepare ahead to secure your financial future. Follow us for more insights!",
+    "hashtags": [
+      "#AgingCosts",
+      "#SeniorFinance",
+      "#HealthInsurance",
+      "#WealthManagement",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "3 Signs You Need a Financial Check-Up",
+    "thumb": "FINANCIAL CHECK-UP",
+    "scenes": [
+      {
+        "hook_top": "NEED A FINANCIAL CHECKUP",
+        "query": "financial health check",
+        "query2": "signs of financial trouble",
+        "role": "hook",
+        "text": "Are you financially healthy? Check these signs!"
+      },
+      {
+        "num": 1,
+        "label": "LIVING PAYCHECK TO PAY",
+        "label_on": "paycheck",
+        "query": "living paycheck to paycheck",
+        "query2": "financial struggle signs",
+        "role": "count",
+        "text": "1"
+      },
+      {
+        "num": 2,
+        "label": "RISING DEBT LEVELS",
+        "label_on": "rising debt",
+        "query": "impact of rising debt",
+        "query2": "debt management tips",
+        "role": "count",
+        "text": "2"
+      },
+      {
+        "num": 3,
+        "label": "UNSURE ABOUT RETIREMEN",
+        "label_on": "retirement uncertainty",
+        "query": "retirement planning fear",
+        "query2": "signs of retirement anxiety",
+        "role": "count",
+        "text": "3"
+      },
+      {
+        "query": "financial wellness tips",
+        "query2": "improving financial health",
+        "role": "cta",
+        "text": "Follow for the wealth lessons school skipped."
+      }
+    ],
+    "description": "Identify if it's time for a financial check-up! These warning signs could mean you need to reassess your financial strategy. Follow us for valuable advice!",
+    "hashtags": [
+      "#FinancialHealth",
+      "#MoneyManagement",
+      "#DebtAwareness",
+      "#RetirementPlanning",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "3 Costly Mistakes When Investing",
+    "thumb": "INVESTING MISTAKES",
+    "scenes": [
+      {
+        "hook_top": "COSTLY INVESTING ERRORS",
+        "query": "investing mistakes",
+        "query2": "how to avoid investing errors",
+        "role": "hook",
+        "text": "Investors often make critical errors that cost them."
+      },
+      {
+        "num": 1,
+        "label": "FOLLOWING TRENDS BLIND",
+        "label_on": "trending",
+        "query": "impact of trend investing",
+        "query2": "mistakes in trend following",
+        "role": "count",
+        "text": "1"
+      },
+      {
+        "num": 2,
+        "label": "NOT DIVERSIFYING PORTF",
+        "label_on": "diversification",
+        "query": "importance of portfolio diversification",
+        "query2": "what is portfolio risk",
+        "role": "count",
+        "text": "2"
+      },
+      {
+        "num": 3,
+        "label": "LET EMOTIONS DRIVE DEC",
+        "label_on": "emotions",
+        "query": "impact of emotions on investing",
+        "query2": "how feelings affect investments",
+        "role": "count",
+        "text": "3"
+      },
+      {
+        "query": "investing strategies tips",
+        "query2": "tips for successful investing",
+        "role": "cta",
+        "text": "Follow for the wealth lessons school skipped."
+      }
+    ],
+    "description": "Avoid these costly investment mistakes that many make! Learn how to navigate the market effectively. Follow us for more excellent investing insights!",
+    "hashtags": [
+      "#InvestSmart",
+      "#InvestmentMistakes",
+      "#WealthBuilding",
+      "#MoneyTips",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "3 Hidden Benefits of Budgeting",
+    "thumb": "BUDGETING BENEFITS",
+    "scenes": [
+      {
+        "hook_top": "HIDDEN BUDGETING BENEFITS",
+        "query": "benefits of budgeting",
+        "query2": "why budgeting is important",
+        "role": "hook",
+        "text": "Budgeting offers surprising advantages you might not know!"
+      },
+      {
+        "num": 1,
+        "label": "REDUCES FINANCIAL STRE",
+        "label_on": "financial stress",
+        "query": "budgeting reduces stress",
+        "query2": "how budgeting helps",
+        "role": "count",
+        "text": "1"
+      },
+      {
+        "num": 2,
+        "label": "IMPLORES SMARTER SPEND",
+        "label_on": "smarter spending",
+        "query": "how budgeting improves spending",
+        "query2": "spending habits with a budget",
+        "role": "count",
+        "text": "2"
+      },
+      {
+        "num": 3,
+        "label": "HELPS ACHIEVE FINANCIA",
+        "label_on": "financial goals",
+        "query": "budgeting helps reach financial goals",
+        "query2": "achieving goals through budgeting",
+        "role": "count",
+        "text": "3"
+      },
+      {
+        "query": "starting a budget",
+        "query2": "budgeting tips for beginners",
+        "role": "cta",
+        "text": "Follow if you're done staying broke."
+      }
+    ],
+    "description": "Uncover the benefits of budgeting that go beyond saving money! These hidden advantages can change your financial future. Follow for more insights!",
+    "hashtags": [
+      "#Budgeting",
+      "#FinancialGoals",
+      "#SmartSpending",
+      "#FinanceTips",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "5 Tips to Avoid Money Scams",
+    "thumb": "AVOID MONEY SCAMS",
+    "scenes": [
+      {
+        "hook_top": "40 SCAMMED IN 2023",
+        "fact": "Scams cost Americans around $8.8 billion annually.",
+        "chips": [
+          {
+            "t": "$8.8 BILLION",
+            "on": "scams",
+            "style": "white"
+          }
+        ],
+        "query": "current financial scams 2023",
+        "query2": "money scams statistics 2023",
+        "role": "hook",
+        "text": "40% of adults reported financial scams in 2023."
+      },
+      {
+        "chips": [
+          {
+            "t": "2.2 MILLION REPORTS",
+            "on": "fraud",
+            "style": "accent"
+          }
+        ],
+        "query": "FTC 2022 consumer fraud report",
+        "query2": "FTC consumer fraud statistics",
+        "role": "fact",
+        "text": "The FTC received over 2.2 million consumer fraud reports last year."
+      },
+      {
+        "sub": "Learn to spot fraud before it hits.",
+        "label": "SCAMS CAN HAPPEN TO YOU",
+        "label_on": "scams",
+        "query": "how to spot financial scams",
+        "query2": "identifying scams",
+        "role": "callout",
+        "text": "BE AWARE OF SCAMS!"
+      },
+      {
+        "query": "money safety tips",
+        "query2": "financial safety advice",
+        "role": "cta",
+        "text": "Follow if you're done staying broke."
+      }
+    ],
+    "description": "Avoiding scams is crucial for financial well-being. Discover essential tips to protect your money today! Follow us for more insights.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#financialliteracy",
+      "#moneymanagement",
+      "#scamawareness",
+      "#wealthbuilding"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "The Hidden Costs of Buying a Home",
+    "thumb": "HIDDEN HOME COSTS",
+    "scenes": [
+      {
+        "hook_top": "70 MISS HIDDEN COSTS",
+        "fact": "Homeownership has ongoing costs like maintenance, averaging 1% of the home's value.",
+        "chips": [
+          {
+            "t": "1% OF VALUE",
+            "on": "maintenance",
+            "style": "white"
+          }
+        ],
+        "query": "homeownership ongoing costs",
+        "query2": "costs of owning a home",
+        "role": "hook",
+        "text": "Around 70% of homebuyers forget hidden costs."
+      },
+      {
+        "chips": [
+          {
+            "t": "2-5% CLOSING COSTS",
+            "on": "closing costs",
+            "style": "accent"
+          }
+        ],
+        "query": "closing costs home purchase",
+        "query2": "what are closing costs",
+        "role": "fact",
+        "text": "Closing costs alone can range from 2% to 5% of the home's price."
+      },
+      {
+        "sub": "Plan your budget wisely before buying.",
+        "label": "BUYING A HOME IS EXPENSIVE",
+        "label_on": "real costs",
+        "query": "budgeting for home purchase",
+        "query2": "hidden costs homebuying",
+        "role": "callout",
+        "text": "KNOW THE REAL COSTS!"
+      },
+      {
+        "query": "home buying tips",
+        "query2": "buying a house advice",
+        "role": "cta",
+        "text": "Follow for daily money habits that actually work."
+      }
+    ],
+    "description": "Thinking of buying a home? Know the hidden costs that can catch you off guard. Follow us for more money-smart advice.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#homebuyingtips",
+      "#financetips",
+      "#realestate",
+      "#wealthbuilding"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Investing vs. Savings: Which is Smarter?",
+    "thumb": "INVEST OR SAVE?",
+    "scenes": [
+      {
+        "hook_top": "SAVING OVER INVESTING",
+        "fact": "Savings accounts typically earn 0.05% interest annually.",
+        "chips": [
+          {
+            "t": "0.05% INTEREST",
+            "on": "savings",
+            "style": "white"
+          }
+        ],
+        "query": "savings account interest rates",
+        "query2": "interest rates savings accounts",
+        "role": "hook",
+        "text": "86% of Americans prefer saving over investing."
+      },
+      {
+        "chips": [
+          {
+            "t": "7% AVERAGE RETURN",
+            "on": "stock market",
+            "style": "accent"
+          }
+        ],
+        "query": "historical stock market returns",
+        "query2": "average stock market return",
+        "role": "fact",
+        "text": "The historical average stock market return is about 7% per year."
+      },
+      {
+        "sub": "Is your money working hard enough?",
+        "label": "SAVING OR INVESTING?",
+        "label_on": "money working",
+        "query": "investing vs saving analysis",
+        "query2": "should I invest or save",
+        "role": "callout",
+        "text": "CALCULATE YOUR OPTIONS!"
+      },
+      {
+        "query": "investing advice",
+        "query2": "smart investing tips",
+        "role": "cta",
+        "text": "Follow for the money mindset they don't teach you."
+      }
+    ],
+    "description": "Is saving money really enough? Explore the benefits of investing versus saving to grow your wealth effectively. Follow us for updates.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#investing",
+      "#personalfinance",
+      "#wealthcreation",
+      "#financialliteracy"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Top Habits of Wealthy People",
+    "thumb": "WEALTHY HABITS REVEALED",
+    "scenes": [
+      {
+        "hook_top": "BUDGETING ISN'T FOR ALL",
+        "fact": "A study shows that nearly 60% of millionaires don't use a formal budget. This contradicts common belief.",
+        "chips": [],
+        "punch": "SHOCKING",
+        "query": "millionaires who don't budget",
+        "query2": "wealth habits",
+        "role": "hook",
+        "text": "Only 40% of millionaires keep a budget!"
+      },
+      {
+        "chips": [],
+        "punch": "INSIGHTFUL",
+        "query": "wealthy investing habits",
+        "query2": "money management",
+        "role": "fact",
+        "text": "Wealthy individuals prioritize investing over saving. They allocate about 15% of income to investments."
+      },
+      {
+        "reveal_top": "BUDGETS ARE OUTDATED",
+        "query": "why millionaires skip budgeting",
+        "query2": "wealthy finance strategies",
+        "role": "reveal",
+        "text": "Budgeting isn’t the norm for wealth!"
+      },
+      {
+        "query": "financial advice",
+        "query2": "personal finance tips",
+        "role": "cta",
+        "text": "Follow and your future rich self will thank you."
+      }
+    ],
+    "description": "The habits wealthy people avoid might surprise you! Follow us for more insights on money management.",
+    "hashtags": [
+      "#wealth",
+      "#financialliteracy",
+      "#moneyhabits",
+      "#wealthy",
+      "#personalfinance",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

@@ -1,0 +1,58 @@
+{
+  "title": "3 Things Wealthy People Avoid at All Costs",
+  "thumb": "AVOID GETTING BROKE",
+  "scenes": [
+    {
+      "hook_top": "AVOID THIS MONEY MISTAKE",
+      "fact": "Over 70% of wealthy people avoid debt specifically.",
+      "chips": [
+        {
+          "t": "70% of wealthy",
+          "on": "wealthy",
+          "style": "white"
+        }
+      ],
+      "query": "wealthy people avoiding debt",
+      "query2": "mistakes wealthy avoid",
+      "role": "hook",
+      "text": "The wealthy avoid this ONE critical mistake."
+    },
+    {
+      "chips": [
+        {
+          "t": "7 income streams",
+          "on": "income streams",
+          "style": "accent"
+        }
+      ],
+      "query": "millionaire income streams",
+      "query2": "how millionaires earn",
+      "role": "fact",
+      "text": "The average millionaire has at least 7 income streams."
+    },
+    {
+      "reveal_top": "RISKY PLAYS NO WEALTH",
+      "query": "risk management investments",
+      "query2": "wealthy investment strategies",
+      "role": "reveal",
+      "text": "They invest wisely, avoiding risky plays."
+    },
+    {
+      "query": "money insights for wealth",
+      "query2": "personal finance tips",
+      "role": "cta",
+      "text": "Follow for the money mindset they don't teach you."
+    }
+  ],
+  "description": "Discover what wealthy individuals consciously avoid to protect their wealth. Learn about smart money management habits! #shorts #fyp #wealth",
+  "hashtags": [
+    "#wealth",
+    "#moneyhabits",
+    "#financialliteracy",
+    "#financialfreedom",
+    "#investing",
+    "#wealthy"
+  ],
+  "place": "",
+  "country": ""
+}

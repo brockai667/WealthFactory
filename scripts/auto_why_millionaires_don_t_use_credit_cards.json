@@ -1,0 +1,58 @@
+{
+  "title": "Why Millionaires Don't Use Credit Cards",
+  "thumb": "CREDIT CARD MYTH",
+  "scenes": [
+    {
+      "hook_top": "CREDIT CARDS USE LESS",
+      "fact": "The majority of millionaires pay cash for purchases.",
+      "chips": [
+        {
+          "t": "30%",
+          "on": "30",
+          "style": "white"
+        }
+      ],
+      "query": "millionaires using credit cards",
+      "query2": "credit card habits",
+      "role": "hook",
+      "text": "Only 30% of millionaires use credit cards!"
+    },
+    {
+      "chips": [
+        {
+          "t": "high-interest debt",
+          "on": "debt",
+          "style": "accent"
+        }
+      ],
+      "query": "high-interest debt statistics",
+      "query2": "wealthy avoiding debt",
+      "role": "fact",
+      "text": "High-interest debt is a common wealth destroyer."
+    },
+    {
+      "reveal_top": "ASSETS LIABILITIES",
+      "query": "assets versus liabilities",
+      "query2": "wealth building strategies",
+      "role": "reveal",
+      "text": "They prefer assets over liabilities."
+    },
+    {
+      "query": "financial wisdom tips",
+      "query2": "money advice",
+      "role": "cta",
+      "text": "Follow for the wealth lessons school skipped."
+    }
+  ],
+  "description": "Learn why most millionaires avoid credit cards and focus on what truly builds wealth. Don't miss these tips! #shorts #fyp #finance",
+  "hashtags": [
+    "#millionaires",
+    "#debtfreeliving",
+    "#personalfinance",
+    "#creditcards",
+    "#wealth",
+    "#investing"
+  ],
+  "place": "",
+  "country": ""
+}

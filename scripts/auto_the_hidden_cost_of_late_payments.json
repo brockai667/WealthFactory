@@ -1,0 +1,47 @@
+{
+  "title": "The Hidden Cost of Late Payments",
+  "thumb": "LATE PAYMENTS",
+  "scenes": [
+    {
+      "hook_top": "CREDIT SCORE DROP",
+      "fact": "A single late payment can impact your credit score significantly.",
+      "chips": [],
+      "query": "impact of late payments",
+      "query2": "credit score statistics",
+      "role": "hook",
+      "text": "Late payments can drop your credit score by 100 points."
+    },
+    {
+      "chips": [],
+      "query": "higher interest rates credit",
+      "query2": "interest rate effects",
+      "role": "fact",
+      "text": "Consumers may pay thousands in higher interest rates due to poor credit scores."
+    },
+    {
+      "label": "Avoid late payments!",
+      "sub": "Ensure timely payments to protect your score.",
+      "label_on": "COSTLY MISTAKE",
+      "query": "importance of timely payments",
+      "query2": "credit score protection",
+      "role": "callout",
+      "text": "COSTLY MISTAKE!"
+    },
+    {
+      "query": "smart finance tips",
+      "query2": "personal finance strategies",
+      "role": "cta",
+      "text": "Follow for daily money habits that actually work."
+    }
+  ],
+  "description": "Late payments can severely damage your financial health. Learn how to avoid them and safeguard your credit score! Follow us for more insights.",
+  "hashtags": [
+    "#shorts",
+    "#creditrepair",
+    "#moneytips",
+    "#financialliteracy",
+    "#creditmanagement"
+  ],
+  "place": "",
+  "country": ""
+}
