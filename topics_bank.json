@@ -5891,5 +5891,65 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "The TRUTH About Annuities Revealed",
+    "thumb": "ANNUITY TRUTHS",
+    "scenes": [
+      {
+        "text": "More than 1 in 5 Americans believe annuities are the best retirement investment.",
+        "hook_top": "ANNUITIES NOT AS GOOD AS YOU",
+        "query": "annuities",
+        "query2": "retirement investments",
+        "role": "hook"
+      },
+      {
+        "text": "Many annuities come with fees that can reduce your returns significantly.",
+        "chips": [
+          {
+            "t": "FEES",
+            "on": "fees",
+            "style": "accent"
+          }
+        ],
+        "query": "annuity fees",
+        "query2": "return on annuities",
+        "role": "fact"
+      },
+      {
+        "text": "Investors often overlook that surrender charges can lock them in for years.",
+        "query": "annuity surrender charges",
+        "query2": "what are surrender charges",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "ANNUITIES MAY NOT BE WISE.",
+        "reveal": "THE TRUTH MAY SURPRISE YOU!",
+        "reveal_top": "ANNUITY RISKS EXPOSED!",
+        "query": "annuity risks",
+        "query2": "risks of annuities",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow for the wealth lessons school skipped.",
+        "query": "money management tips",
+        "query2": "personal finance advice",
+        "role": "cta"
+      }
+    ],
+    "description": "Annuities might seem like a safe bet for retirement, but they come with hidden risks and costs. Discover what you need to know before investing! Follow for more financial tips.",
+    "hashtags": [
+      "#finance",
+      "#annuities",
+      "#retirement",
+      "#moneytips",
+      "#fyp",
+      "#shorts",
+      "#wealthbuilding"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

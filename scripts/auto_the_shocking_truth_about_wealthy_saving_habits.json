@@ -1,0 +1,58 @@
+{
+  "title": "The Shocking Truth About Wealthy Saving Habits",
+  "thumb": "SAVINGS SECRETS",
+  "scenes": [
+    {
+      "hook_top": "WEALTHY SAVING MISTAKES",
+      "fact": "Over 40% of wealthy individuals save at least 20% of their income.",
+      "chips": [
+        {
+          "t": "20% of income",
+          "on": "save",
+          "style": "white"
+        }
+      ],
+      "query": "wealthy saving statistics",
+      "query2": "how much the wealthy save",
+      "role": "hook",
+      "text": "Wealthy people save differently than you think!"
+    },
+    {
+      "chips": [
+        {
+          "t": "automatic savings",
+          "on": "automatic",
+          "style": "accent"
+        }
+      ],
+      "query": "automatic savings strategies",
+      "query2": "saving habits of rich",
+      "role": "fact",
+      "text": "They focus on automatic savings plans."
+    },
+    {
+      "reveal_top": "SAVE FIRST SPEND LATER",
+      "query": "saving before spending",
+      "query2": "wealthy money habits",
+      "role": "reveal",
+      "text": "Most save before they even see the money!"
+    },
+    {
+      "query": "effective saving habits tips",
+      "query2": "money management strategies",
+      "role": "cta",
+      "text": "Follow for daily money habits that actually work."
+    }
+  ],
+  "description": "Uncover how wealthy individuals approach saving and what you can learn from their habits. Start saving smarter! #shorts #fyp #saving",
+  "hashtags": [
+    "#savingmoney",
+    "#wealthyhabits",
+    "#financialsuccess",
+    "#personalfinance",
+    "#budgeting",
+    "#wealth"
+  ],
+  "place": "",
+  "country": ""
+}

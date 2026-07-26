@@ -1,0 +1,53 @@
+{
+  "title": "3 Financial Mistakes Homebuyers Make",
+  "thumb": "HOME BUYER MISTAKES",
+  "scenes": [
+    {
+      "hook_top": "HOME BUYER FINANCIAL RISKS",
+      "query": "hidden costs of home buying",
+      "query2": "extra expenses in real estate",
+      "count": "1",
+      "num": 1,
+      "label": "OVERLOOKING HIDDEN COSTS",
+      "label_on": "costs",
+      "role": "hook",
+      "text": "Many new homebuyers risk their future finances."
+    },
+    {
+      "num": 2,
+      "label": "LOCKING IN HIGH INTERE",
+      "label_on": "interest rates",
+      "query": "impact of interest rates on mortgages",
+      "query2": "how mortgage rates affect buyers",
+      "role": "count",
+      "text": "2"
+    },
+    {
+      "num": 3,
+      "label": "NOT SHOPPING FOR LOANS",
+      "label_on": "shopping loans",
+      "query": "importance of comparing mortgage lenders",
+      "query2": "how to choose mortgage lender",
+      "role": "count",
+      "text": "3"
+    },
+    {
+      "query": "financial tips for homebuyers",
+      "query2": "best home buying strategies",
+      "role": "cta",
+      "text": "Follow and your future rich self will thank you."
+    }
+  ],
+  "description": "Avoid these costly financial mistakes when purchasing your home! Discover crucial tips to ensure you're making a sound investment. Follow for more money insights!",
+  "hashtags": [
+    "#FinanceTips",
+    "#HomeBuying",
+    "#WealthBuilding",
+    "#MoneyMistakes",
+    "#RealEstate",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

@@ -1,0 +1,57 @@
+{
+  "title": "3 Surprising Costs of Aging",
+  "thumb": "AGING COSTS REVEALED",
+  "scenes": [
+    {
+      "hook_top": "SHOCKING AGING EXPENSES",
+      "query": "costs of aging",
+      "query2": "financial impact of aging",
+      "role": "hook",
+      "text": "Aging can be more expensive than you think!"
+    },
+    {
+      "num": 1,
+      "label": "HEALTHCARE EXPENSES SP",
+      "label_on": "healthcare costs",
+      "query": "healthcare costs for seniors",
+      "query2": "elderly health expenses",
+      "role": "count",
+      "text": "1"
+    },
+    {
+      "num": 2,
+      "label": "LONG-TERM CARE INSURAN",
+      "label_on": "insurance costs",
+      "query": "long-term care insurance costs",
+      "query2": "understanding long-term care",
+      "role": "count",
+      "text": "2"
+    },
+    {
+      "num": 3,
+      "label": "HOME ADAPTATIONS NEEDE",
+      "label_on": "home adaptations",
+      "query": "cost of home adaptations for seniors",
+      "query2": "senior home improvements",
+      "role": "count",
+      "text": "3"
+    },
+    {
+      "query": "financial health for seniors",
+      "query2": "money tips for aging adults",
+      "role": "cta",
+      "text": "Follow for the money mindset they don't teach you."
+    }
+  ],
+  "description": "Discover the hidden costs of aging that could impact your finances! Prepare ahead to secure your financial future. Follow us for more insights!",
+  "hashtags": [
+    "#AgingCosts",
+    "#SeniorFinance",
+    "#HealthInsurance",
+    "#WealthManagement",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}
