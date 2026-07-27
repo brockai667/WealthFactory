@@ -1,0 +1,57 @@
+{
+  "title": "3 Hidden Benefits of Budgeting",
+  "thumb": "BUDGETING BENEFITS",
+  "scenes": [
+    {
+      "hook_top": "HIDDEN BUDGETING BENEFITS",
+      "query": "benefits of budgeting",
+      "query2": "why budgeting is important",
+      "role": "hook",
+      "text": "Budgeting offers surprising advantages you might not know!"
+    },
+    {
+      "num": 1,
+      "label": "REDUCES FINANCIAL STRE",
+      "label_on": "financial stress",
+      "query": "budgeting reduces stress",
+      "query2": "how budgeting helps",
+      "role": "count",
+      "text": "1"
+    },
+    {
+      "num": 2,
+      "label": "IMPLORES SMARTER SPEND",
+      "label_on": "smarter spending",
+      "query": "how budgeting improves spending",
+      "query2": "spending habits with a budget",
+      "role": "count",
+      "text": "2"
+    },
+    {
+      "num": 3,
+      "label": "HELPS ACHIEVE FINANCIA",
+      "label_on": "financial goals",
+      "query": "budgeting helps reach financial goals",
+      "query2": "achieving goals through budgeting",
+      "role": "count",
+      "text": "3"
+    },
+    {
+      "query": "starting a budget",
+      "query2": "budgeting tips for beginners",
+      "role": "cta",
+      "text": "Follow if you're done staying broke."
+    }
+  ],
+  "description": "Uncover the benefits of budgeting that go beyond saving money! These hidden advantages can change your financial future. Follow for more insights!",
+  "hashtags": [
+    "#Budgeting",
+    "#FinancialGoals",
+    "#SmartSpending",
+    "#FinanceTips",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

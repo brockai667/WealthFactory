@@ -1,0 +1,57 @@
+{
+  "title": "3 Costly Mistakes When Investing",
+  "thumb": "INVESTING MISTAKES",
+  "scenes": [
+    {
+      "hook_top": "COSTLY INVESTING ERRORS",
+      "query": "investing mistakes",
+      "query2": "how to avoid investing errors",
+      "role": "hook",
+      "text": "Investors often make critical errors that cost them."
+    },
+    {
+      "num": 1,
+      "label": "FOLLOWING TRENDS BLIND",
+      "label_on": "trending",
+      "query": "impact of trend investing",
+      "query2": "mistakes in trend following",
+      "role": "count",
+      "text": "1"
+    },
+    {
+      "num": 2,
+      "label": "NOT DIVERSIFYING PORTF",
+      "label_on": "diversification",
+      "query": "importance of portfolio diversification",
+      "query2": "what is portfolio risk",
+      "role": "count",
+      "text": "2"
+    },
+    {
+      "num": 3,
+      "label": "LET EMOTIONS DRIVE DEC",
+      "label_on": "emotions",
+      "query": "impact of emotions on investing",
+      "query2": "how feelings affect investments",
+      "role": "count",
+      "text": "3"
+    },
+    {
+      "query": "investing strategies tips",
+      "query2": "tips for successful investing",
+      "role": "cta",
+      "text": "Follow for the wealth lessons school skipped."
+    }
+  ],
+  "description": "Avoid these costly investment mistakes that many make! Learn how to navigate the market effectively. Follow us for more excellent investing insights!",
+  "hashtags": [
+    "#InvestSmart",
+    "#InvestmentMistakes",
+    "#WealthBuilding",
+    "#MoneyTips",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

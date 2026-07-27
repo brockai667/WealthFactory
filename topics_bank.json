@@ -5951,5 +5951,170 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Why Your Savings Might Not Be Enough",
+    "thumb": "SAVE SMARTER",
+    "scenes": [
+      {
+        "hook_top": "EMERGENCY SAVINGS ISSUE",
+        "fact": "Only 39% have enough savings.",
+        "chips": [],
+        "punch": "huge",
+        "query": "emergency savings statistics",
+        "query2": "financial security statistics",
+        "role": "hook",
+        "text": "30% of Americans can’t cover a $400 emergency."
+      },
+      {
+        "chips": [],
+        "punch": "shocking",
+        "query": "unexpected expenses statistics",
+        "query2": "financial hardship data",
+        "role": "fact",
+        "text": "Half of U.S. adults can’t afford unexpected expenses."
+      },
+      {
+        "sub": "Take control of your finances!",
+        "label_on": "saving",
+        "query": "saving trends analysis",
+        "query2": "interest rates savings",
+        "role": "callout",
+        "text": "ALARMING SAVINGS TREND"
+      },
+      {
+        "query": "finance tips",
+        "query2": "personal finance advice",
+        "role": "cta",
+        "text": "Follow for the money mindset they don't teach you."
+      }
+    ],
+    "description": "Many Americans aren't prepared for emergencies. Discover why it matters and what you can do. Follow for more money insights!",
+    "hashtags": [
+      "#savings",
+      "#personalfinance",
+      "#moneytips",
+      "#financialliteracy",
+      "#wealthbuilding",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Why 70% of Americans Have Debt",
+    "thumb": "DEBT DILEMMA",
+    "scenes": [
+      {
+        "hook_top": "AMERICANS IN DEBT",
+        "fact": "The average debt per household is around $15,000.",
+        "chips": [],
+        "punch": "mind-blowing",
+        "query": "average household debt statistics",
+        "query2": "debt statistics",
+        "role": "hook",
+        "text": "Over 70% of American adults are in debt."
+      },
+      {
+        "chips": [],
+        "punch": "staggering",
+        "query": "credit card debt total",
+        "query2": "credit card usage statistics",
+        "role": "fact",
+        "text": "Credit card debt alone totals over $900 billion."
+      },
+      {
+        "sub": "Time to prioritize financial health.",
+        "label_on": "debt",
+        "query": "debt management strategies",
+        "query2": "financial health awareness",
+        "role": "callout",
+        "text": "DEBT IS COMMON!"
+      },
+      {
+        "query": "eliminate debt",
+        "query2": "reduce debt strategies",
+        "role": "cta",
+        "text": "Follow if you're done staying broke."
+      }
+    ],
+    "description": "Debt is a widespread problem in America. Learn the shocking numbers and how to tackle it effectively. Follow for more!",
+    "hashtags": [
+      "#debtmanagement",
+      "#financialfreedom",
+      "#moneyhabits",
+      "#debtfree",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "The Real Cost of Living Paycheck to Paycheck",
+    "thumb": "PAYCHECK TO PAYCHECK TRAP",
+    "scenes": [
+      {
+        "hook_top": "SHOCKING PAYCHECK STATISTIC",
+        "query": "paycheck to paycheck statistics",
+        "query2": "living expenses reports",
+        "role": "hook",
+        "text": "78% of Americans live paycheck to paycheck."
+      },
+      {
+        "chips": [
+          {
+            "t": "52%",
+            "on": "struggle",
+            "style": "white"
+          }
+        ],
+        "punch": "worry",
+        "query": "unexpected expenses statistics",
+        "query2": "financial emergency facts",
+        "role": "fact",
+        "text": "52% struggle to cover unexpected expenses."
+      },
+      {
+        "chips": [
+          {
+            "t": "30%",
+            "on": "no savings",
+            "style": "white"
+          }
+        ],
+        "punch": "fear",
+        "query": "savings statistics USA",
+        "query2": "financial security issues",
+        "role": "fact",
+        "text": "3 out of 10 adults have no savings."
+      },
+      {
+        "reveal_top": "LIMITS YOUR FUTURE WEALTH",
+        "query": "wealth-building habits",
+        "query2": "financial growth challenges",
+        "role": "reveal",
+        "text": "Living this way limits wealth-building opportunities."
+      },
+      {
+        "query": "financial advice follow",
+        "query2": "financial success tips",
+        "role": "cta",
+        "text": "Follow for the wealth lessons school skipped."
+      }
+    ],
+    "description": "Living paycheck to paycheck is a common struggle that impacts financial security. Discover the hidden costs and how to break free. Follow for actionable finance tips!",
+    "hashtags": [
+      "#financialfreedom",
+      "#paychecktopaycheck",
+      "#moneymanagement",
+      "#wealthmindset",
+      "#financialadvice",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

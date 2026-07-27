@@ -1,0 +1,57 @@
+{
+  "title": "3 Signs You Need a Financial Check-Up",
+  "thumb": "FINANCIAL CHECK-UP",
+  "scenes": [
+    {
+      "hook_top": "NEED A FINANCIAL CHECKUP",
+      "query": "financial health check",
+      "query2": "signs of financial trouble",
+      "role": "hook",
+      "text": "Are you financially healthy? Check these signs!"
+    },
+    {
+      "num": 1,
+      "label": "LIVING PAYCHECK TO PAY",
+      "label_on": "paycheck",
+      "query": "living paycheck to paycheck",
+      "query2": "financial struggle signs",
+      "role": "count",
+      "text": "1"
+    },
+    {
+      "num": 2,
+      "label": "RISING DEBT LEVELS",
+      "label_on": "rising debt",
+      "query": "impact of rising debt",
+      "query2": "debt management tips",
+      "role": "count",
+      "text": "2"
+    },
+    {
+      "num": 3,
+      "label": "UNSURE ABOUT RETIREMEN",
+      "label_on": "retirement uncertainty",
+      "query": "retirement planning fear",
+      "query2": "signs of retirement anxiety",
+      "role": "count",
+      "text": "3"
+    },
+    {
+      "query": "financial wellness tips",
+      "query2": "improving financial health",
+      "role": "cta",
+      "text": "Follow for the wealth lessons school skipped."
+    }
+  ],
+  "description": "Identify if it's time for a financial check-up! These warning signs could mean you need to reassess your financial strategy. Follow us for valuable advice!",
+  "hashtags": [
+    "#FinancialHealth",
+    "#MoneyManagement",
+    "#DebtAwareness",
+    "#RetirementPlanning",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}
