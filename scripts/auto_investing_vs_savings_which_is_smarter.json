@@ -1,0 +1,60 @@
+{
+  "title": "Investing vs. Savings: Which is Smarter?",
+  "thumb": "INVEST OR SAVE?",
+  "scenes": [
+    {
+      "hook_top": "SAVING OVER INVESTING",
+      "fact": "Savings accounts typically earn 0.05% interest annually.",
+      "chips": [
+        {
+          "t": "0.05% INTEREST",
+          "on": "savings",
+          "style": "white"
+        }
+      ],
+      "query": "savings account interest rates",
+      "query2": "interest rates savings accounts",
+      "role": "hook",
+      "text": "86% of Americans prefer saving over investing."
+    },
+    {
+      "chips": [
+        {
+          "t": "7% AVERAGE RETURN",
+          "on": "stock market",
+          "style": "accent"
+        }
+      ],
+      "query": "historical stock market returns",
+      "query2": "average stock market return",
+      "role": "fact",
+      "text": "The historical average stock market return is about 7% per year."
+    },
+    {
+      "sub": "Is your money working hard enough?",
+      "label": "SAVING OR INVESTING?",
+      "label_on": "money working",
+      "query": "investing vs saving analysis",
+      "query2": "should I invest or save",
+      "role": "callout",
+      "text": "CALCULATE YOUR OPTIONS!"
+    },
+    {
+      "query": "investing advice",
+      "query2": "smart investing tips",
+      "role": "cta",
+      "text": "Follow for the money mindset they don't teach you."
+    }
+  ],
+  "description": "Is saving money really enough? Explore the benefits of investing versus saving to grow your wealth effectively. Follow us for updates.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#investing",
+    "#personalfinance",
+    "#wealthcreation",
+    "#financialliteracy"
+  ],
+  "place": "",
+  "country": ""
+}

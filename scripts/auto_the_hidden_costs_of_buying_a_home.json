@@ -1,0 +1,60 @@
+{
+  "title": "The Hidden Costs of Buying a Home",
+  "thumb": "HIDDEN HOME COSTS",
+  "scenes": [
+    {
+      "hook_top": "70 MISS HIDDEN COSTS",
+      "fact": "Homeownership has ongoing costs like maintenance, averaging 1% of the home's value.",
+      "chips": [
+        {
+          "t": "1% OF VALUE",
+          "on": "maintenance",
+          "style": "white"
+        }
+      ],
+      "query": "homeownership ongoing costs",
+      "query2": "costs of owning a home",
+      "role": "hook",
+      "text": "Around 70% of homebuyers forget hidden costs."
+    },
+    {
+      "chips": [
+        {
+          "t": "2-5% CLOSING COSTS",
+          "on": "closing costs",
+          "style": "accent"
+        }
+      ],
+      "query": "closing costs home purchase",
+      "query2": "what are closing costs",
+      "role": "fact",
+      "text": "Closing costs alone can range from 2% to 5% of the home's price."
+    },
+    {
+      "sub": "Plan your budget wisely before buying.",
+      "label": "BUYING A HOME IS EXPENSIVE",
+      "label_on": "real costs",
+      "query": "budgeting for home purchase",
+      "query2": "hidden costs homebuying",
+      "role": "callout",
+      "text": "KNOW THE REAL COSTS!"
+    },
+    {
+      "query": "home buying tips",
+      "query2": "buying a house advice",
+      "role": "cta",
+      "text": "Follow for daily money habits that actually work."
+    }
+  ],
+  "description": "Thinking of buying a home? Know the hidden costs that can catch you off guard. Follow us for more money-smart advice.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#homebuyingtips",
+    "#financetips",
+    "#realestate",
+    "#wealthbuilding"
+  ],
+  "place": "",
+  "country": ""
+}

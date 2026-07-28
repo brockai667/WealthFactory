@@ -1,0 +1,60 @@
+{
+  "title": "5 Tips to Avoid Money Scams",
+  "thumb": "AVOID MONEY SCAMS",
+  "scenes": [
+    {
+      "hook_top": "40 SCAMMED IN 2023",
+      "fact": "Scams cost Americans around $8.8 billion annually.",
+      "chips": [
+        {
+          "t": "$8.8 BILLION",
+          "on": "scams",
+          "style": "white"
+        }
+      ],
+      "query": "current financial scams 2023",
+      "query2": "money scams statistics 2023",
+      "role": "hook",
+      "text": "40% of adults reported financial scams in 2023."
+    },
+    {
+      "chips": [
+        {
+          "t": "2.2 MILLION REPORTS",
+          "on": "fraud",
+          "style": "accent"
+        }
+      ],
+      "query": "FTC 2022 consumer fraud report",
+      "query2": "FTC consumer fraud statistics",
+      "role": "fact",
+      "text": "The FTC received over 2.2 million consumer fraud reports last year."
+    },
+    {
+      "sub": "Learn to spot fraud before it hits.",
+      "label": "SCAMS CAN HAPPEN TO YOU",
+      "label_on": "scams",
+      "query": "how to spot financial scams",
+      "query2": "identifying scams",
+      "role": "callout",
+      "text": "BE AWARE OF SCAMS!"
+    },
+    {
+      "query": "money safety tips",
+      "query2": "financial safety advice",
+      "role": "cta",
+      "text": "Follow if you're done staying broke."
+    }
+  ],
+  "description": "Avoiding scams is crucial for financial well-being. Discover essential tips to protect your money today! Follow us for more insights.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#financialliteracy",
+    "#moneymanagement",
+    "#scamawareness",
+    "#wealthbuilding"
+  ],
+  "place": "",
+  "country": ""
+}
