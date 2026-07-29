@@ -1,0 +1,50 @@
+{
+  "title": "Why Your Savings Might Not Be Enough",
+  "thumb": "SAVE SMARTER",
+  "scenes": [
+    {
+      "hook_top": "EMERGENCY SAVINGS ISSUE",
+      "fact": "Only 39% have enough savings.",
+      "chips": [],
+      "punch": "huge",
+      "query": "emergency savings statistics",
+      "query2": "financial security statistics",
+      "role": "hook",
+      "text": "30% of Americans can’t cover a $400 emergency."
+    },
+    {
+      "chips": [],
+      "punch": "shocking",
+      "query": "unexpected expenses statistics",
+      "query2": "financial hardship data",
+      "role": "fact",
+      "text": "Half of U.S. adults can’t afford unexpected expenses."
+    },
+    {
+      "sub": "Take control of your finances!",
+      "label_on": "saving",
+      "query": "saving trends analysis",
+      "query2": "interest rates savings",
+      "role": "callout",
+      "text": "ALARMING SAVINGS TREND"
+    },
+    {
+      "query": "finance tips",
+      "query2": "personal finance advice",
+      "role": "cta",
+      "text": "Follow for the money mindset they don't teach you."
+    }
+  ],
+  "description": "Many Americans aren't prepared for emergencies. Discover why it matters and what you can do. Follow for more money insights!",
+  "hashtags": [
+    "#savings",
+    "#personalfinance",
+    "#moneytips",
+    "#financialliteracy",
+    "#wealthbuilding",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

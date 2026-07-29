@@ -1,0 +1,49 @@
+{
+  "title": "Top Habits of Wealthy People",
+  "thumb": "WEALTHY HABITS REVEALED",
+  "scenes": [
+    {
+      "hook_top": "BUDGETING ISN'T FOR ALL",
+      "fact": "A study shows that nearly 60% of millionaires don't use a formal budget. This contradicts common belief.",
+      "chips": [],
+      "punch": "SHOCKING",
+      "query": "millionaires who don't budget",
+      "query2": "wealth habits",
+      "role": "hook",
+      "text": "Only 40% of millionaires keep a budget!"
+    },
+    {
+      "chips": [],
+      "punch": "INSIGHTFUL",
+      "query": "wealthy investing habits",
+      "query2": "money management",
+      "role": "fact",
+      "text": "Wealthy individuals prioritize investing over saving. They allocate about 15% of income to investments."
+    },
+    {
+      "reveal_top": "BUDGETS ARE OUTDATED",
+      "query": "why millionaires skip budgeting",
+      "query2": "wealthy finance strategies",
+      "role": "reveal",
+      "text": "Budgeting isn’t the norm for wealth!"
+    },
+    {
+      "query": "financial advice",
+      "query2": "personal finance tips",
+      "role": "cta",
+      "text": "Follow and your future rich self will thank you."
+    }
+  ],
+  "description": "The habits wealthy people avoid might surprise you! Follow us for more insights on money management.",
+  "hashtags": [
+    "#wealth",
+    "#financialliteracy",
+    "#moneyhabits",
+    "#wealthy",
+    "#personalfinance",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}
