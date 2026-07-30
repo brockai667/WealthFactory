@@ -6383,5 +6383,414 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "3 Expenses You Should Never Ignore",
+    "thumb": "NEVER IGNORE EXPENSES",
+    "scenes": [
+      {
+        "hook_top": "OVERLOOKED EXPENSES",
+        "query": "unexpected expenses in budgeting",
+        "query2": "common overlooked expenses",
+        "count": "1",
+        "num": 1,
+        "label": "INVISIBLE FIXED COSTS",
+        "label_on": "fixed costs",
+        "role": "hook",
+        "text": "Most people overlook these critical expenses!"
+      },
+      {
+        "num": 2,
+        "label": "RISING INSURANCE PREMI",
+        "label_on": "insurance premiums",
+        "query": "impact of rising insurance costs",
+        "query2": "insurance coverage increases",
+        "role": "count",
+        "text": "2"
+      },
+      {
+        "num": 3,
+        "label": "UNFORSEEN TAXES AND FE",
+        "label_on": "unforeseen taxes",
+        "query": "hidden tax fees",
+        "query2": "unexpected tax obligations",
+        "role": "count",
+        "text": "3"
+      },
+      {
+        "query": "personal finance advice",
+        "query2": "money management tips",
+        "role": "cta",
+        "text": "Follow for the money mindset they don't teach you."
+      }
+    ],
+    "description": "Ignoring expenses can drain your finances! Learn which expenses are often overlooked. Follow us for more tips!",
+    "hashtags": [
+      "#shorts",
+      "#personalfinance",
+      "#moneytips",
+      "#financialliteracy",
+      "#budgeting",
+      "#fyp",
+      "#wealthbuilding"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "3 Critical Money Habits of the Wealthy",
+    "thumb": "WEALTHY MONEY HABITS",
+    "scenes": [
+      {
+        "hook_top": "POWERFUL MONEY HABITS",
+        "query": "habits of wealthy individuals",
+        "query2": "successful money habits",
+        "count": "1",
+        "num": 1,
+        "label": "AUTOMATIC SAVINGS PLAN",
+        "label_on": "automatic savings",
+        "role": "hook",
+        "text": "Wealthy people share these powerful habits!"
+      },
+      {
+        "num": 2,
+        "label": "LIFETIME LEARNING MIND",
+        "label_on": "lifelong learning",
+        "query": "importance of continuous learning",
+        "query2": "wealth through education",
+        "role": "count",
+        "text": "2"
+      },
+      {
+        "num": 3,
+        "label": "INVESTING IN ASSETS",
+        "label_on": "investing",
+        "query": "investing in assets vs liabilities",
+        "query2": "wealth building through investments",
+        "role": "count",
+        "text": "3"
+      },
+      {
+        "query": "wealth creation strategies",
+        "query2": "money habits of rich people",
+        "role": "cta",
+        "text": "Follow for the wealth lessons school skipped."
+      }
+    ],
+    "description": "Discover the money habits that set wealthy individuals apart! Follow us for actionable wealth-building tips.",
+    "hashtags": [
+      "#shorts",
+      "#wealthyhabits",
+      "#moneyhabits",
+      "#financialsuccess",
+      "#investment",
+      "#fyp",
+      "#financialfreedom"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "3 Budgeting Mistakes Costing You Money",
+    "thumb": "BUDGETING MISTAKES",
+    "scenes": [
+      {
+        "hook_top": "DRAINING MISTAKES",
+        "query": "common budgeting mistakes",
+        "query2": "budgeting errors",
+        "count": "1",
+        "num": 1,
+        "label": "NOT TRACKING SPENDING",
+        "label_on": "spending tracking",
+        "role": "hook",
+        "text": "These budgeting mistakes are draining your wallet!"
+      },
+      {
+        "num": 2,
+        "label": "FORGETTING IRREGULAR E",
+        "label_on": "irregular expenses",
+        "query": "irregular expenses in budgeting",
+        "query2": "budgeting for unexpected costs",
+        "role": "count",
+        "text": "2"
+      },
+      {
+        "num": 3,
+        "label": "INSUFFICEINT EMERGENCY",
+        "label_on": "emergency fund",
+        "query": "importance of emergency fund",
+        "query2": "building an emergency fund",
+        "role": "count",
+        "text": "3"
+      },
+      {
+        "query": "effective budgeting strategies",
+        "query2": "money management tips",
+        "role": "cta",
+        "text": "Follow for the money mindset they don't teach you."
+      }
+    ],
+    "description": "Avoid these budgeting mistakes that can cost you money! Follow us for better money management tips.",
+    "hashtags": [
+      "#shorts",
+      "#budgetingtips",
+      "#financialadvice",
+      "#moneymanagement",
+      "#savingmoney",
+      "#fyp",
+      "#wealthbuilding"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "The Unexpected Cost of Financial Illiteracy",
+    "thumb": "FINANCIAL ILLITERACY COSTS",
+    "scenes": [
+      {
+        "hook_top": "AMERICANS LACK FINANCIAL LITERACY",
+        "fact": "Financial illiteracy costs Americans $415 billion annually.",
+        "chips": [
+          {
+            "t": "$415 BILLION",
+            "on": "financial illiteracy",
+            "style": "accent"
+          }
+        ],
+        "query": "Financial literacy statistics",
+        "query2": "Annual cost of financial illiteracy",
+        "role": "hook",
+        "text": "75% of Americans lack financial literacy."
+      },
+      {
+        "chips": [
+          {
+            "t": "17% OF STUDENTS",
+            "on": "personal finance courses",
+            "style": "white"
+          }
+        ],
+        "query": "High school personal finance education",
+        "query2": "Statistics on finance courses to students",
+        "role": "fact",
+        "text": "Only 17% of high school students take personal finance courses."
+      },
+      {
+        "label": "Build Wealth Smartly",
+        "sub": "Start learning today!",
+        "label_on": "personal finance education",
+        "query": "Importance of financial education",
+        "query2": "Benefits of financial literacy",
+        "role": "callout",
+        "text": "Financial Education Matters"
+      },
+      {
+        "query": "Follow financial advice channels",
+        "query2": "Finance tips on social media",
+        "role": "cta",
+        "text": "Follow for daily money habits that actually work."
+      }
+    ],
+    "description": "Understanding financial literacy can save you thousands. Don't let ignorance cost you; learn the essentials now! Follow for actionable insights.",
+    "hashtags": [
+      "#financialliteracy",
+      "#moneytips",
+      "#personalfinance",
+      "#shorts",
+      "#fyp",
+      "#wealthbuilding"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "What the Wealthy Know About Savings",
+    "thumb": "WEALTHY SAVINGS TIPS",
+    "scenes": [
+      {
+        "hook_top": "RICH PEOPLE SAVE REGULARLY",
+        "fact": "The majority of millionaires save 20% or more of their income.",
+        "chips": [
+          {
+            "t": "20% OR MORE",
+            "on": "millionaires save",
+            "style": "accent"
+          }
+        ],
+        "query": "Wealthy saving statistics",
+        "query2": "Millionaires savings habits",
+        "role": "hook",
+        "text": "90% of wealthy individuals save regularly."
+      },
+      {
+        "chips": [
+          {
+            "t": "DOUBLE IN 10 YEARS",
+            "on": "compounding interest",
+            "style": "white"
+          }
+        ],
+        "query": "Compounding interest effects",
+        "query2": "How compounding works",
+        "role": "fact",
+        "text": "Compounding interest can double savings in about 10 years."
+      },
+      {
+        "label": "Unlock Wealth Growth",
+        "sub": "Implement these habits!",
+        "label_on": "wealthy savings",
+        "query": "Wealth-building saving strategies",
+        "query2": "How the rich save",
+        "role": "callout",
+        "text": "Start Saving Wisely"
+      },
+      {
+        "query": "Wealth tips on social media",
+        "query2": "Finance advice channels",
+        "role": "cta",
+        "text": "Follow for the money mindset they don't teach you."
+      }
+    ],
+    "description": "Wealthy individuals prioritize saving and utilize compounding to their advantage. Learn from their habits to build your wealth! Follow for more insights.",
+    "hashtags": [
+      "#wealthysavings",
+      "#moneyhabits",
+      "#financialfreedom",
+      "#shorts",
+      "#fyp",
+      "#compounding"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Why Traditional Savings Accounts Can Hurt You",
+    "thumb": "SAVINGS ACCOUNT DANGER",
+    "scenes": [
+      {
+        "hook_top": "SAVINGS MAY HURT YOU",
+        "query": "why savings accounts can hurt you",
+        "query2": "savings account disadvantages",
+        "role": "hook",
+        "text": "If you're relying solely on savings accounts, you're losing money."
+      },
+      {
+        "chips": [
+          {
+            "t": "0.05% INTEREST",
+            "on": "interest rate",
+            "style": "white"
+          }
+        ],
+        "punch": "ouch!",
+        "query": "current average savings account interest rate",
+        "query2": "savings account statistics",
+        "role": "fact",
+        "text": "The average savings account interest rate is around 0.05%."
+      },
+      {
+        "chips": [
+          {
+            "t": "3% INFLATION",
+            "on": "inflation rate",
+            "style": "accent"
+          }
+        ],
+        "punch": "rates!",
+        "query": "current inflation rate",
+        "query2": "inflation trends",
+        "role": "fact",
+        "text": "Inflation rates have been around 3% annually."
+      },
+      {
+        "reveal_top": "SAVINGS CAN COST YOU",
+        "query": "loss of purchasing power through savings",
+        "query2": "purchasing power explained",
+        "role": "reveal",
+        "text": "You’re losing purchasing power every year!"
+      },
+      {
+        "query": "smart finance tips",
+        "query2": "financial education",
+        "role": "cta",
+        "text": "Follow for the money mindset they don't teach you."
+      }
+    ],
+    "description": "Relying solely on a savings account can actually harm your financial health. Discover smarter ways to manage your money!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#personalfinance",
+      "#moneytips",
+      "#wealthmanagement",
+      "#financialliteracy"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "The Real Cost of Unexpected Expenses",
+    "thumb": "HIDDEN EXPENSES REVEALED",
+    "scenes": [
+      {
+        "hook_top": "EXPENSES CAN BREAK BUDGET",
+        "query": "impact of unexpected expenses",
+        "query2": "unexpected expenses statistics",
+        "role": "hook",
+        "text": "Unexpected expenses can derail your budget completely."
+      },
+      {
+        "chips": [
+          {
+            "t": "60% CAN'T PAY",
+            "on": "cover a $500 emergency",
+            "style": "white"
+          }
+        ],
+        "punch": "crisis!",
+        "query": "statistics on Americans' savings for emergencies",
+        "query2": "emergency fund statistics",
+        "role": "fact",
+        "text": "Over 60% of Americans can’t cover a $500 emergency."
+      },
+      {
+        "chips": [
+          {
+            "t": "1/3 FACING MEDICAL BILLS",
+            "on": "unplanned medical expenses",
+            "style": "accent"
+          }
+        ],
+        "punch": "surprise!",
+        "query": "statistics on unplanned medical expenses",
+        "query2": "medical expenses impact",
+        "role": "fact",
+        "text": "One-third of Americans face unplanned medical expenses each year."
+      },
+      {
+        "reveal_top": "UNEXPECTED BILLS CAN TRAP YOU",
+        "query": "impact of unexpected expenses on debt",
+        "query2": "debt from unexpected expenses",
+        "role": "reveal",
+        "text": "These expenses lead many into debt!"
+      },
+      {
+        "query": "financial resilience tips",
+        "query2": "personal finance strategies",
+        "role": "cta",
+        "text": "Follow for daily money habits that actually work."
+      }
+    ],
+    "description": "Surprising expenses can catch you off guard and lead to debt. Learn how to prepare and manage these unexpected costs effectively.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#personalfinance",
+      "#moneyhabits",
+      "#budgeting",
+      "#financialplanning"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

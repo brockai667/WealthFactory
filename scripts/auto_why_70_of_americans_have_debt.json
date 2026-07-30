@@ -1,0 +1,49 @@
+{
+  "title": "Why 70% of Americans Have Debt",
+  "thumb": "DEBT DILEMMA",
+  "scenes": [
+    {
+      "hook_top": "AMERICANS IN DEBT",
+      "fact": "The average debt per household is around $15,000.",
+      "chips": [],
+      "punch": "mind-blowing",
+      "query": "average household debt statistics",
+      "query2": "debt statistics",
+      "role": "hook",
+      "text": "Over 70% of American adults are in debt."
+    },
+    {
+      "chips": [],
+      "punch": "staggering",
+      "query": "credit card debt total",
+      "query2": "credit card usage statistics",
+      "role": "fact",
+      "text": "Credit card debt alone totals over $900 billion."
+    },
+    {
+      "sub": "Time to prioritize financial health.",
+      "label_on": "debt",
+      "query": "debt management strategies",
+      "query2": "financial health awareness",
+      "role": "callout",
+      "text": "DEBT IS COMMON!"
+    },
+    {
+      "query": "eliminate debt",
+      "query2": "reduce debt strategies",
+      "role": "cta",
+      "text": "Follow if you're done staying broke."
+    }
+  ],
+  "description": "Debt is a widespread problem in America. Learn the shocking numbers and how to tackle it effectively. Follow for more!",
+  "hashtags": [
+    "#debtmanagement",
+    "#financialfreedom",
+    "#moneyhabits",
+    "#debtfree",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

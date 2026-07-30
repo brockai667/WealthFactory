@@ -1,0 +1,59 @@
+{
+  "title": "Why 80% of Americans Can't Save",
+  "thumb": "MONEY SAVING STRUGGLES",
+  "scenes": [
+    {
+      "hook_top": "80 AREN'T SAVING ENOUGH",
+      "fact": "Only about 16% of Americans have enough savings to cover three months of expenses.",
+      "chips": [
+        {
+          "t": "16%",
+          "on": "percent",
+          "style": "white"
+        }
+      ],
+      "query": "savings statistics USA",
+      "query2": "American savings statistics",
+      "role": "hook",
+      "text": "80% of Americans are struggling to save money."
+    },
+    {
+      "chips": [
+        {
+          "t": "27%",
+          "on": "percent",
+          "style": "white"
+        }
+      ],
+      "query": "no savings statistics USA",
+      "query2": "American financial insecurity",
+      "role": "fact",
+      "text": "A recent survey found that 27% of Americans have no savings at all."
+    },
+    {
+      "reveal_top": "SMALL HABITS BIG CHANGE",
+      "query": "power of saving habits",
+      "query2": "money saving habits",
+      "role": "reveal",
+      "text": "But, small consistent habits can change everything!"
+    },
+    {
+      "query": "financial tips for savings",
+      "query2": "money management advice",
+      "role": "cta",
+      "text": "Follow for daily money habits that actually work."
+    }
+  ],
+  "description": "Discover why so many Americans struggle with savings and how tiny changes can lead to big financial improvements. Follow us for essential money wisdom!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#financialliteracy",
+    "#moneymanagement",
+    "#savings",
+    "#personalfinance",
+    "#wealthbuilding"
+  ],
+  "place": "",
+  "country": ""
+}

@@ -1,0 +1,66 @@
+{
+  "title": "The Real Cost of Living Paycheck to Paycheck",
+  "thumb": "PAYCHECK TO PAYCHECK TRAP",
+  "scenes": [
+    {
+      "hook_top": "SHOCKING PAYCHECK STATISTIC",
+      "query": "paycheck to paycheck statistics",
+      "query2": "living expenses reports",
+      "role": "hook",
+      "text": "78% of Americans live paycheck to paycheck."
+    },
+    {
+      "chips": [
+        {
+          "t": "52%",
+          "on": "struggle",
+          "style": "white"
+        }
+      ],
+      "punch": "worry",
+      "query": "unexpected expenses statistics",
+      "query2": "financial emergency facts",
+      "role": "fact",
+      "text": "52% struggle to cover unexpected expenses."
+    },
+    {
+      "chips": [
+        {
+          "t": "30%",
+          "on": "no savings",
+          "style": "white"
+        }
+      ],
+      "punch": "fear",
+      "query": "savings statistics USA",
+      "query2": "financial security issues",
+      "role": "fact",
+      "text": "3 out of 10 adults have no savings."
+    },
+    {
+      "reveal_top": "LIMITS YOUR FUTURE WEALTH",
+      "query": "wealth-building habits",
+      "query2": "financial growth challenges",
+      "role": "reveal",
+      "text": "Living this way limits wealth-building opportunities."
+    },
+    {
+      "query": "financial advice follow",
+      "query2": "financial success tips",
+      "role": "cta",
+      "text": "Follow for the wealth lessons school skipped."
+    }
+  ],
+  "description": "Living paycheck to paycheck is a common struggle that impacts financial security. Discover the hidden costs and how to break free. Follow for actionable finance tips!",
+  "hashtags": [
+    "#financialfreedom",
+    "#paychecktopaycheck",
+    "#moneymanagement",
+    "#wealthmindset",
+    "#financialadvice",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}
