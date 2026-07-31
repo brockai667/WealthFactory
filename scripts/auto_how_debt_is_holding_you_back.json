@@ -1,0 +1,59 @@
+{
+  "title": "How Debt Is Holding You Back",
+  "thumb": "DEBT HOLDS YOU BACK",
+  "scenes": [
+    {
+      "hook_top": "70 OF AMERICANS IN DEBT",
+      "fact": "Consumer debt in the U.S. surpassed $14 trillion in 2023.",
+      "chips": [
+        {
+          "t": "$14 trillion",
+          "on": "trillion",
+          "style": "white"
+        }
+      ],
+      "query": "US consumer debt statistics",
+      "query2": "current US debt levels",
+      "role": "hook",
+      "text": "Nearly 70% of Americans hold some form of debt."
+    },
+    {
+      "chips": [
+        {
+          "t": "30%",
+          "on": "percent",
+          "style": "white"
+        }
+      ],
+      "query": "credit card debt statistics",
+      "query2": "credit card payment trends",
+      "role": "fact",
+      "text": "About 30% of Americans are unable to pay off their credit card balance each month."
+    },
+    {
+      "reveal_top": "DEBT CAN LEAD TO WEALTH",
+      "query": "management of debt for wealth",
+      "query2": "debt repayment strategies",
+      "role": "reveal",
+      "text": "Yet, managing this debt wisely can lead to wealth!"
+    },
+    {
+      "query": "money management tips",
+      "query2": "financial advice",
+      "role": "cta",
+      "text": "Follow for the wealth lessons school skipped."
+    }
+  ],
+  "description": "Uncover the shocking facts about America's debt and learn how to leverage it for financial success. Stay tuned for more money insights!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#debtfreeliving",
+    "#financialfreedom",
+    "#moneymanagement",
+    "#creditcards",
+    "#personalfinance"
+  ],
+  "place": "",
+  "country": ""
+}

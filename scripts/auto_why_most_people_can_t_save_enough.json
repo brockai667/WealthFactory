@@ -1,0 +1,50 @@
+{
+  "title": "Why Most People Can't Save Enough",
+  "thumb": "MONEY SAVING TRUTHS",
+  "scenes": [
+    {
+      "hook_top": "AMERICANS LACK SAVINGS",
+      "fact": "The average American has just $3,500 saved for emergencies.",
+      "chips": [],
+      "punch": "Yikes!",
+      "query": "average American savings",
+      "query2": "US emergency savings statistics",
+      "role": "hook",
+      "text": "Only 69% of Americans have savings."
+    },
+    {
+      "chips": [],
+      "punch": "Shocking!",
+      "query": "Americans $400 emergency statistics",
+      "query2": "emergency fund statistics",
+      "role": "fact",
+      "text": "43% of Americans can’t cover a $400 emergency."
+    },
+    {
+      "reveal_top": "SAVING IS A SKILL",
+      "query": "saving habits",
+      "query2": "money saving tips",
+      "role": "reveal",
+      "text": "But saving is a learned habit!"
+    },
+    {
+      "query": "best finance tips",
+      "query2": "personal finance advice",
+      "role": "cta",
+      "text": "Follow if you're done staying broke."
+    }
+  ],
+  "description": "A staggering number of Americans are struggling to save. Discover the unexpected truth about saving habits. Follow us for more money insights!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#money",
+    "#savings",
+    "#finance",
+    "#financialliteracy",
+    "#wealth",
+    "#budgeting"
+  ],
+  "place": "",
+  "country": ""
+}

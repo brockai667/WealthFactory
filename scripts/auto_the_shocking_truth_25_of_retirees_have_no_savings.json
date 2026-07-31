@@ -1,0 +1,49 @@
+{
+  "title": "The Shocking Truth: 25% of Retirees Have No Savings",
+  "thumb": "RETIREES NO SAVINGS",
+  "scenes": [
+    {
+      "hook_top": "A QUARTER ARE BROKE",
+      "fact": "Approximately 25% of retirees lack savings.",
+      "chips": [],
+      "punch": "lacking",
+      "query": "retirement savings statistics",
+      "query2": "statistics on retirees and savings",
+      "role": "hook",
+      "text": "A quarter of retirees are broke!"
+    },
+    {
+      "chips": [],
+      "punch": "depend",
+      "query": "retirees relying on social security",
+      "query2": "dependency on social security",
+      "role": "fact",
+      "text": "Most depend on Social Security alone."
+    },
+    {
+      "sub": "The risk of relying on one source.",
+      "label_on": "retirement planning",
+      "query": "importance of retirement savings",
+      "query2": "financial planning for retirement",
+      "role": "callout",
+      "text": "SAVINGS ARE ESSENTIAL"
+    },
+    {
+      "query": "retirement planning tips",
+      "query2": "insights on retirement savings",
+      "role": "cta",
+      "text": "Follow and your future rich self will thank you."
+    }
+  ],
+  "description": "Uncover the alarming reality of retirees without savings. Learn how to prepare for a secure retirement! #shorts #fyp #retirement #savings #financialliteracy #personalfinance",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#retirement",
+    "#savings",
+    "#financialliteracy",
+    "#personalfinance"
+  ],
+  "place": "",
+  "country": ""
+}
