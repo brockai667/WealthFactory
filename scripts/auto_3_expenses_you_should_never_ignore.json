@@ -1,0 +1,53 @@
+{
+  "title": "3 Expenses You Should Never Ignore",
+  "thumb": "NEVER IGNORE EXPENSES",
+  "scenes": [
+    {
+      "hook_top": "OVERLOOKED EXPENSES",
+      "query": "unexpected expenses in budgeting",
+      "query2": "common overlooked expenses",
+      "count": "1",
+      "num": 1,
+      "label": "INVISIBLE FIXED COSTS",
+      "label_on": "fixed costs",
+      "role": "hook",
+      "text": "Most people overlook these critical expenses!"
+    },
+    {
+      "num": 2,
+      "label": "RISING INSURANCE PREMI",
+      "label_on": "insurance premiums",
+      "query": "impact of rising insurance costs",
+      "query2": "insurance coverage increases",
+      "role": "count",
+      "text": "2"
+    },
+    {
+      "num": 3,
+      "label": "UNFORSEEN TAXES AND FE",
+      "label_on": "unforeseen taxes",
+      "query": "hidden tax fees",
+      "query2": "unexpected tax obligations",
+      "role": "count",
+      "text": "3"
+    },
+    {
+      "query": "personal finance advice",
+      "query2": "money management tips",
+      "role": "cta",
+      "text": "Follow for the money mindset they don't teach you."
+    }
+  ],
+  "description": "Ignoring expenses can drain your finances! Learn which expenses are often overlooked. Follow us for more tips!",
+  "hashtags": [
+    "#shorts",
+    "#personalfinance",
+    "#moneytips",
+    "#financialliteracy",
+    "#budgeting",
+    "#fyp",
+    "#wealthbuilding"
+  ],
+  "place": "",
+  "country": ""
+}

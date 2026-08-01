@@ -6792,5 +6792,161 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "5 Facts About 401k Mistakes",
+    "thumb": "RETIREMENT RISKS",
+    "scenes": [
+      {
+        "hook_top": "NO SAVINGS",
+        "query": "empty wallet",
+        "query2": "retiree portrait",
+        "role": "hook",
+        "text": "25% of retirees have no savings"
+      },
+      {
+        "num": 1,
+        "label": "HIDDEN FEES",
+        "label_on": "fees",
+        "query": "401k statement",
+        "query2": "financial advisor explaining fees",
+        "role": "count",
+        "text": "1 in 3 people don't know their 401k fees"
+      },
+      {
+        "num": 2,
+        "label": "INSUFFICIENT FUNDING",
+        "label_on": "funding",
+        "query": "piggy bank with little money",
+        "query2": "financial planner talking about funding",
+        "role": "count",
+        "text": "2 out of 5 people don't contribute enough"
+      },
+      {
+        "num": 3,
+        "label": "RETIREMENT MISTAKES",
+        "label_on": "mistakes",
+        "query": "senior citizen looking worried",
+        "query2": "financial expert discussing retirement",
+        "role": "count",
+        "text": "3 key mistakes can haunt you in retirement"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if you're done staying broke.",
+        "query": "5 Facts About 401k Mistakes",
+        "query2": "cinematic nature landscape"
+      }
+    ],
+    "description": "Are you making these common 401k mistakes? Learn how to avoid them and secure your retirement. Follow us for more financial tips and advice.",
+    "hashtags": [
+      "#401k #retirement #financialplanning #moneymistakes #shorts #fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "The Hidden Costs of Credit Card Debt",
+    "thumb": "DEBT DANGERS",
+    "scenes": [
+      {
+        "hook_top": "DEBT CRISIS",
+        "query": "credit card statement with high balance",
+        "query2": "person looking stressed with credit cards",
+        "role": "hook",
+        "text": "35K in credit card debt due to gambling"
+      },
+      {
+        "num": 1,
+        "label": "HIGH INTEREST",
+        "label_on": "interest",
+        "query": "credit card interest rates",
+        "query2": "financial expert explaining interest",
+        "role": "count",
+        "text": "1 major factor increasing credit card debt"
+      },
+      {
+        "num": 2,
+        "label": "DEBT TRAPS",
+        "label_on": "traps",
+        "query": "person trapped in debt with credit cards",
+        "query2": "financial advisor discussing debt traps",
+        "role": "count",
+        "text": "2 common ways to get trapped in debt"
+      },
+      {
+        "num": 3,
+        "label": "DEBT SOLUTIONS",
+        "label_on": "solutions",
+        "query": "person paying off credit card debt",
+        "query2": "financial expert talking about debt solutions",
+        "role": "count",
+        "text": "3 strategies to pay off credit card debt"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the money mindset they don't teach you.",
+        "query": "The Hidden Costs of Credit Card Debt",
+        "query2": "cinematic nature landscape"
+      }
+    ],
+    "description": "Are you struggling with credit card debt? Learn how to avoid the hidden costs and pay off your debt. Follow us for more financial tips and advice.",
+    "hashtags": [
+      "#creditcarddebt #financialplanning #moneymistakes #debtreduction #shorts #fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "The Money Habit That Separates Winners",
+    "thumb": "FINANCIAL FREEDOM",
+    "scenes": [
+      {
+        "hook_top": "FINANCIAL SCAM",
+        "query": "scam alert sign",
+        "query2": "person looking shocked at financial loss",
+        "role": "hook",
+        "text": "Edward Jones scammed 15K from a family"
+      },
+      {
+        "num": 1,
+        "label": "INVESTING WISELY",
+        "label_on": "investing",
+        "query": "person investing in stocks",
+        "query2": "financial expert discussing investing",
+        "role": "count",
+        "text": "1 key habit of financially successful people"
+      },
+      {
+        "num": 2,
+        "label": "MONEY MISTAKES",
+        "label_on": "mistakes",
+        "query": "person making a money mistake",
+        "query2": "financial advisor talking about mistakes",
+        "role": "count",
+        "text": "2 common money mistakes to avoid"
+      },
+      {
+        "num": 3,
+        "label": "WEALTH BUILDING",
+        "label_on": "wealth",
+        "query": "person building wealth",
+        "query2": "financial expert discussing wealth building",
+        "role": "count",
+        "text": "3 principles for building wealth"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the money mindset they don't teach you.",
+        "query": "The Money Habit That Separates Winners",
+        "query2": "cinematic nature landscape"
+      }
+    ],
+    "description": "What separates financially successful people from others? Learn the key habits and principles to build wealth. Follow us for more financial tips and advice.",
+    "hashtags": [
+      "#financialfreedom #moneymistakes #wealthbuilding #investing #shorts #fyp"
+    ],
+    "place": "",
+    "country": ""
   }
 ]
