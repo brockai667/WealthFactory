@@ -1,0 +1,53 @@
+{
+  "title": "3 Budgeting Mistakes Costing You Money",
+  "thumb": "BUDGETING MISTAKES",
+  "scenes": [
+    {
+      "hook_top": "DRAINING MISTAKES",
+      "query": "common budgeting mistakes",
+      "query2": "budgeting errors",
+      "count": "1",
+      "num": 1,
+      "label": "NOT TRACKING SPENDING",
+      "label_on": "spending tracking",
+      "role": "hook",
+      "text": "These budgeting mistakes are draining your wallet!"
+    },
+    {
+      "num": 2,
+      "label": "FORGETTING IRREGULAR E",
+      "label_on": "irregular expenses",
+      "query": "irregular expenses in budgeting",
+      "query2": "budgeting for unexpected costs",
+      "role": "count",
+      "text": "2"
+    },
+    {
+      "num": 3,
+      "label": "INSUFFICEINT EMERGENCY",
+      "label_on": "emergency fund",
+      "query": "importance of emergency fund",
+      "query2": "building an emergency fund",
+      "role": "count",
+      "text": "3"
+    },
+    {
+      "query": "effective budgeting strategies",
+      "query2": "money management tips",
+      "role": "cta",
+      "text": "Follow for the money mindset they don't teach you."
+    }
+  ],
+  "description": "Avoid these budgeting mistakes that can cost you money! Follow us for better money management tips.",
+  "hashtags": [
+    "#shorts",
+    "#budgetingtips",
+    "#financialadvice",
+    "#moneymanagement",
+    "#savingmoney",
+    "#fyp",
+    "#wealthbuilding"
+  ],
+  "place": "",
+  "country": ""
+}

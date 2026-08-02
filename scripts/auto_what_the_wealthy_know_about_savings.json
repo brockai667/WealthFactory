@@ -1,0 +1,60 @@
+{
+  "title": "What the Wealthy Know About Savings",
+  "thumb": "WEALTHY SAVINGS TIPS",
+  "scenes": [
+    {
+      "hook_top": "RICH PEOPLE SAVE REGULARLY",
+      "fact": "The majority of millionaires save 20% or more of their income.",
+      "chips": [
+        {
+          "t": "20% OR MORE",
+          "on": "millionaires save",
+          "style": "accent"
+        }
+      ],
+      "query": "Wealthy saving statistics",
+      "query2": "Millionaires savings habits",
+      "role": "hook",
+      "text": "90% of wealthy individuals save regularly."
+    },
+    {
+      "chips": [
+        {
+          "t": "DOUBLE IN 10 YEARS",
+          "on": "compounding interest",
+          "style": "white"
+        }
+      ],
+      "query": "Compounding interest effects",
+      "query2": "How compounding works",
+      "role": "fact",
+      "text": "Compounding interest can double savings in about 10 years."
+    },
+    {
+      "label": "Unlock Wealth Growth",
+      "sub": "Implement these habits!",
+      "label_on": "wealthy savings",
+      "query": "Wealth-building saving strategies",
+      "query2": "How the rich save",
+      "role": "callout",
+      "text": "Start Saving Wisely"
+    },
+    {
+      "query": "Wealth tips on social media",
+      "query2": "Finance advice channels",
+      "role": "cta",
+      "text": "Follow for the money mindset they don't teach you."
+    }
+  ],
+  "description": "Wealthy individuals prioritize saving and utilize compounding to their advantage. Learn from their habits to build your wealth! Follow for more insights.",
+  "hashtags": [
+    "#wealthysavings",
+    "#moneyhabits",
+    "#financialfreedom",
+    "#shorts",
+    "#fyp",
+    "#compounding"
+  ],
+  "place": "",
+  "country": ""
+}

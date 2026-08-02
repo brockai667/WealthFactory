@@ -1,0 +1,60 @@
+{
+  "title": "The Unexpected Cost of Financial Illiteracy",
+  "thumb": "FINANCIAL ILLITERACY COSTS",
+  "scenes": [
+    {
+      "hook_top": "AMERICANS LACK FINANCIAL LITERACY",
+      "fact": "Financial illiteracy costs Americans $415 billion annually.",
+      "chips": [
+        {
+          "t": "$415 BILLION",
+          "on": "financial illiteracy",
+          "style": "accent"
+        }
+      ],
+      "query": "Financial literacy statistics",
+      "query2": "Annual cost of financial illiteracy",
+      "role": "hook",
+      "text": "75% of Americans lack financial literacy."
+    },
+    {
+      "chips": [
+        {
+          "t": "17% OF STUDENTS",
+          "on": "personal finance courses",
+          "style": "white"
+        }
+      ],
+      "query": "High school personal finance education",
+      "query2": "Statistics on finance courses to students",
+      "role": "fact",
+      "text": "Only 17% of high school students take personal finance courses."
+    },
+    {
+      "label": "Build Wealth Smartly",
+      "sub": "Start learning today!",
+      "label_on": "personal finance education",
+      "query": "Importance of financial education",
+      "query2": "Benefits of financial literacy",
+      "role": "callout",
+      "text": "Financial Education Matters"
+    },
+    {
+      "query": "Follow financial advice channels",
+      "query2": "Finance tips on social media",
+      "role": "cta",
+      "text": "Follow for daily money habits that actually work."
+    }
+  ],
+  "description": "Understanding financial literacy can save you thousands. Don't let ignorance cost you; learn the essentials now! Follow for actionable insights.",
+  "hashtags": [
+    "#financialliteracy",
+    "#moneytips",
+    "#personalfinance",
+    "#shorts",
+    "#fyp",
+    "#wealthbuilding"
+  ],
+  "place": "",
+  "country": ""
+}

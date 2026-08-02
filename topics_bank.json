@@ -6948,5 +6948,121 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Boost Your 401k by $1000",
+    "thumb": "MAXIMIZE SAVINGS",
+    "scenes": [
+      {
+        "hook_top": "INVESTMENT LOSS",
+        "query": "Edward Jones",
+        "query2": "investment loss",
+        "role": "hook",
+        "text": "Edward Jones lost $15,000"
+      },
+      {
+        "num": 1,
+        "label": "MAX MATCH",
+        "label_on": "maximizing",
+        "query": "401k match",
+        "query2": "retirement savings",
+        "role": "count",
+        "text": "1. Contribute up to the match"
+      },
+      {
+        "num": 2,
+        "label": "TAX ADVANTAGE",
+        "label_on": "tax benefits",
+        "query": "tax-advantaged accounts",
+        "query2": "retirement planning",
+        "role": "count",
+        "text": "2. Use tax-advantaged accounts"
+      },
+      {
+        "num": 3,
+        "label": "AUTO SAVE",
+        "label_on": "automating",
+        "query": "automated savings",
+        "query2": "retirement investing",
+        "role": "count",
+        "text": "3. Automate your contributions"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the money mindset they don't teach you.",
+        "query": "Boost Your 401k by $1000",
+        "query2": "cinematic nature landscape"
+      }
+    ],
+    "description": "Boost your 401k by $1000 with these simple tips. Start maximizing your retirement savings today and secure your financial future. Follow us for more money tips and insights.",
+    "hashtags": [
+      "#401k",
+      "#retirementplanning",
+      "#moneysaving",
+      "#investing",
+      "#financialfreedom",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Save $500 on Your Car Loan",
+    "thumb": "CAR LOAN SAVER",
+    "scenes": [
+      {
+        "hook_top": "CAR LOAN STRUGGLE",
+        "query": "car loan",
+        "query2": "financial hardship",
+        "role": "hook",
+        "text": "Girlfriend can't work, car loan stress"
+      },
+      {
+        "num": 1,
+        "label": "RATE REDUCTION",
+        "label_on": "negotiating",
+        "query": "car loan interest rates",
+        "query2": "loan negotiation",
+        "role": "count",
+        "text": "1. Negotiate a lower interest rate"
+      },
+      {
+        "num": 2,
+        "label": "REFINANCE",
+        "label_on": "refinancing",
+        "query": "car loan refinancing",
+        "query2": "loan refinancing options",
+        "role": "count",
+        "text": "2. Refinance your car loan"
+      },
+      {
+        "num": 3,
+        "label": "BI-WEEKLY PAY",
+        "label_on": "making",
+        "query": "bi-weekly payments",
+        "query2": "loan payment strategies",
+        "role": "count",
+        "text": "3. Make bi-weekly payments"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the wealth lessons school skipped.",
+        "query": "Save $500 on Your Car Loan",
+        "query2": "cinematic nature landscape"
+      }
+    ],
+    "description": "Save $500 on your car loan with these simple tips. Learn how to reduce your car loan stress and secure your financial future. Follow us for more car loan tips and insights.",
+    "hashtags": [
+      "#carloan",
+      "#autofinancing",
+      "#moneysaving",
+      "#loantips",
+      "#financialrelief",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
   }
 ]
