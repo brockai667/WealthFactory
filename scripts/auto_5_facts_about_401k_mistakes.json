@@ -1,0 +1,52 @@
+{
+  "title": "5 Facts About 401k Mistakes",
+  "thumb": "RETIREMENT RISKS",
+  "scenes": [
+    {
+      "hook_top": "NO SAVINGS",
+      "query": "empty wallet",
+      "query2": "retiree portrait",
+      "role": "hook",
+      "text": "25% of retirees have no savings"
+    },
+    {
+      "num": 1,
+      "label": "HIDDEN FEES",
+      "label_on": "fees",
+      "query": "401k statement",
+      "query2": "financial advisor explaining fees",
+      "role": "count",
+      "text": "1 in 3 people don't know their 401k fees"
+    },
+    {
+      "num": 2,
+      "label": "INSUFFICIENT FUNDING",
+      "label_on": "funding",
+      "query": "piggy bank with little money",
+      "query2": "financial planner talking about funding",
+      "role": "count",
+      "text": "2 out of 5 people don't contribute enough"
+    },
+    {
+      "num": 3,
+      "label": "RETIREMENT MISTAKES",
+      "label_on": "mistakes",
+      "query": "senior citizen looking worried",
+      "query2": "financial expert discussing retirement",
+      "role": "count",
+      "text": "3 key mistakes can haunt you in retirement"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you're done staying broke.",
+      "query": "5 Facts About 401k Mistakes",
+      "query2": "cinematic nature landscape"
+    }
+  ],
+  "description": "Are you making these common 401k mistakes? Learn how to avoid them and secure your retirement. Follow us for more financial tips and advice.",
+  "hashtags": [
+    "#401k #retirement #financialplanning #moneymistakes #shorts #fyp"
+  ],
+  "place": "",
+  "country": ""
+}

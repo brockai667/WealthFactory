@@ -1,0 +1,65 @@
+{
+  "title": "Why Traditional Savings Accounts Can Hurt You",
+  "thumb": "SAVINGS ACCOUNT DANGER",
+  "scenes": [
+    {
+      "hook_top": "SAVINGS MAY HURT YOU",
+      "query": "why savings accounts can hurt you",
+      "query2": "savings account disadvantages",
+      "role": "hook",
+      "text": "If you're relying solely on savings accounts, you're losing money."
+    },
+    {
+      "chips": [
+        {
+          "t": "0.05% INTEREST",
+          "on": "interest rate",
+          "style": "white"
+        }
+      ],
+      "punch": "ouch!",
+      "query": "current average savings account interest rate",
+      "query2": "savings account statistics",
+      "role": "fact",
+      "text": "The average savings account interest rate is around 0.05%."
+    },
+    {
+      "chips": [
+        {
+          "t": "3% INFLATION",
+          "on": "inflation rate",
+          "style": "accent"
+        }
+      ],
+      "punch": "rates!",
+      "query": "current inflation rate",
+      "query2": "inflation trends",
+      "role": "fact",
+      "text": "Inflation rates have been around 3% annually."
+    },
+    {
+      "reveal_top": "SAVINGS CAN COST YOU",
+      "query": "loss of purchasing power through savings",
+      "query2": "purchasing power explained",
+      "role": "reveal",
+      "text": "You’re losing purchasing power every year!"
+    },
+    {
+      "query": "smart finance tips",
+      "query2": "financial education",
+      "role": "cta",
+      "text": "Follow for the money mindset they don't teach you."
+    }
+  ],
+  "description": "Relying solely on a savings account can actually harm your financial health. Discover smarter ways to manage your money!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#personalfinance",
+    "#moneytips",
+    "#wealthmanagement",
+    "#financialliteracy"
+  ],
+  "place": "",
+  "country": ""
+}

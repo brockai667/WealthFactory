@@ -1,0 +1,65 @@
+{
+  "title": "The Real Cost of Unexpected Expenses",
+  "thumb": "HIDDEN EXPENSES REVEALED",
+  "scenes": [
+    {
+      "hook_top": "EXPENSES CAN BREAK BUDGET",
+      "query": "impact of unexpected expenses",
+      "query2": "unexpected expenses statistics",
+      "role": "hook",
+      "text": "Unexpected expenses can derail your budget completely."
+    },
+    {
+      "chips": [
+        {
+          "t": "60% CAN'T PAY",
+          "on": "cover a $500 emergency",
+          "style": "white"
+        }
+      ],
+      "punch": "crisis!",
+      "query": "statistics on Americans' savings for emergencies",
+      "query2": "emergency fund statistics",
+      "role": "fact",
+      "text": "Over 60% of Americans can’t cover a $500 emergency."
+    },
+    {
+      "chips": [
+        {
+          "t": "1/3 FACING MEDICAL BILLS",
+          "on": "unplanned medical expenses",
+          "style": "accent"
+        }
+      ],
+      "punch": "surprise!",
+      "query": "statistics on unplanned medical expenses",
+      "query2": "medical expenses impact",
+      "role": "fact",
+      "text": "One-third of Americans face unplanned medical expenses each year."
+    },
+    {
+      "reveal_top": "UNEXPECTED BILLS CAN TRAP YOU",
+      "query": "impact of unexpected expenses on debt",
+      "query2": "debt from unexpected expenses",
+      "role": "reveal",
+      "text": "These expenses lead many into debt!"
+    },
+    {
+      "query": "financial resilience tips",
+      "query2": "personal finance strategies",
+      "role": "cta",
+      "text": "Follow for daily money habits that actually work."
+    }
+  ],
+  "description": "Surprising expenses can catch you off guard and lead to debt. Learn how to prepare and manage these unexpected costs effectively.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#personalfinance",
+    "#moneyhabits",
+    "#budgeting",
+    "#financialplanning"
+  ],
+  "place": "",
+  "country": ""
+}
