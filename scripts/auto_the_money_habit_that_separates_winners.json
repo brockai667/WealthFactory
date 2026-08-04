@@ -1,0 +1,52 @@
+{
+  "title": "The Money Habit That Separates Winners",
+  "thumb": "FINANCIAL FREEDOM",
+  "scenes": [
+    {
+      "hook_top": "FINANCIAL SCAM",
+      "query": "scam alert sign",
+      "query2": "person looking shocked at financial loss",
+      "role": "hook",
+      "text": "Edward Jones scammed 15K from a family"
+    },
+    {
+      "num": 1,
+      "label": "INVESTING WISELY",
+      "label_on": "investing",
+      "query": "person investing in stocks",
+      "query2": "financial expert discussing investing",
+      "role": "count",
+      "text": "1 key habit of financially successful people"
+    },
+    {
+      "num": 2,
+      "label": "MONEY MISTAKES",
+      "label_on": "mistakes",
+      "query": "person making a money mistake",
+      "query2": "financial advisor talking about mistakes",
+      "role": "count",
+      "text": "2 common money mistakes to avoid"
+    },
+    {
+      "num": 3,
+      "label": "WEALTH BUILDING",
+      "label_on": "wealth",
+      "query": "person building wealth",
+      "query2": "financial expert discussing wealth building",
+      "role": "count",
+      "text": "3 principles for building wealth"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the money mindset they don't teach you.",
+      "query": "The Money Habit That Separates Winners",
+      "query2": "cinematic nature landscape"
+    }
+  ],
+  "description": "What separates financially successful people from others? Learn the key habits and principles to build wealth. Follow us for more financial tips and advice.",
+  "hashtags": [
+    "#financialfreedom #moneymistakes #wealthbuilding #investing #shorts #fyp"
+  ],
+  "place": "",
+  "country": ""
+}

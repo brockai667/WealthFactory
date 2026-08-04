@@ -1,0 +1,52 @@
+{
+  "title": "The Hidden Costs of Credit Card Debt",
+  "thumb": "DEBT DANGERS",
+  "scenes": [
+    {
+      "hook_top": "DEBT CRISIS",
+      "query": "credit card statement with high balance",
+      "query2": "person looking stressed with credit cards",
+      "role": "hook",
+      "text": "35K in credit card debt due to gambling"
+    },
+    {
+      "num": 1,
+      "label": "HIGH INTEREST",
+      "label_on": "interest",
+      "query": "credit card interest rates",
+      "query2": "financial expert explaining interest",
+      "role": "count",
+      "text": "1 major factor increasing credit card debt"
+    },
+    {
+      "num": 2,
+      "label": "DEBT TRAPS",
+      "label_on": "traps",
+      "query": "person trapped in debt with credit cards",
+      "query2": "financial advisor discussing debt traps",
+      "role": "count",
+      "text": "2 common ways to get trapped in debt"
+    },
+    {
+      "num": 3,
+      "label": "DEBT SOLUTIONS",
+      "label_on": "solutions",
+      "query": "person paying off credit card debt",
+      "query2": "financial expert talking about debt solutions",
+      "role": "count",
+      "text": "3 strategies to pay off credit card debt"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the money mindset they don't teach you.",
+      "query": "The Hidden Costs of Credit Card Debt",
+      "query2": "cinematic nature landscape"
+    }
+  ],
+  "description": "Are you struggling with credit card debt? Learn how to avoid the hidden costs and pay off your debt. Follow us for more financial tips and advice.",
+  "hashtags": [
+    "#creditcarddebt #financialplanning #moneymistakes #debtreduction #shorts #fyp"
+  ],
+  "place": "",
+  "country": ""
+}
