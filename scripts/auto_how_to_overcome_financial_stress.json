@@ -1,0 +1,64 @@
+{
+  "title": "How to Overcome Financial Stress",
+  "thumb": "STRESS LESS",
+  "scenes": [
+    {
+      "hook_top": "AUDIT STRESS",
+      "query": "tax audit process",
+      "query2": "IRS audit",
+      "role": "hook",
+      "text": "I'm being audited for 2024"
+    },
+    {
+      "chips": [
+        {
+          "t": "1:100",
+          "on": "audit rate",
+          "style": "accent"
+        }
+      ],
+      "query": "tax audit statistics",
+      "query2": "IRS audit rates",
+      "role": "fact",
+      "text": "Around 1 in 100 tax returns are audited each year"
+    },
+    {
+      "chips": [
+        {
+          "t": "64%",
+          "on": "financial stress",
+          "style": "white"
+        }
+      ],
+      "query": "financial stress statistics",
+      "query2": "money worries",
+      "role": "fact",
+      "text": "While 64% of Americans report feeling stressed about their finances"
+    },
+    {
+      "reveal_top": "PLAN AND PREPARE",
+      "query": "financial planning",
+      "query2": "money management",
+      "role": "reveal",
+      "text": "The key to overcoming financial stress is having a plan and being prepared"
+    },
+    {
+      "query": "personal finance advice",
+      "query2": "money management",
+      "role": "cta",
+      "text": "Follow for the wealth lessons school skipped."
+    }
+  ],
+  "description": "Don't let financial stress take over your life. Learn how to create a plan and be prepared for any financial situation. Follow us for more financial tips and start taking control of your finances today!",
+  "hashtags": [
+    "#financialstress",
+    "#moneystress",
+    "#personalfinance",
+    "#financialplanning",
+    "#moneymanagement",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Why 80% of Americans Can't Save Enough",
+  "thumb": "SAVING SECRETS",
+  "scenes": [
+    {
+      "hook_top": "SAVING CRISIS",
+      "query": "American savings statistics",
+      "query2": "US savings rates",
+      "role": "hook",
+      "text": "80% of Americans struggle"
+    },
+    {
+      "chips": [
+        {
+          "t": "7.5%",
+          "on": "savings rate",
+          "style": "accent"
+        }
+      ],
+      "punch": "Shockingly",
+      "query": "US personal savings rate",
+      "query2": "American savings data",
+      "role": "fact",
+      "text": "The average American saves only 7.5% of their income"
+    },
+    {
+      "chips": [
+        {
+          "t": "25%",
+          "on": "top earners",
+          "style": "white"
+        }
+      ],
+      "query": "US income distribution",
+      "query2": "American wealth gap",
+      "role": "fact",
+      "text": "While the top 10% of earners save around 25% of their income"
+    },
+    {
+      "reveal_top": "ALLOCATION OVER INCOME",
+      "query": "budgeting and allocation",
+      "query2": "personal finance strategies",
+      "role": "reveal",
+      "text": "The key to saving is not how much you earn, but how you allocate it"
+    },
+    {
+      "query": "personal finance advice",
+      "query2": "money management",
+      "role": "cta",
+      "text": "Follow for the money mindset they don't teach you."
+    }
+  ],
+  "description": "Discover why many Americans struggle to save and learn how to allocate your income effectively. Follow us for more money tips and start building your savings today!",
+  "hashtags": [
+    "#personalfinance",
+    "#moneysaving",
+    "#savingsrate",
+    "#financeadvice",
+    "#moneymanagement",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

@@ -1,0 +1,64 @@
+{
+  "title": "Should You Buy a House or Invest?",
+  "thumb": "HOUSE VS INVEST",
+  "scenes": [
+    {
+      "hook_top": "HOUSE OR INVEST",
+      "query": "real estate investment",
+      "query2": "housing market trends",
+      "role": "hook",
+      "text": "My advisor says buy a house"
+    },
+    {
+      "chips": [
+        {
+          "t": "$270k",
+          "on": "house price",
+          "style": "accent"
+        }
+      ],
+      "query": "US housing market",
+      "query2": "real estate prices",
+      "role": "fact",
+      "text": "The median US house price is around $270,000"
+    },
+    {
+      "chips": [
+        {
+          "t": "7-8%",
+          "on": "stock returns",
+          "style": "white"
+        }
+      ],
+      "query": "stock market performance",
+      "query2": "investment returns",
+      "role": "fact",
+      "text": "While the average annual return on investment for stocks is around 7-8%"
+    },
+    {
+      "reveal_top": "BOTH HOUSE AND INVEST",
+      "query": "diversified investment portfolio",
+      "query2": "personal finance strategies",
+      "role": "reveal",
+      "text": "It's not a question of either/or, but how to balance both"
+    },
+    {
+      "query": "investment advice",
+      "query2": "personal finance tips",
+      "role": "cta",
+      "text": "Follow for the wealth lessons school skipped."
+    }
+  ],
+  "description": "Deciding between buying a house and investing can be tough. Learn how to balance both and create a diversified investment portfolio. Follow us for more investment insights!",
+  "hashtags": [
+    "#realestate",
+    "#investing",
+    "#personalfinance",
+    "#moneymatters",
+    "#financeadvice",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}
