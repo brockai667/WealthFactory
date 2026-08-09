@@ -1,0 +1,54 @@
+{
+  "title": "Can You Afford a Car Payment?",
+  "thumb": "CAR DEBT",
+  "scenes": [
+    {
+      "hook_top": "CAR DEBT",
+      "query": "car loan",
+      "query2": "auto financing",
+      "role": "hook",
+      "text": "70% of car buyers have a car payment"
+    },
+    {
+      "label": "Car Debt Normal",
+      "query": "car ownership costs",
+      "query2": "transportation expenses",
+      "role": "myth",
+      "text": "A car payment is a normal part of adulthood"
+    },
+    {
+      "label": "Debt Burden",
+      "query": "car loan interest rates",
+      "query2": "debt repayment strategies",
+      "role": "truth",
+      "text": "Car payments can be a significant financial burden"
+    },
+    {
+      "label": "Think Twice",
+      "sub": "Calculate Your Costs",
+      "label_on": "Be Aware",
+      "query": "car buying tips",
+      "query2": "financial planning",
+      "role": "callout",
+      "text": "Consider the true cost of car ownership before buying"
+    },
+    {
+      "query": "money management tips",
+      "query2": "financial experts",
+      "role": "cta",
+      "text": "Follow for the money mindset they don't teach you."
+    }
+  ],
+  "description": "Learn the truth about car payments and debt. Make informed decisions about your financial future. Follow us for more expert advice.",
+  "hashtags": [
+    "#car debt",
+    "#financial planning",
+    "#money tips",
+    "#debt burden",
+    "#shorts",
+    "#fyp",
+    "#personal finance"
+  ],
+  "place": "",
+  "country": ""
+}

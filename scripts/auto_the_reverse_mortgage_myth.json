@@ -1,0 +1,54 @@
+{
+  "title": "The Reverse Mortgage Myth",
+  "thumb": "REVERSE MORTGAGE",
+  "scenes": [
+    {
+      "hook_top": "REVERSE MORTGAGE",
+      "query": "reverse mortgage",
+      "query2": "senior financing",
+      "role": "hook",
+      "text": "1 in 10 seniors consider a reverse mortgage"
+    },
+    {
+      "label": "Risk Free",
+      "query": "reverse mortgage pros and cons",
+      "query2": "senior financial planning",
+      "role": "myth",
+      "text": "Reverse mortgages are a risk-free way to access cash"
+    },
+    {
+      "label": "Risks Involved",
+      "query": "reverse mortgage interest rates",
+      "query2": "senior debt management",
+      "role": "truth",
+      "text": "Reverse mortgages can have significant risks and fees"
+    },
+    {
+      "label": "Be Aware",
+      "sub": "Know Your Options",
+      "label_on": "Take Control",
+      "query": "senior financial resources",
+      "query2": "reverse mortgage counseling",
+      "role": "callout",
+      "text": "Understand the risks before considering a reverse mortgage"
+    },
+    {
+      "query": "senior money management",
+      "query2": "financial planning for seniors",
+      "role": "cta",
+      "text": "Follow for the wealth lessons school skipped."
+    }
+  ],
+  "description": "Discover the truth about reverse mortgages and senior financing. Make informed decisions about your financial future. Follow us for more expert advice.",
+  "hashtags": [
+    "#reverse mortgage",
+    "#senior finance",
+    "#financial planning",
+    "#money tips",
+    "#shorts",
+    "#fyp",
+    "#senior financial planning"
+  ],
+  "place": "",
+  "country": ""
+}

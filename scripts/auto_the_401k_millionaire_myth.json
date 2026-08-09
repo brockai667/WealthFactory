@@ -1,0 +1,54 @@
+{
+  "title": "The 401k Millionaire Myth",
+  "thumb": "RETIRE RICH",
+  "scenes": [
+    {
+      "hook_top": "401K MYTH",
+      "query": "401k account",
+      "query2": "retirement savings",
+      "role": "hook",
+      "text": "1 in 5 Americans have a 401k"
+    },
+    {
+      "label": "401k Enough",
+      "query": "401k limits",
+      "query2": "retirement planning",
+      "role": "myth",
+      "text": "A 401k is enough for retirement"
+    },
+    {
+      "label": "Save More",
+      "query": "retirement savings strategies",
+      "query2": "investment options",
+      "role": "truth",
+      "text": "Most people need additional savings for retirement"
+    },
+    {
+      "label": "Act Now",
+      "sub": "Secure Your Future",
+      "label_on": "Take Control",
+      "query": "financial planning tools",
+      "query2": "savings apps",
+      "role": "callout",
+      "text": "Start saving more today for a secure tomorrow"
+    },
+    {
+      "query": "retirement planning advice",
+      "query2": "financial experts",
+      "role": "cta",
+      "text": "Follow for daily money habits that actually work."
+    }
+  ],
+  "description": "Discover the truth about 401k and retirement savings. Start building a secure financial future today. Follow us for more expert tips.",
+  "hashtags": [
+    "#retirement savings",
+    "#401k",
+    "#financial planning",
+    "#money tips",
+    "#secure future",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

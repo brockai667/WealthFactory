@@ -7257,5 +7257,221 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "The 401k Millionaire Myth",
+    "thumb": "RETIRE RICH",
+    "scenes": [
+      {
+        "hook_top": "401K MYTH",
+        "query": "401k account",
+        "query2": "retirement savings",
+        "role": "hook",
+        "text": "1 in 5 Americans have a 401k"
+      },
+      {
+        "label": "401k Enough",
+        "query": "401k limits",
+        "query2": "retirement planning",
+        "role": "myth",
+        "text": "A 401k is enough for retirement"
+      },
+      {
+        "label": "Save More",
+        "query": "retirement savings strategies",
+        "query2": "investment options",
+        "role": "truth",
+        "text": "Most people need additional savings for retirement"
+      },
+      {
+        "label": "Act Now",
+        "sub": "Secure Your Future",
+        "label_on": "Take Control",
+        "query": "financial planning tools",
+        "query2": "savings apps",
+        "role": "callout",
+        "text": "Start saving more today for a secure tomorrow"
+      },
+      {
+        "query": "retirement planning advice",
+        "query2": "financial experts",
+        "role": "cta",
+        "text": "Follow for daily money habits that actually work."
+      }
+    ],
+    "description": "Discover the truth about 401k and retirement savings. Start building a secure financial future today. Follow us for more expert tips.",
+    "hashtags": [
+      "#retirement savings",
+      "#401k",
+      "#financial planning",
+      "#money tips",
+      "#secure future",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Can You Afford a Car Payment?",
+    "thumb": "CAR DEBT",
+    "scenes": [
+      {
+        "hook_top": "CAR DEBT",
+        "query": "car loan",
+        "query2": "auto financing",
+        "role": "hook",
+        "text": "70% of car buyers have a car payment"
+      },
+      {
+        "label": "Car Debt Normal",
+        "query": "car ownership costs",
+        "query2": "transportation expenses",
+        "role": "myth",
+        "text": "A car payment is a normal part of adulthood"
+      },
+      {
+        "label": "Debt Burden",
+        "query": "car loan interest rates",
+        "query2": "debt repayment strategies",
+        "role": "truth",
+        "text": "Car payments can be a significant financial burden"
+      },
+      {
+        "label": "Think Twice",
+        "sub": "Calculate Your Costs",
+        "label_on": "Be Aware",
+        "query": "car buying tips",
+        "query2": "financial planning",
+        "role": "callout",
+        "text": "Consider the true cost of car ownership before buying"
+      },
+      {
+        "query": "money management tips",
+        "query2": "financial experts",
+        "role": "cta",
+        "text": "Follow for the money mindset they don't teach you."
+      }
+    ],
+    "description": "Learn the truth about car payments and debt. Make informed decisions about your financial future. Follow us for more expert advice.",
+    "hashtags": [
+      "#car debt",
+      "#financial planning",
+      "#money tips",
+      "#debt burden",
+      "#shorts",
+      "#fyp",
+      "#personal finance"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "The Reverse Mortgage Myth",
+    "thumb": "REVERSE MORTGAGE",
+    "scenes": [
+      {
+        "hook_top": "REVERSE MORTGAGE",
+        "query": "reverse mortgage",
+        "query2": "senior financing",
+        "role": "hook",
+        "text": "1 in 10 seniors consider a reverse mortgage"
+      },
+      {
+        "label": "Risk Free",
+        "query": "reverse mortgage pros and cons",
+        "query2": "senior financial planning",
+        "role": "myth",
+        "text": "Reverse mortgages are a risk-free way to access cash"
+      },
+      {
+        "label": "Risks Involved",
+        "query": "reverse mortgage interest rates",
+        "query2": "senior debt management",
+        "role": "truth",
+        "text": "Reverse mortgages can have significant risks and fees"
+      },
+      {
+        "label": "Be Aware",
+        "sub": "Know Your Options",
+        "label_on": "Take Control",
+        "query": "senior financial resources",
+        "query2": "reverse mortgage counseling",
+        "role": "callout",
+        "text": "Understand the risks before considering a reverse mortgage"
+      },
+      {
+        "query": "senior money management",
+        "query2": "financial planning for seniors",
+        "role": "cta",
+        "text": "Follow for the wealth lessons school skipped."
+      }
+    ],
+    "description": "Discover the truth about reverse mortgages and senior financing. Make informed decisions about your financial future. Follow us for more expert advice.",
+    "hashtags": [
+      "#reverse mortgage",
+      "#senior finance",
+      "#financial planning",
+      "#money tips",
+      "#shorts",
+      "#fyp",
+      "#senior financial planning"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "The Bank Bonus Myth",
+    "thumb": "BANK BONUSES",
+    "scenes": [
+      {
+        "hook_top": "BANK BONUSES",
+        "query": "bank bonuses",
+        "query2": "bank promotions",
+        "role": "hook",
+        "text": "$12,625 in bank bonuses is possible"
+      },
+      {
+        "label": "Guaranteed Money",
+        "query": "bank bonus requirements",
+        "query2": "bank promotion terms",
+        "role": "myth",
+        "text": "Bank bonuses are a guaranteed way to make money"
+      },
+      {
+        "label": "Requirements Apply",
+        "query": "bank bonus rules",
+        "query2": "bank promotion restrictions",
+        "role": "truth",
+        "text": "Bank bonuses often come with significant requirements and restrictions"
+      },
+      {
+        "label": "Read Fine Print",
+        "sub": "Know Your Terms",
+        "label_on": "Be Aware",
+        "query": "bank bonus tips",
+        "query2": "personal finance advice",
+        "role": "callout",
+        "text": "Understand the terms before chasing bank bonuses"
+      },
+      {
+        "query": "money management tips",
+        "query2": "financial planning advice",
+        "role": "cta",
+        "text": "Follow for the wealth lessons school skipped."
+      }
+    ],
+    "description": "Learn the truth about bank bonuses and promotions. Make informed decisions about your financial future. Follow us for more expert advice.",
+    "hashtags": [
+      "#bank bonuses",
+      "#financial planning",
+      "#money tips",
+      "#personal finance",
+      "#shorts",
+      "#fyp",
+      "#bank promotions"
+    ],
+    "place": "",
+    "country": ""
   }
 ]
