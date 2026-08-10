@@ -1,0 +1,54 @@
+{
+  "title": "The Bank Bonus Myth",
+  "thumb": "BANK BONUSES",
+  "scenes": [
+    {
+      "hook_top": "BANK BONUSES",
+      "query": "bank bonuses",
+      "query2": "bank promotions",
+      "role": "hook",
+      "text": "$12,625 in bank bonuses is possible"
+    },
+    {
+      "label": "Guaranteed Money",
+      "query": "bank bonus requirements",
+      "query2": "bank promotion terms",
+      "role": "myth",
+      "text": "Bank bonuses are a guaranteed way to make money"
+    },
+    {
+      "label": "Requirements Apply",
+      "query": "bank bonus rules",
+      "query2": "bank promotion restrictions",
+      "role": "truth",
+      "text": "Bank bonuses often come with significant requirements and restrictions"
+    },
+    {
+      "label": "Read Fine Print",
+      "sub": "Know Your Terms",
+      "label_on": "Be Aware",
+      "query": "bank bonus tips",
+      "query2": "personal finance advice",
+      "role": "callout",
+      "text": "Understand the terms before chasing bank bonuses"
+    },
+    {
+      "query": "money management tips",
+      "query2": "financial planning advice",
+      "role": "cta",
+      "text": "Follow for the wealth lessons school skipped."
+    }
+  ],
+  "description": "Learn the truth about bank bonuses and promotions. Make informed decisions about your financial future. Follow us for more expert advice.",
+  "hashtags": [
+    "#bank bonuses",
+    "#financial planning",
+    "#money tips",
+    "#personal finance",
+    "#shorts",
+    "#fyp",
+    "#bank promotions"
+  ],
+  "place": "",
+  "country": ""
+}
