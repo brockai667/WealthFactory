@@ -7473,5 +7473,182 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "What Happens to Forgotten 401k?",
+    "thumb": "NEGLECTED 401K",
+    "scenes": [
+      {
+        "hook_top": "FORGOTTEN 401K",
+        "query": "old 401k statements",
+        "query2": "401k inheritance",
+        "role": "hook",
+        "text": "Inherited a 401k from 1990"
+      },
+      {
+        "chips": [
+          {
+            "t": "$120k",
+            "on": "average 401k",
+            "style": "white"
+          }
+        ],
+        "punch": "average",
+        "query": "401k balance statistics",
+        "query2": "retirement savings",
+        "role": "fact",
+        "text": "The average 401k balance is over $120,000"
+      },
+      {
+        "chips": [
+          {
+            "t": "unclaimed",
+            "on": "lost 401k",
+            "style": "accent"
+          }
+        ],
+        "query": "unclaimed 401k accounts",
+        "query2": "escheatment process",
+        "role": "fact",
+        "text": "Unclaimed 401k accounts can be sent to the state"
+      },
+      {
+        "reveal_top": "CLAIM IT NOW",
+        "query": "claiming inherited 401k",
+        "query2": "401k inheritance process",
+        "role": "reveal",
+        "text": "You can still claim a forgotten 401k after the owner's passing"
+      },
+      {
+        "query": "personal finance tips",
+        "query2": "money advice",
+        "role": "cta",
+        "text": "Follow if you're done staying broke."
+      }
+    ],
+    "description": "Don't let a forgotten 401k go to waste. Learn what happens to inherited 401k accounts and how to claim them. Follow us for more personal finance tips.",
+    "hashtags": [
+      "#401k #inherited #moneytips #personalfinance #retirement #savings"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Is a Car Payment a Bad Idea?",
+    "thumb": "CAR PAYMENT TRAP",
+    "scenes": [
+      {
+        "hook_top": "6 YEAR TRAP",
+        "query": "car loan terms",
+        "query2": "car financing",
+        "role": "hook",
+        "text": "Car payments can last up to 6 years"
+      },
+      {
+        "chips": [
+          {
+            "t": "$500",
+            "on": "car payment",
+            "style": "white"
+          }
+        ],
+        "punch": "average",
+        "query": "car payment statistics",
+        "query2": "car loan rates",
+        "role": "fact",
+        "text": "The average car payment is over $500 per month"
+      },
+      {
+        "chips": [
+          {
+            "t": "50%",
+            "on": "depreciation",
+            "style": "accent"
+          }
+        ],
+        "query": "car depreciation rates",
+        "query2": "car value over time",
+        "role": "fact",
+        "text": "Cars depreciate by up to 50% in the first 3 years"
+      },
+      {
+        "reveal_top": "PAY CASH",
+        "query": "paying cash for a car",
+        "query2": "car buying tips",
+        "role": "reveal",
+        "text": "Paying cash for a car can save you thousands in interest"
+      },
+      {
+        "query": "frugal living tips",
+        "query2": "money advice",
+        "role": "cta",
+        "text": "Follow for daily money habits that actually work."
+      }
+    ],
+    "description": "Think twice before signing up for a car payment. Learn how to avoid the car payment trap and save thousands in interest. Follow us for more money-saving tips.",
+    "hashtags": [
+      "#carpayment #cartips #moneysaving #frugalliving #personalfinance"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "What to Do with Unexpected Wealth",
+    "thumb": "UNEXPECTED WEALTH",
+    "scenes": [
+      {
+        "hook_top": "UNEXPECTED WINDFALL",
+        "query": "inherited wealth",
+        "query2": "sudden wealth",
+        "role": "hook",
+        "text": "Inherited $100,000 unexpectedly"
+      },
+      {
+        "chips": [
+          {
+            "t": "70%",
+            "on": "inheritance",
+            "style": "white"
+          }
+        ],
+        "punch": "statistics",
+        "query": "inheritance statistics",
+        "query2": "sudden wealth management",
+        "role": "fact",
+        "text": "70% of people who receive an inheritance spend it within 3 years"
+      },
+      {
+        "chips": [
+          {
+            "t": "diversified",
+            "on": "investment portfolio",
+            "style": "accent"
+          }
+        ],
+        "query": "diversified investment portfolio",
+        "query2": "wealth growth strategies",
+        "role": "fact",
+        "text": "Investing in a diversified portfolio can help grow wealth over time"
+      },
+      {
+        "reveal_top": "PLAN NOW",
+        "query": "long-term financial planning",
+        "query2": "wealth management tips",
+        "role": "reveal",
+        "text": "Creating a long-term plan can help you keep your unexpected wealth"
+      },
+      {
+        "query": "wealth-building strategies",
+        "query2": "money advice",
+        "role": "cta",
+        "text": "Follow for daily money habits that actually work."
+      }
+    ],
+    "description": "Received unexpected wealth and don't know what to do? Learn how to create a long-term plan and keep your wealth growing. Follow us for more wealth-building tips.",
+    "hashtags": [
+      "#unexpectedwealth #inheritance #wealthmanagement #longtermplanning #moneysaving"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

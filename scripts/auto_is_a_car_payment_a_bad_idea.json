@@ -1,0 +1,59 @@
+{
+  "title": "Is a Car Payment a Bad Idea?",
+  "thumb": "CAR PAYMENT TRAP",
+  "scenes": [
+    {
+      "hook_top": "6 YEAR TRAP",
+      "query": "car loan terms",
+      "query2": "car financing",
+      "role": "hook",
+      "text": "Car payments can last up to 6 years"
+    },
+    {
+      "chips": [
+        {
+          "t": "$500",
+          "on": "car payment",
+          "style": "white"
+        }
+      ],
+      "punch": "average",
+      "query": "car payment statistics",
+      "query2": "car loan rates",
+      "role": "fact",
+      "text": "The average car payment is over $500 per month"
+    },
+    {
+      "chips": [
+        {
+          "t": "50%",
+          "on": "depreciation",
+          "style": "accent"
+        }
+      ],
+      "query": "car depreciation rates",
+      "query2": "car value over time",
+      "role": "fact",
+      "text": "Cars depreciate by up to 50% in the first 3 years"
+    },
+    {
+      "reveal_top": "PAY CASH",
+      "query": "paying cash for a car",
+      "query2": "car buying tips",
+      "role": "reveal",
+      "text": "Paying cash for a car can save you thousands in interest"
+    },
+    {
+      "query": "frugal living tips",
+      "query2": "money advice",
+      "role": "cta",
+      "text": "Follow for daily money habits that actually work."
+    }
+  ],
+  "description": "Think twice before signing up for a car payment. Learn how to avoid the car payment trap and save thousands in interest. Follow us for more money-saving tips.",
+  "hashtags": [
+    "#carpayment #cartips #moneysaving #frugalliving #personalfinance"
+  ],
+  "place": "",
+  "country": ""
+}

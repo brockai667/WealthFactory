@@ -1,0 +1,59 @@
+{
+  "title": "What to Do with Unexpected Wealth",
+  "thumb": "UNEXPECTED WEALTH",
+  "scenes": [
+    {
+      "hook_top": "UNEXPECTED WINDFALL",
+      "query": "inherited wealth",
+      "query2": "sudden wealth",
+      "role": "hook",
+      "text": "Inherited $100,000 unexpectedly"
+    },
+    {
+      "chips": [
+        {
+          "t": "70%",
+          "on": "inheritance",
+          "style": "white"
+        }
+      ],
+      "punch": "statistics",
+      "query": "inheritance statistics",
+      "query2": "sudden wealth management",
+      "role": "fact",
+      "text": "70% of people who receive an inheritance spend it within 3 years"
+    },
+    {
+      "chips": [
+        {
+          "t": "diversified",
+          "on": "investment portfolio",
+          "style": "accent"
+        }
+      ],
+      "query": "diversified investment portfolio",
+      "query2": "wealth growth strategies",
+      "role": "fact",
+      "text": "Investing in a diversified portfolio can help grow wealth over time"
+    },
+    {
+      "reveal_top": "PLAN NOW",
+      "query": "long-term financial planning",
+      "query2": "wealth management tips",
+      "role": "reveal",
+      "text": "Creating a long-term plan can help you keep your unexpected wealth"
+    },
+    {
+      "query": "wealth-building strategies",
+      "query2": "money advice",
+      "role": "cta",
+      "text": "Follow for daily money habits that actually work."
+    }
+  ],
+  "description": "Received unexpected wealth and don't know what to do? Learn how to create a long-term plan and keep your wealth growing. Follow us for more wealth-building tips.",
+  "hashtags": [
+    "#unexpectedwealth #inheritance #wealthmanagement #longtermplanning #moneysaving"
+  ],
+  "place": "",
+  "country": ""
+}

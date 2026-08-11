@@ -1,0 +1,59 @@
+{
+  "title": "What Happens to Forgotten 401k?",
+  "thumb": "NEGLECTED 401K",
+  "scenes": [
+    {
+      "hook_top": "FORGOTTEN 401K",
+      "query": "old 401k statements",
+      "query2": "401k inheritance",
+      "role": "hook",
+      "text": "Inherited a 401k from 1990"
+    },
+    {
+      "chips": [
+        {
+          "t": "$120k",
+          "on": "average 401k",
+          "style": "white"
+        }
+      ],
+      "punch": "average",
+      "query": "401k balance statistics",
+      "query2": "retirement savings",
+      "role": "fact",
+      "text": "The average 401k balance is over $120,000"
+    },
+    {
+      "chips": [
+        {
+          "t": "unclaimed",
+          "on": "lost 401k",
+          "style": "accent"
+        }
+      ],
+      "query": "unclaimed 401k accounts",
+      "query2": "escheatment process",
+      "role": "fact",
+      "text": "Unclaimed 401k accounts can be sent to the state"
+    },
+    {
+      "reveal_top": "CLAIM IT NOW",
+      "query": "claiming inherited 401k",
+      "query2": "401k inheritance process",
+      "role": "reveal",
+      "text": "You can still claim a forgotten 401k after the owner's passing"
+    },
+    {
+      "query": "personal finance tips",
+      "query2": "money advice",
+      "role": "cta",
+      "text": "Follow if you're done staying broke."
+    }
+  ],
+  "description": "Don't let a forgotten 401k go to waste. Learn what happens to inherited 401k accounts and how to claim them. Follow us for more personal finance tips.",
+  "hashtags": [
+    "#401k #inherited #moneytips #personalfinance #retirement #savings"
+  ],
+  "place": "",
+  "country": ""
+}
