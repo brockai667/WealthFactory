@@ -7650,5 +7650,140 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Billionaires' Favorite Asset",
+    "thumb": "INVEST SMART",
+    "scenes": [
+      {
+        "hook_top": "BEZOS' BILLION",
+        "query": "Jeff Bezos",
+        "query2": "billionaire investors",
+        "role": "hook",
+        "text": "Jeff Bezos' $1 billion investment"
+      },
+      {
+        "chips": [
+          {
+            "t": "70%",
+            "on": "assets",
+            "style": "white"
+          }
+        ],
+        "punch": "Assets",
+        "query": "asset allocation",
+        "query2": "investing strategies",
+        "role": "fact",
+        "text": "The wealthy prioritize assets over liabilities"
+      },
+      {
+        "chips": [
+          {
+            "t": "8%",
+            "on": "interest",
+            "style": "accent"
+          }
+        ],
+        "query": "compound interest",
+        "query2": "investing returns",
+        "role": "fact",
+        "text": "Compound interest can grow wealth by 8% annually"
+      },
+      {
+        "label": "Smart Investing",
+        "sub": "Wealth grows",
+        "label_on": "investing",
+        "query": "investment strategies",
+        "query2": "financial planning",
+        "role": "callout",
+        "text": "Invest in assets, not liabilities"
+      },
+      {
+        "query": "investing tips",
+        "query2": "financial advice",
+        "role": "cta",
+        "text": "Follow for the wealth lessons school skipped."
+      }
+    ],
+    "description": "Learn how billionaires like Jeff Bezos invest their money and grow their wealth. Start building your wealth today with smart investing strategies. Follow for daily tips.",
+    "hashtags": [
+      "#investing",
+      "#wealthbuilding",
+      "#financialfreedom",
+      "#smartmoney",
+      "#investors",
+      "#moneytips",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "The $1,000 Emergency Fund",
+    "thumb": "SAVE NOW",
+    "scenes": [
+      {
+        "hook_top": "EMERGENCY FUND",
+        "query": "emergency fund",
+        "query2": "savings rate",
+        "role": "hook",
+        "text": "63% of Americans can't afford $1,000"
+      },
+      {
+        "chips": [
+          {
+            "t": "50%",
+            "on": "stress",
+            "style": "white"
+          }
+        ],
+        "punch": "Stress",
+        "query": "financial stress",
+        "query2": "emergency savings",
+        "role": "fact",
+        "text": "Having an emergency fund reduces financial stress by 50%"
+      },
+      {
+        "chips": [
+          {
+            "t": "3 months",
+            "on": "side hustle",
+            "style": "accent"
+          }
+        ],
+        "query": "side hustles",
+        "query2": "extra income",
+        "role": "fact",
+        "text": "Saving $1,000 can take just 3 months with a side hustle"
+      },
+      {
+        "label": "Financial Peace",
+        "sub": "Save now",
+        "label_on": "savings",
+        "query": "savings tips",
+        "query2": "financial planning",
+        "role": "callout",
+        "text": "Start building your emergency fund today"
+      },
+      {
+        "query": "savings tips",
+        "query2": "financial advice",
+        "role": "cta",
+        "text": "Follow if you're done staying broke."
+      }
+    ],
+    "description": "Learn how to build an emergency fund and reduce financial stress. Start saving $1,000 today and achieve financial peace. Follow for daily tips.",
+    "hashtags": [
+      "#savings",
+      "#emergencyfund",
+      "#financialpeace",
+      "#moneysaving",
+      "#frugalliving",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

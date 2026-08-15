@@ -1,0 +1,68 @@
+{
+  "title": "Billionaires' Favorite Asset",
+  "thumb": "INVEST SMART",
+  "scenes": [
+    {
+      "hook_top": "BEZOS' BILLION",
+      "query": "Jeff Bezos",
+      "query2": "billionaire investors",
+      "role": "hook",
+      "text": "Jeff Bezos' $1 billion investment"
+    },
+    {
+      "chips": [
+        {
+          "t": "70%",
+          "on": "assets",
+          "style": "white"
+        }
+      ],
+      "punch": "Assets",
+      "query": "asset allocation",
+      "query2": "investing strategies",
+      "role": "fact",
+      "text": "The wealthy prioritize assets over liabilities"
+    },
+    {
+      "chips": [
+        {
+          "t": "8%",
+          "on": "interest",
+          "style": "accent"
+        }
+      ],
+      "query": "compound interest",
+      "query2": "investing returns",
+      "role": "fact",
+      "text": "Compound interest can grow wealth by 8% annually"
+    },
+    {
+      "label": "Smart Investing",
+      "sub": "Wealth grows",
+      "label_on": "investing",
+      "query": "investment strategies",
+      "query2": "financial planning",
+      "role": "callout",
+      "text": "Invest in assets, not liabilities"
+    },
+    {
+      "query": "investing tips",
+      "query2": "financial advice",
+      "role": "cta",
+      "text": "Follow for the wealth lessons school skipped."
+    }
+  ],
+  "description": "Learn how billionaires like Jeff Bezos invest their money and grow their wealth. Start building your wealth today with smart investing strategies. Follow for daily tips.",
+  "hashtags": [
+    "#investing",
+    "#wealthbuilding",
+    "#financialfreedom",
+    "#smartmoney",
+    "#investors",
+    "#moneytips",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

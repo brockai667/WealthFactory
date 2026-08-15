@@ -1,0 +1,67 @@
+{
+  "title": "The $1,000 Emergency Fund",
+  "thumb": "SAVE NOW",
+  "scenes": [
+    {
+      "hook_top": "EMERGENCY FUND",
+      "query": "emergency fund",
+      "query2": "savings rate",
+      "role": "hook",
+      "text": "63% of Americans can't afford $1,000"
+    },
+    {
+      "chips": [
+        {
+          "t": "50%",
+          "on": "stress",
+          "style": "white"
+        }
+      ],
+      "punch": "Stress",
+      "query": "financial stress",
+      "query2": "emergency savings",
+      "role": "fact",
+      "text": "Having an emergency fund reduces financial stress by 50%"
+    },
+    {
+      "chips": [
+        {
+          "t": "3 months",
+          "on": "side hustle",
+          "style": "accent"
+        }
+      ],
+      "query": "side hustles",
+      "query2": "extra income",
+      "role": "fact",
+      "text": "Saving $1,000 can take just 3 months with a side hustle"
+    },
+    {
+      "label": "Financial Peace",
+      "sub": "Save now",
+      "label_on": "savings",
+      "query": "savings tips",
+      "query2": "financial planning",
+      "role": "callout",
+      "text": "Start building your emergency fund today"
+    },
+    {
+      "query": "savings tips",
+      "query2": "financial advice",
+      "role": "cta",
+      "text": "Follow if you're done staying broke."
+    }
+  ],
+  "description": "Learn how to build an emergency fund and reduce financial stress. Start saving $1,000 today and achieve financial peace. Follow for daily tips.",
+  "hashtags": [
+    "#savings",
+    "#emergencyfund",
+    "#financialpeace",
+    "#moneysaving",
+    "#frugalliving",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}
