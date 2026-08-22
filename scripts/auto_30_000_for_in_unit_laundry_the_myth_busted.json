@@ -1,0 +1,61 @@
+{
+  "title": "$30,000 for In‑Unit Laundry? The Myth Busted",
+  "thumb": "LAUNDRY MYTH",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "$30,000 could buy a luxury apartment in Manhattan.",
+      "hook_top": "30K LAUNDRY MYTH",
+      "query": "luxury apartment Manhattan price",
+      "query2": "real estate Manhattan",
+      "role": "hook"
+    },
+    {
+      "type": "myth",
+      "text": "Renters who pay $30,000 for in‑unit laundry are saving money.",
+      "label": "Laundry Costs Save Money",
+      "query": "in‑unit laundry cost",
+      "query2": "laundry appliance price",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "truth",
+      "text": "The average cost of a commercial laundry unit is $30–$50 per month, and most renters already pay a similar amount in rent. The upfront $30,000 purchase is a one‑time expense that reduces long‑term cash flow.",
+      "label": "Laundry Costs Don’t Save Cash",
+      "query": "commercial laundry unit cost",
+      "query2": "laundry appliance price",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "Think twice before splurging on appliances you’ll only use once a year.",
+      "label": "Use Wisely",
+      "sub": "Avoid one‑time big spends",
+      "label_on": "spending",
+      "query": "laundry machine usage statistics",
+      "query2": "home appliance usage",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the wealth lessons school skipped.",
+      "query": "smart spending graphic",
+      "query2": "personal finance icons",
+      "role": "cta"
+    }
+  ],
+  "description": "Is a $30,000 in‑unit laundry a smart investment or a cash drain? Find out why the myth fails and how to make better choices. Follow for more money wisdom!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#moneymyth",
+    "#finance",
+    "#budgeting",
+    "#wealthbuilding"
+  ],
+  "place": "",
+  "country": ""
+}

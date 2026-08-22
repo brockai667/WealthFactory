@@ -7785,5 +7785,470 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "$30,000 for In‑Unit Laundry? The Myth Busted",
+    "thumb": "LAUNDRY MYTH",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "$30,000 could buy a luxury apartment in Manhattan.",
+        "hook_top": "30K LAUNDRY MYTH",
+        "query": "luxury apartment Manhattan price",
+        "query2": "real estate Manhattan",
+        "role": "hook"
+      },
+      {
+        "type": "myth",
+        "text": "Renters who pay $30,000 for in‑unit laundry are saving money.",
+        "label": "Laundry Costs Save Money",
+        "query": "in‑unit laundry cost",
+        "query2": "laundry appliance price",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "truth",
+        "text": "The average cost of a commercial laundry unit is $30–$50 per month, and most renters already pay a similar amount in rent. The upfront $30,000 purchase is a one‑time expense that reduces long‑term cash flow.",
+        "label": "Laundry Costs Don’t Save Cash",
+        "query": "commercial laundry unit cost",
+        "query2": "laundry appliance price",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Think twice before splurging on appliances you’ll only use once a year.",
+        "label": "Use Wisely",
+        "sub": "Avoid one‑time big spends",
+        "label_on": "spending",
+        "query": "laundry machine usage statistics",
+        "query2": "home appliance usage",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the wealth lessons school skipped.",
+        "query": "smart spending graphic",
+        "query2": "personal finance icons",
+        "role": "cta"
+      }
+    ],
+    "description": "Is a $30,000 in‑unit laundry a smart investment or a cash drain? Find out why the myth fails and how to make better choices. Follow for more money wisdom!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#moneymyth",
+      "#finance",
+      "#budgeting",
+      "#wealthbuilding"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Is Renting a Bad Idea When You Can Afford to Buy?",
+    "thumb": "RENT OR BUY",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "A 30‑year mortgage payment of $1,200 is cheaper than rent in many cities.",
+        "hook_top": "MORTGAGE VS RENT",
+        "query": "mortgage payment calculator $1200",
+        "query2": "housing cost comparison",
+        "role": "hook"
+      },
+      {
+        "type": "myth",
+        "text": "If you can afford the monthly payment, buying is always better than renting.",
+        "label": "Affordability Equals Ownership",
+        "query": "buy vs rent decision",
+        "query2": "homeownership benefits",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "truth",
+        "text": "Buying adds upfront costs—down payment, closing fees—and ties you to a fixed location. Renting offers flexibility and avoids maintenance costs that can exceed mortgage payments over time.",
+        "label": "Flexibility Matters",
+        "query": "renting maintenance costs",
+        "query2": "home maintenance expenses",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Consider your job stability and future plans before buying.",
+        "label": "Plan First",
+        "sub": "Job stability counts",
+        "label_on": "housing",
+        "query": "job stability graph",
+        "query2": "career planning chart",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if you're done staying broke.",
+        "query": "smart housing decisions infographic",
+        "query2": "home buying guide",
+        "role": "cta"
+      }
+    ],
+    "description": "Buying a home looks great on paper, but is it the right move for you? Discover why renting can sometimes be wiser. Follow for more real estate insights!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#realestate",
+      "#rentvsbuy",
+      "#housing",
+      "#personalfinance"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Can You Afford $500/month Rent on a $2,500 Salary?",
+    "thumb": "RENT AFFORDABILITY",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "What if $500 of your $2,500 paycheck vanished each month?",
+        "hook_top": "500 DOLLARS VANISHING",
+        "query": "rent $500 month",
+        "query2": "affordable rent $500",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "Housing experts say no more than 30% of gross income should go to rent.",
+        "chips": [
+          {
+            "t": "30% RULE",
+            "on": "rule",
+            "style": "accent"
+          }
+        ],
+        "punch": "limit",
+        "query": "30 percent income rent rule",
+        "query2": "housing cost guideline 30%",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "At $2,500 monthly income, 30% equals $750, so $500 rent leaves $250 for utilities and savings.",
+        "chips": [
+          {
+            "t": "$750 MAX",
+            "on": "max",
+            "style": "white"
+          }
+        ],
+        "punch": "balance",
+        "query": "750 rent budget",
+        "query2": "rent budget $750",
+        "role": "fact"
+      },
+      {
+        "type": "callout",
+        "text": "Keep rent under 30% to stay financially healthy.",
+        "label": "Rent Rule",
+        "sub": "Stay below the 30% threshold.",
+        "label_on": "rule",
+        "query": "rent rule 30 percent",
+        "query2": "housing budget rule",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the money mindset they don't teach you.",
+        "query": "follow money tips",
+        "query2": "subscribe finance",
+        "role": "cta"
+      }
+    ],
+    "description": "Learn why the 30% rule matters and how $500 rent fits into a $2,500 salary. Simple math, real impact. Follow for more practical finance hacks.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#rentbudget",
+      "#personalfinance",
+      "#moneytips",
+      "#budgeting"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Why $22,500 Is the Max You Can Stash in a 401(k) This Year",
+    "thumb": "401K LIMIT",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Did you know $22,500 is the exact 401(k) cap for 2024?",
+        "hook_top": "22500 CAP",
+        "query": "401k contribution limit 2024",
+        "query2": "max 401k 2024",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "The IRS raised the employee contribution limit to $22,500 for 2024.",
+        "chips": [
+          {
+            "t": "IRS LIMIT",
+            "on": "IRS",
+            "style": "accent"
+          }
+        ],
+        "punch": "raised",
+        "query": "IRS 401k limit 2024",
+        "query2": "401k contribution $22,500",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "If you’re 50 or older, you can add an extra $7,500 as a catch‑up contribution.",
+        "chips": [
+          {
+            "t": "$7,500 CATCH‑UP",
+            "on": "catchup",
+            "style": "white"
+          }
+        ],
+        "punch": "bonus",
+        "query": "401k catch up contribution 2024",
+        "query2": "extra 401k contribution 50+",
+        "role": "fact"
+      },
+      {
+        "type": "callout",
+        "text": "Max out your 401(k) to harness compounding power.",
+        "label": "Max Out",
+        "sub": "Boost retirement growth today.",
+        "label_on": "max",
+        "query": "max out 401k benefits",
+        "query2": "why max 401k",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for daily money habits that actually work.",
+        "query": "follow retirement tips",
+        "query2": "subscribe finance short",
+        "role": "cta"
+      }
+    ],
+    "description": "Understanding the exact 401(k) limits lets you plan smarter for retirement. Use the full $22,500 (or $30,000 with catch‑up) and watch compounding work. Follow for more actionable retirement advice.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#401k",
+      "#retirement",
+      "#investing",
+      "#moneyhabits",
+      "#wealthbuilding"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "How a $1,200 Annual Credit‑Card Fee Can Drain Your Savings",
+    "thumb": "FEE DRAIN",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "What does a $100 monthly credit‑card fee really cost you?",
+        "hook_top": "100 MONTHLY FEE",
+        "query": "credit card $100 monthly fee",
+        "query2": "high credit card fee",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "A $100 fee each month totals $1,200 per year.",
+        "chips": [
+          {
+            "t": "$1,200 YEARLY",
+            "on": "total",
+            "style": "accent"
+          }
+        ],
+        "punch": "total",
+        "query": "100 dollars per month total yearly",
+        "query2": "annual cost $100 monthly",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "If you earn a 5% after‑tax return, that $1,200 could generate $60 extra profit annually.",
+        "chips": [
+          {
+            "t": "5% RETURN",
+            "on": "return",
+            "style": "white"
+          }
+        ],
+        "punch": "lost",
+        "query": "5 percent investment return $1200",
+        "query2": "lost profit credit card fee",
+        "role": "fact"
+      },
+      {
+        "type": "callout",
+        "text": "Drop high‑fee cards and let your money work for you.",
+        "label": "Ditch Fees",
+        "sub": "Save $1,200 a year instantly.",
+        "label_on": "ditch",
+        "query": "avoid high credit card fees",
+        "query2": "low fee credit cards",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if you're done staying broke.",
+        "query": "follow saving hacks",
+        "query2": "subscribe finance tips",
+        "role": "cta"
+      }
+    ],
+    "description": "A $100 monthly credit‑card fee isn’t just a nuisance—it erodes savings. Learn the hidden cost and how ditching the fee adds $60 in potential earnings. Follow for more concrete money‑saving strategies.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#creditcards",
+      "#fees",
+      "#savemoney",
+      "#personalfinance",
+      "#financialtips"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Can You Afford a $1,200 Car Payment? The Truth",
+    "thumb": "CAR PAYOUT",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "A $1,200 monthly car payment looks affordable on a $5,000 salary.",
+        "hook_top": "1200 CAR PAYOUT",
+        "query": "car payment calculator $1200",
+        "query2": "auto loan payment",
+        "role": "hook"
+      },
+      {
+        "type": "myth",
+        "text": "Car payments that fit 15% of your income are safe.",
+        "label": "15% Car Rule",
+        "query": "car payment 15% rule",
+        "query2": "car finance tip",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "truth",
+        "text": "The 15% rule applies to total debt, not just car payments. A $1,200 payment on a $5,000 salary exceeds 20% of income, leaving little room for emergencies or savings.",
+        "label": "Debt Ratio Matters",
+        "query": "personal debt ratio",
+        "query2": "budget debt percentage",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Balance your budget: keep all debt below 30% of income.",
+        "label": "Debt Balance",
+        "sub": "Keep debt under 30%",
+        "label_on": "budgeting",
+        "query": "budget debt percentage graphic",
+        "query2": "financial planning chart",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow and your future rich self will thank you.",
+        "query": "car buying tips infographic",
+        "query2": "auto finance guide",
+        "role": "cta"
+      }
+    ],
+    "description": "A $1,200 car payment might look doable, but is it really? Learn how debt ratios affect your financial health and stay on track. Follow for more money truths!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#carfinance",
+      "#debtfree",
+      "#budgeting",
+      "#personalfinance"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "The $5,000 Emergency Fund Myth",
+    "thumb": "EMERGENCY MYTH",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "A $5,000 emergency fund can cover a 6‑month rent crisis in 2024.",
+        "hook_top": "5K EMERGENCY FUND",
+        "query": "emergency fund 6 months rent",
+        "query2": "financial safety net",
+        "role": "hook"
+      },
+      {
+        "type": "myth",
+        "text": "Having $5,000 saved means you’re protected from any financial shock.",
+        "label": "$5k Covers All",
+        "query": "emergency fund guidelines",
+        "query2": "financial cushion",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "truth",
+        "text": "The 3‑6 month rule recommends 3–6 times your monthly expenses. If rent is $1,500, you need $4,500–$9,000 to be truly safe. $5,000 works only for lower‑cost households.",
+        "label": "Rule of 3‑6",
+        "query": "emergency fund calculation",
+        "query2": "savings rule",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Build a buffer that matches your real expenses, not a generic number.",
+        "label": "Build Properly",
+        "sub": "Match expenses, not myths",
+        "label_on": "savings",
+        "query": "expense tracking chart",
+        "query2": "budget spreadsheet",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if you're done staying broke.",
+        "query": "personal finance safety infographic",
+        "query2": "savings strategy",
+        "role": "cta"
+      }
+    ],
+    "description": "Think $5,000 is enough? Learn how the emergency fund myth can leave you exposed. Build a true safety net. Follow for more practical money advice!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#emergencyfund",
+      "#savings",
+      "#personalfinance",
+      "#moneymyth"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

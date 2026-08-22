@@ -1,0 +1,61 @@
+{
+  "title": "Is Renting a Bad Idea When You Can Afford to Buy?",
+  "thumb": "RENT OR BUY",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "A 30‑year mortgage payment of $1,200 is cheaper than rent in many cities.",
+      "hook_top": "MORTGAGE VS RENT",
+      "query": "mortgage payment calculator $1200",
+      "query2": "housing cost comparison",
+      "role": "hook"
+    },
+    {
+      "type": "myth",
+      "text": "If you can afford the monthly payment, buying is always better than renting.",
+      "label": "Affordability Equals Ownership",
+      "query": "buy vs rent decision",
+      "query2": "homeownership benefits",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "truth",
+      "text": "Buying adds upfront costs—down payment, closing fees—and ties you to a fixed location. Renting offers flexibility and avoids maintenance costs that can exceed mortgage payments over time.",
+      "label": "Flexibility Matters",
+      "query": "renting maintenance costs",
+      "query2": "home maintenance expenses",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "Consider your job stability and future plans before buying.",
+      "label": "Plan First",
+      "sub": "Job stability counts",
+      "label_on": "housing",
+      "query": "job stability graph",
+      "query2": "career planning chart",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if you're done staying broke.",
+      "query": "smart housing decisions infographic",
+      "query2": "home buying guide",
+      "role": "cta"
+    }
+  ],
+  "description": "Buying a home looks great on paper, but is it the right move for you? Discover why renting can sometimes be wiser. Follow for more real estate insights!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#realestate",
+    "#rentvsbuy",
+    "#housing",
+    "#personalfinance"
+  ],
+  "place": "",
+  "country": ""
+}

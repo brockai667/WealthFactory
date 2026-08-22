@@ -1,0 +1,73 @@
+{
+  "title": "Can You Afford $500/month Rent on a $2,500 Salary?",
+  "thumb": "RENT AFFORDABILITY",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "What if $500 of your $2,500 paycheck vanished each month?",
+      "hook_top": "500 DOLLARS VANISHING",
+      "query": "rent $500 month",
+      "query2": "affordable rent $500",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "Housing experts say no more than 30% of gross income should go to rent.",
+      "chips": [
+        {
+          "t": "30% RULE",
+          "on": "rule",
+          "style": "accent"
+        }
+      ],
+      "punch": "limit",
+      "query": "30 percent income rent rule",
+      "query2": "housing cost guideline 30%",
+      "role": "fact"
+    },
+    {
+      "type": "fact",
+      "text": "At $2,500 monthly income, 30% equals $750, so $500 rent leaves $250 for utilities and savings.",
+      "chips": [
+        {
+          "t": "$750 MAX",
+          "on": "max",
+          "style": "white"
+        }
+      ],
+      "punch": "balance",
+      "query": "750 rent budget",
+      "query2": "rent budget $750",
+      "role": "fact"
+    },
+    {
+      "type": "callout",
+      "text": "Keep rent under 30% to stay financially healthy.",
+      "label": "Rent Rule",
+      "sub": "Stay below the 30% threshold.",
+      "label_on": "rule",
+      "query": "rent rule 30 percent",
+      "query2": "housing budget rule",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the money mindset they don't teach you.",
+      "query": "follow money tips",
+      "query2": "subscribe finance",
+      "role": "cta"
+    }
+  ],
+  "description": "Learn why the 30% rule matters and how $500 rent fits into a $2,500 salary. Simple math, real impact. Follow for more practical finance hacks.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#rentbudget",
+    "#personalfinance",
+    "#moneytips",
+    "#budgeting"
+  ],
+  "place": "",
+  "country": ""
+}
