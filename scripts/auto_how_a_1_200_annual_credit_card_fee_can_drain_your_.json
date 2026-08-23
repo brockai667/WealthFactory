@@ -1,0 +1,74 @@
+{
+  "title": "How a $1,200 Annual Credit‑Card Fee Can Drain Your Savings",
+  "thumb": "FEE DRAIN",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "What does a $100 monthly credit‑card fee really cost you?",
+      "hook_top": "100 MONTHLY FEE",
+      "query": "credit card $100 monthly fee",
+      "query2": "high credit card fee",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "A $100 fee each month totals $1,200 per year.",
+      "chips": [
+        {
+          "t": "$1,200 YEARLY",
+          "on": "total",
+          "style": "accent"
+        }
+      ],
+      "punch": "total",
+      "query": "100 dollars per month total yearly",
+      "query2": "annual cost $100 monthly",
+      "role": "fact"
+    },
+    {
+      "type": "fact",
+      "text": "If you earn a 5% after‑tax return, that $1,200 could generate $60 extra profit annually.",
+      "chips": [
+        {
+          "t": "5% RETURN",
+          "on": "return",
+          "style": "white"
+        }
+      ],
+      "punch": "lost",
+      "query": "5 percent investment return $1200",
+      "query2": "lost profit credit card fee",
+      "role": "fact"
+    },
+    {
+      "type": "callout",
+      "text": "Drop high‑fee cards and let your money work for you.",
+      "label": "Ditch Fees",
+      "sub": "Save $1,200 a year instantly.",
+      "label_on": "ditch",
+      "query": "avoid high credit card fees",
+      "query2": "low fee credit cards",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if you're done staying broke.",
+      "query": "follow saving hacks",
+      "query2": "subscribe finance tips",
+      "role": "cta"
+    }
+  ],
+  "description": "A $100 monthly credit‑card fee isn’t just a nuisance—it erodes savings. Learn the hidden cost and how ditching the fee adds $60 in potential earnings. Follow for more concrete money‑saving strategies.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#creditcards",
+    "#fees",
+    "#savemoney",
+    "#personalfinance",
+    "#financialtips"
+  ],
+  "place": "",
+  "country": ""
+}

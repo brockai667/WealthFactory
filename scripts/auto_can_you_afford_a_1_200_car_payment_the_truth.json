@@ -1,0 +1,61 @@
+{
+  "title": "Can You Afford a $1,200 Car Payment? The Truth",
+  "thumb": "CAR PAYOUT",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "A $1,200 monthly car payment looks affordable on a $5,000 salary.",
+      "hook_top": "1200 CAR PAYOUT",
+      "query": "car payment calculator $1200",
+      "query2": "auto loan payment",
+      "role": "hook"
+    },
+    {
+      "type": "myth",
+      "text": "Car payments that fit 15% of your income are safe.",
+      "label": "15% Car Rule",
+      "query": "car payment 15% rule",
+      "query2": "car finance tip",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "truth",
+      "text": "The 15% rule applies to total debt, not just car payments. A $1,200 payment on a $5,000 salary exceeds 20% of income, leaving little room for emergencies or savings.",
+      "label": "Debt Ratio Matters",
+      "query": "personal debt ratio",
+      "query2": "budget debt percentage",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "Balance your budget: keep all debt below 30% of income.",
+      "label": "Debt Balance",
+      "sub": "Keep debt under 30%",
+      "label_on": "budgeting",
+      "query": "budget debt percentage graphic",
+      "query2": "financial planning chart",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow and your future rich self will thank you.",
+      "query": "car buying tips infographic",
+      "query2": "auto finance guide",
+      "role": "cta"
+    }
+  ],
+  "description": "A $1,200 car payment might look doable, but is it really? Learn how debt ratios affect your financial health and stay on track. Follow for more money truths!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#carfinance",
+    "#debtfree",
+    "#budgeting",
+    "#personalfinance"
+  ],
+  "place": "",
+  "country": ""
+}

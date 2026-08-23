@@ -1,0 +1,74 @@
+{
+  "title": "Why $22,500 Is the Max You Can Stash in a 401(k) This Year",
+  "thumb": "401K LIMIT",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Did you know $22,500 is the exact 401(k) cap for 2024?",
+      "hook_top": "22500 CAP",
+      "query": "401k contribution limit 2024",
+      "query2": "max 401k 2024",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "The IRS raised the employee contribution limit to $22,500 for 2024.",
+      "chips": [
+        {
+          "t": "IRS LIMIT",
+          "on": "IRS",
+          "style": "accent"
+        }
+      ],
+      "punch": "raised",
+      "query": "IRS 401k limit 2024",
+      "query2": "401k contribution $22,500",
+      "role": "fact"
+    },
+    {
+      "type": "fact",
+      "text": "If you’re 50 or older, you can add an extra $7,500 as a catch‑up contribution.",
+      "chips": [
+        {
+          "t": "$7,500 CATCH‑UP",
+          "on": "catchup",
+          "style": "white"
+        }
+      ],
+      "punch": "bonus",
+      "query": "401k catch up contribution 2024",
+      "query2": "extra 401k contribution 50+",
+      "role": "fact"
+    },
+    {
+      "type": "callout",
+      "text": "Max out your 401(k) to harness compounding power.",
+      "label": "Max Out",
+      "sub": "Boost retirement growth today.",
+      "label_on": "max",
+      "query": "max out 401k benefits",
+      "query2": "why max 401k",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for daily money habits that actually work.",
+      "query": "follow retirement tips",
+      "query2": "subscribe finance short",
+      "role": "cta"
+    }
+  ],
+  "description": "Understanding the exact 401(k) limits lets you plan smarter for retirement. Use the full $22,500 (or $30,000 with catch‑up) and watch compounding work. Follow for more actionable retirement advice.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#401k",
+    "#retirement",
+    "#investing",
+    "#moneyhabits",
+    "#wealthbuilding"
+  ],
+  "place": "",
+  "country": ""
+}
