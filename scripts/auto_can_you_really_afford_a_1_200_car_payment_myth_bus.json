@@ -1,0 +1,61 @@
+{
+  "title": "Can You Really Afford a $1,200 Car Payment? Myth Busted",
+  "thumb": "CAR COST MYTH",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "A $1,200 monthly car payment can break your budget in weeks.",
+      "hook_top": "CAR COST BREAKS BUDGET",
+      "query": "car payment $1200 monthly",
+      "query2": "car loan payment",
+      "role": "hook"
+    },
+    {
+      "type": "myth",
+      "text": "Most people think paying $1,200 a month is fine if they have a high income.",
+      "label": "High income = High payment",
+      "query": "car payment affordability high income",
+      "query2": "car payment myth",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "truth",
+      "text": "Financial experts recommend car payments should not exceed 15% of net income; at $1,200, that implies a net income of $8,000/month, which is rare.",
+      "label": "15% income rule",
+      "query": "15% car payment rule",
+      "query2": "car payment guideline",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "Use the 15% rule to check any car payment before signing.",
+      "label": "15% rule",
+      "sub": "Check before you buy",
+      "label_on": "rule",
+      "query": "15% car payment calculator",
+      "query2": "car payment calculator",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the wealth lessons school skipped.",
+      "query": "Can You Really Afford a $1,200 Car Payment? Myth Busted",
+      "query2": "cinematic nature landscape",
+      "role": "cta"
+    }
+  ],
+  "description": "Ever wonder if that $1,200 car payment is realistic? This myth‑buster explains the 15% rule and shows you how to avoid a financial trap. Follow for more budget‑smart tips!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#carpayment",
+    "#budgeting",
+    "#moneymyths",
+    "#finance"
+  ],
+  "place": "",
+  "country": ""
+}

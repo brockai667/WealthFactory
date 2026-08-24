@@ -8191,67 +8191,6 @@
     "country": ""
   },
   {
-    "title": "The $5,000 Emergency Fund Myth",
-    "thumb": "EMERGENCY MYTH",
-    "scenes": [
-      {
-        "type": "hook",
-        "text": "A $5,000 emergency fund can cover a 6‑month rent crisis in 2024.",
-        "hook_top": "5K EMERGENCY FUND",
-        "query": "emergency fund 6 months rent",
-        "query2": "financial safety net",
-        "role": "hook"
-      },
-      {
-        "type": "myth",
-        "text": "Having $5,000 saved means you’re protected from any financial shock.",
-        "label": "$5k Covers All",
-        "query": "emergency fund guidelines",
-        "query2": "financial cushion",
-        "role": "fact",
-        "chips": []
-      },
-      {
-        "type": "truth",
-        "text": "The 3‑6 month rule recommends 3–6 times your monthly expenses. If rent is $1,500, you need $4,500–$9,000 to be truly safe. $5,000 works only for lower‑cost households.",
-        "label": "Rule of 3‑6",
-        "query": "emergency fund calculation",
-        "query2": "savings rule",
-        "role": "fact",
-        "chips": []
-      },
-      {
-        "type": "callout",
-        "text": "Build a buffer that matches your real expenses, not a generic number.",
-        "label": "Build Properly",
-        "sub": "Match expenses, not myths",
-        "label_on": "savings",
-        "query": "expense tracking chart",
-        "query2": "budget spreadsheet",
-        "role": "fact",
-        "chips": []
-      },
-      {
-        "type": "cta",
-        "text": "Follow if you're done staying broke.",
-        "query": "personal finance safety infographic",
-        "query2": "savings strategy",
-        "role": "cta"
-      }
-    ],
-    "description": "Think $5,000 is enough? Learn how the emergency fund myth can leave you exposed. Build a true safety net. Follow for more practical money advice!",
-    "hashtags": [
-      "#shorts",
-      "#fyp",
-      "#emergencyfund",
-      "#savings",
-      "#personalfinance",
-      "#moneymyth"
-    ],
-    "place": "",
-    "country": ""
-  },
-  {
     "title": "Is the 401(k) Max Contribution Myth Keeping You From Wealth?",
     "thumb": "401K MYTH",
     "scenes": [
@@ -8434,6 +8373,336 @@
       "#budgeting",
       "#moneymyths",
       "#finance"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Is a 4% Safe Withdrawal Rate Actually Safe?",
+    "thumb": "SAFE WITHDRAWAL",
+    "scenes": [
+      {
+        "text": "Your $500,000 could shrink 4% annually.",
+        "hook_top": "500K SHRINKS 4",
+        "query": "person holding money bag",
+        "query2": "money bag hand",
+        "role": "hook"
+      },
+      {
+        "text": "Myth: A 4% withdrawal always preserves wealth.",
+        "label": "4% Withdrawal Rule",
+        "query": "person checking retirement plan",
+        "query2": "retirement plan calculator",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Truth: In 2023, 30‑year Treasury yields hit 6%; a 4% rule is riskier than you think.",
+        "label": "Higher Bond Yields",
+        "query": "stock market chart with 6% yield",
+        "query2": "bond yield chart",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Takeaway: Match withdrawals to current market yields.",
+        "label": "Match to Yields",
+        "sub": "Adjust as rates change",
+        "label_on": "Withdraw",
+        "query": "hand adjusting slider on screen",
+        "query2": "slider adjustment",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow for the money mindset they don't teach you.",
+        "query": "person scrolling phone",
+        "query2": "phone scrolling",
+        "role": "cta"
+      }
+    ],
+    "description": "The 4% rule has guided retirees for decades, but rising bond yields make it risky. Learn why adjusting withdrawals to current rates matters. Follow for more money‑smart myths busted!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#retirement",
+      "#withdrawalrate",
+      "#bondyield",
+      "#financialplanning",
+      "#wealthbuilding"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Do You Really Need an Extra $20,000 for In‑Unit Laundry?",
+    "thumb": "LAVAGE LUXURY",
+    "scenes": [
+      {
+        "text": "That $20,000 could buy a 3‑car garage.",
+        "hook_top": "20K BUYS GARAGE",
+        "query": "house with garage",
+        "query2": "garage in home",
+        "role": "hook"
+      },
+      {
+        "text": "Myth: Adding in‑unit laundry justifies $20,000 extra.",
+        "label": "Laundry = 20K",
+        "query": "modern apartment with washer",
+        "query2": "apartment washer",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Truth: In‑unit laundry adds $1,200–$1,800 per year, not $20,000 upfront.",
+        "label": "Laundry Cost $1.2–1.8K",
+        "query": "washer dryer unit cost chart",
+        "query2": "appliance cost chart",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Takeaway: Compare annual running costs to upfront price.",
+        "label": "Run Costs vs Price",
+        "sub": "Save with shared laundry",
+        "label_on": "Compare",
+        "query": "hand comparing two price tags",
+        "query2": "price tags comparison",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow for daily money habits that actually work.",
+        "query": "person scrolling phone",
+        "query2": "phone scrolling",
+        "role": "cta"
+      }
+    ],
+    "description": "Is a $20,000 in‑unit laundry worth it? The annual cost is far lower than the upfront price. Learn how to make smarter housing decisions. Follow for more money‑smart myths busted!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#housing",
+      "#laundry",
+      "#realestate",
+      "#financialliteracy",
+      "#wealthbuilding"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Why Renting Is Costly: $12,000 a Year in Extra Rent",
+    "thumb": "COSTLY RENT",
+    "scenes": [
+      {
+        "hook_top": "RENT IS COSTLY",
+        "query": "apartment rent bill",
+        "query2": "rent receipt",
+        "role": "hook",
+        "text": "Renting can cost you an extra $12,000 each year."
+      },
+      {
+        "chips": [
+          {
+            "t": "$12K",
+            "on": "extra cost",
+            "style": "accent"
+          }
+        ],
+        "punch": "loss",
+        "query": "money flow chart",
+        "query2": "cash flow diagram",
+        "role": "fact",
+        "text": "Renting keeps money out of your wallet and out of your investment pool."
+      },
+      {
+        "chips": [
+          {
+            "t": "4%",
+            "on": "mortgage",
+            "style": "accent"
+          }
+        ],
+        "punch": "equity",
+        "query": "mortgage payment graphic",
+        "query2": "home equity chart",
+        "role": "fact",
+        "text": "Buying a home with a 4% mortgage turns that $12K into equity."
+      },
+      {
+        "label": "Own Future",
+        "sub": "Turn rent into equity",
+        "label_on": "own",
+        "query": "house key",
+        "query2": "home ownership",
+        "role": "callout",
+        "text": "Own the property, own the future."
+      },
+      {
+        "query": "follow button",
+        "query2": "social media icon",
+        "role": "cta",
+        "text": "Follow for daily money habits that actually work."
+      }
+    ],
+    "description": "See how the extra $12,000 you spend on rent each year could instead become home equity, boosting your net worth. Learn the numbers that matter and take control of your future. Follow for more money insights.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#rentvsbuy",
+      "#homeownership",
+      "#investing",
+      "#financialtips",
+      "#wealthbuilding"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Why a $1,200 Car Loan Can Cost You Over $10,000 in Interest",
+    "thumb": "CAR LOAN COSTS",
+    "scenes": [
+      {
+        "hook_top": "CAR LOAN HIDDEN COST",
+        "query": "car loan $1200 interest calculation",
+        "query2": "auto loan interest example",
+        "role": "hook",
+        "text": "A $1,200 car loan could cost you $10,000 in interest."
+      },
+      {
+        "chips": [
+          {
+            "t": "18k",
+            "on": "average",
+            "style": "accent"
+          },
+          {
+            "t": "7%",
+            "on": "APR",
+            "style": "accent"
+          }
+        ],
+        "punch": "Interest",
+        "query": "average US auto loan 18k 7% interest",
+        "query2": "auto loan interest example",
+        "role": "fact",
+        "text": "The average U.S. auto loan is $18,000 with a 7% APR over 60 months, totaling $5,000 interest."
+      },
+      {
+        "chips": [
+          {
+            "t": "$260",
+            "on": "36 months",
+            "style": "accent"
+          },
+          {
+            "t": "$430",
+            "on": "60 months",
+            "style": "accent"
+          }
+        ],
+        "punch": "Term",
+        "query": "car loan 1200 7% 60 months interest",
+        "query2": "auto loan interest calculator",
+        "role": "fact",
+        "text": "A $1,200 loan at 7% over 36 months yields $260 in interest, but a 60‑month term pushes it to $430."
+      },
+      {
+        "reveal_top": "LONG TERM IS CHEAPER",
+        "query": "auto loan term cost comparison",
+        "query2": "car loan payment calculator",
+        "role": "reveal",
+        "text": "Most people think the low monthly payment means low cost, but the longer the term the more you pay overall."
+      },
+      {
+        "query": "Why a $1,200 Car Loan Can Cost You Over $10,000 in Interest",
+        "query2": "cinematic nature landscape",
+        "role": "cta",
+        "text": "Follow if you're done staying broke."
+      }
+    ],
+    "description": "Think a small car loan is a bargain? Think again. The term you choose can double your interest bill. Learn how to avoid hidden costs and keep your money working for you. Follow for more money‑saving hacks.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#carloans",
+      "#finance",
+      "#moneytips"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "The $15,000 Debt That Slows Your Savings Growth",
+    "thumb": "DEBT HINDER",
+    "scenes": [
+      {
+        "hook_top": "DEBT STALLS SAVINGS",
+        "query": "credit card debt 15000 interest rate",
+        "query2": "credit card debt example",
+        "role": "hook",
+        "text": "A $15,000 credit‑card debt can stall your savings for years."
+      },
+      {
+        "chips": [
+          {
+            "t": "7.4k",
+            "on": "average",
+            "style": "accent"
+          },
+          {
+            "t": "17%",
+            "on": "APR",
+            "style": "accent"
+          }
+        ],
+        "punch": "APR",
+        "query": "average credit card debt 7400 17% interest",
+        "query2": "credit card interest example",
+        "role": "fact",
+        "text": "The average U.S. credit‑card debt is $7,400 with a 17% APR, costing $1,250 interest annually."
+      },
+      {
+        "chips": [
+          {
+            "t": "9 yrs",
+            "on": "minimum payment",
+            "style": "accent"
+          },
+          {
+            "t": "$225",
+            "on": "monthly",
+            "style": "accent"
+          }
+        ],
+        "punch": "Years",
+        "query": "credit card minimum payment 15k 17% 9 years",
+        "query2": "credit card payoff calculator",
+        "role": "fact",
+        "text": "A $15,000 balance at 17% takes 9 years to pay off if you only pay the minimum ($225/month)."
+      },
+      {
+        "reveal_top": "DEBT DRIVES DOWN ROI",
+        "query": "investment return vs debt interest",
+        "query2": "investment opportunity cost",
+        "role": "reveal",
+        "text": "Your credit‑card debt is not just interest—it's also a drain on your potential investment returns."
+      },
+      {
+        "query": "The $15,000 Debt That Slows Your Savings Growth",
+        "query2": "cinematic nature landscape",
+        "role": "cta",
+        "text": "Follow if you're done staying broke."
+      }
+    ],
+    "description": "That $15,000 on your card is more than a number—it's a hidden tax on your future wealth. Stop letting high‑interest debt eat into your savings and start building real returns. Follow for more money‑saving hacks.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#debtfree",
+      "#finance",
+      "#moneyhabits"
     ],
     "place": "",
     "country": ""

@@ -1,0 +1,61 @@
+{
+  "title": "Is the 401(k) Max Contribution Myth Keeping You From Wealth?",
+  "thumb": "401K MYTH",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Maxing your 401(k) at $22,500 might not be the smartest move for everyone.",
+      "hook_top": "401K MAX NOT ALWAYS BEST",
+      "query": "401k max contribution 2024",
+      "query2": "401k contribution limit",
+      "role": "hook"
+    },
+    {
+      "type": "myth",
+      "text": "Everyone should contribute the maximum to a 401(k) to build wealth.",
+      "label": "Max 401k = Wealth",
+      "query": "max 401k wealth building",
+      "query2": "401k contribution myth",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "truth",
+      "text": "For high‑income earners, investing beyond the 401(k) in a Roth IRA or taxable brokerage can offer higher tax‑free growth and flexibility.",
+      "label": "Beyond 401k needed",
+      "query": "high income alternative investments",
+      "query2": "invest beyond 401k",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "Diversify beyond the 401(k) for better long‑term returns.",
+      "label": "Diversify now",
+      "sub": "Expand your investment toolkit",
+      "label_on": "diversify",
+      "query": "taxable brokerage vs 401k",
+      "query2": "investment diversification",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for daily money habits that actually work.",
+      "query": "Is the 401(k) Max Contribution Myth Keeping You From Wealth?",
+      "query2": "cinematic nature landscape",
+      "role": "cta"
+    }
+  ],
+  "description": "Is maxing your 401(k) the best way to grow wealth? Learn why high earners may need to look beyond the 401(k) for optimal growth. Follow for more investing insights!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#401k",
+    "#investing",
+    "#personalfinance",
+    "#wealthbuilding"
+  ],
+  "place": "",
+  "country": ""
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Is $1,000 a Month Rent Too Much?",
+  "thumb": "RENT RISK",
+  "scenes": [
+    {
+      "hook_top": "RISKY RENT",
+      "query": "apartment rent $1000",
+      "query2": "rental property",
+      "role": "hook",
+      "text": "A $1,000 monthly rent may be stealing your future."
+    },
+    {
+      "chips": [
+        {
+          "t": "30%",
+          "on": "housing",
+          "style": "accent"
+        }
+      ],
+      "punch": "HOUSING",
+      "query": "household income housing percentage",
+      "query2": "housing costs",
+      "role": "fact",
+      "text": "The average U.S. household spends 30% of income on housing."
+    },
+    {
+      "chips": [
+        {
+          "t": "12%",
+          "on": "retirement",
+          "style": "accent"
+        }
+      ],
+      "punch": "RETIREMENT",
+      "query": "retirement plan statistics",
+      "query2": "retirement savings",
+      "role": "fact",
+      "text": "Only 12% of Americans have a formal retirement plan."
+    },
+    {
+      "reveal_top": "SAVINGS BLOCK",
+      "query": "income allocation savings",
+      "query2": "budgeting chart",
+      "role": "reveal",
+      "text": "Your rent could be the biggest barrier to saving 15% of income."
+    },
+    {
+      "query": "follow line",
+      "query2": "call to action",
+      "role": "cta",
+      "text": "Follow for daily money habits that actually work."
+    }
+  ],
+  "description": "Learn why a $1,000 rent might be draining your savings. 30% of income goes to housing, and only 12% plan for retirement.  Follow for more budget hacks.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#personalfinance",
+    "#budgetingtips",
+    "#retirementplanning",
+    "#housingcosts"
+  ],
+  "place": "",
+  "country": ""
+}
