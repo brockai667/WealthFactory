@@ -1,0 +1,57 @@
+{
+  "title": "Do You Really Need an Extra $20,000 for In‑Unit Laundry?",
+  "thumb": "LAVAGE LUXURY",
+  "scenes": [
+    {
+      "text": "That $20,000 could buy a 3‑car garage.",
+      "hook_top": "20K BUYS GARAGE",
+      "query": "house with garage",
+      "query2": "garage in home",
+      "role": "hook"
+    },
+    {
+      "text": "Myth: Adding in‑unit laundry justifies $20,000 extra.",
+      "label": "Laundry = 20K",
+      "query": "modern apartment with washer",
+      "query2": "apartment washer",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Truth: In‑unit laundry adds $1,200–$1,800 per year, not $20,000 upfront.",
+      "label": "Laundry Cost $1.2–1.8K",
+      "query": "washer dryer unit cost chart",
+      "query2": "appliance cost chart",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Takeaway: Compare annual running costs to upfront price.",
+      "label": "Run Costs vs Price",
+      "sub": "Save with shared laundry",
+      "label_on": "Compare",
+      "query": "hand comparing two price tags",
+      "query2": "price tags comparison",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Follow for daily money habits that actually work.",
+      "query": "person scrolling phone",
+      "query2": "phone scrolling",
+      "role": "cta"
+    }
+  ],
+  "description": "Is a $20,000 in‑unit laundry worth it? The annual cost is far lower than the upfront price. Learn how to make smarter housing decisions. Follow for more money‑smart myths busted!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#housing",
+    "#laundry",
+    "#realestate",
+    "#financialliteracy",
+    "#wealthbuilding"
+  ],
+  "place": "",
+  "country": ""
+}

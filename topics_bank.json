@@ -8706,5 +8706,261 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Why the 4% Withdrawal Rule Can Hurt Your Portfolio",
+    "thumb": "4% IS RISKY",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Withdrawing 4% annually could deplete a $1M nest egg in 30 years.",
+        "hook_top": "4 DEPLETES MONEY",
+        "query": "retirement withdrawal simulation",
+        "query2": "portfolio depletion graph",
+        "role": "hook"
+      },
+      {
+        "type": "myth",
+        "text": "Everyone swears 4% is safe for any retirement plan.",
+        "label": "4% Is Always Safe",
+        "query": "4% retirement rule ad",
+        "query2": "financial advisor 4% rule",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "truth",
+        "text": "Recent studies show a 4% rule is unsafe when bond yields hit 6% or higher, leading to a 50% risk of depletion.",
+        "label": "Higher Yields Increase Risk",
+        "query": "bond yield chart 6% vs 4% rule",
+        "query2": "retirement portfolio risk graph",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Adjust withdrawals to match current market yields.",
+        "label": "Yield‑Based Withdrawals",
+        "sub": "Stay funded longer",
+        "label_on": "adjust",
+        "query": "dynamic withdrawal calculator",
+        "query2": "retirement income strategy",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if you're done staying broke.",
+        "query": "follow button graphic",
+        "query2": "social media follow icon",
+        "role": "cta"
+      }
+    ],
+    "description": "The 4% rule might sound safe, but it can drain your savings if bond yields rise. Adjust your withdrawals based on real‑time market data to protect your nest egg. Follow for smart retirement strategies.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#retirement",
+      "#investing",
+      "#financialplanning",
+      "#wealthtips"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Renting vs. Buying: The $12,000 Hidden Cost of Renting",
+    "thumb": "RENTING IS EXPENSIVE",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Renting a $1,200/month apartment can cost you $12,000 more over 10 years than buying.",
+        "hook_top": "RENTING COSTS MORE",
+        "query": "rent vs buy cost comparison chart",
+        "query2": "apartment rent graphic",
+        "role": "hook"
+      },
+      {
+        "type": "myth",
+        "text": "Renting is always cheaper than owning a home.",
+        "label": "Renting Is Cheaper",
+        "query": "rent vs buy advertisement",
+        "query2": "home buying benefits video",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "truth",
+        "text": "Long‑term studies show owning a home builds equity that offsets higher upfront costs, saving about $12k over 10 years for a $200k home.",
+        "label": "Owning Builds Equity",
+        "query": "home equity growth chart",
+        "query2": "mortgage payment timeline",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Calculate your breakeven point before signing a lease.",
+        "label": "Breakeven Matters",
+        "sub": "Know when to buy",
+        "label_on": "calculate",
+        "query": "breakeven calculator housing",
+        "query2": "home buying decision tool",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for daily money habits that actually work.",
+        "query": "follow button graphic",
+        "query2": "social media follow icon",
+        "role": "cta"
+      }
+    ],
+    "description": "Think renting saves money? Over 10 years, a $1,200/month lease can cost $12,000 more than buying a $200k home. Learn how equity turns rent into an investment. Follow for more real estate money hacks.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#realestate",
+      "#rentvsbuy",
+      "#financialeducation",
+      "#wealthbuilding"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "You Can Pay Off a Car Loan in 30 Days – Here’s How",
+    "thumb": "CAR LOAN ZERO",
+    "scenes": [
+      {
+        "hook_top": "30DAY CAR PAYOFF",
+        "query": "car loan balance 7500",
+        "query2": "car loan",
+        "role": "hook",
+        "text": "Pay off your $7,500 car loan in just 30 days."
+      },
+      {
+        "chips": [
+          {
+            "t": "25%",
+            "on": "extra",
+            "style": "white"
+          }
+        ],
+        "punch": "extra",
+        "query": "car loan payment extra",
+        "query2": "car loan payment",
+        "role": "fact",
+        "text": "Cut the principal by paying 25% extra each month."
+      },
+      {
+        "chips": [
+          {
+            "t": "$1,000",
+            "on": "interest",
+            "style": "accent"
+          }
+        ],
+        "punch": "interest",
+        "query": "car loan interest savings",
+        "query2": "car loan interest",
+        "role": "fact",
+        "text": "A 30‑day payoff saves roughly $1,000 in interest."
+      },
+      {
+        "label": "Pay Early",
+        "sub": "Save on interest",
+        "label_on": "early",
+        "query": "car loan payoff strategy",
+        "query2": "car loan payoff",
+        "role": "callout",
+        "text": "Use the 25% rule to finish early."
+      },
+      {
+        "query": "You Can Pay Off a Car Loan in 30 Days – Here’s How",
+        "query2": "cinematic nature landscape",
+        "role": "cta",
+        "text": "Follow for the wealth lessons school skipped."
+      }
+    ],
+    "description": "Learn a proven method to slash your car loan and save thousands in interest. Start paying off debt faster and reclaim your money. #shorts #fyp #carloan #finance #debtfree #savemoney",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#carloan",
+      "#finance",
+      "#debtfree",
+      "#savemoney"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Why $12,000 a Year in Rent Is Actually Paying Your Mortgage",
+    "thumb": "RENT VS MORTGAGE",
+    "scenes": [
+      {
+        "hook_top": "RENT IS MORTGAGE",
+        "query": "average monthly rent 1000",
+        "query2": "average rent",
+        "role": "hook",
+        "text": "Your $12,000 yearly rent is just $1,000 a month."
+      },
+      {
+        "chips": [
+          {
+            "t": "$1,200",
+            "on": "mortgage",
+            "style": "white"
+          }
+        ],
+        "punch": "mortgage",
+        "query": "median mortgage payment",
+        "query2": "mortgage payment",
+        "role": "fact",
+        "text": "The median U.S. mortgage payment is $1,200 a month."
+      },
+      {
+        "chips": [
+          {
+            "t": "5%",
+            "on": "more",
+            "style": "accent"
+          }
+        ],
+        "punch": "more",
+        "query": "rent vs buy cost difference",
+        "query2": "rent vs buy",
+        "role": "fact",
+        "text": "Renters often pay 5% more for the same living space."
+      },
+      {
+        "label": "Buy vs Rent",
+        "sub": "Long‑term savings",
+        "label_on": "buy",
+        "query": "rent vs buy comparison",
+        "query2": "rent vs buy",
+        "role": "callout",
+        "text": "Buying can be cheaper than renting over 5 years."
+      },
+      {
+        "query": "Why $12,000 a Year in Rent Is Actually Paying Your Mortgage",
+        "query2": "cinematic nature landscape",
+        "role": "cta",
+        "text": "Follow if you're done staying broke."
+      }
+    ],
+    "description": "Discover how renting can cost you more than owning a home and why the $12,000 annual rent may be hiding a hidden mortgage. Make informed housing choices now. #shorts #fyp #rentvsbuy #homeownership #finance #savemoney",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#rentvsbuy",
+      "#homeownership",
+      "#finance",
+      "#savemoney"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

@@ -1,0 +1,68 @@
+{
+  "title": "Why Renting Is Costly: $12,000 a Year in Extra Rent",
+  "thumb": "COSTLY RENT",
+  "scenes": [
+    {
+      "hook_top": "RENT IS COSTLY",
+      "query": "apartment rent bill",
+      "query2": "rent receipt",
+      "role": "hook",
+      "text": "Renting can cost you an extra $12,000 each year."
+    },
+    {
+      "chips": [
+        {
+          "t": "$12K",
+          "on": "extra cost",
+          "style": "accent"
+        }
+      ],
+      "punch": "loss",
+      "query": "money flow chart",
+      "query2": "cash flow diagram",
+      "role": "fact",
+      "text": "Renting keeps money out of your wallet and out of your investment pool."
+    },
+    {
+      "chips": [
+        {
+          "t": "4%",
+          "on": "mortgage",
+          "style": "accent"
+        }
+      ],
+      "punch": "equity",
+      "query": "mortgage payment graphic",
+      "query2": "home equity chart",
+      "role": "fact",
+      "text": "Buying a home with a 4% mortgage turns that $12K into equity."
+    },
+    {
+      "label": "Own Future",
+      "sub": "Turn rent into equity",
+      "label_on": "own",
+      "query": "house key",
+      "query2": "home ownership",
+      "role": "callout",
+      "text": "Own the property, own the future."
+    },
+    {
+      "query": "follow button",
+      "query2": "social media icon",
+      "role": "cta",
+      "text": "Follow for daily money habits that actually work."
+    }
+  ],
+  "description": "See how the extra $12,000 you spend on rent each year could instead become home equity, boosting your net worth. Learn the numbers that matter and take control of your future. Follow for more money insights.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#rentvsbuy",
+    "#homeownership",
+    "#investing",
+    "#financialtips",
+    "#wealthbuilding"
+  ],
+  "place": "",
+  "country": ""
+}

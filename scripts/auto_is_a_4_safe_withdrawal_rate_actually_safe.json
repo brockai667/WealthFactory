@@ -1,0 +1,57 @@
+{
+  "title": "Is a 4% Safe Withdrawal Rate Actually Safe?",
+  "thumb": "SAFE WITHDRAWAL",
+  "scenes": [
+    {
+      "text": "Your $500,000 could shrink 4% annually.",
+      "hook_top": "500K SHRINKS 4",
+      "query": "person holding money bag",
+      "query2": "money bag hand",
+      "role": "hook"
+    },
+    {
+      "text": "Myth: A 4% withdrawal always preserves wealth.",
+      "label": "4% Withdrawal Rule",
+      "query": "person checking retirement plan",
+      "query2": "retirement plan calculator",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Truth: In 2023, 30‑year Treasury yields hit 6%; a 4% rule is riskier than you think.",
+      "label": "Higher Bond Yields",
+      "query": "stock market chart with 6% yield",
+      "query2": "bond yield chart",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Takeaway: Match withdrawals to current market yields.",
+      "label": "Match to Yields",
+      "sub": "Adjust as rates change",
+      "label_on": "Withdraw",
+      "query": "hand adjusting slider on screen",
+      "query2": "slider adjustment",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Follow for the money mindset they don't teach you.",
+      "query": "person scrolling phone",
+      "query2": "phone scrolling",
+      "role": "cta"
+    }
+  ],
+  "description": "The 4% rule has guided retirees for decades, but rising bond yields make it risky. Learn why adjusting withdrawals to current rates matters. Follow for more money‑smart myths busted!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#retirement",
+    "#withdrawalrate",
+    "#bondyield",
+    "#financialplanning",
+    "#wealthbuilding"
+  ],
+  "place": "",
+  "country": ""
+}
