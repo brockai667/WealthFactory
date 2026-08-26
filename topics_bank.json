@@ -8962,5 +8962,352 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "What Happens If You Stop Paying a $20,000 Mortgage?",
+    "thumb": "MORTGAGE STOP",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "What if you halt a $20,000 mortgage payment tomorrow?",
+        "hook_top": "STOP 20K MORTGAGE",
+        "query": "mortgage default consequences $20,000",
+        "query2": "mortgage delinquency $20k",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "label": "GRACE PERIOD",
+        "label_on": "grace",
+        "text": "Many lenders give a 15‑day grace before late fees apply.",
+        "query": "mortgage grace period policy",
+        "query2": "late fee mortgage 15 days",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "label": "CREDIT IMPACT",
+        "label_on": "credit",
+        "text": "A single missed payment can drop your credit score by 30‑50 points.",
+        "query": "credit score drop missed mortgage payment",
+        "query2": "FICO impact late mortgage",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "label": "REPO RISK",
+        "label_on": "repossession",
+        "text": "After 90 days of non‑payment, the lender can start foreclosure proceedings.",
+        "query": "foreclosure timeline 90 days",
+        "query2": "mortgage repossession process",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if you're done staying broke.",
+        "query": "follow button animation",
+        "query2": "subscribe call to action graphic",
+        "role": "cta"
+      }
+    ],
+    "description": "Explore the exact timeline and consequences of stopping payments on a $20k mortgage, from grace periods to credit damage. Stay informed – hit follow for more factual finance insights.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#mortgage",
+      "#credit",
+      "#financialfacts",
+      "#personalfinance"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Why a High‑Yield Savings Account Beats a Regular One",
+    "thumb": "HIGH‑YIELD WIN",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Can a 4.5% APY savings account outpace a 0.5% traditional account?",
+        "hook_top": "45 VS 05 APY",
+        "query": "high yield savings APY 2024",
+        "query2": "traditional savings account interest rate 2024",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "label": "COMPOUNDING POWER",
+        "label_on": "compound",
+        "text": "At 4.5%, $10,000 grows to $12,340 in 5 years; at 0.5% it reaches only $10,255.",
+        "query": "compound interest calculator 4.5% vs 0.5% 5 years",
+        "query2": "savings growth comparison chart",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "label": "FDIC INSURANCE",
+        "label_on": "insurance",
+        "text": "Both accounts are FDIC‑insured up to $250,000, so safety isn’t sacrificed.",
+        "query": "FDIC insurance limits 2024",
+        "query2": "FDIC insured savings accounts",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "label": "ACCESS & FEES",
+        "label_on": "fees",
+        "text": "Most high‑yield accounts have no monthly fees and free online transfers.",
+        "query": "high yield savings account fees 2024",
+        "query2": "no fee online savings account",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for daily money habits that actually work.",
+        "query": "follow button animation",
+        "query2": "subscribe call to action graphic",
+        "role": "cta"
+      }
+    ],
+    "description": "A factual comparison showing how a high‑yield savings account can dramatically boost your emergency fund without extra risk. Follow for more evidence‑based money habits.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#savings",
+      "#highyield",
+      "#personalfinance",
+      "#moneyhabits"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Is a $20,000 One‑Time Purchase Worth It?",
+    "thumb": "20K SPEND TRAP",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Spending $20,000 on a single item sounds thrilling.",
+        "hook_top": "BIG 20K SPEND",
+        "query": "$20,000 one‑time purchase",
+        "query2": "large single expense example",
+        "role": "hook"
+      },
+      {
+        "type": "myth",
+        "text": "People often believe a big purchase equals instant happiness or status.",
+        "label": "Big spend = happiness",
+        "query": "myth big purchase happiness",
+        "query2": "status buying expensive item",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "truth",
+        "text": "Studies show after the first week, satisfaction returns to baseline, while the money could have earned ~7% annual return if invested.",
+        "label": "Money works better invested",
+        "query": "study happiness after big purchase baseline return",
+        "query2": "investment return 7% vs spending",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Ask yourself: could that $20,000 grow to $40,000 in a decade?",
+        "label": "Invest, Don't Splurge",
+        "sub": "Let money compound",
+        "label_on": "Grow",
+        "query": "compound interest $20,000 10 years 7% growth",
+        "query2": "investment growth calculator example",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the wealth lessons school skipped.",
+        "query": "follow for money habits call to action",
+        "query2": "subscribe personal finance tips",
+        "role": "cta"
+      }
+    ],
+    "description": "A $20,000 splurge feels rewarding, but the long‑term impact is often negative. Discover why investing beats instant gratification. Follow for evidence‑based habits.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#moneypsychology",
+      "#investing",
+      "#mythbusting",
+      "#wealthbuilding",
+      "#financialfacts"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Why a 10% Pay‑It‑First Rule Beats Budgeting Every Time",
+    "thumb": "PAY IT FIRST",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "What happens when you auto‑save 10% of every paycheck?",
+        "hook_top": "AUTOSAVE 10",
+        "query": "10% paycheck auto‑save",
+        "query2": "pay yourself first rule",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "Saving just 10% of income can grow to double the net worth of a non‑savvier peer over 30 years, thanks to compounding.",
+        "chips": [
+          {
+            "t": "10% SAVINGS",
+            "on": "saving",
+            "style": "accent"
+          },
+          {
+            "t": "30 YEARS",
+            "on": "years",
+            "style": "white"
+          }
+        ],
+        "punch": "compound",
+        "query": "10% savings compounding 30 years",
+        "query2": "pay yourself first growth",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "The average employer 401(k) match is about 4.5% of salary, effectively giving you free money on each contribution.",
+        "chips": [
+          {
+            "t": "4.5% MATCH",
+            "on": "match",
+            "style": "accent"
+          },
+          {
+            "t": "FREE MONEY",
+            "on": "free",
+            "style": "white"
+          }
+        ],
+        "punch": "free",
+        "query": "average 401k employer match 4.5%",
+        "query2": "401k match percentage",
+        "role": "fact"
+      },
+      {
+        "type": "callout",
+        "text": "Start with 10% and let your employer match boost it—watch your wealth snowball.",
+        "label": "START 10% TODAY",
+        "sub": "Add employer match for faster growth",
+        "label_on": "start",
+        "query": "start 10% savings today",
+        "query2": "how to begin pay yourself first",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow and your future rich self will thank you.",
+        "query": "follow personal finance habit",
+        "query2": "subscribe money habits",
+        "role": "cta"
+      }
+    ],
+    "description": "A quick look at why a simple 10% auto‑save rule outperforms complex budgets. Start building wealth today with one easy tweak. 👉 Follow for more bite‑size finance hacks.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#personalfinance",
+      "#savemoney",
+      "#payyourselffirst",
+      "#wealthtips"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Can a $1,200 Car Payment Be Paid Off Instantly?",
+    "thumb": "PAY OFF FAST",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "$1,200 car payment? See how one extra payment changes everything",
+        "hook_top": "CAR PAYMENT SHOCK",
+        "query": "monthly car payment $1,200",
+        "query2": "auto loan payment amount",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "The average new‑car loan interest rate in the U.S. is about 4.2 % (2023 data).",
+        "chips": [
+          {
+            "t": "4.2% RATE",
+            "on": "interest",
+            "style": "white"
+          }
+        ],
+        "punch": "interest",
+        "query": "average new car loan interest rate 2023",
+        "query2": "U.S. auto loan average rate",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "A 60‑month loan for $30,000 at 4.2 % costs roughly $2,100 in total interest.",
+        "chips": [
+          {
+            "t": "$2,100 INTEREST",
+            "on": "interest",
+            "style": "accent"
+          }
+        ],
+        "punch": "cost",
+        "query": "interest paid on $30,000 car loan 4.2% 60 months",
+        "query2": "total interest auto loan example",
+        "role": "fact"
+      },
+      {
+        "type": "reveal",
+        "text": "Adding ONE extra $1,200 payment at the start slashes the loan term by 12 months and saves about $500 in interest.",
+        "reveal_top": "ONE PAYMENT SAVES",
+        "query": "impact of extra car loan payment early",
+        "query2": "how extra payment reduces loan term",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the money mindset they don't teach you.",
+        "query": "call to action follow finance tips",
+        "query2": "follow for money hacks",
+        "role": "cta"
+      }
+    ],
+    "description": "A single extra car‑loan payment can shave a year off your debt and keep hundreds in your pocket. Try it now and feel the relief.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#personalfinance",
+      "#carlending",
+      "#debtfree",
+      "#moneyhack",
+      "#finance"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

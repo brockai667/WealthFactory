@@ -1,0 +1,74 @@
+{
+  "title": "The $15,000 Debt That Slows Your Savings Growth",
+  "thumb": "DEBT HINDER",
+  "scenes": [
+    {
+      "hook_top": "DEBT STALLS SAVINGS",
+      "query": "credit card debt 15000 interest rate",
+      "query2": "credit card debt example",
+      "role": "hook",
+      "text": "A $15,000 credit‑card debt can stall your savings for years."
+    },
+    {
+      "chips": [
+        {
+          "t": "7.4k",
+          "on": "average",
+          "style": "accent"
+        },
+        {
+          "t": "17%",
+          "on": "APR",
+          "style": "accent"
+        }
+      ],
+      "punch": "APR",
+      "query": "average credit card debt 7400 17% interest",
+      "query2": "credit card interest example",
+      "role": "fact",
+      "text": "The average U.S. credit‑card debt is $7,400 with a 17% APR, costing $1,250 interest annually."
+    },
+    {
+      "chips": [
+        {
+          "t": "9 yrs",
+          "on": "minimum payment",
+          "style": "accent"
+        },
+        {
+          "t": "$225",
+          "on": "monthly",
+          "style": "accent"
+        }
+      ],
+      "punch": "Years",
+      "query": "credit card minimum payment 15k 17% 9 years",
+      "query2": "credit card payoff calculator",
+      "role": "fact",
+      "text": "A $15,000 balance at 17% takes 9 years to pay off if you only pay the minimum ($225/month)."
+    },
+    {
+      "reveal_top": "DEBT DRIVES DOWN ROI",
+      "query": "investment return vs debt interest",
+      "query2": "investment opportunity cost",
+      "role": "reveal",
+      "text": "Your credit‑card debt is not just interest—it's also a drain on your potential investment returns."
+    },
+    {
+      "query": "The $15,000 Debt That Slows Your Savings Growth",
+      "query2": "cinematic nature landscape",
+      "role": "cta",
+      "text": "Follow if you're done staying broke."
+    }
+  ],
+  "description": "That $15,000 on your card is more than a number—it's a hidden tax on your future wealth. Stop letting high‑interest debt eat into your savings and start building real returns. Follow for more money‑saving hacks.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#debtfree",
+    "#finance",
+    "#moneyhabits"
+  ],
+  "place": "",
+  "country": ""
+}
