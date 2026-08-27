@@ -1,0 +1,67 @@
+{
+  "title": "You Can Pay Off a Car Loan in 30 Days – Here’s How",
+  "thumb": "CAR LOAN ZERO",
+  "scenes": [
+    {
+      "hook_top": "30DAY CAR PAYOFF",
+      "query": "car loan balance 7500",
+      "query2": "car loan",
+      "role": "hook",
+      "text": "Pay off your $7,500 car loan in just 30 days."
+    },
+    {
+      "chips": [
+        {
+          "t": "25%",
+          "on": "extra",
+          "style": "white"
+        }
+      ],
+      "punch": "extra",
+      "query": "car loan payment extra",
+      "query2": "car loan payment",
+      "role": "fact",
+      "text": "Cut the principal by paying 25% extra each month."
+    },
+    {
+      "chips": [
+        {
+          "t": "$1,000",
+          "on": "interest",
+          "style": "accent"
+        }
+      ],
+      "punch": "interest",
+      "query": "car loan interest savings",
+      "query2": "car loan interest",
+      "role": "fact",
+      "text": "A 30‑day payoff saves roughly $1,000 in interest."
+    },
+    {
+      "label": "Pay Early",
+      "sub": "Save on interest",
+      "label_on": "early",
+      "query": "car loan payoff strategy",
+      "query2": "car loan payoff",
+      "role": "callout",
+      "text": "Use the 25% rule to finish early."
+    },
+    {
+      "query": "You Can Pay Off a Car Loan in 30 Days – Here’s How",
+      "query2": "cinematic nature landscape",
+      "role": "cta",
+      "text": "Follow for the wealth lessons school skipped."
+    }
+  ],
+  "description": "Learn a proven method to slash your car loan and save thousands in interest. Start paying off debt faster and reclaim your money. #shorts #fyp #carloan #finance #debtfree #savemoney",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#carloan",
+    "#finance",
+    "#debtfree",
+    "#savemoney"
+  ],
+  "place": "",
+  "country": ""
+}

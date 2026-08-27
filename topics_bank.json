@@ -9309,5 +9309,426 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "The 3 Money Hacks Millionaires Use Every Day",
+    "thumb": "MILLIONAIRE HACKS",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "What 3 habits let the ultra‑rich grow wealth while you sleep?",
+        "hook_top": "3 HABITS RICH USE",
+        "query": "wealthy daily money habits",
+        "query2": "millionaire habits finance",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "text": "Pay yourself first – automatically move 10% of every paycheck into a high‑yield savings or investment account.",
+        "label": "PAY YOURSELF FIRST",
+        "label_on": "PayFirst",
+        "query": "automatic paycheck savings 10% high yield account",
+        "query2": "pay yourself first budgeting rule",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "text": "Use the Rule of 72 – at a 9% annual return your money doubles roughly every 8 years, so let compounding work.",
+        "label": "RULE OF 72",
+        "label_on": "Rule72",
+        "query": "Rule of 72 compounding example 9% return",
+        "query2": "investment doubling time rule",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "text": "Avoid lifestyle inflation – keep expenses flat even when income rises, funnel extra cash into investments.",
+        "label": "NO LIFESTYLE INFLATION",
+        "label_on": "NoInflate",
+        "query": "lifestyle inflation avoidance wealth building",
+        "query2": "keeping expenses flat while earning more",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the wealth lessons school skipped.",
+        "query": "call to action follow button",
+        "query2": "social media follow prompt",
+        "role": "cta"
+      }
+    ],
+    "description": "Learn three proven, concrete habits that let the wealthy keep growing their net worth. Apply them today and watch your money work for you.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#personalfinance",
+      "#wealthhabits",
+      "#compoundinterest",
+      "#budgettips"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "3 Simple Tricks to Boost Your Savings Instantly",
+    "thumb": "SAVE QUICKLY",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Want to add $500 to your emergency fund in just 30 days?",
+        "hook_top": "ADD 500 QUICK",
+        "query": "increase emergency fund $500 30 days",
+        "query2": "quick savings boost methods",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "text": "Round‑up every purchase – link your card to an app that saves the cents difference to a dedicated account.",
+        "label": "ROUND‑UP SAVINGS",
+        "label_on": "RoundUp",
+        "query": "round‑up savings app example",
+        "query2": "micro‑saving round up feature",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "text": "Implement a 24‑hour rule – wait a day before any non‑essential spend; you’ll cancel most impulse buys.",
+        "label": "24‑HOUR RULE",
+        "label_on": "WaitDay",
+        "query": "24 hour rule impulse spending",
+        "query2": "delay purchase habit savings",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "text": "Set a “pay yourself first” auto‑transfer of $15‑$20 each payday into a high‑yield account.",
+        "label": "AUTO PAY‑YOU‑FIRST",
+        "label_on": "AutoPay",
+        "query": "automatic paycheck transfer high yield account",
+        "query2": "auto pay yourself first budgeting",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow and your future rich self will thank you.",
+        "query": "call to action follow button",
+        "query2": "social media follow prompt",
+        "role": "cta"
+      }
+    ],
+    "description": "Three proven, no‑fluff actions you can start today to grow your emergency fund fast. Simple, repeatable, effective.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#savingtips",
+      "#financialfreedom",
+      "#budgethack",
+      "#emergencyfund"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Why 30% Think Credit Cards Destroy Wealth – The Real Deal",
+    "thumb": "CREDIT CARD MYTH",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "30% of Americans believe credit cards ruin wealth",
+        "hook_top": "30 THINK CARD FAIL",
+        "query": "credit card usage statistics United States",
+        "query2": "percentage of Americans who think credit cards are bad",
+        "role": "hook"
+      },
+      {
+        "type": "myth",
+        "text": "Most people think any credit card debt means you’ll never build wealth.",
+        "label": "Credit cards always harmful",
+        "query": "common belief credit card debt wealth",
+        "query2": "myth credit cards ruin finances",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "truth",
+        "text": "When paid in full each month, credit cards can boost your credit score and earn rewards that add to net worth.",
+        "label": "Cards can build wealth",
+        "query": "credit card rewards building net worth",
+        "query2": "paying credit cards in full credit score benefit",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Pay in full, earn rewards, watch your score rise.",
+        "label": "Pay, Earn, Grow",
+        "sub": "Use cards responsibly to gain credit and cash back.",
+        "label_on": "responsible",
+        "query": "responsible credit card use tips",
+        "query2": "how to use credit cards without debt",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the wealth lessons school skipped.",
+        "query": "follow call to action text",
+        "query2": "social media CTA follow",
+        "role": "cta"
+      }
+    ],
+    "description": "Many avoid credit cards fearing debt, but smart use can actually grow your net worth. Learn the simple rule that keeps you safe and earning.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#moneytips",
+      "#creditcards",
+      "#wealthbuilding",
+      "#personalfinance",
+      "#mythbusted"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "The $12,000 Rent Myth – Why Renting Isn’t Always a Money Drain",
+    "thumb": "RENT MYTH BUSTED",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Renters lose $12,000 a year compared to owners, right?",
+        "hook_top": "12K RENT LOSS",
+        "query": "average annual rent vs mortgage cost difference",
+        "query2": "renters lose 12000 per year rent vs buy",
+        "role": "hook"
+      },
+      {
+        "type": "myth",
+        "text": "Everyone assumes renting always costs $12,000 more each year than buying.",
+        "label": "Rent always loses money",
+        "query": "myth rent costs more than buying by $12k",
+        "query2": "common belief rent wastes money",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "truth",
+        "text": "If you stay less than 5‑7 years, lower maintenance and flexibility often make renting cheaper than owning.",
+        "label": "Rent can be cheaper short‑term",
+        "query": "rent cheaper than buy short term analysis",
+        "query2": "when renting is financially smarter than buying",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Count your horizon, not just monthly rent.",
+        "label": "Time Horizon Matters",
+        "sub": "Short stays: rent wins; long stays: buy may win.",
+        "label_on": "horizon",
+        "query": "rent vs buy time horizon financial guide",
+        "query2": "how long to stay before buying makes sense",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the money mindset they don't teach you.",
+        "query": "follow call to action text",
+        "query2": "social media CTA follow",
+        "role": "cta"
+      }
+    ],
+    "description": "The $12,000 myth oversimplifies a complex decision. Discover when renting actually saves you money and when buying becomes the better play.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#rentvsbuy",
+      "#personalfinance",
+      "#moneyhabits",
+      "#mythbusted",
+      "#realestate"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Can You Save $500 Monthly on a $3,200 Salary?",
+    "thumb": "SAVE $500",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "What if you could stash $500 every month on a $3,200 paycheck?",
+        "hook_top": "SAVE 500 MONTHLY",
+        "query": "monthly savings $500 on $3,200 salary",
+        "query2": "budgeting $500 extra income",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "The 50/30/20 rule suggests allocating 20% of net income to savings – that’s $640 on a $3,200 net pay.",
+        "chips": [
+          {
+            "t": "20% SAVINGS",
+            "on": "percent",
+            "style": "accent"
+          },
+          {
+            "t": "$640 MONTHLY",
+            "on": "dollar",
+            "style": "white"
+          }
+        ],
+        "punch": "simple",
+        "query": "50/30/20 rule 20% savings $3,200 net",
+        "query2": "budget rule 20 percent savings",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "Cutting a $150 streaming bundle, $100 take‑out, and $200 grocery brand upgrades frees exactly $450 each month.",
+        "chips": [
+          {
+            "t": "$150 STREAMING",
+            "on": "streaming",
+            "style": "white"
+          },
+          {
+            "t": "$100 TAKE‑OUT",
+            "on": "food",
+            "style": "white"
+          }
+        ],
+        "query": "saving $150 streaming $100 takeout $200 grocery brands",
+        "query2": "budget cuts $450 monthly",
+        "role": "fact"
+      },
+      {
+        "type": "callout",
+        "text": "Trim three common expenses and watch your savings jump.",
+        "label": "CUT & SAVE",
+        "sub": "Three tiny cuts = $450 extra each month",
+        "label_on": "cut",
+        "query": "common expense cuts $450 monthly",
+        "query2": "budget trim three expenses",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if you're done staying broke.",
+        "query": "follow budgeting hacks",
+        "query2": "subscribe money tips",
+        "role": "cta"
+      }
+    ],
+    "description": "Learn a proven 3‑step expense trim that adds $450 to your savings without drastic lifestyle changes. Start building a habit that compounds fast.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#budgettips",
+      "#savemoney",
+      "#personalfinance",
+      "#payyourselffirst",
+      "#financialhabits"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Why 30‑Year Bonds Aren’t a Safe ‘Set‑and‑Forget’ Bet",
+    "thumb": "BONDS MYTH",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Is a 30‑year Treasury at 6% really a risk‑free retirement plan?",
+        "hook_top": "30YEAR BOND MYTH",
+        "query": "30 year treasury 6% safe retirement",
+        "query2": "long term bond risk free myth",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "Historically, 30‑year US Treasury yields average about 4.5% over the past 30 years, not the current 6% spike.",
+        "chips": [
+          {
+            "t": "4.5% AVG YIELD",
+            "on": "average",
+            "style": "accent"
+          },
+          {
+            "t": "30‑YEAR TREASURY",
+            "on": "bond",
+            "style": "white"
+          }
+        ],
+        "punch": "historical",
+        "query": "average 30 year treasury yield 4.5 percent",
+        "query2": "historical long term bond yields",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "At 6% inflation, a bond’s real return turns negative – you lose purchasing power each year.",
+        "chips": [
+          {
+            "t": "6% INFLATION",
+            "on": "inflation",
+            "style": "white"
+          },
+          {
+            "t": "NEGATIVE REAL",
+            "on": "real return",
+            "style": "accent"
+          }
+        ],
+        "query": "inflation 6% negative real return bonds",
+        "query2": "bond real return vs inflation",
+        "role": "fact"
+      },
+      {
+        "type": "callout",
+        "text": "Don’t rely on a single bond – diversify with stocks and inflation‑protected assets.",
+        "label": "DIVERSIFY",
+        "sub": "Mix bonds, stocks, TIPS for real growth",
+        "label_on": "diversify",
+        "query": "diversify portfolio bonds stocks TIPS",
+        "query2": "balanced investment mix",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if you're done staying broke.",
+        "query": "follow investing advice",
+        "query2": "subscribe finance tips",
+        "role": "cta"
+      }
+    ],
+    "description": "A 6% yield looks tempting, but inflation can erase those gains. Discover why diversification beats the “set‑and‑forget” bond myth.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#investing",
+      "#bonds",
+      "#inflation",
+      "#personalfinance",
+      "#wealthbuilding",
+      "#financialliteracy"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

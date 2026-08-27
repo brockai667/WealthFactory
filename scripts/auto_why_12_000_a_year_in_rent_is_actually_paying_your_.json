@@ -1,0 +1,67 @@
+{
+  "title": "Why $12,000 a Year in Rent Is Actually Paying Your Mortgage",
+  "thumb": "RENT VS MORTGAGE",
+  "scenes": [
+    {
+      "hook_top": "RENT IS MORTGAGE",
+      "query": "average monthly rent 1000",
+      "query2": "average rent",
+      "role": "hook",
+      "text": "Your $12,000 yearly rent is just $1,000 a month."
+    },
+    {
+      "chips": [
+        {
+          "t": "$1,200",
+          "on": "mortgage",
+          "style": "white"
+        }
+      ],
+      "punch": "mortgage",
+      "query": "median mortgage payment",
+      "query2": "mortgage payment",
+      "role": "fact",
+      "text": "The median U.S. mortgage payment is $1,200 a month."
+    },
+    {
+      "chips": [
+        {
+          "t": "5%",
+          "on": "more",
+          "style": "accent"
+        }
+      ],
+      "punch": "more",
+      "query": "rent vs buy cost difference",
+      "query2": "rent vs buy",
+      "role": "fact",
+      "text": "Renters often pay 5% more for the same living space."
+    },
+    {
+      "label": "Buy vs Rent",
+      "sub": "Long‑term savings",
+      "label_on": "buy",
+      "query": "rent vs buy comparison",
+      "query2": "rent vs buy",
+      "role": "callout",
+      "text": "Buying can be cheaper than renting over 5 years."
+    },
+    {
+      "query": "Why $12,000 a Year in Rent Is Actually Paying Your Mortgage",
+      "query2": "cinematic nature landscape",
+      "role": "cta",
+      "text": "Follow if you're done staying broke."
+    }
+  ],
+  "description": "Discover how renting can cost you more than owning a home and why the $12,000 annual rent may be hiding a hidden mortgage. Make informed housing choices now. #shorts #fyp #rentvsbuy #homeownership #finance #savemoney",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#rentvsbuy",
+    "#homeownership",
+    "#finance",
+    "#savemoney"
+  ],
+  "place": "",
+  "country": ""
+}
