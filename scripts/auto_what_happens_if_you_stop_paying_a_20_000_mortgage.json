@@ -1,0 +1,65 @@
+{
+  "title": "What Happens If You Stop Paying a $20,000 Mortgage?",
+  "thumb": "MORTGAGE STOP",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "What if you halt a $20,000 mortgage payment tomorrow?",
+      "hook_top": "STOP 20K MORTGAGE",
+      "query": "mortgage default consequences $20,000",
+      "query2": "mortgage delinquency $20k",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "label": "GRACE PERIOD",
+      "label_on": "grace",
+      "text": "Many lenders give a 15‑day grace before late fees apply.",
+      "query": "mortgage grace period policy",
+      "query2": "late fee mortgage 15 days",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "label": "CREDIT IMPACT",
+      "label_on": "credit",
+      "text": "A single missed payment can drop your credit score by 30‑50 points.",
+      "query": "credit score drop missed mortgage payment",
+      "query2": "FICO impact late mortgage",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "label": "REPO RISK",
+      "label_on": "repossession",
+      "text": "After 90 days of non‑payment, the lender can start foreclosure proceedings.",
+      "query": "foreclosure timeline 90 days",
+      "query2": "mortgage repossession process",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if you're done staying broke.",
+      "query": "follow button animation",
+      "query2": "subscribe call to action graphic",
+      "role": "cta"
+    }
+  ],
+  "description": "Explore the exact timeline and consequences of stopping payments on a $20k mortgage, from grace periods to credit damage. Stay informed – hit follow for more factual finance insights.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#mortgage",
+    "#credit",
+    "#financialfacts",
+    "#personalfinance"
+  ],
+  "place": "",
+  "country": ""
+}

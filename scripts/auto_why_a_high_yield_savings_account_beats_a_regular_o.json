@@ -1,0 +1,65 @@
+{
+  "title": "Why a High‑Yield Savings Account Beats a Regular One",
+  "thumb": "HIGH‑YIELD WIN",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Can a 4.5% APY savings account outpace a 0.5% traditional account?",
+      "hook_top": "45 VS 05 APY",
+      "query": "high yield savings APY 2024",
+      "query2": "traditional savings account interest rate 2024",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "label": "COMPOUNDING POWER",
+      "label_on": "compound",
+      "text": "At 4.5%, $10,000 grows to $12,340 in 5 years; at 0.5% it reaches only $10,255.",
+      "query": "compound interest calculator 4.5% vs 0.5% 5 years",
+      "query2": "savings growth comparison chart",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "label": "FDIC INSURANCE",
+      "label_on": "insurance",
+      "text": "Both accounts are FDIC‑insured up to $250,000, so safety isn’t sacrificed.",
+      "query": "FDIC insurance limits 2024",
+      "query2": "FDIC insured savings accounts",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "label": "ACCESS & FEES",
+      "label_on": "fees",
+      "text": "Most high‑yield accounts have no monthly fees and free online transfers.",
+      "query": "high yield savings account fees 2024",
+      "query2": "no fee online savings account",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for daily money habits that actually work.",
+      "query": "follow button animation",
+      "query2": "subscribe call to action graphic",
+      "role": "cta"
+    }
+  ],
+  "description": "A factual comparison showing how a high‑yield savings account can dramatically boost your emergency fund without extra risk. Follow for more evidence‑based money habits.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#savings",
+    "#highyield",
+    "#personalfinance",
+    "#moneyhabits"
+  ],
+  "place": "",
+  "country": ""
+}

@@ -1,0 +1,62 @@
+{
+  "title": "Is a $20,000 One‑Time Purchase Worth It?",
+  "thumb": "20K SPEND TRAP",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Spending $20,000 on a single item sounds thrilling.",
+      "hook_top": "BIG 20K SPEND",
+      "query": "$20,000 one‑time purchase",
+      "query2": "large single expense example",
+      "role": "hook"
+    },
+    {
+      "type": "myth",
+      "text": "People often believe a big purchase equals instant happiness or status.",
+      "label": "Big spend = happiness",
+      "query": "myth big purchase happiness",
+      "query2": "status buying expensive item",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "truth",
+      "text": "Studies show after the first week, satisfaction returns to baseline, while the money could have earned ~7% annual return if invested.",
+      "label": "Money works better invested",
+      "query": "study happiness after big purchase baseline return",
+      "query2": "investment return 7% vs spending",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "Ask yourself: could that $20,000 grow to $40,000 in a decade?",
+      "label": "Invest, Don't Splurge",
+      "sub": "Let money compound",
+      "label_on": "Grow",
+      "query": "compound interest $20,000 10 years 7% growth",
+      "query2": "investment growth calculator example",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the wealth lessons school skipped.",
+      "query": "follow for money habits call to action",
+      "query2": "subscribe personal finance tips",
+      "role": "cta"
+    }
+  ],
+  "description": "A $20,000 splurge feels rewarding, but the long‑term impact is often negative. Discover why investing beats instant gratification. Follow for evidence‑based habits.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#moneypsychology",
+    "#investing",
+    "#mythbusting",
+    "#wealthbuilding",
+    "#financialfacts"
+  ],
+  "place": "",
+  "country": ""
+}
