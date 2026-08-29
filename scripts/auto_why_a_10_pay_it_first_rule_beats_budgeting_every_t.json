@@ -1,0 +1,83 @@
+{
+  "title": "Why a 10% Pay‑It‑First Rule Beats Budgeting Every Time",
+  "thumb": "PAY IT FIRST",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "What happens when you auto‑save 10% of every paycheck?",
+      "hook_top": "AUTOSAVE 10",
+      "query": "10% paycheck auto‑save",
+      "query2": "pay yourself first rule",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "Saving just 10% of income can grow to double the net worth of a non‑savvier peer over 30 years, thanks to compounding.",
+      "chips": [
+        {
+          "t": "10% SAVINGS",
+          "on": "saving",
+          "style": "accent"
+        },
+        {
+          "t": "30 YEARS",
+          "on": "years",
+          "style": "white"
+        }
+      ],
+      "punch": "compound",
+      "query": "10% savings compounding 30 years",
+      "query2": "pay yourself first growth",
+      "role": "fact"
+    },
+    {
+      "type": "fact",
+      "text": "The average employer 401(k) match is about 4.5% of salary, effectively giving you free money on each contribution.",
+      "chips": [
+        {
+          "t": "4.5% MATCH",
+          "on": "match",
+          "style": "accent"
+        },
+        {
+          "t": "FREE MONEY",
+          "on": "free",
+          "style": "white"
+        }
+      ],
+      "punch": "free",
+      "query": "average 401k employer match 4.5%",
+      "query2": "401k match percentage",
+      "role": "fact"
+    },
+    {
+      "type": "callout",
+      "text": "Start with 10% and let your employer match boost it—watch your wealth snowball.",
+      "label": "START 10% TODAY",
+      "sub": "Add employer match for faster growth",
+      "label_on": "start",
+      "query": "start 10% savings today",
+      "query2": "how to begin pay yourself first",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow and your future rich self will thank you.",
+      "query": "follow personal finance habit",
+      "query2": "subscribe money habits",
+      "role": "cta"
+    }
+  ],
+  "description": "A quick look at why a simple 10% auto‑save rule outperforms complex budgets. Start building wealth today with one easy tweak. 👉 Follow for more bite‑size finance hacks.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#personalfinance",
+    "#savemoney",
+    "#payyourselffirst",
+    "#wealthtips"
+  ],
+  "place": "",
+  "country": ""
+}

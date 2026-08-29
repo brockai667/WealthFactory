@@ -9944,5 +9944,124 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Can You Really Save $500 a Month on a $2,500 Salary?",
+    "thumb": "SAVE $500",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Saving $500 on a $2,500 paycheck sounds impossible, but it’s doable.",
+        "hook_top": "SAVE 500 NOW",
+        "query": "monthly budget $2,500 salary",
+        "query2": "budgeting $2500 income",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "text": "Start by tracking every dollar for two weeks – apps like Mint make it painless.",
+        "label": "TRACK EVERY DOLLAR",
+        "label_on": "track",
+        "query": "expense tracking app screenshot",
+        "query2": "budget spreadsheet example",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "text": "Apply the 50/30/20 rule: 20% of $2,500 is $500 earmarked for savings.",
+        "label": "20% SAVINGS RULE",
+        "label_on": "save",
+        "query": "50/30/20 rule chart",
+        "query2": "budget pie chart 20% savings",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "text": "Automate a $500 transfer to a high‑yield savings account on payday.",
+        "label": "AUTOMATE TRANSFER",
+        "label_on": "automate",
+        "query": "bank automatic transfer setup",
+        "query2": "high yield savings account screenshot",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the wealth lessons school skipped.",
+        "query": "follow button graphic",
+        "query2": "subscribe animation",
+        "role": "cta"
+      }
+    ],
+    "description": "A step‑by‑step plan to stash $500 every month on a modest income. Start tracking, use the 20% rule, and automate the rest. Follow for more practical money moves.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#budgeting",
+      "#savemoney",
+      "#personalfinance",
+      "#payitfirst"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Do You Know the True Cost of Renting in San Francisco?",
+    "thumb": "RARE RENT HIDDEN COSTS",
+    "scenes": [
+      {
+        "hook_top": "SAN FRANCISCO RENT HIDDEN COST",
+        "query": "San Francisco apartment rent 3200",
+        "query2": "San Francisco rent",
+        "role": "hook",
+        "text": "San Francisco rents $3,200/month, but how much is the hidden cost?"
+      },
+      {
+        "label": "Renting cheaper than owning",
+        "query": "San Francisco rental vs mortgage comparison",
+        "query2": "rent vs buy",
+        "role": "myth",
+        "text": "Renting is cheaper than owning a home in San Francisco."
+      },
+      {
+        "label": "Rent is $12k more per year",
+        "query": "cost of renting vs owning San Francisco",
+        "query2": "renting vs buying cost",
+        "role": "truth",
+        "text": "Over 12 months, renting costs about $12,000 more than buying a comparable home when factoring maintenance, property taxes, and opportunity cost of rent payments."
+      },
+      {
+        "label": "Rent is hidden investment",
+        "sub": "Use rent payments to buy equity",
+        "label_on": "invest",
+        "query": "rent payments used for investment",
+        "query2": "rent investment",
+        "role": "callout",
+        "text": "Your rent is literally an investment in your future."
+      },
+      {
+        "query": "Do You Know the True Cost of Renting in San Francisco?",
+        "query2": "cinematic nature landscape",
+        "role": "cta",
+        "text": "Follow for the money mindset they don't teach you."
+      }
+    ],
+    "description": "Think renting in SF is the smart move? Think again. Learn the real cost difference and how to turn rent into an investment. Follow for more money‑saving truths!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#rentingvsbuying",
+      "#sanfrancisco",
+      "#moneytips",
+      "#financialtruths",
+      "#wealthbuilding"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

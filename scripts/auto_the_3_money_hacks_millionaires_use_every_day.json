@@ -1,0 +1,65 @@
+{
+  "title": "The 3 Money Hacks Millionaires Use Every Day",
+  "thumb": "MILLIONAIRE HACKS",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "What 3 habits let the ultra‑rich grow wealth while you sleep?",
+      "hook_top": "3 HABITS RICH USE",
+      "query": "wealthy daily money habits",
+      "query2": "millionaire habits finance",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "text": "Pay yourself first – automatically move 10% of every paycheck into a high‑yield savings or investment account.",
+      "label": "PAY YOURSELF FIRST",
+      "label_on": "PayFirst",
+      "query": "automatic paycheck savings 10% high yield account",
+      "query2": "pay yourself first budgeting rule",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "text": "Use the Rule of 72 – at a 9% annual return your money doubles roughly every 8 years, so let compounding work.",
+      "label": "RULE OF 72",
+      "label_on": "Rule72",
+      "query": "Rule of 72 compounding example 9% return",
+      "query2": "investment doubling time rule",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "text": "Avoid lifestyle inflation – keep expenses flat even when income rises, funnel extra cash into investments.",
+      "label": "NO LIFESTYLE INFLATION",
+      "label_on": "NoInflate",
+      "query": "lifestyle inflation avoidance wealth building",
+      "query2": "keeping expenses flat while earning more",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the wealth lessons school skipped.",
+      "query": "call to action follow button",
+      "query2": "social media follow prompt",
+      "role": "cta"
+    }
+  ],
+  "description": "Learn three proven, concrete habits that let the wealthy keep growing their net worth. Apply them today and watch your money work for you.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#personalfinance",
+    "#wealthhabits",
+    "#compoundinterest",
+    "#budgettips"
+  ],
+  "place": "",
+  "country": ""
+}

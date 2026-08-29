@@ -1,0 +1,72 @@
+{
+  "title": "Can a $1,200 Car Payment Be Paid Off Instantly?",
+  "thumb": "PAY OFF FAST",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "$1,200 car payment? See how one extra payment changes everything",
+      "hook_top": "CAR PAYMENT SHOCK",
+      "query": "monthly car payment $1,200",
+      "query2": "auto loan payment amount",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "The average new‑car loan interest rate in the U.S. is about 4.2 % (2023 data).",
+      "chips": [
+        {
+          "t": "4.2% RATE",
+          "on": "interest",
+          "style": "white"
+        }
+      ],
+      "punch": "interest",
+      "query": "average new car loan interest rate 2023",
+      "query2": "U.S. auto loan average rate",
+      "role": "fact"
+    },
+    {
+      "type": "fact",
+      "text": "A 60‑month loan for $30,000 at 4.2 % costs roughly $2,100 in total interest.",
+      "chips": [
+        {
+          "t": "$2,100 INTEREST",
+          "on": "interest",
+          "style": "accent"
+        }
+      ],
+      "punch": "cost",
+      "query": "interest paid on $30,000 car loan 4.2% 60 months",
+      "query2": "total interest auto loan example",
+      "role": "fact"
+    },
+    {
+      "type": "reveal",
+      "text": "Adding ONE extra $1,200 payment at the start slashes the loan term by 12 months and saves about $500 in interest.",
+      "reveal_top": "ONE PAYMENT SAVES",
+      "query": "impact of extra car loan payment early",
+      "query2": "how extra payment reduces loan term",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the money mindset they don't teach you.",
+      "query": "call to action follow finance tips",
+      "query2": "follow for money hacks",
+      "role": "cta"
+    }
+  ],
+  "description": "A single extra car‑loan payment can shave a year off your debt and keep hundreds in your pocket. Try it now and feel the relief.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#personalfinance",
+    "#carlending",
+    "#debtfree",
+    "#moneyhack",
+    "#finance"
+  ],
+  "place": "",
+  "country": ""
+}
