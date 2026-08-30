@@ -1,0 +1,65 @@
+{
+  "title": "3 Simple Tricks to Boost Your Savings Instantly",
+  "thumb": "SAVE QUICKLY",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Want to add $500 to your emergency fund in just 30 days?",
+      "hook_top": "ADD 500 QUICK",
+      "query": "increase emergency fund $500 30 days",
+      "query2": "quick savings boost methods",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "text": "Round‑up every purchase – link your card to an app that saves the cents difference to a dedicated account.",
+      "label": "ROUND‑UP SAVINGS",
+      "label_on": "RoundUp",
+      "query": "round‑up savings app example",
+      "query2": "micro‑saving round up feature",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "text": "Implement a 24‑hour rule – wait a day before any non‑essential spend; you’ll cancel most impulse buys.",
+      "label": "24‑HOUR RULE",
+      "label_on": "WaitDay",
+      "query": "24 hour rule impulse spending",
+      "query2": "delay purchase habit savings",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "text": "Set a “pay yourself first” auto‑transfer of $15‑$20 each payday into a high‑yield account.",
+      "label": "AUTO PAY‑YOU‑FIRST",
+      "label_on": "AutoPay",
+      "query": "automatic paycheck transfer high yield account",
+      "query2": "auto pay yourself first budgeting",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow and your future rich self will thank you.",
+      "query": "call to action follow button",
+      "query2": "social media follow prompt",
+      "role": "cta"
+    }
+  ],
+  "description": "Three proven, no‑fluff actions you can start today to grow your emergency fund fast. Simple, repeatable, effective.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#savingtips",
+    "#financialfreedom",
+    "#budgethack",
+    "#emergencyfund"
+  ],
+  "place": "",
+  "country": ""
+}

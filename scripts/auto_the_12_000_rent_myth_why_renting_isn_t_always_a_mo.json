@@ -1,0 +1,62 @@
+{
+  "title": "The $12,000 Rent Myth – Why Renting Isn’t Always a Money Drain",
+  "thumb": "RENT MYTH BUSTED",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Renters lose $12,000 a year compared to owners, right?",
+      "hook_top": "12K RENT LOSS",
+      "query": "average annual rent vs mortgage cost difference",
+      "query2": "renters lose 12000 per year rent vs buy",
+      "role": "hook"
+    },
+    {
+      "type": "myth",
+      "text": "Everyone assumes renting always costs $12,000 more each year than buying.",
+      "label": "Rent always loses money",
+      "query": "myth rent costs more than buying by $12k",
+      "query2": "common belief rent wastes money",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "truth",
+      "text": "If you stay less than 5‑7 years, lower maintenance and flexibility often make renting cheaper than owning.",
+      "label": "Rent can be cheaper short‑term",
+      "query": "rent cheaper than buy short term analysis",
+      "query2": "when renting is financially smarter than buying",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "Count your horizon, not just monthly rent.",
+      "label": "Time Horizon Matters",
+      "sub": "Short stays: rent wins; long stays: buy may win.",
+      "label_on": "horizon",
+      "query": "rent vs buy time horizon financial guide",
+      "query2": "how long to stay before buying makes sense",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the money mindset they don't teach you.",
+      "query": "follow call to action text",
+      "query2": "social media CTA follow",
+      "role": "cta"
+    }
+  ],
+  "description": "The $12,000 myth oversimplifies a complex decision. Discover when renting actually saves you money and when buying becomes the better play.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#rentvsbuy",
+    "#personalfinance",
+    "#moneyhabits",
+    "#mythbusted",
+    "#realestate"
+  ],
+  "place": "",
+  "country": ""
+}

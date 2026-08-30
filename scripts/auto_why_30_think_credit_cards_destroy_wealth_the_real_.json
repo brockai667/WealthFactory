@@ -1,0 +1,62 @@
+{
+  "title": "Why 30% Think Credit Cards Destroy Wealth – The Real Deal",
+  "thumb": "CREDIT CARD MYTH",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "30% of Americans believe credit cards ruin wealth",
+      "hook_top": "30 THINK CARD FAIL",
+      "query": "credit card usage statistics United States",
+      "query2": "percentage of Americans who think credit cards are bad",
+      "role": "hook"
+    },
+    {
+      "type": "myth",
+      "text": "Most people think any credit card debt means you’ll never build wealth.",
+      "label": "Credit cards always harmful",
+      "query": "common belief credit card debt wealth",
+      "query2": "myth credit cards ruin finances",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "truth",
+      "text": "When paid in full each month, credit cards can boost your credit score and earn rewards that add to net worth.",
+      "label": "Cards can build wealth",
+      "query": "credit card rewards building net worth",
+      "query2": "paying credit cards in full credit score benefit",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "Pay in full, earn rewards, watch your score rise.",
+      "label": "Pay, Earn, Grow",
+      "sub": "Use cards responsibly to gain credit and cash back.",
+      "label_on": "responsible",
+      "query": "responsible credit card use tips",
+      "query2": "how to use credit cards without debt",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the wealth lessons school skipped.",
+      "query": "follow call to action text",
+      "query2": "social media CTA follow",
+      "role": "cta"
+    }
+  ],
+  "description": "Many avoid credit cards fearing debt, but smart use can actually grow your net worth. Learn the simple rule that keeps you safe and earning.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#moneytips",
+    "#creditcards",
+    "#wealthbuilding",
+    "#personalfinance",
+    "#mythbusted"
+  ],
+  "place": "",
+  "country": ""
+}
