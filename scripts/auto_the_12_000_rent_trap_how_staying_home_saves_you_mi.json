@@ -1,0 +1,66 @@
+{
+  "title": "The $12,000 Rent Trap: How Staying Home Saves You Millions",
+  "thumb": "RENT TRAP",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Did you know renting a $2,000 apartment costs $12,000 extra each year?",
+      "hook_top": "RENT 12K YEAR",
+      "query": "average rent $2000 monthly cost",
+      "query2": "rental expense $2000 per month",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "text": "That extra cash can be invested in a low‑cost index fund averaging 7% annual return.",
+      "label": "INVEST RENT SAVINGS",
+      "label_on": "invest",
+      "query": "index fund 7% average return",
+      "query2": "historical S&P 500 return 7 percent",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "text": "Put the money into a high‑yield savings account to earn at least 4% interest today.",
+      "label": "HIGH‑YIELD SAVINGS",
+      "label_on": "save",
+      "query": "high yield savings account rates 2024",
+      "query2": "best HYSA interest rate 2024",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "text": "Own a modest condo for $300,000 with a $1,500 mortgage – you own equity instead of paying rent.",
+      "label": "OWN EQUITY",
+      "label_on": "own",
+      "query": "average condo price $300000 mortgage $1500",
+      "query2": "mortgage payment $1500 for $300k home",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if you're done staying broke.",
+      "query": "follow button animation",
+      "query2": "subscribe call to action",
+      "role": "cta"
+    }
+  ],
+  "description": "Turn the rent trap into a wealth‑building engine with three proven moves. The math adds up fast—see how.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#rentvsbuy",
+    "#wealthbuilding",
+    "#personalfinance",
+    "#realestate",
+    "#savemoney"
+  ],
+  "place": "",
+  "country": ""
+}

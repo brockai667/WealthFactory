@@ -1,0 +1,84 @@
+{
+  "title": "Why 30‑Year Bonds Aren’t a Safe ‘Set‑and‑Forget’ Bet",
+  "thumb": "BONDS MYTH",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Is a 30‑year Treasury at 6% really a risk‑free retirement plan?",
+      "hook_top": "30YEAR BOND MYTH",
+      "query": "30 year treasury 6% safe retirement",
+      "query2": "long term bond risk free myth",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "Historically, 30‑year US Treasury yields average about 4.5% over the past 30 years, not the current 6% spike.",
+      "chips": [
+        {
+          "t": "4.5% AVG YIELD",
+          "on": "average",
+          "style": "accent"
+        },
+        {
+          "t": "30‑YEAR TREASURY",
+          "on": "bond",
+          "style": "white"
+        }
+      ],
+      "punch": "historical",
+      "query": "average 30 year treasury yield 4.5 percent",
+      "query2": "historical long term bond yields",
+      "role": "fact"
+    },
+    {
+      "type": "fact",
+      "text": "At 6% inflation, a bond’s real return turns negative – you lose purchasing power each year.",
+      "chips": [
+        {
+          "t": "6% INFLATION",
+          "on": "inflation",
+          "style": "white"
+        },
+        {
+          "t": "NEGATIVE REAL",
+          "on": "real return",
+          "style": "accent"
+        }
+      ],
+      "query": "inflation 6% negative real return bonds",
+      "query2": "bond real return vs inflation",
+      "role": "fact"
+    },
+    {
+      "type": "callout",
+      "text": "Don’t rely on a single bond – diversify with stocks and inflation‑protected assets.",
+      "label": "DIVERSIFY",
+      "sub": "Mix bonds, stocks, TIPS for real growth",
+      "label_on": "diversify",
+      "query": "diversify portfolio bonds stocks TIPS",
+      "query2": "balanced investment mix",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if you're done staying broke.",
+      "query": "follow investing advice",
+      "query2": "subscribe finance tips",
+      "role": "cta"
+    }
+  ],
+  "description": "A 6% yield looks tempting, but inflation can erase those gains. Discover why diversification beats the “set‑and‑forget” bond myth.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#investing",
+    "#bonds",
+    "#inflation",
+    "#personalfinance",
+    "#wealthbuilding",
+    "#financialliteracy"
+  ],
+  "place": "",
+  "country": ""
+}

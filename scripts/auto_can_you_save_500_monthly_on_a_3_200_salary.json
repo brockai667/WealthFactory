@@ -1,0 +1,83 @@
+{
+  "title": "Can You Save $500 Monthly on a $3,200 Salary?",
+  "thumb": "SAVE $500",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "What if you could stash $500 every month on a $3,200 paycheck?",
+      "hook_top": "SAVE 500 MONTHLY",
+      "query": "monthly savings $500 on $3,200 salary",
+      "query2": "budgeting $500 extra income",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "The 50/30/20 rule suggests allocating 20% of net income to savings – that’s $640 on a $3,200 net pay.",
+      "chips": [
+        {
+          "t": "20% SAVINGS",
+          "on": "percent",
+          "style": "accent"
+        },
+        {
+          "t": "$640 MONTHLY",
+          "on": "dollar",
+          "style": "white"
+        }
+      ],
+      "punch": "simple",
+      "query": "50/30/20 rule 20% savings $3,200 net",
+      "query2": "budget rule 20 percent savings",
+      "role": "fact"
+    },
+    {
+      "type": "fact",
+      "text": "Cutting a $150 streaming bundle, $100 take‑out, and $200 grocery brand upgrades frees exactly $450 each month.",
+      "chips": [
+        {
+          "t": "$150 STREAMING",
+          "on": "streaming",
+          "style": "white"
+        },
+        {
+          "t": "$100 TAKE‑OUT",
+          "on": "food",
+          "style": "white"
+        }
+      ],
+      "query": "saving $150 streaming $100 takeout $200 grocery brands",
+      "query2": "budget cuts $450 monthly",
+      "role": "fact"
+    },
+    {
+      "type": "callout",
+      "text": "Trim three common expenses and watch your savings jump.",
+      "label": "CUT & SAVE",
+      "sub": "Three tiny cuts = $450 extra each month",
+      "label_on": "cut",
+      "query": "common expense cuts $450 monthly",
+      "query2": "budget trim three expenses",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if you're done staying broke.",
+      "query": "follow budgeting hacks",
+      "query2": "subscribe money tips",
+      "role": "cta"
+    }
+  ],
+  "description": "Learn a proven 3‑step expense trim that adds $450 to your savings without drastic lifestyle changes. Start building a habit that compounds fast.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#budgettips",
+    "#savemoney",
+    "#personalfinance",
+    "#payyourselffirst",
+    "#financialhabits"
+  ],
+  "place": "",
+  "country": ""
+}
