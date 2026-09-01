@@ -1,0 +1,70 @@
+{
+  "title": "Why the Wealthy Skip 401(k)s (and Grow Faster)",
+  "thumb": "CASH > 401K",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "What if you saved $5,000 in just 6 months?",
+      "hook_top": "SAVE 5K QUICK",
+      "query": "saving $5,000 in six months personal finance",
+      "query2": "how to save $5k fast",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "The average American saves about 7% of their income each year.",
+      "chips": [
+        {
+          "t": "7% SAVINGS RATE",
+          "on": "savings",
+          "style": "white"
+        }
+      ],
+      "query": "average American savings rate 2023",
+      "query2": "US household savings percentage",
+      "role": "fact"
+    },
+    {
+      "type": "fact",
+      "text": "84% of millionaires’ net worth is in assets outside retirement accounts.",
+      "chips": [
+        {
+          "t": "84% WEALTH OUTSIDE 401K",
+          "on": "wealth",
+          "style": "accent"
+        }
+      ],
+      "query": "millionaires net worth outside retirement accounts study",
+      "query2": "wealth distribution millionaires non‑retirement",
+      "role": "fact"
+    },
+    {
+      "type": "reveal",
+      "text": "They grow money by investing cash now, not waiting for tax‑deferred accounts.",
+      "reveal_top": "INVEST NOW, NOT LATER",
+      "query": "wealthy investing cash vs retirement accounts",
+      "query2": "rich people invest taxable accounts",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if you're done staying broke.",
+      "query": "follow personal finance channel",
+      "query2": "subscribe money habits",
+      "role": "cta"
+    }
+  ],
+  "description": "Most people think the 401(k) is the fastest road to wealth. The data shows the ultra‑rich build fortunes by investing cash today. Follow for daily money hacks!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#personalfinance",
+    "#wealthtips",
+    "#investing",
+    "#moneymindset",
+    "#savemoney"
+  ],
+  "place": "",
+  "country": ""
+}

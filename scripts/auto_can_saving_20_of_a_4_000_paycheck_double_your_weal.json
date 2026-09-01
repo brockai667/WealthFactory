@@ -1,0 +1,78 @@
+{
+  "title": "Can Saving 20% of a $4,000 Paycheck Double Your Wealth?",
+  "thumb": "SAVE 20% NOW",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "What if you saved 20% of a $4,000 paycheck each month?",
+      "hook_top": "SAVE 20 OF 4K",
+      "query": "saving 20% of $4,000 paycheck",
+      "query2": "saving twenty percent of four thousand paycheck",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "Saving 20% ($800) monthly grows to about $48,000 after 20 years at a 5% annual return.",
+      "chips": [
+        {
+          "t": "$800 monthly",
+          "on": "eight hundred",
+          "style": "accent"
+        },
+        {
+          "t": "5% return",
+          "on": "five percent",
+          "style": "white"
+        }
+      ],
+      "punch": "compound",
+      "query": "compound interest 5% 20 years $800 monthly",
+      "query2": "compound growth five percent twenty years eight hundred",
+      "role": "fact"
+    },
+    {
+      "type": "fact",
+      "text": "The Federal Reserve reports U.S. households save only about 7% of disposable income.",
+      "chips": [
+        {
+          "t": "7% savings",
+          "on": "seven percent",
+          "style": "accent"
+        }
+      ],
+      "query": "U.S. household savings rate 2023 Federal Reserve",
+      "query2": "average american savings percent 2023",
+      "role": "fact"
+    },
+    {
+      "type": "callout",
+      "text": "Pay yourself first – make the 20% rule your habit.",
+      "label": "PAY YOURSELF FIRST",
+      "sub": "Set aside 20% before any bills.",
+      "label_on": "pay yourself",
+      "query": "pay yourself first money habit",
+      "query2": "first pay yourself rule",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for daily money habits that actually work.",
+      "query": "follow finance tips short video",
+      "query2": "follow money habits channel",
+      "role": "cta"
+    }
+  ],
+  "description": "Learn how a simple 20% savings habit can transform a modest paycheck into a sizable nest egg. Start the habit today and watch your wealth grow.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#savemoney",
+    "#personalfinance",
+    "#wealthtips",
+    "#compoundinterest",
+    "#budgeting"
+  ],
+  "place": "",
+  "country": ""
+}

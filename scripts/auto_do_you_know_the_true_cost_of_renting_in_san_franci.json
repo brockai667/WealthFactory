@@ -1,0 +1,54 @@
+{
+  "title": "Do You Know the True Cost of Renting in San Francisco?",
+  "thumb": "RARE RENT HIDDEN COSTS",
+  "scenes": [
+    {
+      "hook_top": "SAN FRANCISCO RENT HIDDEN COST",
+      "query": "San Francisco apartment rent 3200",
+      "query2": "San Francisco rent",
+      "role": "hook",
+      "text": "San Francisco rents $3,200/month, but how much is the hidden cost?"
+    },
+    {
+      "label": "Renting cheaper than owning",
+      "query": "San Francisco rental vs mortgage comparison",
+      "query2": "rent vs buy",
+      "role": "myth",
+      "text": "Renting is cheaper than owning a home in San Francisco."
+    },
+    {
+      "label": "Rent is $12k more per year",
+      "query": "cost of renting vs owning San Francisco",
+      "query2": "renting vs buying cost",
+      "role": "truth",
+      "text": "Over 12 months, renting costs about $12,000 more than buying a comparable home when factoring maintenance, property taxes, and opportunity cost of rent payments."
+    },
+    {
+      "label": "Rent is hidden investment",
+      "sub": "Use rent payments to buy equity",
+      "label_on": "invest",
+      "query": "rent payments used for investment",
+      "query2": "rent investment",
+      "role": "callout",
+      "text": "Your rent is literally an investment in your future."
+    },
+    {
+      "query": "Do You Know the True Cost of Renting in San Francisco?",
+      "query2": "cinematic nature landscape",
+      "role": "cta",
+      "text": "Follow for the money mindset they don't teach you."
+    }
+  ],
+  "description": "Think renting in SF is the smart move? Think again. Learn the real cost difference and how to turn rent into an investment. Follow for more money‑saving truths!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#rentingvsbuying",
+    "#sanfrancisco",
+    "#moneytips",
+    "#financialtruths",
+    "#wealthbuilding"
+  ],
+  "place": "",
+  "country": ""
+}
