@@ -10474,5 +10474,469 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Three Steps to Stop Car Money Drains",
+    "thumb": "STOP CAR DRAIN",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Is your vehicle costing you over $10,000 in interest?",
+        "hook_top": "OVER 10K INTEREST",
+        "query": "average car loan interest total cost 2024",
+        "query2": "car loan interest over $10k",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "text": "Refinance at a lower rate once you’ve built equity.",
+        "label": "REFINANCE WHEN EQUITY HIGH",
+        "label_on": "refinance",
+        "query": "car loan refinance when equity is high",
+        "query2": "refinance auto loan lower rate",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "text": "Make extra principal payments quarterly to shave years off the loan.",
+        "label": "QUARTERLY EXTRA PAYMENTS",
+        "label_on": "extra payments",
+        "query": "extra principal car loan payment schedule",
+        "query2": "quarterly car loan extra payment",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "text": "Switch to a high‑efficiency driver habit – slower speeds cut fuel costs dramatically.",
+        "label": "DRIVE EFFICIENTLY",
+        "label_on": "efficient driving",
+        "query": "fuel savings driving at 55 mph vs 70 mph",
+        "query2": "high efficiency driving fuel cost reduction",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if you're done staying broke.",
+        "query": "follow practical finance tips",
+        "query2": "follow money hacks channel",
+        "role": "cta"
+      }
+    ],
+    "description": "Cars can silently eat your budget. Learn three proven actions to lower interest, reduce fuel costs, and free cash faster.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#carfinance",
+      "#savemoney",
+      "#budgeting",
+      "#debtfree",
+      "#financialtips"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "How a 10% Rule Beats Traditional Budgets",
+    "thumb": "10% RULE",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "What if 10% of every paycheck could replace your budget?",
+        "hook_top": "10 REPLACE BUDGET",
+        "query": "10 percent rule personal finance",
+        "query2": "pay yourself first 10 percent rule",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "text": "Allocate the 10% to a separate high‑yield account before any spending.",
+        "label": "SEPARATE HIGH‑YIELD ACCOUNT",
+        "label_on": "separate account",
+        "query": "high yield savings account for 10 percent rule",
+        "query2": "separate savings account pay yourself first",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "text": "Track only the remaining 90% – you’ll notice natural spending cuts.",
+        "label": "TRACK REMAINING 90%",
+        "label_on": "track 90 percent",
+        "query": "budgeting with 90 percent of income",
+        "query2": "spending after pay yourself first",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "text": "Over time the saved 10% compounds, often outpacing detailed line‑item budgets.",
+        "label": "COMPOUND OUTPERFORMS BUDGET",
+        "label_on": "compound growth",
+        "query": "compound interest effect of 10 percent savings",
+        "query2": "savings growth vs detailed budgeting",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the money mindset they don't teach you.",
+        "query": "follow no stress finance channel",
+        "query2": "follow simple money habits",
+        "role": "cta"
+      }
+    ],
+    "description": "Skip the tedious spreadsheet. The 10% rule simplifies saving, cuts stress, and often yields better results than traditional budgeting.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#budgethack",
+      "#savingstips",
+      "#personalfinance",
+      "#moneyhabits",
+      "#simplify"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Save More When You Get Paid",
+    "thumb": "PAYSELF FIRST",
+    "scenes": [
+      {
+        "hook_top": "DOUBLE YOUR SAVINGS",
+        "query": "person saving money",
+        "query2": "person with savings jar",
+        "fact": "Paying yourself first boosts saving rates to 20% on average.",
+        "chips": [
+          {
+            "t": "20%",
+            "on": "save",
+            "style": "accent"
+          }
+        ],
+        "role": "hook",
+        "text": "Your paycheck can double your savings rate."
+      },
+      {
+        "chips": [
+          {
+            "t": "5 years",
+            "on": "live",
+            "style": "white"
+          }
+        ],
+        "query": "older adult living long",
+        "query2": "elderly person",
+        "role": "fact",
+        "text": "Those who set a 20% goal outlive peers by 5 years."
+      },
+      {
+        "label": "20% Rule",
+        "sub": "Set it before spending",
+        "label_on": "rule",
+        "query": "calendar with savings goal",
+        "query2": "person setting budget",
+        "role": "callout",
+        "text": "Start with 20% of every paycheck."
+      },
+      {
+        "query": "follow button on mobile",
+        "query2": "social media follow icon",
+        "role": "cta",
+        "text": "Follow for the wealth lessons school skipped."
+      }
+    ],
+    "description": "Learn how a simple 20% rule can transform your finances and even extend your life. Start today and watch your savings grow. Follow for more practical money tips.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#savings",
+      "#personalfinance",
+      "#moneyhabits",
+      "#financialwellness"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "High-Yield Accounts Beat CDs",
+    "thumb": "YIELD SURPRISE",
+    "scenes": [
+      {
+        "hook_top": "EARN EXTRA YIELD",
+        "query": "financial graph rising",
+        "query2": "chart with growth",
+        "fact": "High‑yield savings can offer 2% APY, outpacing 1% CDs.",
+        "chips": [
+          {
+            "t": "2%",
+            "on": "yield",
+            "style": "accent"
+          }
+        ],
+        "role": "hook",
+        "text": "A $5,000 balance earns $250 extra yearly."
+      },
+      {
+        "chips": [
+          {
+            "t": "60%",
+            "on": "choice",
+            "style": "white"
+          }
+        ],
+        "query": "survey results chart",
+        "query2": "people voting",
+        "role": "fact",
+        "text": "Over 60% of U.S. consumers choose high‑yield accounts."
+      },
+      {
+        "label": "Switch Today",
+        "sub": "Earn more, wait less",
+        "label_on": "switch",
+        "query": "hand tapping bank app",
+        "query2": "person using smartphone",
+        "role": "callout",
+        "text": "Switch to an online high‑yield account now."
+      },
+      {
+        "query": "follow button on mobile",
+        "query2": "social media follow icon",
+        "role": "cta",
+        "text": "Follow for the wealth lessons school skipped."
+      }
+    ],
+    "description": "Discover why high‑yield savings accounts can give you more interest than traditional CDs. Make the smart switch today and grow your money faster. Follow for more saving strategies.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#highyield",
+      "#savings",
+      "#banking",
+      "#moneytips",
+      "#finance"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Rent vs. Own Cost Comparison",
+    "thumb": "RENT OR BUY?",
+    "scenes": [
+      {
+        "hook_top": "RENT COST SURPRISE",
+        "query": "city skyline with rent sign",
+        "query2": "urban apartment",
+        "fact": "The average annual rent premium over buying is $12,000 in many metros.",
+        "chips": [
+          {
+            "t": "$12,000",
+            "on": "premium",
+            "style": "accent"
+          }
+        ],
+        "role": "hook",
+        "text": "Renting can cost $12,000 more than owning annually."
+      },
+      {
+        "chips": [
+          {
+            "t": "$5,000",
+            "on": "equity",
+            "style": "white"
+          }
+        ],
+        "query": "house with equity sign",
+        "query2": "home ownership symbol",
+        "role": "fact",
+        "text": "Homeowners build equity of about $5,000 per year on average."
+      },
+      {
+        "label": "5-Year Rule",
+        "sub": "Build equity, not debt",
+        "label_on": "rule",
+        "query": "timeline 5 years",
+        "query2": "calendar with 5 years",
+        "role": "callout",
+        "text": "Consider buying if you stay 5 years."
+      },
+      {
+        "query": "follow button on mobile",
+        "query2": "social media follow icon",
+        "role": "cta",
+        "text": "Follow for the money mindset they don't teach you."
+      }
+    ],
+    "description": "Renting may look cheaper, but over five years buying can save you tens of thousands. Learn how to evaluate the true cost of rent versus ownership. Follow for more real estate money wisdom.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#rentvsbuy",
+      "#realestate",
+      "#homeownership",
+      "#moneyadvice",
+      "#financialplanning"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Saving Money With High Yield",
+    "thumb": "HIGH YIELD SAVINGS",
+    "scenes": [
+      {
+        "text": "What 5% APY can do for $10,000",
+        "hook_top": "5 APY MAGIC",
+        "query": "high yield savings account 5% APY",
+        "query2": "savings account interest rate",
+        "role": "hook"
+      },
+      {
+        "text": "A high‑yield savings account at 5% compounds daily, turning $10,000 into about $10,500 in one year.",
+        "chips": [
+          {
+            "t": "5% APY",
+            "on": "APY",
+            "style": "accent"
+          },
+          {
+            "t": "$10,000",
+            "on": "ten thousand",
+            "style": "white"
+          }
+        ],
+        "query": "high yield savings account compounding daily",
+        "query2": "5% APY daily compounding",
+        "role": "fact"
+      },
+      {
+        "text": "Traditional bank savings average about 0.5% APY, growing the same $10,000 to only $10,050 after a year.",
+        "chips": [
+          {
+            "t": "0.5% APY",
+            "on": "half percent",
+            "style": "accent"
+          },
+          {
+            "t": "$10,000",
+            "on": "ten thousand",
+            "style": "white"
+          }
+        ],
+        "query": "average US bank savings rate 2023",
+        "query2": "traditional savings account interest",
+        "role": "fact"
+      },
+      {
+        "text": "The extra $450 can fund an emergency fund faster than cutting a daily latte.",
+        "reveal_top": "450 DOLLARS EXTRA",
+        "query": "emergency fund calculation $450",
+        "query2": "how much extra interest earns",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow for daily money habits that actually work.",
+        "query": "money hacks short video",
+        "query2": "personal finance tips",
+        "role": "cta"
+      }
+    ],
+    "description": "See how a modest 5% APY turns $10k into a real safety net. Simple switch, big impact. Follow for more actionable finance tricks.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#personalfinance",
+      "#savemoney",
+      "#highyield",
+      "#budgettips",
+      "#financialliteracy"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Early Car Loan Payoff Power",
+    "thumb": "CAR LOAN SAVER",
+    "scenes": [
+      {
+        "text": "How a $1,200 car loan costs $10,000 total",
+        "hook_top": "CAR LOAN COST",
+        "query": "$1,200 car loan total cost",
+        "query2": "auto loan payment calculator",
+        "role": "hook"
+      },
+      {
+        "text": "$1,200 monthly payment on a 5‑year loan at 4% interest totals roughly $72,000 paid.",
+        "chips": [
+          {
+            "t": "$1,200",
+            "on": "one thousand two hundred",
+            "style": "accent"
+          },
+          {
+            "t": "5 years",
+            "on": "five years",
+            "style": "white"
+          }
+        ],
+        "query": "auto loan 5 year 4% payment $1,200",
+        "query2": "car loan total interest calculation",
+        "role": "fact"
+      },
+      {
+        "text": "Paying an extra $200 each month cuts interest, saving about $8,000 over the loan term.",
+        "chips": [
+          {
+            "t": "$200 extra",
+            "on": "two hundred extra",
+            "style": "accent"
+          },
+          {
+            "t": "8,000 saved",
+            "on": "eight thousand saved",
+            "style": "white"
+          }
+        ],
+        "query": "extra car loan payment interest savings",
+        "query2": "auto loan early payoff benefit",
+        "role": "fact"
+      },
+      {
+        "text": "Surprise: making one extra payment each year halves the total interest.",
+        "reveal_top": "ONE PAYMENT SAVES",
+        "query": "annual extra car loan payment effect",
+        "query2": "single extra payment interest reduction",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow for the wealth lessons school skipped.",
+        "query": "smart finance tips short",
+        "query2": "personal finance advice",
+        "role": "cta"
+      }
+    ],
+    "description": "Your $1,200 car payment could be draining $10K. One extra payment a year can slash that dramatically. Follow for more savvy financial habits.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#carloan",
+      "#debtfree",
+      "#savemoney",
+      "#personalfinance",
+      "#budgeting"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

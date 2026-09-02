@@ -1,0 +1,66 @@
+{
+  "title": "How Paying Yourself First Can Double Savings in 10 Years",
+  "thumb": "PAY FIRST",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "What happens when you auto‑transfer 10% of every paycheck?",
+      "hook_top": "AUTOTRANSFER 10",
+      "query": "automatic paycheck transfer to savings",
+      "query2": "pay yourself first habit",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "label": "SET AUTOMATIC 10% TRANSFER",
+      "label_on": "first",
+      "text": "Set an automatic 10% transfer from each paycheck into a separate savings account.",
+      "query": "setting up automatic savings transfer",
+      "query2": "auto transfer 10% paycheck",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "label": "COMPOUNDING BOOSTS GROWTH",
+      "label_on": "second",
+      "text": "Compound interest means that over ten years that 10% habit can roughly double your balance at a 5% annual rate.",
+      "query": "compound interest doubling balance 5% ten years",
+      "query2": "rule of 72 savings example",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "label": "FINANCIAL SAFETY NET BUILT",
+      "label_on": "third",
+      "text": "A growing emergency fund reduces reliance on credit cards and improves credit scores.",
+      "query": "emergency fund impact credit score",
+      "query2": "savings reduce credit card use",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the money mindset they don't teach you.",
+      "query": "call to follow personal finance page",
+      "query2": "follow for money tips",
+      "role": "cta"
+    }
+  ],
+  "description": "A simple 10% automatic transfer can set the stage for faster growth and a solid safety net. Start today and watch your money work for you. Follow for more bite‑size money moves!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#personalfinance",
+    "#savings",
+    "#compoundinterest",
+    "#payyourselffirst",
+    "#moneyhabits"
+  ],
+  "place": "",
+  "country": ""
+}

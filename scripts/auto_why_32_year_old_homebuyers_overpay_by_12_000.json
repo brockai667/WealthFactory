@@ -1,0 +1,62 @@
+{
+  "title": "Why 32‑Year‑Old Homebuyers Overpay by $12,000",
+  "thumb": "HOMEOVERPAY MYTH",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "At 32, buying a house can cost you an extra $12,000 you never saw coming.",
+      "hook_top": "32YEAROLD HOUSE COST",
+      "query": "32 year old home purchase hidden costs",
+      "query2": "extra $12,000 home buying",
+      "role": "hook"
+    },
+    {
+      "type": "myth",
+      "text": "The common belief is that owning is always cheaper than renting after a few years.",
+      "label": "Owning beats renting fast",
+      "query": "owning cheaper than renting myth",
+      "query2": "rent vs buy cost misconception",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "truth",
+      "text": "Data shows first‑time buyers in high‑cost markets often pay $12,000–$15,000 more in closing fees, property taxes, and maintenance in the first three years than they would have saved renting.",
+      "label": "Hidden fees add $12k+",
+      "query": "first‑time buyer hidden costs $12,000",
+      "query2": "homeownership extra expenses early years",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "Calculate total ownership cost before you sign.",
+      "label": "Calculate Total Cost",
+      "sub": "Include taxes, insurance, maintenance",
+      "label_on": "costcheck",
+      "query": "total cost of homeownership calculator",
+      "query2": "home buying cost breakdown",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the wealth lessons school skipped.",
+      "query": "follow home finance tips",
+      "query2": "subscribe real estate money channel",
+      "role": "cta"
+    }
+  ],
+  "description": "Think buying saves you money? The hidden expenses can add up fast. Learn how to avoid the $12k surprise. 👉 Follow for smarter home decisions.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#homebuying",
+    "#rentvsbuy",
+    "#moneytips",
+    "#realestate",
+    "#financialfacts"
+  ],
+  "place": "",
+  "country": ""
+}

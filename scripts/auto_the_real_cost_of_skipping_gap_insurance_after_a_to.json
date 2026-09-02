@@ -1,0 +1,66 @@
+{
+  "title": "The Real Cost of Skipping Gap Insurance After a Totaled Car",
+  "thumb": "GAP INSURANCE",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Totally wrecked a $25k car with no gap coverage?",
+      "hook_top": "NO GAP COVERAGE",
+      "query": "totaled car without gap insurance cost",
+      "query2": "gap insurance importance after accident",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "label": "LOAN BALANCE EXCEEDS TRADE‑IN VALUE",
+      "label_on": "first",
+      "text": "Most auto loans leave you owing more than the car’s market value once it’s totaled.",
+      "query": "auto loan balance higher than trade‑in value",
+      "query2": "car loan negative equity totaled",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "label": "GAP INSURANCE COVERS DIFFERENCE",
+      "label_on": "second",
+      "text": "Gap insurance pays the gap between what you owe and the insurance payout, often saving thousands.",
+      "query": "gap insurance pays difference loan vs payout",
+      "query2": "gap coverage saves money after total loss",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "label": "AVERAGE GAP COST IS $400‑$600 YEARLY",
+      "label_on": "third",
+      "text": "Industry data shows typical gap coverage costs between $400 and $600 per year, a fraction of a potential loss.",
+      "query": "average cost of gap insurance per year",
+      "query2": "gap insurance price range",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if you're done staying broke.",
+      "query": "call to follow car finance tips",
+      "query2": "follow for auto finance advice",
+      "role": "cta"
+    }
+  ],
+  "description": "Skipping gap insurance can leave you footing a huge bill after a total loss. Learn why a modest yearly premium protects you from a thousand‑dollar surprise. Follow for practical car‑finance tips!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#carfinance",
+    "#gapinsurance",
+    "#totaledcar",
+    "#personalfinance",
+    "#moneytips"
+  ],
+  "place": "",
+  "country": ""
+}
