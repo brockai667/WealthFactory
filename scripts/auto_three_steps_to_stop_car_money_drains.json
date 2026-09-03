@@ -1,0 +1,66 @@
+{
+  "title": "Three Steps to Stop Car Money Drains",
+  "thumb": "STOP CAR DRAIN",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Is your vehicle costing you over $10,000 in interest?",
+      "hook_top": "OVER 10K INTEREST",
+      "query": "average car loan interest total cost 2024",
+      "query2": "car loan interest over $10k",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "text": "Refinance at a lower rate once you’ve built equity.",
+      "label": "REFINANCE WHEN EQUITY HIGH",
+      "label_on": "refinance",
+      "query": "car loan refinance when equity is high",
+      "query2": "refinance auto loan lower rate",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "text": "Make extra principal payments quarterly to shave years off the loan.",
+      "label": "QUARTERLY EXTRA PAYMENTS",
+      "label_on": "extra payments",
+      "query": "extra principal car loan payment schedule",
+      "query2": "quarterly car loan extra payment",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "text": "Switch to a high‑efficiency driver habit – slower speeds cut fuel costs dramatically.",
+      "label": "DRIVE EFFICIENTLY",
+      "label_on": "efficient driving",
+      "query": "fuel savings driving at 55 mph vs 70 mph",
+      "query2": "high efficiency driving fuel cost reduction",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if you're done staying broke.",
+      "query": "follow practical finance tips",
+      "query2": "follow money hacks channel",
+      "role": "cta"
+    }
+  ],
+  "description": "Cars can silently eat your budget. Learn three proven actions to lower interest, reduce fuel costs, and free cash faster.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#carfinance",
+    "#savemoney",
+    "#budgeting",
+    "#debtfree",
+    "#financialtips"
+  ],
+  "place": "",
+  "country": ""
+}

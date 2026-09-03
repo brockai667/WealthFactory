@@ -1,0 +1,53 @@
+{
+  "title": "The Rent‑vs‑Own Myth",
+  "thumb": "BUY NOT RENT",
+  "scenes": [
+    {
+      "hook_top": "SOLDIERS LIVING RENT",
+      "query": "young adult signing lease San Diego",
+      "query2": "renting apartment",
+      "role": "hook",
+      "text": "A 32‑year‑old in San Diego just signed a $4,000/month lease."
+    },
+    {
+      "label": "Rent Cheaper Myth",
+      "query": "person looking at rent notice",
+      "query2": "rent vs buy",
+      "role": "myth",
+      "text": "Renting is always cheaper than owning a home."
+    },
+    {
+      "label": "Ownership Can Save",
+      "query": "family in front of new house",
+      "query2": "home buying",
+      "role": "truth",
+      "text": "Over 15 years, the cumulative cost of renting can exceed home ownership when market prices are stable and mortgage rates are low."
+    },
+    {
+      "label": "15‑Year Cost",
+      "sub": "Rent vs Own",
+      "label_on": "calculate",
+      "query": "person using calculator on laptop",
+      "query2": "budget calculator",
+      "role": "callout",
+      "text": "Calculate 15‑year totals: rent vs mortgage plus taxes."
+    },
+    {
+      "query": "hand holding phone with follow button",
+      "query2": "social media follow",
+      "role": "cta",
+      "text": "Follow for daily money habits that actually work."
+    }
+  ],
+  "description": "Think renting saves you money? The 15‑year comparison shows many buyers actually spend less over time. Follow for real‑world financial insights.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#rentvsown",
+    "#homeownership",
+    "#financialplanning",
+    "#savemoney"
+  ],
+  "place": "",
+  "country": ""
+}

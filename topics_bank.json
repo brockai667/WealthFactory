@@ -10938,5 +10938,347 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Wealthy Habit: Avoiding Lifestyle Inflation",
+    "thumb": "STOP INFLATION",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Did you know a $5,000 raise can cost you $15,000 over five years?",
+        "hook_top": "RAISE COSTS TRIPLE",
+        "query": "lifestyle inflation cost example $5,000 raise",
+        "query2": "how raises lead to higher spending",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "text": "Keep housing costs at or below 30 % of your gross income.",
+        "label": "HOUSING 30 PERCENT",
+        "label_on": "keep",
+        "query": "housing cost 30 percent income rule",
+        "query2": "rent mortgage affordability 30%",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "text": "Limit discretionary spending increases to no more than 10 % of the raise.",
+        "label": "LIMIT DISCRETIONARY",
+        "label_on": "limit",
+        "query": "discretionary spending raise limit 10 percent",
+        "query2": "how to control lifestyle inflation",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "text": "Redirect the remaining raise into retirement or investment accounts.",
+        "label": "INVEST THE EXTRA",
+        "label_on": "invest",
+        "query": "invest raise retirement accounts",
+        "query2": "allocate salary increase to investments",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the wealth lessons school skipped.",
+        "query": "follow CTA personal finance",
+        "query2": "subscribe money habits call to action",
+        "role": "cta"
+      }
+    ],
+    "description": "Discover the three concrete steps wealthy people use to prevent lifestyle creep and keep their net worth climbing. Apply these rules now.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#wealthhabits",
+      "#lifestyleinflation",
+      "#investing",
+      "#financialgrowth",
+      "#moneytips"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Compound Interest Secrets for Everyday Earners",
+    "thumb": "POWER OF COMPOUNDING",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "A $1,000 monthly investment at 7 % can become over $200,000 in 30 years.",
+        "hook_top": "30YEAR 200K GAIN",
+        "query": "compound interest $1,000 monthly 7% 30 years calculator",
+        "query2": "future value of monthly investment 7 percent",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "text": "Start with any amount; consistency beats size.",
+        "label": "CONSISTENCY MATTERS",
+        "label_on": "start",
+        "query": "importance of consistent investing",
+        "query2": "regular contributions vs lump sum investing",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "text": "Reinvest all earnings—no withdrawals for at least a decade.",
+        "label": "REINVEST EARNINGS",
+        "label_on": "reinvest",
+        "query": "reinvest dividends compound growth",
+        "query2": "how reinvestment boosts compounding",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "text": "Use a low‑fee index fund to let more money stay in the market.",
+        "label": "LOW‑FEE INDEX FUND",
+        "label_on": "use",
+        "query": "low fee index fund average expense ratio",
+        "query2": "best low cost index funds 2024",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for daily money habits that actually work.",
+        "query": "call to action follow finance channel",
+        "query2": "subscribe money growth CTA",
+        "role": "cta"
+      }
+    ],
+    "description": "Turn everyday savings into a sizable nest egg with three proven compounding tactics. No fancy tricks, just disciplined investing.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#compoundinterest",
+      "#investing101",
+      "#financialfreedom",
+      "#indexfunds",
+      "#moneygrowth"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Credit Score Myth Busted",
+    "thumb": "UTILIZATION TRAP",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Your score can drop 100 points after one missed payment on a $5,000 loan",
+        "hook_top": "MISSED PAYMENT SHOCK",
+        "query": "credit score drop after missed payment",
+        "query2": "credit score impact missed payment",
+        "role": "hook"
+      },
+      {
+        "type": "myth",
+        "text": "People believe any credit‑card balance above 30% usage instantly ruins a credit score.",
+        "label": "30% Utilization Myth",
+        "query": "credit card utilization 30 percent myth",
+        "query2": "credit utilization myth",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "truth",
+        "text": "FICO scores weight utilization about 10%; payment history, length of credit, and mix have larger impact, so a temporary 40% balance rarely causes a huge drop.",
+        "label": "Utilization Small Factor",
+        "query": "FICO utilization weight 10 percent",
+        "query2": "credit score factors utilization",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Keep payments on time and let old accounts age – that’s the real boost.",
+        "label": "Pay On Time",
+        "sub": "Timely payments outweigh short‑term balances",
+        "label_on": "Boost",
+        "query": "importance of on‑time payments credit score",
+        "query2": "credit score payment history impact",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if you're done staying broke.",
+        "query": "follow finance channel",
+        "query2": "subscribe money habits",
+        "role": "cta"
+      }
+    ],
+    "description": "We debunk the 30% utilization myth and show what truly moves your score. Simple steps you can apply today.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#creditscore",
+      "#moneyhabits",
+      "#personalfinance",
+      "#financefacts"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Hidden Monthly Cost Of Credit Interest",
+    "thumb": "CREDIT CARD EXPENSES",
+    "scenes": [
+      {
+        "hook_top": "INTEREST ADDS TEN",
+        "query": "credit card balance interest chart",
+        "query2": "credit card interest",
+        "scene_type": "hook",
+        "role": "hook",
+        "text": "Every $1 borrowed adds $10 in interest each year"
+      },
+      {
+        "chips": [
+          {
+            "t": "20.3%",
+            "on": "APR",
+            "style": "accent"
+          }
+        ],
+        "punch": "APR",
+        "query": "credit card average APR 2024",
+        "query2": "credit card APR",
+        "scene_type": "fact",
+        "role": "fact",
+        "text": "The average credit card APR is 20.3%"
+      },
+      {
+        "chips": [
+          {
+            "t": "$100",
+            "on": "interest",
+            "style": "white"
+          },
+          {
+            "t": "$500",
+            "on": "balance",
+            "style": "accent"
+          }
+        ],
+        "punch": "Interest",
+        "query": "interest calculation on credit card balance",
+        "query2": "credit card interest example",
+        "scene_type": "fact",
+        "role": "fact",
+        "text": "A $500 balance costs $100 in interest over a year"
+      },
+      {
+        "label": "Pay Early",
+        "sub": "Reduce interest with every payment",
+        "label_on": "Pay",
+        "query": "paying credit card early screenshot",
+        "query2": "credit card payment",
+        "scene_type": "callout",
+        "role": "callout",
+        "text": "Avoid the hidden interest trap"
+      },
+      {
+        "query": "follow button illustration",
+        "query2": "follow icon",
+        "scene_type": "cta",
+        "role": "cta",
+        "text": "Follow for the money mindset they don't teach you."
+      }
+    ],
+    "description": "Learn how credit card interest builds up and how you can stop the hidden drain. Follow for simple money tricks.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#creditcards",
+      "#interest",
+      "#personalfinance",
+      "#moneyhabits"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Inheritance Tax For Overseas Funds",
+    "thumb": "INHERITANCE TAX TIPS",
+    "scenes": [
+      {
+        "hook_top": "INHERITANCE TAX",
+        "query": "inheritance from philippines US tax",
+        "query2": "inheritance tax",
+        "scene_type": "hook",
+        "role": "hook",
+        "text": "Your $20k inheritance from the Philippines needs US filing"
+      },
+      {
+        "chips": [
+          {
+            "t": "$15k",
+            "on": "gift",
+            "style": "accent"
+          }
+        ],
+        "punch": "Gift",
+        "query": "IRS foreign gift reporting 2024",
+        "query2": "IRS gift reporting",
+        "scene_type": "fact",
+        "role": "fact",
+        "text": "IRS requires reporting foreign gifts over $15k"
+      },
+      {
+        "chips": [
+          {
+            "t": "FATCA",
+            "on": "act",
+            "style": "white"
+          }
+        ],
+        "punch": "FATCA",
+        "query": "FATCA audit example",
+        "query2": "foreign account compliance",
+        "scene_type": "fact",
+        "role": "fact",
+        "text": "The Foreign Account Tax Compliance Act (FATCA) audits overseas accounts"
+      },
+      {
+        "label": "Form 3520",
+        "sub": "Report foreign gifts and inheritances",
+        "label_on": "File",
+        "query": "IRS Form 3520 screenshot",
+        "query2": "IRS form 3520",
+        "scene_type": "callout",
+        "role": "callout",
+        "text": "File the right forms"
+      },
+      {
+        "query": "follow button illustration",
+        "query2": "follow icon",
+        "scene_type": "cta",
+        "role": "cta",
+        "text": "Follow if you're done staying broke."
+      }
+    ],
+    "description": "Don’t miss the tax rules when inheriting money from abroad. Follow for clear guidance on filing and compliance.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#inheritance",
+      "#taxes",
+      "#FATCA",
+      "#personalfinance"
+    ],
+    "place": "",
+    "country": ""
   }
 ]
