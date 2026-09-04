@@ -1,0 +1,60 @@
+{
+  "title": "Save More When You Get Paid",
+  "thumb": "PAYSELF FIRST",
+  "scenes": [
+    {
+      "hook_top": "DOUBLE YOUR SAVINGS",
+      "query": "person saving money",
+      "query2": "person with savings jar",
+      "fact": "Paying yourself first boosts saving rates to 20% on average.",
+      "chips": [
+        {
+          "t": "20%",
+          "on": "save",
+          "style": "accent"
+        }
+      ],
+      "role": "hook",
+      "text": "Your paycheck can double your savings rate."
+    },
+    {
+      "chips": [
+        {
+          "t": "5 years",
+          "on": "live",
+          "style": "white"
+        }
+      ],
+      "query": "older adult living long",
+      "query2": "elderly person",
+      "role": "fact",
+      "text": "Those who set a 20% goal outlive peers by 5 years."
+    },
+    {
+      "label": "20% Rule",
+      "sub": "Set it before spending",
+      "label_on": "rule",
+      "query": "calendar with savings goal",
+      "query2": "person setting budget",
+      "role": "callout",
+      "text": "Start with 20% of every paycheck."
+    },
+    {
+      "query": "follow button on mobile",
+      "query2": "social media follow icon",
+      "role": "cta",
+      "text": "Follow for the wealth lessons school skipped."
+    }
+  ],
+  "description": "Learn how a simple 20% rule can transform your finances and even extend your life. Start today and watch your savings grow. Follow for more practical money tips.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#savings",
+    "#personalfinance",
+    "#moneyhabits",
+    "#financialwellness"
+  ],
+  "place": "",
+  "country": ""
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Rent vs. Own Cost Comparison",
+  "thumb": "RENT OR BUY?",
+  "scenes": [
+    {
+      "hook_top": "RENT COST SURPRISE",
+      "query": "city skyline with rent sign",
+      "query2": "urban apartment",
+      "fact": "The average annual rent premium over buying is $12,000 in many metros.",
+      "chips": [
+        {
+          "t": "$12,000",
+          "on": "premium",
+          "style": "accent"
+        }
+      ],
+      "role": "hook",
+      "text": "Renting can cost $12,000 more than owning annually."
+    },
+    {
+      "chips": [
+        {
+          "t": "$5,000",
+          "on": "equity",
+          "style": "white"
+        }
+      ],
+      "query": "house with equity sign",
+      "query2": "home ownership symbol",
+      "role": "fact",
+      "text": "Homeowners build equity of about $5,000 per year on average."
+    },
+    {
+      "label": "5-Year Rule",
+      "sub": "Build equity, not debt",
+      "label_on": "rule",
+      "query": "timeline 5 years",
+      "query2": "calendar with 5 years",
+      "role": "callout",
+      "text": "Consider buying if you stay 5 years."
+    },
+    {
+      "query": "follow button on mobile",
+      "query2": "social media follow icon",
+      "role": "cta",
+      "text": "Follow for the money mindset they don't teach you."
+    }
+  ],
+  "description": "Renting may look cheaper, but over five years buying can save you tens of thousands. Learn how to evaluate the true cost of rent versus ownership. Follow for more real estate money wisdom.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#rentvsbuy",
+    "#realestate",
+    "#homeownership",
+    "#moneyadvice",
+    "#financialplanning"
+  ],
+  "place": "",
+  "country": ""
+}

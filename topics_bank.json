@@ -11280,5 +11280,203 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Hidden Fees That Drain Your Wallet",
+    "thumb": "FEES SINK MONEY",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Did you notice $12 hidden fees on a $200 bill?",
+        "hook_top": "HIDDEN 12 FEES",
+        "query": "bank statement hidden fees example",
+        "query2": "credit card statement fee breakdown",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "label": "OVERDRAFT CHARGES",
+        "label_on": "overdraft",
+        "text": "Overdraft fees can cost up to $35 each time you dip below zero.",
+        "query": "overdraft fee $35 example",
+        "query2": "bank overdraft charge illustration",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "label": "PAYMENT PROCESSOR SURCHARGES",
+        "label_on": "surcharges",
+        "text": "Many merchants add a 2‑3 % surcharge for card payments.",
+        "query": "merchant surcharge credit card 2 percent",
+        "query2": "payment processor fee example",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "label": "ANNUAL ACCOUNT MAINTENANCE",
+        "label_on": "maintenance",
+        "text": "Some checking accounts charge $12‑$15 monthly just to stay open.",
+        "query": "checking account monthly maintenance fee $12",
+        "query2": "bank account fee $15 illustration",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if you're done staying broke.",
+        "query": "follow button graphic",
+        "query2": "call to action subscribe icon",
+        "role": "cta"
+      }
+    ],
+    "description": "Uncover the three most common hidden fees that silently eat your money. Learn how to spot and avoid them today. Follow for more money‑saving tips.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#moneytips",
+      "#personalfinance",
+      "#savemoney",
+      "#budgeting",
+      "#fees"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Everyday Habits That Build Wealth Fast",
+    "thumb": "FAST WEALTH HABITS",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Saving just $20 from each paycheck adds up fast.",
+        "hook_top": "20 PAYCHECK SAVING",
+        "query": "saving $20 each paycheck example",
+        "query2": "small paycheck savings illustration",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "label": "AUTOMATE YOUR SAVINGS",
+        "label_on": "automate",
+        "text": "Set up an automatic transfer on payday to a high‑yield account.",
+        "query": "automatic transfer to high yield savings screenshot",
+        "query2": "bank auto‑save feature example",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "label": "PAY YOURSELF FIRST",
+        "label_on": "firstpay",
+        "text": "Treat your savings contribution like a non‑negotiable bill each month.",
+        "query": "pay yourself first budgeting chart",
+        "query2": "personal finance first pay illustration",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "label": "CUT ONE SMALL SUBSCRIPTION",
+        "label_on": "cut subscription",
+        "text": "Cancel a $10 streaming service you rarely use and redirect that money.",
+        "query": "cancelling streaming subscription $10 example",
+        "query2": "budget cut subscription illustration",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the wealth lessons school skipped.",
+        "query": "follow button graphic",
+        "query2": "call to action subscribe icon",
+        "role": "cta"
+      }
+    ],
+    "description": "Three tiny actions that anyone can start today to accelerate wealth building. Simple, actionable, and proven. Follow for more fast‑track finance tips.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#wealthbuilding",
+      "#moneyhabits",
+      "#savemoney",
+      "#financialfreedom",
+      "#budgettips"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Why Renting Beats Buying in Hot Markets",
+    "thumb": "RENTING WINS",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "In San Francisco, buying costs $1,200 more per month than renting.",
+        "hook_top": "SF RENT VS BUY",
+        "query": "San Francisco rent versus mortgage cost comparison",
+        "query2": "SF housing price vs rent chart",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "label": "LOWER MONTHLY CASH FLOW",
+        "label_on": "cashflow",
+        "text": "Renters keep an average $1,200 extra cash each month for investments or emergencies.",
+        "query": "renter cash flow advantage $1200 example",
+        "query2": "monthly cash flow rent vs buy illustration",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "label": "NO PROPERTY TAX BURDEN",
+        "label_on": "property tax",
+        "text": "Homeowners in the city pay roughly 1.2 % of home value annually in property taxes.",
+        "query": "San Francisco property tax rate 1.2 percent",
+        "query2": "property tax calculation example",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "label": "FLEXIBLE LIVING OPTIONS",
+        "label_on": "flexibility",
+        "text": "Renters can relocate easily if job or market conditions change, avoiding costly sales.",
+        "query": "renters flexibility moving job change example",
+        "query2": "housing market mobility renter advantage",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for daily money habits that actually work.",
+        "query": "follow button graphic",
+        "query2": "call to action subscribe icon",
+        "role": "cta"
+      }
+    ],
+    "description": "Three solid reasons why renting can be smarter than buying in high‑price cities like San Francisco. Learn the numbers that matter. Follow for more housing wisdom.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#renting",
+      "#housingmarket",
+      "#personalfinance",
+      "#realestate",
+      "#moneytips"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

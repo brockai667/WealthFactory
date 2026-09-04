@@ -1,0 +1,61 @@
+{
+  "title": "High-Yield Accounts Beat CDs",
+  "thumb": "YIELD SURPRISE",
+  "scenes": [
+    {
+      "hook_top": "EARN EXTRA YIELD",
+      "query": "financial graph rising",
+      "query2": "chart with growth",
+      "fact": "High‑yield savings can offer 2% APY, outpacing 1% CDs.",
+      "chips": [
+        {
+          "t": "2%",
+          "on": "yield",
+          "style": "accent"
+        }
+      ],
+      "role": "hook",
+      "text": "A $5,000 balance earns $250 extra yearly."
+    },
+    {
+      "chips": [
+        {
+          "t": "60%",
+          "on": "choice",
+          "style": "white"
+        }
+      ],
+      "query": "survey results chart",
+      "query2": "people voting",
+      "role": "fact",
+      "text": "Over 60% of U.S. consumers choose high‑yield accounts."
+    },
+    {
+      "label": "Switch Today",
+      "sub": "Earn more, wait less",
+      "label_on": "switch",
+      "query": "hand tapping bank app",
+      "query2": "person using smartphone",
+      "role": "callout",
+      "text": "Switch to an online high‑yield account now."
+    },
+    {
+      "query": "follow button on mobile",
+      "query2": "social media follow icon",
+      "role": "cta",
+      "text": "Follow for the wealth lessons school skipped."
+    }
+  ],
+  "description": "Discover why high‑yield savings accounts can give you more interest than traditional CDs. Make the smart switch today and grow your money faster. Follow for more saving strategies.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#highyield",
+    "#savings",
+    "#banking",
+    "#moneytips",
+    "#finance"
+  ],
+  "place": "",
+  "country": ""
+}
