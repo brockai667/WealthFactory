@@ -1,0 +1,66 @@
+{
+  "title": "Wealthy Habit: Avoiding Lifestyle Inflation",
+  "thumb": "STOP INFLATION",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Did you know a $5,000 raise can cost you $15,000 over five years?",
+      "hook_top": "RAISE COSTS TRIPLE",
+      "query": "lifestyle inflation cost example $5,000 raise",
+      "query2": "how raises lead to higher spending",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "text": "Keep housing costs at or below 30 % of your gross income.",
+      "label": "HOUSING 30 PERCENT",
+      "label_on": "keep",
+      "query": "housing cost 30 percent income rule",
+      "query2": "rent mortgage affordability 30%",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "text": "Limit discretionary spending increases to no more than 10 % of the raise.",
+      "label": "LIMIT DISCRETIONARY",
+      "label_on": "limit",
+      "query": "discretionary spending raise limit 10 percent",
+      "query2": "how to control lifestyle inflation",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "text": "Redirect the remaining raise into retirement or investment accounts.",
+      "label": "INVEST THE EXTRA",
+      "label_on": "invest",
+      "query": "invest raise retirement accounts",
+      "query2": "allocate salary increase to investments",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the wealth lessons school skipped.",
+      "query": "follow CTA personal finance",
+      "query2": "subscribe money habits call to action",
+      "role": "cta"
+    }
+  ],
+  "description": "Discover the three concrete steps wealthy people use to prevent lifestyle creep and keep their net worth climbing. Apply these rules now.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#wealthhabits",
+    "#lifestyleinflation",
+    "#investing",
+    "#financialgrowth",
+    "#moneytips"
+  ],
+  "place": "",
+  "country": ""
+}

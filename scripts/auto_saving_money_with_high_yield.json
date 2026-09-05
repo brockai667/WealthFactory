@@ -1,0 +1,75 @@
+{
+  "title": "Saving Money With High Yield",
+  "thumb": "HIGH YIELD SAVINGS",
+  "scenes": [
+    {
+      "text": "What 5% APY can do for $10,000",
+      "hook_top": "5 APY MAGIC",
+      "query": "high yield savings account 5% APY",
+      "query2": "savings account interest rate",
+      "role": "hook"
+    },
+    {
+      "text": "A high‑yield savings account at 5% compounds daily, turning $10,000 into about $10,500 in one year.",
+      "chips": [
+        {
+          "t": "5% APY",
+          "on": "APY",
+          "style": "accent"
+        },
+        {
+          "t": "$10,000",
+          "on": "ten thousand",
+          "style": "white"
+        }
+      ],
+      "query": "high yield savings account compounding daily",
+      "query2": "5% APY daily compounding",
+      "role": "fact"
+    },
+    {
+      "text": "Traditional bank savings average about 0.5% APY, growing the same $10,000 to only $10,050 after a year.",
+      "chips": [
+        {
+          "t": "0.5% APY",
+          "on": "half percent",
+          "style": "accent"
+        },
+        {
+          "t": "$10,000",
+          "on": "ten thousand",
+          "style": "white"
+        }
+      ],
+      "query": "average US bank savings rate 2023",
+      "query2": "traditional savings account interest",
+      "role": "fact"
+    },
+    {
+      "text": "The extra $450 can fund an emergency fund faster than cutting a daily latte.",
+      "reveal_top": "450 DOLLARS EXTRA",
+      "query": "emergency fund calculation $450",
+      "query2": "how much extra interest earns",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Follow for daily money habits that actually work.",
+      "query": "money hacks short video",
+      "query2": "personal finance tips",
+      "role": "cta"
+    }
+  ],
+  "description": "See how a modest 5% APY turns $10k into a real safety net. Simple switch, big impact. Follow for more actionable finance tricks.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#personalfinance",
+    "#savemoney",
+    "#highyield",
+    "#budgettips",
+    "#financialliteracy"
+  ],
+  "place": "",
+  "country": ""
+}

@@ -11478,5 +11478,396 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Early Paycheck Savings Explosion",
+    "thumb": "PAYCHECK POWER",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "What a $500 paycheck split does to wealth",
+        "hook_top": "PAYCHECK SPLIT POWER",
+        "query": "pay yourself first $500 paycheck",
+        "query2": "budget first paycheck split",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "text": "Saving 20% of every paycheck adds up to $12,000 after ten years with a 7% annual return",
+        "label": "SAVE 20% EACH PAYCHECK",
+        "label_on": "SAVE",
+        "query": "20 percent paycheck savings calculator",
+        "query2": "saving 20 percent each paycheck example",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "text": "Compound interest turns that $12,000 into roughly $24,000 after another ten years without extra contributions",
+        "label": "COMPOUNDING DOUBLES IT",
+        "label_on": "DOUBLE",
+        "query": "compound interest double in ten years",
+        "query2": "investment growth doubling time",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "text": "Automating the transfer removes the temptation to spend, the most common reason budgets fail",
+        "label": "AUTOMATE TO WIN",
+        "label_on": "AUTOMATE",
+        "query": "automatic paycheck savings automation",
+        "query2": "auto transfer budgeting tip",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for daily money habits that actually work.",
+        "query": "follow money hacks call to action",
+        "query2": "subscribe personal finance tips",
+        "role": "cta"
+      }
+    ],
+    "description": "A tiny habit of putting a slice of each paycheck aside can snowball into a sizable nest egg. Start today and watch the power of compounding work for you. Follow for more simple money hacks.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#personalfinance",
+      "#savingtips",
+      "#budgeting",
+      "#compoundinterest"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Escaping the Car Loan Trap",
+    "thumb": "CAR LOAN EXIT",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Why a $20,000 car loan can cost $30,000 total",
+        "hook_top": "CAR LOAN COST",
+        "query": "average $20,000 car loan total cost",
+        "query2": "car loan $20k interest total paid",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "text": "The average new‑car loan interest rate in 2024 sits around 4.5% APR",
+        "label": "AVERAGE 4.5% APR",
+        "label_on": "RATE",
+        "query": "2024 average new car loan interest rate",
+        "query2": "average car loan APR 2024",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "text": "A 60‑month term adds roughly $5,000 in interest on a $20,000 loan at that rate",
+        "label": "5K INTEREST OVER 5 YEARS",
+        "label_on": "INTEREST",
+        "query": "interest on $20,000 car loan 60 months 4.5%",
+        "query2": "car loan interest calculator example",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "text": "Making one extra $200 payment each month shaves off about 12 months and saves over $1,000 in interest",
+        "label": "EXTRA $200 SAVES $1K+",
+        "label_on": "SAVE",
+        "query": "extra payment car loan interest savings",
+        "query2": "pay off car loan faster example",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the money mindset they don't teach you.",
+        "query": "follow debt free strategies call to action",
+        "query2": "subscribe personal finance tips",
+        "role": "cta"
+      }
+    ],
+    "description": "Car loans often look cheap until interest adds up. Learn the real cost, how term length inflates it, and a simple extra‑payment trick to escape the trap faster. Follow for more debt‑free strategies.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#carloan",
+      "#debtfree",
+      "#personalfinance",
+      "#moneysmart"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Smart Moves With Unexpected Inheritance",
+    "thumb": "INHERITANCE WIN",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Got a $75,000 inheritance? Here’s the smartest first step",
+        "hook_top": "INHERITANCE FIRST STEP",
+        "query": "what to do with $75,000 inheritance",
+        "query2": "first steps after receiving inheritance",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "text": "Pay off any high‑interest debt first; rates above 6% cost more than most investment returns",
+        "label": "ELIMINATE HIGH‑INTEREST DEBT",
+        "label_on": "PAY OFF",
+        "query": "high interest debt payoff priority inheritance",
+        "query2": "pay off credit card debt before investing",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "text": "Set aside a tax‑free emergency fund of three to six months of expenses before any other use",
+        "label": "EMERGENCY FUND FIRST",
+        "label_on": "SAVE",
+        "query": "emergency fund three to six months guidelines",
+        "query2": "how much cash reserve should I keep",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "text": "Invest the remaining amount in a diversified low‑cost index fund to capture long‑term market growth",
+        "label": "INDEX FUND INVESTMENT",
+        "label_on": "INVEST",
+        "query": "low cost index fund for inheritance",
+        "query2": "diversified index fund investing basics",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the money mindset they don't teach you.",
+        "query": "follow wealth building tips call to action",
+        "query2": "subscribe personal finance advice",
+        "role": "cta"
+      }
+    ],
+    "description": "An unexpected inheritance can be a game‑changer if you handle it right. Prioritize debt, secure an emergency cushion, then let low‑cost index funds work for you. Follow for more wealth‑building tips.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#inheritance",
+      "#investing",
+      "#personalfinance",
+      "#wealthbuilding"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Rent versus Buying Real Costs",
+    "thumb": "RENT VS BUY",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Seattle homes average $800,000—what does renting cost there?",
+        "hook_top": "SEATTLE HOME COSTS",
+        "query": "Seattle median home price 2024",
+        "query2": "Seattle housing market price",
+        "role": "hook"
+      },
+      {
+        "type": "myth",
+        "text": "Most people believe renting is always cheaper than owning a home.",
+        "label": "Rent is always cheaper",
+        "query": "rent vs buy cost comparison",
+        "query2": "renting cheaper than buying myth",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "truth",
+        "text": "When you factor in rent increases, tax deductions and equity growth, buying often costs less over a 5‑year horizon in high‑price markets.",
+        "label": "Buying can be cheaper long‑term",
+        "query": "long term cost of buying vs renting",
+        "query2": "homeownership equity versus rent",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Calculate your break‑even point to see if you should buy.",
+        "label": "Break‑Even Calculator",
+        "sub": "Use a simple spreadsheet to compare.",
+        "label_on": "break‑even",
+        "query": "home buy rent break even calculator",
+        "query2": "rent vs buy spreadsheet",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if you're done staying broke.",
+        "query": "follow button animation",
+        "query2": "subscribe graphic",
+        "role": "cta"
+      }
+    ],
+    "description": "Discover why the rent‑vs‑buy myth doesn’t hold up in pricey cities. Learn a quick method to decide for yourself. Follow for more fact‑based finance tips.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#personalfinance",
+      "#rentvsbuy",
+      "#wealthhabits",
+      "#moneyfacts",
+      "#realestate"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Student Loan Payoff Myths",
+    "thumb": "LOAN PAYOFF MYTH",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "A $30,000 student loan at 4.5%—should you rush to pay it off?",
+        "hook_top": "30K LOAN QUESTION",
+        "query": "student loan $30,000 interest rate 4.5%",
+        "query2": "average student loan balance 2024",
+        "role": "hook"
+      },
+      {
+        "type": "myth",
+        "text": "Many think paying any loan early is always the smartest financial move.",
+        "label": "Pay loans early always best",
+        "query": "early loan repayment myth",
+        "query2": "paying off debt early advice",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "truth",
+        "text": "If you can earn more than the loan’s interest elsewhere, investing may grow wealth faster than the savings from early repayment.",
+        "label": "Invest if returns > loan rate",
+        "query": "investment return vs loan interest comparison",
+        "query2": "opportunity cost student loan payoff",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Compare your loan rate to potential investment returns before deciding.",
+        "label": "Rate Comparison",
+        "sub": "Use a simple calculator to weigh options.",
+        "label_on": "compare",
+        "query": "student loan vs investment calculator",
+        "query2": "loan interest vs stock return tool",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the wealth lessons school skipped.",
+        "query": "follow button animation",
+        "query2": "subscribe graphic",
+        "role": "cta"
+      }
+    ],
+    "description": "Uncover why paying off a student loan early isn’t always the optimal choice. Get a quick comparison tool tip. Follow for more evidence‑based money habits.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#studentloans",
+      "#debtmyths",
+      "#personalfinance",
+      "#wealthhabits",
+      "#moneytips"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Wealthy Savings Habit Explained",
+    "thumb": "SAVE LIKE RICH",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "What 15% of top earners do with every paycheck?",
+        "hook_top": "TOP EARNERS SECRET",
+        "query": "top earners paycheck savings percent",
+        "query2": "high income savings rate",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "Research shows affluent households save roughly 20 % of their income each year.",
+        "chips": [
+          {
+            "t": "SAVE 20% YEARLY",
+            "on": "save",
+            "style": "accent"
+          }
+        ],
+        "punch": "wow",
+        "query": "affluent households saving rate 20 percent",
+        "query2": "wealthy saving percentage study",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "The same group spends less than 5 % of their income on discretionary items.",
+        "chips": [
+          {
+            "t": "UNDER 5% SPEND",
+            "on": "spend",
+            "style": "white"
+          }
+        ],
+        "punch": "note",
+        "query": "wealthy discretionary spending percent",
+        "query2": "high net worth lifestyle spending rate",
+        "role": "fact"
+      },
+      {
+        "type": "reveal",
+        "text": "But they don’t stash that cash – they immediately invest it in assets that grow.",
+        "reveal_top": "INVEST, DON'T SAVE",
+        "query": "wealthy investing assets instead of cash",
+        "query2": "rich people asset allocation cash",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the wealth lessons school skipped.",
+        "query": "personal finance follow CTA",
+        "query2": "money habits subscribe line",
+        "role": "cta"
+      }
+    ],
+    "description": "Discover the exact saving rate of high‑income families and why the real power lies in rapid investment, not idle cash. Apply this habit today to accelerate wealth.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#personalfinance",
+      "#wealthhabits",
+      "#savemoney",
+      "#investing",
+      "#moneytips"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

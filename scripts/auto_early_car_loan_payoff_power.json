@@ -1,0 +1,75 @@
+{
+  "title": "Early Car Loan Payoff Power",
+  "thumb": "CAR LOAN SAVER",
+  "scenes": [
+    {
+      "text": "How a $1,200 car loan costs $10,000 total",
+      "hook_top": "CAR LOAN COST",
+      "query": "$1,200 car loan total cost",
+      "query2": "auto loan payment calculator",
+      "role": "hook"
+    },
+    {
+      "text": "$1,200 monthly payment on a 5‑year loan at 4% interest totals roughly $72,000 paid.",
+      "chips": [
+        {
+          "t": "$1,200",
+          "on": "one thousand two hundred",
+          "style": "accent"
+        },
+        {
+          "t": "5 years",
+          "on": "five years",
+          "style": "white"
+        }
+      ],
+      "query": "auto loan 5 year 4% payment $1,200",
+      "query2": "car loan total interest calculation",
+      "role": "fact"
+    },
+    {
+      "text": "Paying an extra $200 each month cuts interest, saving about $8,000 over the loan term.",
+      "chips": [
+        {
+          "t": "$200 extra",
+          "on": "two hundred extra",
+          "style": "accent"
+        },
+        {
+          "t": "8,000 saved",
+          "on": "eight thousand saved",
+          "style": "white"
+        }
+      ],
+      "query": "extra car loan payment interest savings",
+      "query2": "auto loan early payoff benefit",
+      "role": "fact"
+    },
+    {
+      "text": "Surprise: making one extra payment each year halves the total interest.",
+      "reveal_top": "ONE PAYMENT SAVES",
+      "query": "annual extra car loan payment effect",
+      "query2": "single extra payment interest reduction",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Follow for the wealth lessons school skipped.",
+      "query": "smart finance tips short",
+      "query2": "personal finance advice",
+      "role": "cta"
+    }
+  ],
+  "description": "Your $1,200 car payment could be draining $10K. One extra payment a year can slash that dramatically. Follow for more savvy financial habits.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#carloan",
+    "#debtfree",
+    "#savemoney",
+    "#personalfinance",
+    "#budgeting"
+  ],
+  "place": "",
+  "country": ""
+}
