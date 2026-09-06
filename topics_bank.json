@@ -11869,5 +11869,85 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Why Rent Beats Buying",
+    "thumb": "RENT WINS",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "San Francisco renters pay $2,500 monthly for a one‑bedroom.",
+        "hook_top": "SAN FRANCISCO RENTAL SHOCK",
+        "query": "San Francisco rent $2500",
+        "query2": "San Francisco average rent",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "National average rent rose 13% in 2023 to $1,630.",
+        "chips": [
+          {
+            "t": "13% RISE",
+            "on": "rise",
+            "style": "accent"
+          },
+          {
+            "t": "$1,630 AVG",
+            "on": "average",
+            "style": "white"
+          }
+        ],
+        "query": "2023 average rent $1630",
+        "query2": "US rent increase 2023",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "Median mortgage payment in 2023 was $1,300, roughly $300 less than the city rent.",
+        "chips": [
+          {
+            "t": "$1,300 MORTGAGE",
+            "on": "mortgage",
+            "style": "white"
+          },
+          {
+            "t": "$300 GAP",
+            "on": "gap",
+            "style": "accent"
+          }
+        ],
+        "query": "2023 median mortgage payment $1300",
+        "query2": "US mortgage payment 2023",
+        "role": "fact"
+      },
+      {
+        "type": "reveal",
+        "text": "Renting frees that $300 each month to invest, compounding into a six‑figure nest egg over 20 years.",
+        "reveal_top": "RENT BUILD WEALTH",
+        "query": "invest rent savings wealth",
+        "query2": "rent vs buy investment advantage",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the money mindset they don't teach you.",
+        "query": "personal finance follow",
+        "query2": "money habits follow",
+        "role": "cta"
+      }
+    ],
+    "description": "See how the rent‑vs‑buy gap can become a powerful wealth‑building engine. The extra cash you keep each month compounds faster than home equity. Follow for daily finance tips.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#personalfinance",
+      "#rentvsbuy",
+      "#investing",
+      "#wealthbuilding",
+      "#moneytips"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

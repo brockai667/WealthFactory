@@ -1,0 +1,61 @@
+{
+  "title": "Credit Score Myth Busted",
+  "thumb": "UTILIZATION TRAP",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Your score can drop 100 points after one missed payment on a $5,000 loan",
+      "hook_top": "MISSED PAYMENT SHOCK",
+      "query": "credit score drop after missed payment",
+      "query2": "credit score impact missed payment",
+      "role": "hook"
+    },
+    {
+      "type": "myth",
+      "text": "People believe any credit‑card balance above 30% usage instantly ruins a credit score.",
+      "label": "30% Utilization Myth",
+      "query": "credit card utilization 30 percent myth",
+      "query2": "credit utilization myth",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "truth",
+      "text": "FICO scores weight utilization about 10%; payment history, length of credit, and mix have larger impact, so a temporary 40% balance rarely causes a huge drop.",
+      "label": "Utilization Small Factor",
+      "query": "FICO utilization weight 10 percent",
+      "query2": "credit score factors utilization",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "Keep payments on time and let old accounts age – that’s the real boost.",
+      "label": "Pay On Time",
+      "sub": "Timely payments outweigh short‑term balances",
+      "label_on": "Boost",
+      "query": "importance of on‑time payments credit score",
+      "query2": "credit score payment history impact",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if you're done staying broke.",
+      "query": "follow finance channel",
+      "query2": "subscribe money habits",
+      "role": "cta"
+    }
+  ],
+  "description": "We debunk the 30% utilization myth and show what truly moves your score. Simple steps you can apply today.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#creditscore",
+    "#moneyhabits",
+    "#personalfinance",
+    "#financefacts"
+  ],
+  "place": "",
+  "country": ""
+}

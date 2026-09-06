@@ -1,0 +1,77 @@
+{
+  "title": "Hidden Monthly Cost Of Credit Interest",
+  "thumb": "CREDIT CARD EXPENSES",
+  "scenes": [
+    {
+      "hook_top": "INTEREST ADDS TEN",
+      "query": "credit card balance interest chart",
+      "query2": "credit card interest",
+      "scene_type": "hook",
+      "role": "hook",
+      "text": "Every $1 borrowed adds $10 in interest each year"
+    },
+    {
+      "chips": [
+        {
+          "t": "20.3%",
+          "on": "APR",
+          "style": "accent"
+        }
+      ],
+      "punch": "APR",
+      "query": "credit card average APR 2024",
+      "query2": "credit card APR",
+      "scene_type": "fact",
+      "role": "fact",
+      "text": "The average credit card APR is 20.3%"
+    },
+    {
+      "chips": [
+        {
+          "t": "$100",
+          "on": "interest",
+          "style": "white"
+        },
+        {
+          "t": "$500",
+          "on": "balance",
+          "style": "accent"
+        }
+      ],
+      "punch": "Interest",
+      "query": "interest calculation on credit card balance",
+      "query2": "credit card interest example",
+      "scene_type": "fact",
+      "role": "fact",
+      "text": "A $500 balance costs $100 in interest over a year"
+    },
+    {
+      "label": "Pay Early",
+      "sub": "Reduce interest with every payment",
+      "label_on": "Pay",
+      "query": "paying credit card early screenshot",
+      "query2": "credit card payment",
+      "scene_type": "callout",
+      "role": "callout",
+      "text": "Avoid the hidden interest trap"
+    },
+    {
+      "query": "follow button illustration",
+      "query2": "follow icon",
+      "scene_type": "cta",
+      "role": "cta",
+      "text": "Follow for the money mindset they don't teach you."
+    }
+  ],
+  "description": "Learn how credit card interest builds up and how you can stop the hidden drain. Follow for simple money tricks.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#creditcards",
+    "#interest",
+    "#personalfinance",
+    "#moneyhabits"
+  ],
+  "place": "",
+  "country": ""
+}
