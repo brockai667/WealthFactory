@@ -1,0 +1,72 @@
+{
+  "title": "Inheritance Tax For Overseas Funds",
+  "thumb": "INHERITANCE TAX TIPS",
+  "scenes": [
+    {
+      "hook_top": "INHERITANCE TAX",
+      "query": "inheritance from philippines US tax",
+      "query2": "inheritance tax",
+      "scene_type": "hook",
+      "role": "hook",
+      "text": "Your $20k inheritance from the Philippines needs US filing"
+    },
+    {
+      "chips": [
+        {
+          "t": "$15k",
+          "on": "gift",
+          "style": "accent"
+        }
+      ],
+      "punch": "Gift",
+      "query": "IRS foreign gift reporting 2024",
+      "query2": "IRS gift reporting",
+      "scene_type": "fact",
+      "role": "fact",
+      "text": "IRS requires reporting foreign gifts over $15k"
+    },
+    {
+      "chips": [
+        {
+          "t": "FATCA",
+          "on": "act",
+          "style": "white"
+        }
+      ],
+      "punch": "FATCA",
+      "query": "FATCA audit example",
+      "query2": "foreign account compliance",
+      "scene_type": "fact",
+      "role": "fact",
+      "text": "The Foreign Account Tax Compliance Act (FATCA) audits overseas accounts"
+    },
+    {
+      "label": "Form 3520",
+      "sub": "Report foreign gifts and inheritances",
+      "label_on": "File",
+      "query": "IRS Form 3520 screenshot",
+      "query2": "IRS form 3520",
+      "scene_type": "callout",
+      "role": "callout",
+      "text": "File the right forms"
+    },
+    {
+      "query": "follow button illustration",
+      "query2": "follow icon",
+      "scene_type": "cta",
+      "role": "cta",
+      "text": "Follow if you're done staying broke."
+    }
+  ],
+  "description": "Don’t miss the tax rules when inheriting money from abroad. Follow for clear guidance on filing and compliance.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#inheritance",
+    "#taxes",
+    "#FATCA",
+    "#personalfinance"
+  ],
+  "place": "",
+  "country": ""
+}

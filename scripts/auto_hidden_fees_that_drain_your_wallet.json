@@ -1,0 +1,66 @@
+{
+  "title": "Hidden Fees That Drain Your Wallet",
+  "thumb": "FEES SINK MONEY",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Did you notice $12 hidden fees on a $200 bill?",
+      "hook_top": "HIDDEN 12 FEES",
+      "query": "bank statement hidden fees example",
+      "query2": "credit card statement fee breakdown",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "label": "OVERDRAFT CHARGES",
+      "label_on": "overdraft",
+      "text": "Overdraft fees can cost up to $35 each time you dip below zero.",
+      "query": "overdraft fee $35 example",
+      "query2": "bank overdraft charge illustration",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "label": "PAYMENT PROCESSOR SURCHARGES",
+      "label_on": "surcharges",
+      "text": "Many merchants add a 2‑3 % surcharge for card payments.",
+      "query": "merchant surcharge credit card 2 percent",
+      "query2": "payment processor fee example",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "label": "ANNUAL ACCOUNT MAINTENANCE",
+      "label_on": "maintenance",
+      "text": "Some checking accounts charge $12‑$15 monthly just to stay open.",
+      "query": "checking account monthly maintenance fee $12",
+      "query2": "bank account fee $15 illustration",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if you're done staying broke.",
+      "query": "follow button graphic",
+      "query2": "call to action subscribe icon",
+      "role": "cta"
+    }
+  ],
+  "description": "Uncover the three most common hidden fees that silently eat your money. Learn how to spot and avoid them today. Follow for more money‑saving tips.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#moneytips",
+    "#personalfinance",
+    "#savemoney",
+    "#budgeting",
+    "#fees"
+  ],
+  "place": "",
+  "country": ""
+}

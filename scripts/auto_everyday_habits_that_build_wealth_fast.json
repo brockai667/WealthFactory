@@ -1,0 +1,66 @@
+{
+  "title": "Everyday Habits That Build Wealth Fast",
+  "thumb": "FAST WEALTH HABITS",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Saving just $20 from each paycheck adds up fast.",
+      "hook_top": "20 PAYCHECK SAVING",
+      "query": "saving $20 each paycheck example",
+      "query2": "small paycheck savings illustration",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "label": "AUTOMATE YOUR SAVINGS",
+      "label_on": "automate",
+      "text": "Set up an automatic transfer on payday to a high‑yield account.",
+      "query": "automatic transfer to high yield savings screenshot",
+      "query2": "bank auto‑save feature example",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "label": "PAY YOURSELF FIRST",
+      "label_on": "firstpay",
+      "text": "Treat your savings contribution like a non‑negotiable bill each month.",
+      "query": "pay yourself first budgeting chart",
+      "query2": "personal finance first pay illustration",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "label": "CUT ONE SMALL SUBSCRIPTION",
+      "label_on": "cut subscription",
+      "text": "Cancel a $10 streaming service you rarely use and redirect that money.",
+      "query": "cancelling streaming subscription $10 example",
+      "query2": "budget cut subscription illustration",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the wealth lessons school skipped.",
+      "query": "follow button graphic",
+      "query2": "call to action subscribe icon",
+      "role": "cta"
+    }
+  ],
+  "description": "Three tiny actions that anyone can start today to accelerate wealth building. Simple, actionable, and proven. Follow for more fast‑track finance tips.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#wealthbuilding",
+    "#moneyhabits",
+    "#savemoney",
+    "#financialfreedom",
+    "#budgettips"
+  ],
+  "place": "",
+  "country": ""
+}

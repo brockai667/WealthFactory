@@ -11949,5 +11949,142 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Avoid Car Loan Pitfalls",
+    "thumb": "CAR LOAN TRAPS",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Overpaying $300 a month on a loan costs you more",
+        "hook_top": "OVERPAY 300 MONTH",
+        "query": "car loan overpayment cost calculator",
+        "query2": "extra car loan payment interest impact",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "text": "Pay the minimum to keep interest low",
+        "label": "MINIMUM PAYMENT RULE",
+        "label_on": "First",
+        "query": "car loan minimum payment strategy",
+        "query2": "car loan payment minimum advice",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "text": "Refinance when rates drop below 4% APR",
+        "label": "REFINANCE BELOW 4%",
+        "label_on": "Second",
+        "query": "car loan refinance rates 4 percent",
+        "query2": "auto loan refinance low interest",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "text": "Avoid loan terms longer than 60 months to cut interest",
+        "label": "MAX 60‑MONTH TERM",
+        "label_on": "Third",
+        "query": "car loan 60 month term interest comparison",
+        "query2": "shorter auto loan term benefits",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if you're done staying broke.",
+        "query": "follow practical finance channel",
+        "query2": "subscribe money habits shorts",
+        "role": "cta"
+      }
+    ],
+    "description": "Stop leaking money on your auto loan with three proven tactics. Apply them now and keep more of your hard‑earned cash.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#carloan",
+      "#refinance",
+      "#personalfinance",
+      "#savemoney"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Why Car Loans Drain Wealth",
+    "thumb": "CAR LOAN TRAP",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "A $30,000 car loan can cost you far more than you think",
+        "hook_top": "CAR LOAN COST",
+        "query": "average new car loan amount $30,000",
+        "query2": "typical car loan principal",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "The average new‑car loan in 2023 carried a 4.2% APR, according to the Federal Reserve",
+        "chips": [
+          {
+            "t": "4.2% APR",
+            "on": "interest",
+            "style": "accent"
+          }
+        ],
+        "punch": "interest",
+        "query": "2023 average new car loan APR 4.2 percent",
+        "query2": "Federal Reserve car loan interest rate 2023",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "At that rate, a five‑year $30,000 loan adds roughly $3,200 in interest over the term",
+        "chips": [
+          {
+            "t": "$3,200 interest",
+            "on": "interest",
+            "style": "white"
+          }
+        ],
+        "punch": "cost",
+        "query": "interest paid on $30,000 loan 5 years 4.2% APR",
+        "query2": "total interest car loan calculation $30k 5 years",
+        "role": "fact"
+      },
+      {
+        "type": "reveal",
+        "text": "Paying extra just $100 a month shaves off more than $2,000 and cuts the loan by two years",
+        "reveal_top": "PAY $100 EXTRA",
+        "query": "impact of $100 extra payment on car loan",
+        "query2": "car loan payoff extra payment calculator",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for daily money habits that actually work.",
+        "query": "call to action follow finance tips",
+        "query2": "encourage follow short form finance",
+        "role": "cta"
+      }
+    ],
+    "description": "Most drivers don’t realize how tiny extra payments can dramatically reduce interest and loan length. Start saving thousands with a tiny tweak. Follow for more actionable finance tips.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#personalfinance",
+      "#carloan",
+      "#moneysavingtips",
+      "#financialfreedom",
+      "#budgethacks"
+    ],
+    "place": "",
+    "country": ""
   }
 ]
