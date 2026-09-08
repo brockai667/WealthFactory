@@ -1,0 +1,65 @@
+{
+  "title": "Escaping the Car Loan Trap",
+  "thumb": "CAR LOAN EXIT",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Why a $20,000 car loan can cost $30,000 total",
+      "hook_top": "CAR LOAN COST",
+      "query": "average $20,000 car loan total cost",
+      "query2": "car loan $20k interest total paid",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "text": "The average new‑car loan interest rate in 2024 sits around 4.5% APR",
+      "label": "AVERAGE 4.5% APR",
+      "label_on": "RATE",
+      "query": "2024 average new car loan interest rate",
+      "query2": "average car loan APR 2024",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "text": "A 60‑month term adds roughly $5,000 in interest on a $20,000 loan at that rate",
+      "label": "5K INTEREST OVER 5 YEARS",
+      "label_on": "INTEREST",
+      "query": "interest on $20,000 car loan 60 months 4.5%",
+      "query2": "car loan interest calculator example",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "text": "Making one extra $200 payment each month shaves off about 12 months and saves over $1,000 in interest",
+      "label": "EXTRA $200 SAVES $1K+",
+      "label_on": "SAVE",
+      "query": "extra payment car loan interest savings",
+      "query2": "pay off car loan faster example",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the money mindset they don't teach you.",
+      "query": "follow debt free strategies call to action",
+      "query2": "subscribe personal finance tips",
+      "role": "cta"
+    }
+  ],
+  "description": "Car loans often look cheap until interest adds up. Learn the real cost, how term length inflates it, and a simple extra‑payment trick to escape the trap faster. Follow for more debt‑free strategies.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#carloan",
+    "#debtfree",
+    "#personalfinance",
+    "#moneysmart"
+  ],
+  "place": "",
+  "country": ""
+}

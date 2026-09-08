@@ -1,0 +1,66 @@
+{
+  "title": "Why Renting Beats Buying in Hot Markets",
+  "thumb": "RENTING WINS",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "In San Francisco, buying costs $1,200 more per month than renting.",
+      "hook_top": "SF RENT VS BUY",
+      "query": "San Francisco rent versus mortgage cost comparison",
+      "query2": "SF housing price vs rent chart",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "label": "LOWER MONTHLY CASH FLOW",
+      "label_on": "cashflow",
+      "text": "Renters keep an average $1,200 extra cash each month for investments or emergencies.",
+      "query": "renter cash flow advantage $1200 example",
+      "query2": "monthly cash flow rent vs buy illustration",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "label": "NO PROPERTY TAX BURDEN",
+      "label_on": "property tax",
+      "text": "Homeowners in the city pay roughly 1.2 % of home value annually in property taxes.",
+      "query": "San Francisco property tax rate 1.2 percent",
+      "query2": "property tax calculation example",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "label": "FLEXIBLE LIVING OPTIONS",
+      "label_on": "flexibility",
+      "text": "Renters can relocate easily if job or market conditions change, avoiding costly sales.",
+      "query": "renters flexibility moving job change example",
+      "query2": "housing market mobility renter advantage",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for daily money habits that actually work.",
+      "query": "follow button graphic",
+      "query2": "call to action subscribe icon",
+      "role": "cta"
+    }
+  ],
+  "description": "Three solid reasons why renting can be smarter than buying in high‑price cities like San Francisco. Learn the numbers that matter. Follow for more housing wisdom.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#renting",
+    "#housingmarket",
+    "#personalfinance",
+    "#realestate",
+    "#moneytips"
+  ],
+  "place": "",
+  "country": ""
+}

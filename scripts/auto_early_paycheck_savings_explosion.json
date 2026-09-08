@@ -1,0 +1,65 @@
+{
+  "title": "Early Paycheck Savings Explosion",
+  "thumb": "PAYCHECK POWER",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "What a $500 paycheck split does to wealth",
+      "hook_top": "PAYCHECK SPLIT POWER",
+      "query": "pay yourself first $500 paycheck",
+      "query2": "budget first paycheck split",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "text": "Saving 20% of every paycheck adds up to $12,000 after ten years with a 7% annual return",
+      "label": "SAVE 20% EACH PAYCHECK",
+      "label_on": "SAVE",
+      "query": "20 percent paycheck savings calculator",
+      "query2": "saving 20 percent each paycheck example",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "text": "Compound interest turns that $12,000 into roughly $24,000 after another ten years without extra contributions",
+      "label": "COMPOUNDING DOUBLES IT",
+      "label_on": "DOUBLE",
+      "query": "compound interest double in ten years",
+      "query2": "investment growth doubling time",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "text": "Automating the transfer removes the temptation to spend, the most common reason budgets fail",
+      "label": "AUTOMATE TO WIN",
+      "label_on": "AUTOMATE",
+      "query": "automatic paycheck savings automation",
+      "query2": "auto transfer budgeting tip",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for daily money habits that actually work.",
+      "query": "follow money hacks call to action",
+      "query2": "subscribe personal finance tips",
+      "role": "cta"
+    }
+  ],
+  "description": "A tiny habit of putting a slice of each paycheck aside can snowball into a sizable nest egg. Start today and watch the power of compounding work for you. Follow for more simple money hacks.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#personalfinance",
+    "#savingtips",
+    "#budgeting",
+    "#compoundinterest"
+  ],
+  "place": "",
+  "country": ""
+}
