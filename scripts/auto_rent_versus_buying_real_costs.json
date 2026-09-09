@@ -1,0 +1,62 @@
+{
+  "title": "Rent versus Buying Real Costs",
+  "thumb": "RENT VS BUY",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Seattle homes average $800,000—what does renting cost there?",
+      "hook_top": "SEATTLE HOME COSTS",
+      "query": "Seattle median home price 2024",
+      "query2": "Seattle housing market price",
+      "role": "hook"
+    },
+    {
+      "type": "myth",
+      "text": "Most people believe renting is always cheaper than owning a home.",
+      "label": "Rent is always cheaper",
+      "query": "rent vs buy cost comparison",
+      "query2": "renting cheaper than buying myth",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "truth",
+      "text": "When you factor in rent increases, tax deductions and equity growth, buying often costs less over a 5‑year horizon in high‑price markets.",
+      "label": "Buying can be cheaper long‑term",
+      "query": "long term cost of buying vs renting",
+      "query2": "homeownership equity versus rent",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "Calculate your break‑even point to see if you should buy.",
+      "label": "Break‑Even Calculator",
+      "sub": "Use a simple spreadsheet to compare.",
+      "label_on": "break‑even",
+      "query": "home buy rent break even calculator",
+      "query2": "rent vs buy spreadsheet",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if you're done staying broke.",
+      "query": "follow button animation",
+      "query2": "subscribe graphic",
+      "role": "cta"
+    }
+  ],
+  "description": "Discover why the rent‑vs‑buy myth doesn’t hold up in pricey cities. Learn a quick method to decide for yourself. Follow for more fact‑based finance tips.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#personalfinance",
+    "#rentvsbuy",
+    "#wealthhabits",
+    "#moneyfacts",
+    "#realestate"
+  ],
+  "place": "",
+  "country": ""
+}

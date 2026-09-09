@@ -1,0 +1,65 @@
+{
+  "title": "Smart Moves With Unexpected Inheritance",
+  "thumb": "INHERITANCE WIN",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Got a $75,000 inheritance? Here’s the smartest first step",
+      "hook_top": "INHERITANCE FIRST STEP",
+      "query": "what to do with $75,000 inheritance",
+      "query2": "first steps after receiving inheritance",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "text": "Pay off any high‑interest debt first; rates above 6% cost more than most investment returns",
+      "label": "ELIMINATE HIGH‑INTEREST DEBT",
+      "label_on": "PAY OFF",
+      "query": "high interest debt payoff priority inheritance",
+      "query2": "pay off credit card debt before investing",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "text": "Set aside a tax‑free emergency fund of three to six months of expenses before any other use",
+      "label": "EMERGENCY FUND FIRST",
+      "label_on": "SAVE",
+      "query": "emergency fund three to six months guidelines",
+      "query2": "how much cash reserve should I keep",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "text": "Invest the remaining amount in a diversified low‑cost index fund to capture long‑term market growth",
+      "label": "INDEX FUND INVESTMENT",
+      "label_on": "INVEST",
+      "query": "low cost index fund for inheritance",
+      "query2": "diversified index fund investing basics",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the money mindset they don't teach you.",
+      "query": "follow wealth building tips call to action",
+      "query2": "subscribe personal finance advice",
+      "role": "cta"
+    }
+  ],
+  "description": "An unexpected inheritance can be a game‑changer if you handle it right. Prioritize debt, secure an emergency cushion, then let low‑cost index funds work for you. Follow for more wealth‑building tips.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#inheritance",
+    "#investing",
+    "#personalfinance",
+    "#wealthbuilding"
+  ],
+  "place": "",
+  "country": ""
+}

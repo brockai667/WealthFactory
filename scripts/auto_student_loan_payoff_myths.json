@@ -1,0 +1,62 @@
+{
+  "title": "Student Loan Payoff Myths",
+  "thumb": "LOAN PAYOFF MYTH",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "A $30,000 student loan at 4.5%—should you rush to pay it off?",
+      "hook_top": "30K LOAN QUESTION",
+      "query": "student loan $30,000 interest rate 4.5%",
+      "query2": "average student loan balance 2024",
+      "role": "hook"
+    },
+    {
+      "type": "myth",
+      "text": "Many think paying any loan early is always the smartest financial move.",
+      "label": "Pay loans early always best",
+      "query": "early loan repayment myth",
+      "query2": "paying off debt early advice",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "truth",
+      "text": "If you can earn more than the loan’s interest elsewhere, investing may grow wealth faster than the savings from early repayment.",
+      "label": "Invest if returns > loan rate",
+      "query": "investment return vs loan interest comparison",
+      "query2": "opportunity cost student loan payoff",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "Compare your loan rate to potential investment returns before deciding.",
+      "label": "Rate Comparison",
+      "sub": "Use a simple calculator to weigh options.",
+      "label_on": "compare",
+      "query": "student loan vs investment calculator",
+      "query2": "loan interest vs stock return tool",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the wealth lessons school skipped.",
+      "query": "follow button animation",
+      "query2": "subscribe graphic",
+      "role": "cta"
+    }
+  ],
+  "description": "Uncover why paying off a student loan early isn’t always the optimal choice. Get a quick comparison tool tip. Follow for more evidence‑based money habits.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#studentloans",
+    "#debtmyths",
+    "#personalfinance",
+    "#wealthhabits",
+    "#moneytips"
+  ],
+  "place": "",
+  "country": ""
+}
