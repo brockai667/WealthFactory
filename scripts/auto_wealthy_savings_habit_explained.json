@@ -1,0 +1,72 @@
+{
+  "title": "Wealthy Savings Habit Explained",
+  "thumb": "SAVE LIKE RICH",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "What 15% of top earners do with every paycheck?",
+      "hook_top": "TOP EARNERS SECRET",
+      "query": "top earners paycheck savings percent",
+      "query2": "high income savings rate",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "Research shows affluent households save roughly 20 % of their income each year.",
+      "chips": [
+        {
+          "t": "SAVE 20% YEARLY",
+          "on": "save",
+          "style": "accent"
+        }
+      ],
+      "punch": "wow",
+      "query": "affluent households saving rate 20 percent",
+      "query2": "wealthy saving percentage study",
+      "role": "fact"
+    },
+    {
+      "type": "fact",
+      "text": "The same group spends less than 5 % of their income on discretionary items.",
+      "chips": [
+        {
+          "t": "UNDER 5% SPEND",
+          "on": "spend",
+          "style": "white"
+        }
+      ],
+      "punch": "note",
+      "query": "wealthy discretionary spending percent",
+      "query2": "high net worth lifestyle spending rate",
+      "role": "fact"
+    },
+    {
+      "type": "reveal",
+      "text": "But they don’t stash that cash – they immediately invest it in assets that grow.",
+      "reveal_top": "INVEST, DON'T SAVE",
+      "query": "wealthy investing assets instead of cash",
+      "query2": "rich people asset allocation cash",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the wealth lessons school skipped.",
+      "query": "personal finance follow CTA",
+      "query2": "money habits subscribe line",
+      "role": "cta"
+    }
+  ],
+  "description": "Discover the exact saving rate of high‑income families and why the real power lies in rapid investment, not idle cash. Apply this habit today to accelerate wealth.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#personalfinance",
+    "#wealthhabits",
+    "#savemoney",
+    "#investing",
+    "#moneytips"
+  ],
+  "place": "",
+  "country": ""
+}

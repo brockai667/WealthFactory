@@ -12425,5 +12425,434 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Simple Habit That Grows Money",
+    "thumb": "DOUBLE SAVINGS",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "The 2% rule that top investors swear by",
+        "hook_top": "2 RULE REVEALED",
+        "query": "2% rule investing",
+        "query2": "2 percent investing rule",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "text": "Allocate 10% of every paycheck to a high‑yield account before anything else",
+        "label": "PAY YOURSELF FIRST",
+        "label_on": "first",
+        "query": "pay yourself first budgeting",
+        "query2": "10 percent paycheck savings",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "text": "Reinvest dividends automatically to let compounding work for you",
+        "label": "AUTO‑REINVEST DIVIDENDS",
+        "label_on": "reinvest",
+        "query": "automatic dividend reinvestment",
+        "query2": "dividend reinvest plan",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "text": "Avoid lifestyle inflation by keeping expenses flat even when income rises",
+        "label": "SKIP LIFESTYLE INFLATION",
+        "label_on": "inflation",
+        "query": "lifestyle inflation avoidance",
+        "query2": "keeping expenses flat income rise",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the wealth lessons school skipped.",
+        "query": "follow money habits",
+        "query2": "subscribe finance tips",
+        "role": "cta"
+      }
+    ],
+    "description": "Three tiny actions that let your money grow faster than most people realize. Start them now and watch your wealth compound. Follow for more practical finance hacks.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#moneyhabits",
+      "#compoundinterest",
+      "#savemoney",
+      "#personalfinance"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Everyday Trick To Cut Car Costs",
+    "thumb": "CAR SAVINGS",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Why a $300 monthly car payment hurts more than you think",
+        "hook_top": "300 CAR TRAP",
+        "query": "300 dollar car payment impact",
+        "query2": "monthly car payment cost",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "text": "Refinance at a rate 1% lower and save over $1,000 a year",
+        "label": "REFINANCE ONE PERCENT",
+        "label_on": "refinance",
+        "query": "car loan refinance lower rate",
+        "query2": "auto loan refinance savings",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "text": "Switch to a high‑efficiency vehicle to cut fuel by up to 30%",
+        "label": "HIGH‑EFFICIENCY SWITCH",
+        "label_on": "efficiency",
+        "query": "high efficiency car fuel savings",
+        "query2": "fuel reduction efficient vehicle",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "text": "Set up an automatic extra $50 payment each month to shave years off the loan",
+        "label": "AUTO PAY EXTRA $50",
+        "label_on": "extra",
+        "query": "extra payment car loan accelerate payoff",
+        "query2": "automatic additional car loan payment",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for daily money habits that actually work.",
+        "query": "follow car cost tips",
+        "query2": "subscribe auto savings",
+        "role": "cta"
+      }
+    ],
+    "description": "Three proven steps that trim car expenses without sacrificing convenience. Apply them today and watch the interest melt away. Follow for more actionable finance shortcuts.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#carfinance",
+      "#savemoney",
+      "#personalfinance",
+      "#budgettips"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Hidden Power Of The 72 Rule",
+    "thumb": "DOUBLE MONEY",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "How $1,000 can become $8,000 in just 24 years",
+        "hook_top": "1K TO 8K",
+        "query": "72 rule example $1000 to $8000",
+        "query2": "rule of 72 investment example",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "text": "At an 8% annual return, money doubles every 9 years (72 ÷ 8)",
+        "label": "8% DOUBLES IN 9 YEARS",
+        "label_on": "doubles",
+        "query": "8 percent return double 9 years",
+        "query2": "rule of 72 8% example",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "text": "Invest $1,000 now and let compounding turn it into $2,000 after 9 years",
+        "label": "START WITH $1,000",
+        "label_on": "start",
+        "query": "invest $1000 compound interest 9 years",
+        "query2": "compound growth $1000 8% 9 years",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "text": "Keep the money invested for another 9 years and it reaches $4,000, then $8,000 after 24 years total",
+        "label": "STAY INVESTED 24 YEARS",
+        "label_on": "stay",
+        "query": "compound interest 24 years $8000",
+        "query2": "investment growth 24 years rule of 72",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if you're done staying broke.",
+        "query": "follow rule of 72 tips",
+        "query2": "subscribe finance math",
+        "role": "cta"
+      }
+    ],
+    "description": "The Rule of 72 shows how modest returns explode over time. Use this quick math to plan your investments and watch small sums grow huge. Follow for more easy wealth formulas.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#ruleof72",
+      "#investingtips",
+      "#compoundinterest",
+      "#personalfinance"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Small Savings Grow Huge",
+    "thumb": "GROW BIG FAST",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "What $1,000 turned into $7,600 in 30 years?",
+        "hook_top": "WHAT 1000 TURNED",
+        "query": "$1,000 30 year investment growth",
+        "query2": "compound interest $1,000 30 years",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "At a 7% annual return, $1,000 compounds to about $7,612 after 30 years.",
+        "chips": [
+          {
+            "t": "7% RETURN",
+            "on": "return",
+            "style": "accent"
+          },
+          {
+            "t": "$7,600 RESULT",
+            "on": "result",
+            "style": "white"
+          }
+        ],
+        "punch": "Wow",
+        "query": "7% annual return 30 years compound",
+        "query2": "historical stock market average return",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "Adding just $100 each month to that same 7% plan reaches over $200,000 in 30 years.",
+        "chips": [
+          {
+            "t": "$100 MONTHLY",
+            "on": "monthly",
+            "style": "accent"
+          },
+          {
+            "t": "$200K TOTAL",
+            "on": "total",
+            "style": "white"
+          }
+        ],
+        "punch": "Boom",
+        "query": "monthly $100 investment 7% 30 years",
+        "query2": "future value of $100 monthly 30 years",
+        "role": "fact"
+      },
+      {
+        "type": "callout",
+        "text": "Start tiny, let compounding do the heavy lifting.",
+        "label": "START SMALL",
+        "sub": "Even $5 a week builds wealth",
+        "label_on": "start",
+        "query": "tiny savings habit compound interest",
+        "query2": "small regular investments wealth",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for daily money habits that actually work.",
+        "query": "follow money growth hacks",
+        "query2": "subscribe personal finance tips",
+        "role": "cta"
+      }
+    ],
+    "description": "See how modest contributions explode over time thanks to compounding. Tiny steps today, massive wealth tomorrow. Follow for more practical finance moves.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#compoundinterest",
+      "#savemoney",
+      "#wealthbuilding",
+      "#personalfinance",
+      "#financialtips"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Avoid Lifestyle Inflation Trap",
+    "thumb": "STOP SPENDING SPIRAL",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Why a $500 raise can cost you $5,000 later?",
+        "hook_top": "WHY 500 RAISE COSTS",
+        "query": "raise leads to lifestyle inflation cost",
+        "query2": "salary increase spending increase effect",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "Studies show 70% of people increase spending within three months of a pay raise.",
+        "chips": [
+          {
+            "t": "70% SPEND MORE",
+            "on": "spend",
+            "style": "accent"
+          }
+        ],
+        "punch": "Alert",
+        "query": "percentage people increase spending after raise",
+        "query2": "lifestyle inflation statistics",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "If you add $200 of extra expenses each month, you lose $4,800 a year that could have been saved.",
+        "chips": [
+          {
+            "t": "$200 EXTRA",
+            "on": "extra",
+            "style": "white"
+          },
+          {
+            "t": "$4,800 LOST",
+            "on": "lost",
+            "style": "accent"
+          }
+        ],
+        "punch": "Shock",
+        "query": "extra $200 monthly cost annual",
+        "query2": "monthly discretionary spending increase impact",
+        "role": "fact"
+      },
+      {
+        "type": "callout",
+        "text": "Lock 20% of every raise into savings before you spend.",
+        "label": "SAVE FIRST",
+        "sub": "Pay yourself before lifestyle upgrades",
+        "label_on": "save",
+        "query": "pay yourself first raise strategy",
+        "query2": "saving percentage of salary increase",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow and your future rich self will thank you.",
+        "query": "follow habit hacking finance",
+        "query2": "subscribe personal finance habits",
+        "role": "cta"
+      }
+    ],
+    "description": "A pay raise can silently erode your wealth if you let spending creep in. Learn the simple 20% rule to protect gains. Follow for actionable money habits.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#lifestyleinflation",
+      "#savemoney",
+      "#personalfinance",
+      "#moneyhabits",
+      "#financialfreedom"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Wealthy Trick to Grow Money Fast",
+    "thumb": "5% GROWTH",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "What 5% annual growth really means for $10k",
+        "hook_top": "5 GROWTH REVEALED",
+        "query": "5% annual growth $10,000 investment",
+        "query2": "5% compound interest example",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "$10,000 invested at 5% compounds to $16,386 after 10 years",
+        "chips": [
+          {
+            "t": "$10k to $16k",
+            "on": "compound",
+            "style": "accent"
+          }
+        ],
+        "punch": "wow",
+        "query": "compound interest $10,000 5% 10 years",
+        "query2": "future value calculator example",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "Saving 15% of income can double retirement savings by age 65, per Vanguard",
+        "chips": [
+          {
+            "t": "Save 15%",
+            "on": "save",
+            "style": "white"
+          }
+        ],
+        "query": "Vanguard 15% savings rule retirement",
+        "query2": "save 15 percent retirement impact",
+        "role": "fact"
+      },
+      {
+        "type": "reveal",
+        "text": "Millionaires often skip 401(k)s and still hit 5% growth using low‑cost index funds",
+        "reveal_top": "MILLIONAIRES SKIP 401K",
+        "query": "millionaires index funds 5% growth",
+        "query2": "wealthy low cost index investing",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the wealth lessons school skipped.",
+        "query": "follow wealth hacks call to action",
+        "query2": "subscribe money habits",
+        "role": "cta"
+      }
+    ],
+    "description": "See how a modest 5% return can turn $10k into $16k in a decade and why the wealthy rely on cheap index funds instead of traditional retirement accounts. Follow for more proven money habits.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#personalfinance",
+      "#wealthhabits",
+      "#compoundinterest",
+      "#indexfunds",
+      "#savingtips"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

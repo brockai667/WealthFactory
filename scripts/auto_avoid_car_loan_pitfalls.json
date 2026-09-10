@@ -1,0 +1,65 @@
+{
+  "title": "Avoid Car Loan Pitfalls",
+  "thumb": "CAR LOAN TRAPS",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Overpaying $300 a month on a loan costs you more",
+      "hook_top": "OVERPAY 300 MONTH",
+      "query": "car loan overpayment cost calculator",
+      "query2": "extra car loan payment interest impact",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "text": "Pay the minimum to keep interest low",
+      "label": "MINIMUM PAYMENT RULE",
+      "label_on": "First",
+      "query": "car loan minimum payment strategy",
+      "query2": "car loan payment minimum advice",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "text": "Refinance when rates drop below 4% APR",
+      "label": "REFINANCE BELOW 4%",
+      "label_on": "Second",
+      "query": "car loan refinance rates 4 percent",
+      "query2": "auto loan refinance low interest",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "text": "Avoid loan terms longer than 60 months to cut interest",
+      "label": "MAX 60‑MONTH TERM",
+      "label_on": "Third",
+      "query": "car loan 60 month term interest comparison",
+      "query2": "shorter auto loan term benefits",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if you're done staying broke.",
+      "query": "follow practical finance channel",
+      "query2": "subscribe money habits shorts",
+      "role": "cta"
+    }
+  ],
+  "description": "Stop leaking money on your auto loan with three proven tactics. Apply them now and keep more of your hard‑earned cash.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#carloan",
+    "#refinance",
+    "#personalfinance",
+    "#savemoney"
+  ],
+  "place": "",
+  "country": ""
+}
