@@ -1,0 +1,65 @@
+{
+  "title": "Start Investing Early Grows Wealth",
+  "thumb": "START EARLY",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Investing at age 25 can double your retirement nest egg",
+      "hook_top": "AGE 25 DOUBLE",
+      "query": "investing at age 25 retirement",
+      "query2": "starting investing early retirement",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "text": "Each extra year of investing adds roughly seven percent growth thanks to compounding",
+      "label": "SEVEN PERCENT GROWTH",
+      "label_on": "seven percent",
+      "query": "compounding 7 percent per year",
+      "query2": "annual compound growth rate",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "text": "Starting at 25 versus 35 often means twice the final balance",
+      "label": "TWICE THE NEST EGG",
+      "label_on": "twice",
+      "query": "investing at 25 vs 35 retirement balance",
+      "query2": "early vs later investing comparison",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "text": "Even contributing five thousand dollars a year compounds dramatically over a 40‑year horizon",
+      "label": "FIVE THOUSAND YEARLY",
+      "label_on": "five thousand",
+      "query": "investing $5,000 per year compound interest",
+      "query2": "annual contribution $5k growth",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if you're done staying broke.",
+      "query": "follow button",
+      "query2": "click follow",
+      "role": "cta"
+    }
+  ],
+  "description": "The sooner you start, the more your money works for you. Simple numbers show massive long‑term benefits.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#investing",
+    "#compoundinterest",
+    "#wealthbuilding",
+    "#financialfreedom"
+  ],
+  "place": "",
+  "country": ""
+}

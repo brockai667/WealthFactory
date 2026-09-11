@@ -1,0 +1,62 @@
+{
+  "title": "Mortgage Overpay Myth Busted",
+  "thumb": "OVERPAY MYTH",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Adding $200 each month to a 30‑year mortgage sounds like a fast wealth hack.",
+      "hook_top": "ADD 200 MONTHLY",
+      "query": "mortgage extra payment $200",
+      "query2": "paying extra on mortgage",
+      "role": "hook"
+    },
+    {
+      "type": "myth",
+      "text": "Paying extra on your mortgage is the fastest way to build wealth.",
+      "label": "Extra mortgage payments grow wealth",
+      "query": "mortgage overpay myth",
+      "query2": "mortgage extra payment belief",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "truth",
+      "text": "Investing that $200 in a diversified index fund historically yields higher returns than the interest saved on the loan.",
+      "label": "Investing beats mortgage paydown",
+      "query": "index fund returns vs mortgage interest",
+      "query2": "investing vs mortgage extra payment",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "Put extra cash into the market, not the loan.",
+      "label": "Invest, Don't Overpay",
+      "sub": "Higher long‑term returns",
+      "label_on": "Invest",
+      "query": "stock market investing extra cash",
+      "query2": "investing instead of mortgage overpay",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the wealth lessons school skipped.",
+      "query": "follow button",
+      "query2": "subscribe call to action",
+      "role": "cta"
+    }
+  ],
+  "description": "Many think extra mortgage payments fast‑track wealth. The reality? Investing the same money often outperforms loan paydown. Learn the smarter move today.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#personalfinance",
+    "#mortgage",
+    "#investing",
+    "#wealthbuilding",
+    "#mythbusting"
+  ],
+  "place": "",
+  "country": ""
+}
