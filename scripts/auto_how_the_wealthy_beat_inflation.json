@@ -1,0 +1,67 @@
+{
+  "title": "How the Wealthy Beat Inflation",
+  "thumb": "BEAT INFLATION",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Why do billionaires keep buying assets that outpace 3 % inflation?",
+      "hook_top": "OUTPACE INFLATION",
+      "query": "inflation beating assets billionaire purchases",
+      "query2": "real assets inflation hedge",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "text": "They allocate at least 30 % of net worth to real estate, which historically rises faster than CPI.",
+      "label": "30% REAL ESTATE",
+      "label_on": "real estate",
+      "query": "real estate returns vs inflation data",
+      "query2": "property appreciation CPI comparison",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "text": "Another 20 % goes into dividend‑paying stocks that have delivered 7‑10 % annual total returns.",
+      "label": "DIVIDEND STOCKS",
+      "label_on": "dividends",
+      "query": "dividend stock average return 7 percent",
+      "query2": "historical dividend yield performance",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "text": "The remaining 50 % stays in cash‑equivalent vehicles that earn at least the Fed’s interest rate, protecting liquidity.",
+      "label": "LIQUID CASH",
+      "label_on": "cash",
+      "query": "high‑yield savings rate Fed funds comparison",
+      "query2": "cash equivalents interest rate 2024",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for daily money habits that actually work.",
+      "query": "follow button graphic",
+      "query2": "subscribe reminder",
+      "role": "cta"
+    }
+  ],
+  "description": "Discover the asset mix that keeps the ultra‑wealthy ahead of rising prices. Apply these ratios to protect your purchasing power.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#inflation",
+    "#wealthbuilding",
+    "#investingtips",
+    "#realestate",
+    "#dividends",
+    "#financialstrategy"
+  ],
+  "place": "",
+  "country": ""
+}

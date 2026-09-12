@@ -12854,5 +12854,262 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Housing Costs Reveal Wealth Gaps",
+    "thumb": "HOUSING GAP",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Most Americans spend 30% of income on rent, but the wealthy spend far less",
+        "hook_top": "HOUSING SPEND GAP",
+        "query": "average US rent percentage of income",
+        "query2": "housing cost vs income statistic",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "label": "OWN YOUR HOME EARLY",
+        "label_on": "own",
+        "text": "Buying a home before 35 cuts lifetime housing costs by up to 40% according to the Federal Reserve",
+        "query": "homeownership before age 35 cost savings",
+        "query2": "early home purchase financial impact",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "label": "RENTING IN HOT MARKETS",
+        "label_on": "rent",
+        "text": "In markets where rent exceeds 35% of income, renters lose an extra $10,000‑$15,000 over ten years versus owners",
+        "query": "rent exceeding 35% income cost over ten years",
+        "query2": "renter financial loss hot markets",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "label": "MAXIMIZE TAX DEDUCTIONS",
+        "label_on": "tax",
+        "text": "Mortgage interest deduction can lower taxable income by up to $4,000 per year for many middle‑class homeowners",
+        "query": "mortgage interest deduction average tax savings",
+        "query2": "mortgage deduction tax benefit amount",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the wealth lessons school skipped.",
+        "query": "follow call to action text",
+        "query2": "cta follow prompt",
+        "role": "cta"
+      }
+    ],
+    "description": "Discover how housing choices shape wealth over a lifetime. Apply these three proven steps to keep more of your money.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#personalfinance",
+      "#housing",
+      "#wealthbuilding",
+      "#rentvsbuy"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Car Loan Traps Explained",
+    "thumb": "CAR TRAP",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "A $32,000 car loan at 6% can cost $4,500 in interest over five years",
+        "hook_top": "CAR LOAN COST",
+        "query": "32,000 car loan 6% interest five years total cost",
+        "query2": "auto loan interest example 32k",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "label": "PAY MORE THAN MINIMUM",
+        "label_on": "pay",
+        "text": "Paying just the minimum adds roughly $1,200 extra interest on a typical 60‑month loan",
+        "query": "minimum payment extra interest auto loan 60 months",
+        "query2": "auto loan interest extra cost minimum payment",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "label": "UPSIDE‑DOWN LOAN",
+        "label_on": "upside",
+        "text": "If you owe more than the car’s value after 24 months, you’re upside‑down and may lose money if you trade in early",
+        "query": "upside down car loan after 24 months statistic",
+        "query2": "car loan negative equity timeframe",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "label": "PAY OFF QUICKLY",
+        "label_on": "off",
+        "text": "Adding $100 extra each month can shave off a year and save around $800 in interest on a $20,000 loan",
+        "query": "extra $100 per month auto loan interest saved",
+        "query2": "auto loan early payoff savings example",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if you're done staying broke.",
+        "query": "follow call to action text",
+        "query2": "cta follow prompt",
+        "role": "cta"
+      }
+    ],
+    "description": "Avoid hidden costs that drain your wallet when financing a car. These three steps keep you in the driver’s seat of savings.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#personalfinance",
+      "#carloan",
+      "#debtfree",
+      "#savemoney"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Renting Costs Hidden Fees",
+    "thumb": "RENT TRAP",
+    "scenes": [
+      {
+        "hook_top": "NYC RENT EXTRA",
+        "query": "New York rent average extra cost 2023",
+        "query2": "NYC rent overpay statistics",
+        "role": "hook",
+        "text": "New York renters pay $1,200 extra each year on average"
+      },
+      {
+        "label": "Rent always cheaper",
+        "query": "common belief renting cheaper than buying",
+        "query2": "rent vs buy cost myth",
+        "role": "myth",
+        "text": "Many think renting is always cheaper than owning a home"
+      },
+      {
+        "label": "Rent can cost more",
+        "query": "rent versus mortgage total cost analysis",
+        "query2": "rent vs buy hidden costs study",
+        "role": "truth",
+        "text": "When you factor in rent inflation, utilities, and missed equity, renting can cost hundreds of dollars more per year than a comparable mortgage in the same market"
+      },
+      {
+        "label": "Expense comparison",
+        "sub": "Include rent hikes, utilities, and lost equity",
+        "label_on": "compare",
+        "query": "how to calculate rent vs mortgage total cost",
+        "query2": "rent vs mortgage expense calculator",
+        "role": "callout",
+        "text": "Track all rent‑related expenses and compare to mortgage payments"
+      },
+      {
+        "query": "follow personal finance short",
+        "query2": "subscribe money habits",
+        "role": "cta",
+        "text": "Follow if you're done staying broke."
+      }
+    ],
+    "description": "Most people assume renting saves money, but hidden costs can add up fast. Learn the real math and decide wisely. Follow for more evidence‑backed tips.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#rentvsbuy",
+      "#moneyfacts",
+      "#personalfinance",
+      "#wealthhabits"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Hidden Cost Of Car Loans",
+    "thumb": "CAR LOAN TRAP",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "A $20,000 car loan at 5% adds $2,500 in interest",
+        "hook_top": "5 CAR LOAN COST",
+        "query": "20,000 car loan 5% interest total cost",
+        "query2": "auto loan interest $20k 5 percent",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "A five‑year loan of $20,000 at a 5% APR results in $2,618 total interest paid, according to standard amortization tables.",
+        "chips": [
+          {
+            "t": "$2,618 INTEREST",
+            "on": "interest",
+            "style": "accent"
+          }
+        ],
+        "punch": "interest",
+        "query": "auto loan amortization $20,000 5% 60 months",
+        "query2": "car loan interest calculation 5 percent",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "Paying an extra $100 each month cuts the loan term to 38 months and saves about $1,200 in interest.",
+        "chips": [
+          {
+            "t": "$1,200 SAVED",
+            "on": "saved",
+            "style": "white"
+          }
+        ],
+        "punch": "save",
+        "query": "extra $100 per month car loan payoff interest saved",
+        "query2": "car loan early payment savings $100 extra",
+        "role": "fact"
+      },
+      {
+        "type": "callout",
+        "text": "Add just $100 extra and keep thousands in your pocket.",
+        "label": "PAY MORE",
+        "sub": "Boost payment, reduce interest.",
+        "label_on": "pay",
+        "query": "increase car loan payment strategy",
+        "query2": "early car loan payoff tip",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the money mindset they don't teach you.",
+        "query": "follow money hacks",
+        "query2": "personal finance tips short",
+        "role": "cta"
+      }
+    ],
+    "description": "Most drivers don’t realize how much interest piles up on a typical auto loan. A tiny payment bump can save you a grand. Follow for more practical finance tricks.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#carloan",
+      "#savemoney",
+      "#financehacks",
+      "#debtfree",
+      "#personalfinance"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

@@ -1,0 +1,73 @@
+{
+  "title": "Double Money With Simple Math",
+  "thumb": "DOUBLE YOUR SAVINGS",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "What 9% annual growth does to $1,000 over time",
+      "hook_top": "9 GROWTH MAGIC",
+      "query": "9% annual return",
+      "query2": "nine percent growth",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "At 9% interest, $1,000 doubles in about 8 years using the Rule of 72",
+      "chips": [
+        {
+          "t": "DOUBLES IN 8 YRS",
+          "on": "doubling",
+          "style": "accent"
+        }
+      ],
+      "punch": "wow",
+      "query": "Rule of 72 calculation",
+      "query2": "72 rule interest",
+      "role": "fact"
+    },
+    {
+      "type": "fact",
+      "text": "Compounding that 9% turns $1,000 into roughly $2,400 after 20 years",
+      "chips": [
+        {
+          "t": "$2,400 AFTER 20 YRS",
+          "on": "compounding",
+          "style": "white"
+        }
+      ],
+      "query": "compound interest 9% 20 years",
+      "query2": "20 year 9 percent growth",
+      "role": "fact"
+    },
+    {
+      "type": "callout",
+      "text": "Use the Rule of 72 to plan your wealth growth instantly",
+      "label": "Rule of 72",
+      "sub": "Simple tool for fast wealth planning",
+      "label_on": "rule",
+      "query": "Rule of 72",
+      "query2": "72 rule finance",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the wealth lessons school skipped.",
+      "query": "follow us",
+      "query2": "subscribe",
+      "role": "cta"
+    }
+  ],
+  "description": "Learn how a 9% return can double your money in under a decade and keep growing. Simple math, big results. Follow for more fast finance tips.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#personalfinance",
+    "#compoundinterest",
+    "#moneyhabits",
+    "#wealthbuilding",
+    "#financialtips"
+  ],
+  "place": "",
+  "country": ""
+}
