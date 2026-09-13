@@ -1,0 +1,65 @@
+{
+  "title": "Everyday Trick To Cut Car Costs",
+  "thumb": "CAR SAVINGS",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Why a $300 monthly car payment hurts more than you think",
+      "hook_top": "300 CAR TRAP",
+      "query": "300 dollar car payment impact",
+      "query2": "monthly car payment cost",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "text": "Refinance at a rate 1% lower and save over $1,000 a year",
+      "label": "REFINANCE ONE PERCENT",
+      "label_on": "refinance",
+      "query": "car loan refinance lower rate",
+      "query2": "auto loan refinance savings",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "text": "Switch to a high‑efficiency vehicle to cut fuel by up to 30%",
+      "label": "HIGH‑EFFICIENCY SWITCH",
+      "label_on": "efficiency",
+      "query": "high efficiency car fuel savings",
+      "query2": "fuel reduction efficient vehicle",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "text": "Set up an automatic extra $50 payment each month to shave years off the loan",
+      "label": "AUTO PAY EXTRA $50",
+      "label_on": "extra",
+      "query": "extra payment car loan accelerate payoff",
+      "query2": "automatic additional car loan payment",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for daily money habits that actually work.",
+      "query": "follow car cost tips",
+      "query2": "subscribe auto savings",
+      "role": "cta"
+    }
+  ],
+  "description": "Three proven steps that trim car expenses without sacrificing convenience. Apply them today and watch the interest melt away. Follow for more actionable finance shortcuts.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#carfinance",
+    "#savemoney",
+    "#personalfinance",
+    "#budgettips"
+  ],
+  "place": "",
+  "country": ""
+}

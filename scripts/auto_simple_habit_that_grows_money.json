@@ -1,0 +1,65 @@
+{
+  "title": "Simple Habit That Grows Money",
+  "thumb": "DOUBLE SAVINGS",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "The 2% rule that top investors swear by",
+      "hook_top": "2 RULE REVEALED",
+      "query": "2% rule investing",
+      "query2": "2 percent investing rule",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "text": "Allocate 10% of every paycheck to a high‑yield account before anything else",
+      "label": "PAY YOURSELF FIRST",
+      "label_on": "first",
+      "query": "pay yourself first budgeting",
+      "query2": "10 percent paycheck savings",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "text": "Reinvest dividends automatically to let compounding work for you",
+      "label": "AUTO‑REINVEST DIVIDENDS",
+      "label_on": "reinvest",
+      "query": "automatic dividend reinvestment",
+      "query2": "dividend reinvest plan",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "text": "Avoid lifestyle inflation by keeping expenses flat even when income rises",
+      "label": "SKIP LIFESTYLE INFLATION",
+      "label_on": "inflation",
+      "query": "lifestyle inflation avoidance",
+      "query2": "keeping expenses flat income rise",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the wealth lessons school skipped.",
+      "query": "follow money habits",
+      "query2": "subscribe finance tips",
+      "role": "cta"
+    }
+  ],
+  "description": "Three tiny actions that let your money grow faster than most people realize. Start them now and watch your wealth compound. Follow for more practical finance hacks.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#moneyhabits",
+    "#compoundinterest",
+    "#savemoney",
+    "#personalfinance"
+  ],
+  "place": "",
+  "country": ""
+}

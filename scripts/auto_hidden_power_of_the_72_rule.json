@@ -1,0 +1,65 @@
+{
+  "title": "Hidden Power Of The 72 Rule",
+  "thumb": "DOUBLE MONEY",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "How $1,000 can become $8,000 in just 24 years",
+      "hook_top": "1K TO 8K",
+      "query": "72 rule example $1000 to $8000",
+      "query2": "rule of 72 investment example",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "text": "At an 8% annual return, money doubles every 9 years (72 ÷ 8)",
+      "label": "8% DOUBLES IN 9 YEARS",
+      "label_on": "doubles",
+      "query": "8 percent return double 9 years",
+      "query2": "rule of 72 8% example",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "text": "Invest $1,000 now and let compounding turn it into $2,000 after 9 years",
+      "label": "START WITH $1,000",
+      "label_on": "start",
+      "query": "invest $1000 compound interest 9 years",
+      "query2": "compound growth $1000 8% 9 years",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "text": "Keep the money invested for another 9 years and it reaches $4,000, then $8,000 after 24 years total",
+      "label": "STAY INVESTED 24 YEARS",
+      "label_on": "stay",
+      "query": "compound interest 24 years $8000",
+      "query2": "investment growth 24 years rule of 72",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if you're done staying broke.",
+      "query": "follow rule of 72 tips",
+      "query2": "subscribe finance math",
+      "role": "cta"
+    }
+  ],
+  "description": "The Rule of 72 shows how modest returns explode over time. Use this quick math to plan your investments and watch small sums grow huge. Follow for more easy wealth formulas.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#ruleof72",
+    "#investingtips",
+    "#compoundinterest",
+    "#personalfinance"
+  ],
+  "place": "",
+  "country": ""
+}
