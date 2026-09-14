@@ -13111,5 +13111,344 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "How the Wealthy Use the 72 Rule",
+    "thumb": "72 RULE",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Did you know $1,000 can double in just 8 years?",
+        "hook_top": "DOUBLE IN 8 YEARS",
+        "query": "72 rule example $1,000 investment",
+        "query2": "rule of 72 illustration",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "text": "At 9% annual return, money doubles every 8 years.",
+        "label": "9% RETURN DOUBLES",
+        "label_on": "9% return",
+        "query": "historical 9% stock market average return",
+        "query2": "average long‑term equity return",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "text": "At 6% it takes 12 years – shows power of higher yield.",
+        "label": "6% TAKES 12 YEARS",
+        "label_on": "6% return",
+        "query": "72 rule 6% example",
+        "query2": "investment growth 6% annual",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "text": "Even a modest 4% needs 18 years – why the wealthy chase better yields.",
+        "label": "4% NEEDS 18 YEARS",
+        "label_on": "4% return",
+        "query": "72 rule 4% example",
+        "query2": "low‑yield investment timeline",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if you're done staying broke.",
+        "query": "follow button animation",
+        "query2": "call to action graphic",
+        "role": "cta"
+      }
+    ],
+    "description": "Learn the simple math the rich use to gauge investments and why higher returns matter. Apply the rule today for smarter choices.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#investing",
+      "#ruleof72",
+      "#wealthtips",
+      "#moneyhabits"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Minimum Payment Misconception",
+    "thumb": "PAY MINIMUM",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Paying $200 monthly on a $2,000 credit card balance?",
+        "hook_top": "PAY 200 ON 2000 BALANCE",
+        "query": "credit card statement showing balance and payment",
+        "query2": "credit card monthly bill",
+        "role": "hook"
+      },
+      {
+        "type": "myth",
+        "text": "Most people believe that paying only the minimum due keeps them from paying interest.",
+        "label": "Only Minimum Needed",
+        "query": "credit card minimum payment definition",
+        "query2": "minimum payment credit card article",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "truth",
+        "text": "Credit cards calculate interest on the full balance; the minimum payment just slows the payoff and adds months of interest.",
+        "label": "Interest Still Accrues",
+        "query": "credit card interest calculation example",
+        "query2": "how credit card interest works",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Pay more than the minimum each month to cut interest dramatically.",
+        "label": "Pay More",
+        "sub": "Avoid hidden interest costs",
+        "label_on": "Pay",
+        "query": "credit card payment strategy infographic",
+        "query2": "paying extra on credit cards",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if you're done staying broke.",
+        "query": "social media follow button animation",
+        "query2": "call to follow graphic",
+        "role": "cta"
+      }
+    ],
+    "description": "Most think the minimum payment protects them from interest—it's the opposite. Learn the real impact in seconds.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#personalfinance",
+      "#creditcards",
+      "#moneymyths",
+      "#financialtips"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Asset vs Liability Simplified",
+    "thumb": "ASSET VS LIAB",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "The average American household holds $8,300 in credit card debt but only $3,800 in cash assets",
+        "hook_top": "DEBT VS CASH",
+        "query": "average credit card debt 8300",
+        "query2": "average cash assets households",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "Federal Reserve data shows total consumer credit balances reached $4.8 trillion in 2023, highlighting widespread liability buildup.",
+        "chips": [
+          {
+            "t": "4.8 TRILLION",
+            "on": "trillion",
+            "style": "accent"
+          }
+        ],
+        "punch": "massive",
+        "query": "Federal Reserve consumer credit 2023",
+        "query2": "US credit balances 2023",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "Meanwhile, the same report notes total household net worth hit $146 trillion, driven largely by real‑estate and retirement assets.",
+        "chips": [
+          {
+            "t": "146 TRILLION",
+            "on": "trillion",
+            "style": "white"
+          }
+        ],
+        "punch": "growth",
+        "query": "US household net worth 146 trillion 2023",
+        "query2": "wealth composition United States",
+        "role": "fact"
+      },
+      {
+        "type": "callout",
+        "text": "Swap one liability for an asset each month to shift the balance.",
+        "label": "ASSET SWAP",
+        "sub": "Pay off a small debt, invest the freed cash.",
+        "label_on": "swap",
+        "query": "pay off debt invest cash",
+        "query2": "asset liability strategy",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow and your future rich self will thank you.",
+        "query": "follow wealth tactics",
+        "query2": "personal finance daily",
+        "role": "cta"
+      }
+    ],
+    "description": "Understand the real gap between liabilities and assets in the U.S. and a simple monthly swap to grow wealth. Follow for daily actionable tips.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#assets",
+      "#liabilities",
+      "#debtfree",
+      "#wealthbuilding",
+      "#financefacts"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Secret Savings Habit Revealed",
+    "thumb": "SAVE MORE",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "What 10% of your paycheck can change everything",
+        "hook_top": "10 PAYCHECK POWER",
+        "query": "paycheck 10 percent savings",
+        "query2": "saving 10 percent income",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "People who consistently save at least ten percent of their income are twice as likely to be financially secure later in life, according to a Federal Reserve study.",
+        "chips": [
+          {
+            "t": "10% SAVED",
+            "on": "ten percent",
+            "style": "accent"
+          }
+        ],
+        "punch": "twice",
+        "query": "Federal Reserve study savings ten percent",
+        "query2": "financial security 10 percent income",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "The average American saves only about four percent of their earnings, far below the ten percent benchmark.",
+        "chips": [
+          {
+            "t": "4% AVERAGE",
+            "on": "four percent",
+            "style": "white"
+          }
+        ],
+        "query": "average American savings rate",
+        "query2": "U.S. personal savings rate 2023",
+        "role": "fact"
+      },
+      {
+        "type": "reveal",
+        "text": "The twist: you don’t need a huge budget—just automate that 10% and watch your net worth grow without feeling the pinch.",
+        "reveal_top": "AUTOMATE 10% MAGIC",
+        "query": "automated savings 10 percent",
+        "query2": "pay yourself first automation",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the money mindset they don't teach you.",
+        "query": "follow wealth habit channel",
+        "query2": "subscribe personal finance tips",
+        "role": "cta"
+      }
+    ],
+    "description": "Learn why a tiny ten‑percent habit outperforms big budgets. Automate it and let compound growth do the work. Follow for more practical money moves.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#personalfinance",
+      "#savemoney",
+      "#budgeting",
+      "#wealthhabits"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Inheritance Tax Shock",
+    "thumb": "TAX TRAP",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "When a $500,000 inheritance hits, the IRS takes a bite",
+        "hook_top": "500K INHERITANCE TAX",
+        "query": "500000 inheritance tax",
+        "query2": "large inheritance IRS tax",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "The federal estate tax exemption is $12.92 million per individual for 2023, meaning estates below that amount owe no estate tax.",
+        "chips": [
+          {
+            "t": "12.92M EXEMPTION",
+            "on": "twelve point nine two million",
+            "style": "accent"
+          }
+        ],
+        "query": "2023 federal estate tax exemption 12.92 million",
+        "query2": "estate tax exemption 2023",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "However, many states impose their own inheritance taxes with thresholds as low as $5 million, catching heirs off guard.",
+        "chips": [
+          {
+            "t": "STATE INHERIT TAX",
+            "on": "state tax",
+            "style": "white"
+          }
+        ],
+        "query": "state inheritance tax thresholds",
+        "query2": "states with inheritance tax 2023",
+        "role": "fact"
+      },
+      {
+        "type": "reveal",
+        "text": "Surprising twist: even if you’re under the federal limit, filing a proper “step‑up in basis” can erase future capital gains tax on inherited assets.",
+        "reveal_top": "STEP‑UP SAVES",
+        "query": "step up in basis inheritance tax",
+        "query2": "capital gains inheritance strategy",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow and your future rich self will thank you.",
+        "query": "follow tax tips channel",
+        "query2": "subscribe inheritance advice",
+        "role": "cta"
+      }
+    ],
+    "description": "A $500K windfall sounds great until taxes bite. Discover the federal exemption, state traps, and the step‑up in basis secret that protects your wealth. Follow for more tax‑savvy advice.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#taxes",
+      "#inheritance",
+      "#personalfinance",
+      "#wealthbuilding"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

@@ -1,0 +1,79 @@
+{
+  "title": "Avoid Lifestyle Inflation Trap",
+  "thumb": "STOP SPENDING SPIRAL",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Why a $500 raise can cost you $5,000 later?",
+      "hook_top": "WHY 500 RAISE COSTS",
+      "query": "raise leads to lifestyle inflation cost",
+      "query2": "salary increase spending increase effect",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "Studies show 70% of people increase spending within three months of a pay raise.",
+      "chips": [
+        {
+          "t": "70% SPEND MORE",
+          "on": "spend",
+          "style": "accent"
+        }
+      ],
+      "punch": "Alert",
+      "query": "percentage people increase spending after raise",
+      "query2": "lifestyle inflation statistics",
+      "role": "fact"
+    },
+    {
+      "type": "fact",
+      "text": "If you add $200 of extra expenses each month, you lose $4,800 a year that could have been saved.",
+      "chips": [
+        {
+          "t": "$200 EXTRA",
+          "on": "extra",
+          "style": "white"
+        },
+        {
+          "t": "$4,800 LOST",
+          "on": "lost",
+          "style": "accent"
+        }
+      ],
+      "punch": "Shock",
+      "query": "extra $200 monthly cost annual",
+      "query2": "monthly discretionary spending increase impact",
+      "role": "fact"
+    },
+    {
+      "type": "callout",
+      "text": "Lock 20% of every raise into savings before you spend.",
+      "label": "SAVE FIRST",
+      "sub": "Pay yourself before lifestyle upgrades",
+      "label_on": "save",
+      "query": "pay yourself first raise strategy",
+      "query2": "saving percentage of salary increase",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow and your future rich self will thank you.",
+      "query": "follow habit hacking finance",
+      "query2": "subscribe personal finance habits",
+      "role": "cta"
+    }
+  ],
+  "description": "A pay raise can silently erode your wealth if you let spending creep in. Learn the simple 20% rule to protect gains. Follow for actionable money habits.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#lifestyleinflation",
+    "#savemoney",
+    "#personalfinance",
+    "#moneyhabits",
+    "#financialfreedom"
+  ],
+  "place": "",
+  "country": ""
+}

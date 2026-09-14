@@ -1,0 +1,71 @@
+{
+  "title": "Wealthy Trick to Grow Money Fast",
+  "thumb": "5% GROWTH",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "What 5% annual growth really means for $10k",
+      "hook_top": "5 GROWTH REVEALED",
+      "query": "5% annual growth $10,000 investment",
+      "query2": "5% compound interest example",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "$10,000 invested at 5% compounds to $16,386 after 10 years",
+      "chips": [
+        {
+          "t": "$10k to $16k",
+          "on": "compound",
+          "style": "accent"
+        }
+      ],
+      "punch": "wow",
+      "query": "compound interest $10,000 5% 10 years",
+      "query2": "future value calculator example",
+      "role": "fact"
+    },
+    {
+      "type": "fact",
+      "text": "Saving 15% of income can double retirement savings by age 65, per Vanguard",
+      "chips": [
+        {
+          "t": "Save 15%",
+          "on": "save",
+          "style": "white"
+        }
+      ],
+      "query": "Vanguard 15% savings rule retirement",
+      "query2": "save 15 percent retirement impact",
+      "role": "fact"
+    },
+    {
+      "type": "reveal",
+      "text": "Millionaires often skip 401(k)s and still hit 5% growth using low‑cost index funds",
+      "reveal_top": "MILLIONAIRES SKIP 401K",
+      "query": "millionaires index funds 5% growth",
+      "query2": "wealthy low cost index investing",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the wealth lessons school skipped.",
+      "query": "follow wealth hacks call to action",
+      "query2": "subscribe money habits",
+      "role": "cta"
+    }
+  ],
+  "description": "See how a modest 5% return can turn $10k into $16k in a decade and why the wealthy rely on cheap index funds instead of traditional retirement accounts. Follow for more proven money habits.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#personalfinance",
+    "#wealthhabits",
+    "#compoundinterest",
+    "#indexfunds",
+    "#savingtips"
+  ],
+  "place": "",
+  "country": ""
+}

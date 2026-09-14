@@ -1,0 +1,84 @@
+{
+  "title": "Small Savings Grow Huge",
+  "thumb": "GROW BIG FAST",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "What $1,000 turned into $7,600 in 30 years?",
+      "hook_top": "WHAT 1000 TURNED",
+      "query": "$1,000 30 year investment growth",
+      "query2": "compound interest $1,000 30 years",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "At a 7% annual return, $1,000 compounds to about $7,612 after 30 years.",
+      "chips": [
+        {
+          "t": "7% RETURN",
+          "on": "return",
+          "style": "accent"
+        },
+        {
+          "t": "$7,600 RESULT",
+          "on": "result",
+          "style": "white"
+        }
+      ],
+      "punch": "Wow",
+      "query": "7% annual return 30 years compound",
+      "query2": "historical stock market average return",
+      "role": "fact"
+    },
+    {
+      "type": "fact",
+      "text": "Adding just $100 each month to that same 7% plan reaches over $200,000 in 30 years.",
+      "chips": [
+        {
+          "t": "$100 MONTHLY",
+          "on": "monthly",
+          "style": "accent"
+        },
+        {
+          "t": "$200K TOTAL",
+          "on": "total",
+          "style": "white"
+        }
+      ],
+      "punch": "Boom",
+      "query": "monthly $100 investment 7% 30 years",
+      "query2": "future value of $100 monthly 30 years",
+      "role": "fact"
+    },
+    {
+      "type": "callout",
+      "text": "Start tiny, let compounding do the heavy lifting.",
+      "label": "START SMALL",
+      "sub": "Even $5 a week builds wealth",
+      "label_on": "start",
+      "query": "tiny savings habit compound interest",
+      "query2": "small regular investments wealth",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for daily money habits that actually work.",
+      "query": "follow money growth hacks",
+      "query2": "subscribe personal finance tips",
+      "role": "cta"
+    }
+  ],
+  "description": "See how modest contributions explode over time thanks to compounding. Tiny steps today, massive wealth tomorrow. Follow for more practical finance moves.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#compoundinterest",
+    "#savemoney",
+    "#wealthbuilding",
+    "#personalfinance",
+    "#financialtips"
+  ],
+  "place": "",
+  "country": ""
+}
