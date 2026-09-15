@@ -1,0 +1,65 @@
+{
+  "title": "Housing Costs Reveal Wealth Gaps",
+  "thumb": "HOUSING GAP",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Most Americans spend 30% of income on rent, but the wealthy spend far less",
+      "hook_top": "HOUSING SPEND GAP",
+      "query": "average US rent percentage of income",
+      "query2": "housing cost vs income statistic",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "label": "OWN YOUR HOME EARLY",
+      "label_on": "own",
+      "text": "Buying a home before 35 cuts lifetime housing costs by up to 40% according to the Federal Reserve",
+      "query": "homeownership before age 35 cost savings",
+      "query2": "early home purchase financial impact",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "label": "RENTING IN HOT MARKETS",
+      "label_on": "rent",
+      "text": "In markets where rent exceeds 35% of income, renters lose an extra $10,000‑$15,000 over ten years versus owners",
+      "query": "rent exceeding 35% income cost over ten years",
+      "query2": "renter financial loss hot markets",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "label": "MAXIMIZE TAX DEDUCTIONS",
+      "label_on": "tax",
+      "text": "Mortgage interest deduction can lower taxable income by up to $4,000 per year for many middle‑class homeowners",
+      "query": "mortgage interest deduction average tax savings",
+      "query2": "mortgage deduction tax benefit amount",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the wealth lessons school skipped.",
+      "query": "follow call to action text",
+      "query2": "cta follow prompt",
+      "role": "cta"
+    }
+  ],
+  "description": "Discover how housing choices shape wealth over a lifetime. Apply these three proven steps to keep more of your money.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#personalfinance",
+    "#housing",
+    "#wealthbuilding",
+    "#rentvsbuy"
+  ],
+  "place": "",
+  "country": ""
+}

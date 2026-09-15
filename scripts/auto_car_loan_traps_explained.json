@@ -1,0 +1,65 @@
+{
+  "title": "Car Loan Traps Explained",
+  "thumb": "CAR TRAP",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "A $32,000 car loan at 6% can cost $4,500 in interest over five years",
+      "hook_top": "CAR LOAN COST",
+      "query": "32,000 car loan 6% interest five years total cost",
+      "query2": "auto loan interest example 32k",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "label": "PAY MORE THAN MINIMUM",
+      "label_on": "pay",
+      "text": "Paying just the minimum adds roughly $1,200 extra interest on a typical 60‑month loan",
+      "query": "minimum payment extra interest auto loan 60 months",
+      "query2": "auto loan interest extra cost minimum payment",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "label": "UPSIDE‑DOWN LOAN",
+      "label_on": "upside",
+      "text": "If you owe more than the car’s value after 24 months, you’re upside‑down and may lose money if you trade in early",
+      "query": "upside down car loan after 24 months statistic",
+      "query2": "car loan negative equity timeframe",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "label": "PAY OFF QUICKLY",
+      "label_on": "off",
+      "text": "Adding $100 extra each month can shave off a year and save around $800 in interest on a $20,000 loan",
+      "query": "extra $100 per month auto loan interest saved",
+      "query2": "auto loan early payoff savings example",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if you're done staying broke.",
+      "query": "follow call to action text",
+      "query2": "cta follow prompt",
+      "role": "cta"
+    }
+  ],
+  "description": "Avoid hidden costs that drain your wallet when financing a car. These three steps keep you in the driver’s seat of savings.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#personalfinance",
+    "#carloan",
+    "#debtfree",
+    "#savemoney"
+  ],
+  "place": "",
+  "country": ""
+}

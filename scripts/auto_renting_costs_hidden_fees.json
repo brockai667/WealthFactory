@@ -1,0 +1,53 @@
+{
+  "title": "Renting Costs Hidden Fees",
+  "thumb": "RENT TRAP",
+  "scenes": [
+    {
+      "hook_top": "NYC RENT EXTRA",
+      "query": "New York rent average extra cost 2023",
+      "query2": "NYC rent overpay statistics",
+      "role": "hook",
+      "text": "New York renters pay $1,200 extra each year on average"
+    },
+    {
+      "label": "Rent always cheaper",
+      "query": "common belief renting cheaper than buying",
+      "query2": "rent vs buy cost myth",
+      "role": "myth",
+      "text": "Many think renting is always cheaper than owning a home"
+    },
+    {
+      "label": "Rent can cost more",
+      "query": "rent versus mortgage total cost analysis",
+      "query2": "rent vs buy hidden costs study",
+      "role": "truth",
+      "text": "When you factor in rent inflation, utilities, and missed equity, renting can cost hundreds of dollars more per year than a comparable mortgage in the same market"
+    },
+    {
+      "label": "Expense comparison",
+      "sub": "Include rent hikes, utilities, and lost equity",
+      "label_on": "compare",
+      "query": "how to calculate rent vs mortgage total cost",
+      "query2": "rent vs mortgage expense calculator",
+      "role": "callout",
+      "text": "Track all rent‑related expenses and compare to mortgage payments"
+    },
+    {
+      "query": "follow personal finance short",
+      "query2": "subscribe money habits",
+      "role": "cta",
+      "text": "Follow if you're done staying broke."
+    }
+  ],
+  "description": "Most people assume renting saves money, but hidden costs can add up fast. Learn the real math and decide wisely. Follow for more evidence‑backed tips.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#rentvsbuy",
+    "#moneyfacts",
+    "#personalfinance",
+    "#wealthhabits"
+  ],
+  "place": "",
+  "country": ""
+}
