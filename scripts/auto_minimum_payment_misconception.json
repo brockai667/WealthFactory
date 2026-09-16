@@ -1,0 +1,61 @@
+{
+  "title": "Minimum Payment Misconception",
+  "thumb": "PAY MINIMUM",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Paying $200 monthly on a $2,000 credit card balance?",
+      "hook_top": "PAY 200 ON 2000 BALANCE",
+      "query": "credit card statement showing balance and payment",
+      "query2": "credit card monthly bill",
+      "role": "hook"
+    },
+    {
+      "type": "myth",
+      "text": "Most people believe that paying only the minimum due keeps them from paying interest.",
+      "label": "Only Minimum Needed",
+      "query": "credit card minimum payment definition",
+      "query2": "minimum payment credit card article",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "truth",
+      "text": "Credit cards calculate interest on the full balance; the minimum payment just slows the payoff and adds months of interest.",
+      "label": "Interest Still Accrues",
+      "query": "credit card interest calculation example",
+      "query2": "how credit card interest works",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "Pay more than the minimum each month to cut interest dramatically.",
+      "label": "Pay More",
+      "sub": "Avoid hidden interest costs",
+      "label_on": "Pay",
+      "query": "credit card payment strategy infographic",
+      "query2": "paying extra on credit cards",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if you're done staying broke.",
+      "query": "social media follow button animation",
+      "query2": "call to follow graphic",
+      "role": "cta"
+    }
+  ],
+  "description": "Most think the minimum payment protects them from interest—it's the opposite. Learn the real impact in seconds.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#personalfinance",
+    "#creditcards",
+    "#moneymyths",
+    "#financialtips"
+  ],
+  "place": "",
+  "country": ""
+}

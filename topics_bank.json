@@ -13450,5 +13450,319 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Three Simple Money Multipliers",
+    "thumb": "MULTIPLY MONEY",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "What 72% of savers overlook in 2024?",
+        "hook_top": "OVERLOOKED MONEY FACT",
+        "query": "Rule of 72 calculator illustration",
+        "query2": "compound interest growth chart",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "text": "The Rule of 72 shows how quickly money doubles at a given interest rate.",
+        "label": "RULE OF 72 DOUBLES MONEY",
+        "label_on": "double",
+        "query": "Rule of 72 formula graphic",
+        "query2": "interest rate doubling illustration",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "text": "Saving 10 % of each paycheck and investing it at 6 % compounds dramatically over 30 years.",
+        "label": "SAVE 10 % & INVEST",
+        "label_on": "save",
+        "query": "paycheck savings percentage diagram",
+        "query2": "investment growth over 30 years chart",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "text": "Reinvesting dividends each quarter accelerates the doubling effect.",
+        "label": "REINVEST DIVIDENDS",
+        "label_on": "reinvest",
+        "query": "dividend reinvestment chart",
+        "query2": "compounding dividends illustration",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the money mindset they don't teach you.",
+        "query": "follow button animation",
+        "query2": "call to action graphic",
+        "role": "cta"
+      }
+    ],
+    "description": "Unlock three proven ways to make your money grow faster. Apply them today and watch your wealth accelerate.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#moneytips",
+      "#compoundinterest",
+      "#ruleof72",
+      "#savvyinvesting"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Three Habits That Double Savings",
+    "thumb": "DOUBLE SAVINGS",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Why 68% of households miss this tiny habit?",
+        "hook_top": "MISSED SAVING HABIT",
+        "query": "household budgeting checklist",
+        "query2": "daily savings habit graphic",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "text": "Pay yourself first: automate a fixed transfer the day you get paid.",
+        "label": "AUTOMATE PAY FIRST",
+        "label_on": "automate",
+        "query": "automated paycheck transfer illustration",
+        "query2": "pay yourself first diagram",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "text": "Round‑up purchases to the nearest dollar and stash the change.",
+        "label": "PURCHASE ROUND‑UP",
+        "label_on": "roundup",
+        "query": "round‑up app screenshot",
+        "query2": "spare change savings graphic",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "text": "Review subscriptions monthly and cancel anything unused.",
+        "label": "CANCEL UNUSED SUBS",
+        "label_on": "cancel",
+        "query": "subscription audit spreadsheet",
+        "query2": "unused service cancel graphic",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for daily money habits that actually work.",
+        "query": "follow icon animation",
+        "query2": "call to action overlay",
+        "role": "cta"
+      }
+    ],
+    "description": "Three tiny actions that can double what you save without a raise. Simple, actionable, and proven.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#personalfinance",
+      "#savings",
+      "#budgettips",
+      "#moneyhabits"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Three Ways to Slash Car Costs",
+    "thumb": "CAR COST CUT",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "How a $3,000 trade‑in can shave $500 a year?",
+        "hook_top": "TRADEIN SAVINGS",
+        "query": "car trade‑in value comparison",
+        "query2": "used car price reduction graphic",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "text": "Choose a high‑yield savings account for your down‑payment to earn interest while you wait.",
+        "label": "HIGH‑YIELD DOWN‑PAYMENT",
+        "label_on": "highyield",
+        "query": "high‑yield savings account screenshot",
+        "query2": "interest earning down‑payment graphic",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "text": "Negotiate the out‑of‑state price and have the dealer ship it to you for free.",
+        "label": "NEGOTIATE OUT‑OF‑STATE",
+        "label_on": "negotiate",
+        "query": "out‑of‑state car pricing chart",
+        "query2": "dealer shipping free illustration",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "text": "Refinance after 12 months if rates drop, cutting interest by up to 1‑2 %.",
+        "label": "REFINANCE AFTER ONE YEAR",
+        "label_on": "refinance",
+        "query": "car loan refinance rate comparison",
+        "query2": "interest reduction after refinance graphic",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the money mindset they don't teach you.",
+        "query": "follow button graphic",
+        "query2": "cta overlay",
+        "role": "cta"
+      }
+    ],
+    "description": "Cut thousands from your car expenses with three proven tactics. No gimmicks, just real savings.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#carfinance",
+      "#savemoney",
+      "#budgeting",
+      "#financialtips"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Three Steps to Recover After Layoff",
+    "thumb": "LAYOFF RECOVERY",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "What 73% of laid‑off workers forget first?",
+        "hook_top": "FORGETTED LAYOFF STEP",
+        "query": "layoff emergency fund chart",
+        "query2": "unemployment financial checklist",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "text": "Pause all non‑essential subscriptions instantly to preserve cash flow.",
+        "label": "PAUSE NON‑ESSENTIAL SUBS",
+        "label_on": "pause",
+        "query": "subscription cancellation list screenshot",
+        "query2": "budget pause graphic",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "text": "Apply for unemployment benefits within 48 hours to secure the maximum weekly amount.",
+        "label": "FILE UNEMPLOYMENT QUICKLY",
+        "label_on": "file",
+        "query": "state unemployment application page",
+        "query2": "unemployment benefits timeline graphic",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "text": "Create a 30‑day cash‑only spending plan to avoid new debt.",
+        "label": "30‑DAY CASH PLAN",
+        "label_on": "cashplan",
+        "query": "cash‑only budget template",
+        "query2": "30‑day spending plan illustration",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for daily money habits that actually work.",
+        "query": "follow icon animation",
+        "query2": "cta overlay",
+        "role": "cta"
+      }
+    ],
+    "description": "Facing a layoff? These three immediate actions protect your finances and keep you moving forward.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#layoff",
+      "#emergencyfund",
+      "#personalfinance",
+      "#budgettips"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Myth About Emergency Funds",
+    "thumb": "EMERGENCY FUND FACT",
+    "scenes": [
+      {
+        "hook_top": "NEED SIX MONTHS",
+        "query": "six months emergency fund recommendation",
+        "query2": "emergency fund guidelines",
+        "role": "hook",
+        "text": "Do you really need six months of expenses saved?"
+      },
+      {
+        "label": "Six‑month rule",
+        "query": "financial advice six month reserve",
+        "query2": "personal finance emergency fund myth",
+        "role": "myth",
+        "text": "Everyone believes the standard is a six‑month cash reserve."
+      },
+      {
+        "label": "One‑to‑two month rule",
+        "query": "research emergency fund one month",
+        "query2": "study minimal cash reserve personal finance",
+        "role": "truth",
+        "text": "Studies show most households thrive with a smaller, liquid buffer of one to two months, then rebuild as income stabilizes."
+      },
+      {
+        "label": "Start Small",
+        "sub": "Build confidence before aiming for bigger buffers.",
+        "label_on": "START",
+        "query": "piggy bank savings jar",
+        "query2": "short term savings illustration",
+        "role": "callout",
+        "text": "Start with a 1‑month safety net, not a mountain."
+      },
+      {
+        "query": "follow button animation",
+        "query2": "subscribe icon",
+        "role": "cta",
+        "text": "Follow for the money mindset they don't teach you."
+      }
+    ],
+    "description": "Debunking the six‑month emergency fund myth with data‑backed recommendations. Learn how a modest starter fund can protect you without locking away cash. Follow for more realistic finance advice.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#personalfinance",
+      "#emergencyfund",
+      "#moneytips",
+      "#budgeting",
+      "#savemoney"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

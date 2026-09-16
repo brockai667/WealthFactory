@@ -1,0 +1,65 @@
+{
+  "title": "How the Wealthy Use the 72 Rule",
+  "thumb": "72 RULE",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Did you know $1,000 can double in just 8 years?",
+      "hook_top": "DOUBLE IN 8 YEARS",
+      "query": "72 rule example $1,000 investment",
+      "query2": "rule of 72 illustration",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "text": "At 9% annual return, money doubles every 8 years.",
+      "label": "9% RETURN DOUBLES",
+      "label_on": "9% return",
+      "query": "historical 9% stock market average return",
+      "query2": "average long‑term equity return",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "text": "At 6% it takes 12 years – shows power of higher yield.",
+      "label": "6% TAKES 12 YEARS",
+      "label_on": "6% return",
+      "query": "72 rule 6% example",
+      "query2": "investment growth 6% annual",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "text": "Even a modest 4% needs 18 years – why the wealthy chase better yields.",
+      "label": "4% NEEDS 18 YEARS",
+      "label_on": "4% return",
+      "query": "72 rule 4% example",
+      "query2": "low‑yield investment timeline",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if you're done staying broke.",
+      "query": "follow button animation",
+      "query2": "call to action graphic",
+      "role": "cta"
+    }
+  ],
+  "description": "Learn the simple math the rich use to gauge investments and why higher returns matter. Apply the rule today for smarter choices.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#investing",
+    "#ruleof72",
+    "#wealthtips",
+    "#moneyhabits"
+  ],
+  "place": "",
+  "country": ""
+}
