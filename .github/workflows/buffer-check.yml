@@ -1,0 +1,29 @@
+name: Buffer check
+
+# Rucna kontrola: plati BUFFER_TOKEN a su v nom kanaly z config.example.json? Nic nezverejnuje.
+on:
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Channels
+        env:
+          BUFFER_TOKEN: ${{ secrets.BUFFER_TOKEN }}
+        run: |
+          python - <<'EOF'
+          import json, os, push_to_buffer as pb
+          want = {c["id"]: c for c in json.load(open("config.example.json"))["buffer_channels"]}
+          chans = pb.get_channels(os.environ["BUFFER_TOKEN"])
+          print("token OK, kanaly:", len(chans))
+          for c in chans:
+              print(("  [config] " if c["id"] in want else "  ") + c["service"], c["name"], c["id"])
+          missing = [f'{w["service"]} {w["name"]}' for i, w in want.items() if i not in {c["id"] for c in chans}]
+          print("CHYBAJU:", missing or "nic")
+          EOF
