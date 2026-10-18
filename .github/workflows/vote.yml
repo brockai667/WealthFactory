@@ -1,0 +1,89 @@
+name: Vote Story Daily
+
+# Interaktivny serial (format saveo.house): hlasy z YT komentarov -> Groq napise dalsi diel -> Cloudflare FLUX obrazky
+# -> edge-tts + Remotion -> Buffer (IG/YT/TikTok) o 18:00 Bratislava. Bez PC, zadarmo, 0 Claude tokenov.
+on:
+  # denny automat zapnut az po schvaleni testu (odkomentovat):
+  # schedule:
+  #   - cron: "40 13 * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Nevahat 20 h od predosleho dielu"
+        type: boolean
+        default: false
+      no_post:
+        description: "Test: len vyrobit video (na stiahnutie v Artifacts), nic nezverejnit"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vote
+  cancel-in-progress: false
+
+jobs:
+  part:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install FFmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Install deps
+        run: |
+          pip install edge-tts numpy soundfile requests cloudinary Pillow
+          cd vote && npm install --no-audit --no-fund
+
+      - name: Make next part
+        env:
+          MODELS_TOKEN: ${{ secrets.MODELS_TOKEN }}
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+          IG_TOKEN: ${{ secrets.IG_TOKEN_WEALTH }}
+          BUFFER_TOKEN: ${{ secrets.BUFFER_TOKEN }}
+          CLOUDINARY_CLOUD_NAME: ${{ secrets.CLOUDINARY_CLOUD_NAME }}
+          CLOUDINARY_API_KEY: ${{ secrets.CLOUDINARY_API_KEY }}
+          CLOUDINARY_API_SECRET: ${{ secrets.CLOUDINARY_API_SECRET }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_API_TOKEN_2: ${{ secrets.CLOUDFLARE_API_TOKEN_2 }}
+          CLOUDFLARE_ACCOUNT_ID_2: ${{ secrets.CLOUDFLARE_ACCOUNT_ID_2 }}
+          CLOUDFLARE_API_TOKEN_3: ${{ secrets.CLOUDFLARE_API_TOKEN_3 }}
+          CLOUDFLARE_ACCOUNT_ID_3: ${{ secrets.CLOUDFLARE_ACCOUNT_ID_3 }}
+          CLOUDFLARE_API_TOKEN_4: ${{ secrets.CLOUDFLARE_API_TOKEN_4 }}
+          CLOUDFLARE_ACCOUNT_ID_4: ${{ secrets.CLOUDFLARE_ACCOUNT_ID_4 }}
+        run: python -u vote/tools/run.py ${{ inputs.force && '--force' || '' }} ${{ inputs.no_post && '--no-post' || '' }}
+
+      - name: Upload video
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: vote-video
+          path: |
+            output/*.mp4
+            output/*.txt
+          if-no-files-found: ignore
+          retention-days: 7
+
+      - name: Persist state
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          rm -f config.json
+          git add vote/state.json vote/series pushed.json 2>/dev/null || true
+          git commit -m "vote: daily run $(date -u +%F)" || echo "no changes"
+          git push || echo "nothing to push"

@@ -1,0 +1,135 @@
+{
+ "series": "SUDDENLY RICH",
+ "tagline": "EVERY DOLLAR HAS A PRICE",
+ "slug": "suddenly-rich",
+ "voice": "en-US-AndrewNeural",
+ "rate": "+3%",
+ "hud_labels": [
+  "CASH",
+  "TAX DUE",
+  "ATTENTION"
+ ],
+ "hashtags": "#SuddenlyRich #money #lottery #finance #personalfinance",
+ "parts_max": 8,
+ "premise": "You (second person) are a broke guy in a cheap rainy-city apartment who wins a $100 million lottery jackpot. Every part shows what really happens next and teaches one true money lesson through the story. Tone: tense, dry, a little funny, never preachy. The viewer decides the story at the end of each part by voting.",
+ "hero": "You: about 30, works night shifts, rents a small apartment, close to your mom, never had money.",
+ "cast": {
+  "mom": "Your mom: warm, talks too much, lives in a small 1990s kitchen across town.",
+  "cousin_mike": "Cousin Mike: always has a business idea, texts too much.",
+  "advisor": "The man in the navy suit: a too-smooth financial salesman who showed up uninvited."
+ },
+ "image": {
+  "ref": "ref.jpg",
+  "size": [
+   768,
+   1344
+  ],
+  "style": "Vertical 9:16 hand-drawn digital cartoon illustration, exactly the art style of image 1: thick clean dark ink outlines of even weight, flat cel shading with soft smooth gradients, subtle paper grain, richly detailed lived-in background, cinematic moody lighting with deep teal-blue shadows and warm golden-orange accents, dark soft vignette.",
+  "character": "The main character is the man from image 1 and must match him exactly: a perfectly round, smooth, pale white egg-shaped head with NO ears, NO nose and NO hair, two small solid black dot eyes, short thin black eyebrows, a small simple mouth; mustard-yellow ribbed knit beanie, olive-green canvas work jacket with collar and chest pockets over a light grey hoodie, dark blue jeans, white sneakers. White cartoon hands with four fingers.",
+  "hands_only": "Only his white cartoon hands with four fingers and the cuffs of his olive-green jacket sleeves are visible. No face, no head, no body, no chair, no second person.",
+  "negative": "Absolutely no text, letters, words, numbers or logos anywhere in the image, papers, signs and screens show only blank lines and shapes. No ears, no nose, no realistic human face. Only the people described in the scene, no extra hands or extra people. Exactly one main character in the image, never two copies of him. One single continuous image, no split panels, no comic page layout, no brand logos. Any other person in the image is drawn in the same cartoon style: a perfectly round smooth pale white egg-shaped head with NO ears and NO nose, small dot eyes, never a realistic human face.",
+  "locations": {
+   "apartment": "LOCATION (keep every detail identical in every shot of this apartment;): a small cheap one-room city apartment at night. Kitchenette: an old cream-white fridge with a child's crayon drawing of a red house and three round red magnets on its door, a cone-shaped brass pendant lamp hanging over a small square wooden table with two wooden chairs, an old silver laptop and a chipped white mug on the table, a small sink with stacked dishes and a green dish towel, one window with rain drops and distant city lights. Living side: a worn grey two-seat couch, a low wooden coffee table, a tall brass floor lamp with a cream shade, a coat rack with a brown coat. Walls dull teal, wooden floor.",
+   "car": "LOCATION: the inside of an old worn beige sedan at night, cracked dashboard, black steering wheel, an empty paper coffee cup in the cup holder, a small pine-tree air freshener on the rear-view mirror, rain-speckled windshield looking out at a gas station canopy with warm lights.",
+   "mom_kitchen": "LOCATION: the mother's cozy suburban kitchen in the evening: yellow flowered curtains, a steaming pot on an old stove, framed family photos on the wall, a beige wall-mounted landline phone with a curly cord, warm golden light.",
+   "street": "LOCATION: a quiet American town, cold grey morning.",
+   "table": "SETTING: only the surface of the small square wooden table in his cheap apartment, warm light from a brass pendant lamp above, nothing else of the room is visible.",
+   "office": "SETTING: A modest office room with tall dark wood bookshelves filled with legal tomes, a heavy oak desk, a green desk lamp casting a focused pool of light, a frosted glass window showing a cityscape at dusk, walls painted muted taupe, a single framed diploma on the wall."
+  }
+ },
+ "lessons": {
+  "2": {
+   "theme": "THE TEAM",
+   "facts": [
+    "Before claiming, big winners hire a team: a lawyer, a tax professional (CPA) and a fee-only fiduciary financial advisor.",
+    "A fiduciary adviser is legally required to act in your best interest; a salesman paid by commission is not.",
+    "Claim deadlines vary by state, commonly 180 days to a year, so there is time to prepare.",
+    "Advisors often charge around 1% of your money per year on smaller portfolios; on millions that is a lot, so ask how they are paid."
+   ],
+   "numbers": [
+    180,
+    1,
+    38000000,
+    380000
+   ]
+  },
+  "3": {
+   "theme": "THE NAME",
+   "facts": [
+    "Only a handful of states let lottery winners stay anonymous by law.",
+    "Some states let a trust or company claim the prize, but in some of them the trustee's name is still published.",
+    "Lotteries use winners' names and photos in press releases; reporters and scammers read them."
+   ],
+   "numbers": []
+  },
+  "4": {
+   "theme": "THE ASKS",
+   "facts": [
+    "In 2026 you can give up to $19,000 per person per year without filing a gift tax return.",
+    "Above $19,000 you file IRS Form 709, but you pay no gift tax until you pass the lifetime exemption of $15 million (2026).",
+    "A loan to family should be written down; an unwritten loan is usually a gift that never comes back."
+   ],
+   "numbers": [
+    19000,
+    709,
+    15000000
+   ]
+  },
+  "5": {
+   "theme": "THE STATE",
+   "facts": [
+    "State tax on lottery winnings depends on where you live.",
+    "Florida, New Hampshire, South Dakota, Tennessee, Texas, Washington and Wyoming do not tax lottery winnings; California does not tax its own state lottery prizes.",
+    "New York's top rate is 10.9%, and New York City adds up to 3.876% more."
+   ],
+   "numbers": [
+    10.9,
+    3.876,
+    7
+   ]
+  },
+  "6": {
+   "theme": "THE SCAM",
+   "facts": [
+    "Real prizes are free: anyone who asks you to pay a fee or 'taxes' up front to release a prize is a scammer (FTC).",
+    "Real taxes go to the IRS and the state, never to a 'prize agent' or a stranger on the phone.",
+    "Scammers watch lottery press releases and social media for new winners' names."
+   ],
+   "numbers": []
+  },
+  "7": {
+   "theme": "THE CURSE",
+   "facts": [
+    "The famous claim that 70% of lottery winners go broke has no research behind it; NEFE, the group it is blamed on, says it cannot confirm it.",
+    "A real study (Hankins, Hoekstra and Skiba, 2011) of Florida winners of $50,000 to $150,000 found the win delayed bankruptcy but did not prevent it.",
+    "Money does not fix spending habits; a budget and a plan do."
+   ],
+   "numbers": [
+    70,
+    2011,
+    50000,
+    150000
+   ]
+  },
+  "8": {
+   "theme": "MAKE IT LAST",
+   "facts": [
+    "The 4% rule (Bengen, 1994): withdrawing 4% in year one, adjusted for inflation, historically lasted at least 30 years.",
+    "4% of $38 million is $1.52 million a year.",
+    "At 3% inflation, prices double in about 24 years (rule of 72), so money left in cash slowly shrinks.",
+    "Umbrella liability insurance costs a few hundred dollars a year per million of coverage and protects rich people from lawsuits.",
+    "This is the series finale: the story ends, no vote, invite viewers to follow for the next series."
+   ],
+   "numbers": [
+    4,
+    1994,
+    30,
+    38000000,
+    1520000,
+    3,
+    24,
+    72
+   ]
+  }
+ }
+}
