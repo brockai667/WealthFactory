@@ -1,6 +1,6 @@
 name: Buffer check
 
-# Rucna kontrola: plati BUFFER_TOKEN a su v nom kanaly z config.example.json? Nic nezverejnuje.
+# Rucna kontrola: plati BUFFER_TOKEN a vidi push_to_buffer.get_channels kanaly z config.example.json? Nic nezverejnuje.
 on:
   workflow_dispatch:
 
@@ -19,19 +19,9 @@ jobs:
         run: |
           python - <<'PY'
           import json, os, push_to_buffer as pb
-          tok = os.environ["BUFFER_TOKEN"]
           want = {c["id"]: c for c in json.load(open("config.example.json"))["buffer_channels"]}
-          orgs = pb.gql(tok, "query { account { organizations { id name } } }")["account"]["organizations"]
-          print("token OK, organizacie:", [(o["id"], o["name"]) for o in orgs])
-          seen = set()
-          for o in orgs:
-              try:
-                  ch = pb.gql(tok, "query($i: ChannelsInput!) { channels(input: $i) { id name service } }",
-                              {"i": {"organizationId": o["id"]}})["channels"]
-              except Exception as e:
-                  print("  org", o["id"], "CHYBA:", str(e)[:200]); continue
-              for c in ch:
-                  seen.add(c["id"])
-                  print(("  [config] " if c["id"] in want else "  ") + c["service"], c["name"], c["id"])
-          print("CHYBAJU:", [f'{w["service"]} {w["name"]}' for i, w in want.items() if i not in seen] or "nic")
+          chans = pb.get_channels(os.environ["BUFFER_TOKEN"])
+          for c in chans:
+              print(("  [config] " if c["id"] in want else "  ") + c["service"], c["name"], c["id"])
+          print("CHYBAJU:", [f'{w["service"]} {w["name"]}' for i, w in want.items() if i not in {c["id"] for c in chans}] or "nic")
           PY

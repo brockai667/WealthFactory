@@ -70,12 +70,12 @@ def gql(token, query, variables=None):
 
 
 def get_channels(token):
-    q = """
-    query { account { organizations { id channels { id name service } } } }"""
-    data = gql(token, q)
+    # novsie tokeny nesmu citat organizations.channels -> kanaly zvlast cez channels(input) pre kazdu organizaciu
+    orgs = gql(token, "query { account { organizations { id } } }")["account"]["organizations"]
+    q = "query($i: ChannelsInput!) { channels(input: $i) { id name service } }"
     chans = []
-    for org in data["account"]["organizations"]:
-        chans.extend(org.get("channels", []))
+    for org in orgs:
+        chans.extend(gql(token, q, {"i": {"organizationId": org["id"]}})["channels"])
     return chans
 
 
