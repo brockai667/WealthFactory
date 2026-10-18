@@ -15,7 +15,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from common import REPO, VOTE, bible, load, part_path, save, state, STATE  # noqa: E402
 import votes  # noqa: E402
 
-MIN_HOURS = 20       # najskor po tolkych hodinach od zverejnenia predosleho dielu
+MIN_HOURS = 18       # najskor po tolkych hodinach od predosleho dielu (cron 13:40 UTC, diel z vecera predtym = ~18,5 h)
 POST_HOUR = 18       # Europe/Bratislava
 VOTE_SERVICES = {"youtube", "instagram"}   # tu sa hlasy citaju (YT API, IG Graph) -> koniec s hlasovanim
 NOVOTE_SERVICES = {"tiktok"}               # tu nie -> koniec "Part N+1 drops tomorrow"
