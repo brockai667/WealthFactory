@@ -41,8 +41,15 @@ def release(n, title, od, mp4s):
     txts = [m[:-4] + ".txt" for m in mp4s]
     caption = "\n\n".join((od / t).read_text(encoding="utf-8").split("\n", 1)[1].strip() for t in txts)
     notes = od / "release-notes.md"
-    notes.write_text("Popisok (skopiruj cely blok):\n\n```\n" + caption + "\n```\n", encoding="utf-8")
-    assets = [str(od / f) for f in mp4s + txts]
+    notes.write_text("Popisok (skopiruj cely blok):\n\n```\n" + caption + "\n```\n\n"
+                     "Obal: subor `-cover.jpg` (TikTok > Vybrat obal > z galerie).\n", encoding="utf-8")
+    cover = od / (mp4s[0][:-4] + "-cover.jpg")
+    try:
+        from cover import make_cover
+        make_cover(n, cover)
+    except Exception as e:   # obal nie je kriticky - diel ide aj bez neho
+        print("obal zlyhal:", e)
+    assets = [str(od / f) for f in mp4s + txts] + ([str(cover)] if cover.exists() else [])
     if sh("gh", "release", "view", tag, cwd=REPO) == 0:   # opakovany beh -> prepisat subory a text
         rc = sh("gh", "release", "upload", tag, *assets, "--clobber", cwd=REPO) or \
             sh("gh", "release", "edit", tag, "--title", title, "--notes-file", str(notes), cwd=REPO)
