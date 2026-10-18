@@ -3,9 +3,8 @@ name: Vote Story Daily
 # Interaktivny serial (format saveo.house): hlasy z YT komentarov -> Groq napise dalsi diel -> Cloudflare FLUX obrazky
 # -> edge-tts + Remotion -> Buffer (IG/YT/TikTok) o 18:00 Bratislava. Bez PC, zadarmo, 0 Claude tokenov.
 on:
-  # denny automat zapnut az po schvaleni testu (odkomentovat):
-  # schedule:
-  #   - cron: "40 13 * * *"
+  schedule:
+    - cron: "40 13 * * *"   # zapnute 18.10. (user: "od zajtra nech vychadzaju")
   workflow_dispatch:
     inputs:
       force:
