@@ -35,8 +35,26 @@ def sh(*cmd, cwd=VOTE):
     return subprocess.run(cmd, cwd=cwd).returncode
 
 
+def release(n, title, od, mp4s):
+    """Video + popisok do GitHub Release part-NN (repo je verejne -> stiahnutie z mobilu bez prihlasenia)."""
+    tag = f"part-{n:02d}"
+    txts = [m[:-4] + ".txt" for m in mp4s]
+    caption = "\n\n".join((od / t).read_text(encoding="utf-8").split("\n", 1)[1].strip() for t in txts)
+    notes = od / "release-notes.md"
+    notes.write_text("Popisok (skopiruj cely blok):\n\n```\n" + caption + "\n```\n", encoding="utf-8")
+    assets = [str(od / f) for f in mp4s + txts]
+    if sh("gh", "release", "view", tag, cwd=REPO) == 0:   # opakovany beh -> prepisat subory a text
+        rc = sh("gh", "release", "upload", tag, *assets, "--clobber", cwd=REPO) or \
+            sh("gh", "release", "edit", tag, "--title", title, "--notes-file", str(notes), cwd=REPO)
+    else:
+        rc = sh("gh", "release", "create", tag, *assets, "--title", title, "--notes-file", str(notes), cwd=REPO)
+    if rc:
+        sys.exit("GitHub Release zlyhal")
+
+
 def main():
     force, no_post = "--force" in sys.argv, "--no-post" in sys.argv
+    manual = "--manual" in sys.argv   # len TikTok verzia -> GitHub Release, Damian nahra z mobilu (bez Buffra a hlasov)
     st, b = state(), bible()
     n = st["next_part"]
     if n > b["parts_max"]:
@@ -50,8 +68,8 @@ def main():
             return
         if not part_path(n).exists():
             last = load(part_path(n - 1))
-            v = votes.votes(b["series"], n - 1, last["vote"])
-            if v is None and h < 48 and not force:
+            v = None if manual else votes.votes(b["series"], n - 1, last["vote"])
+            if v is None and h < 48 and not force and not manual:
                 print("Video na YouTube este nie je (Buffer ho mozno publikuje neskor) - skusim zajtra.")
                 return
             counts = v["counts"] if v else {o: 0 for o in last["vote"]}
@@ -80,9 +98,12 @@ def main():
     title = f"{b['series'].title()} · Part {n}: {part['title'].title()}"
     npx = shutil.which("npx") or "npx"
     files = {}   # subor -> sluzby
-    for variant, suffix, services in (("", "", VOTE_SERVICES), ("--novote", "-tt", NOVOTE_SERVICES)):
-        if not part.get("vote") and variant:
-            continue   # finale nema hlasovanie -> jedna verzia pre vsetkych
+    variants = [("", "", VOTE_SERVICES), ("--novote", "-tt", NOVOTE_SERVICES)]
+    if not part.get("vote"):
+        variants = variants[:1]   # finale nema hlasovanie -> jedna verzia pre vsetkych
+    elif manual:
+        variants = variants[1:]   # len TikTok verzia
+    for variant, suffix, services in variants:
         args = [PY, "tools/prep.py", str(n)] + ([variant] if variant else [])
         if sh(*args):
             sys.exit("prep zlyhal")
@@ -98,6 +119,14 @@ def main():
         print("video:", od / f"{name}{suffix}.mp4", round((od / f"{name}{suffix}.mp4").stat().st_size / 1e6, 1), "MB")
     if no_post:
         print("--no-post: nezverejnujem")
+        return
+    if manual:
+        release(n, title, od, list(files))
+        st["parts"][str(n)] = {"title": part["title"], "vote": part["vote"],
+                               "posted_at": now().isoformat(timespec="seconds"), "services": ["tiktok-manual"]}
+        st["next_part"] = n + 1
+        save(STATE, st)
+        print(f"HOTOVO: Part {n} v GitHub Releases (part-{n:02d}) na rucne nahratie.")
         return
     sys.path.insert(0, str(REPO))
     os.chdir(REPO)

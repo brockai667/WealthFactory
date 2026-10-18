@@ -1,7 +1,7 @@
 name: Vote Story Daily
 
 # Interaktivny serial (format saveo.house): hlasy z YT komentarov -> Groq napise dalsi diel -> Cloudflare FLUX obrazky
-# -> edge-tts + Remotion -> Buffer (IG/YT/TikTok) o 18:00 Bratislava. Bez PC, zadarmo, 0 Claude tokenov.
+# -> edge-tts + Remotion -> od 19.10. len TikTok video + popisok do GitHub Releases (user nahra z mobilu; Buffer = volba buffer). Bez PC, zadarmo, 0 Claude tokenov.
 on:
   schedule:
     - cron: "40 13 * * *"   # zapnute 18.10. (user: "od zajtra nech vychadzaju")
@@ -15,6 +15,10 @@ on:
         description: "Test: len vyrobit video (na stiahnutie v Artifacts), nic nezverejnit"
         type: boolean
         default: true
+      buffer:
+        description: "Zverejnit automaticky cez Buffer (IG/YT/TikTok). Vypnute = len TikTok video do Releases na rucne nahratie"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -64,7 +68,7 @@ jobs:
           CLOUDFLARE_ACCOUNT_ID_3: ${{ secrets.CLOUDFLARE_ACCOUNT_ID_3 }}
           CLOUDFLARE_API_TOKEN_4: ${{ secrets.CLOUDFLARE_API_TOKEN_4 }}
           CLOUDFLARE_ACCOUNT_ID_4: ${{ secrets.CLOUDFLARE_ACCOUNT_ID_4 }}
-        run: python -u vote/tools/run.py ${{ inputs.force && '--force' || '' }} ${{ inputs.no_post && '--no-post' || '' }}
+        run: python -u vote/tools/run.py ${{ inputs.force && '--force' || '' }} ${{ inputs.no_post && '--no-post' || '' }} ${{ !inputs.buffer && '--manual' || '' }}
 
       - name: Upload video
         if: always()
