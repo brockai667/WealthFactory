@@ -1,5 +1,17 @@
 {
  "series": "suddenly-rich",
- "next_part": 1,
- "parts": {}
+ "next_part": 2,
+ "parts": {
+  "1": {
+   "title": "THE TICKET",
+   "vote": [
+    "CLAIM",
+    "WAIT"
+   ],
+   "posted_at": "2026-10-18T19:07:08+00:00",
+   "services": [
+    "tiktok-manual"
+   ]
+  }
+ }
 }
