@@ -28,6 +28,7 @@ PUSHED = os.path.join(ROOT, "pushed.json")
 WANT_SERVICES = {"instagram", "tiktok", "youtube"}
 YT_CATEGORY = "27"  # Education
 SLOT_HOURS = [8, 15, 20]  # presne casy publikovania (Europe/Bratislava)
+FIRST_COMMENT = ""  # IG prvy komentar od uctu (vote seria ho nastavuje; YouTube ho cez Buffer nepodporuje)
 
 
 def next_slots(n):
@@ -100,8 +101,9 @@ def build_mutation(service):
     """Vrati (query, pouziva_title). Metadata su inline. Planuje na presny cas cez dueAt + customScheduled."""
     base = "$channelId: ChannelId!, $text: String!, $url: String!, $dueAt: DateTime!"
     if service == "instagram":
-        meta = "metadata: { instagram: { type: reel, shouldShareToFeed: true } }"
-        decl = base
+        fc = ", firstComment: $firstComment" if FIRST_COMMENT else ""
+        meta = "metadata: { instagram: { type: reel, shouldShareToFeed: true%s } }" % fc
+        decl = base + (", $firstComment: String!" if FIRST_COMMENT else "")
         use_title = False
     elif service == "youtube":
         meta = f'metadata: {{ youtube: {{ title: $title, categoryId: "{YT_CATEGORY}", privacy: public }} }}'
@@ -163,6 +165,8 @@ def create_post(token, service, channel_id, text, url, title, due):
     v = {"channelId": channel_id, "text": text, "url": url, "dueAt": due}
     if use_title:
         v["title"] = title
+    if service == "instagram" and FIRST_COMMENT:
+        v["firstComment"] = FIRST_COMMENT
     last = ""
     for attempt in range(2):
         try:

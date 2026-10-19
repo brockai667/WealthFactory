@@ -59,7 +59,7 @@ def release(n, title, od, mp4s):
         sys.exit("GitHub Release zlyhal")
 
 
-def buffer_push(files, asap=False):
+def buffer_push(files, asap=False, first_comment=""):
     """files = {mp4 v output/: sluzby}. Kazdy subor len na svoje siete cez push_to_buffer. asap = najblizsia cela hodina
     (dobeh), inak POST_HOUR. Vrati (poslane sluzby, planovany cas ISO UTC)."""
     sys.path.insert(0, str(REPO))
@@ -67,6 +67,7 @@ def buffer_push(files, asap=False):
     if not (REPO / "config.json").exists():
         shutil.copy(REPO / "config.example.json", REPO / "config.json")
     import push_to_buffer as pb
+    pb.FIRST_COMMENT = first_comment
     if asap:
         from zoneinfo import ZoneInfo
         pb.SLOT_HOURS = [(dt.datetime.now(ZoneInfo("Europe/Bratislava")).hour + 1) % 24]
@@ -170,7 +171,12 @@ def main():
         tt_f = f"{name}-tt.mp4" if f"{name}-tt.mp4" in files else vote_f   # finale = jedna verzia pre vsetkych
         if not repost:
             release(n, title, od, [tt_f])
-        done, due = buffer_push({vote_f: VOTE_SERVICES}, asap=bool(repost))
+        if part.get("vote"):   # IG prvy komentar od uctu = startovac hlasovania (user 19.10.)
+            a, b2 = part["vote"][:2]
+            fc = f"{a} or {b2}? 👇 Comment one word. The majority writes Part {n + 1}."
+        else:
+            fc = ""
+        done, due = buffer_push({vote_f: VOTE_SERVICES}, asap=bool(repost), first_comment=fc)
         if not done:
             sys.exit("Buffer: nic sa neposlalo - skusi sa znova pri dalsom behu" +
                      ("" if repost else " (TikTok verzia uz je v Releases)"))
