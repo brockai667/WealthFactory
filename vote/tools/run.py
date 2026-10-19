@@ -15,8 +15,8 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from common import REPO, VOTE, bible, load, part_path, save, state, STATE  # noqa: E402
 import votes  # noqa: E402
 
-MIN_HOURS = 18       # najskor po tolkych hodinach od predosleho dielu (cron 13:40 UTC, diel z vecera predtym = ~18,5 h)
-POST_HOUR = 18       # Europe/Bratislava
+MIN_HOURS = 8        # ochrana pred dvojitym behom v ten isty den (diel ide o 10:00, dalsi beh rano o ~17-23 h)
+POST_HOUR = 10       # Europe/Bratislava (user 19.10.: YT + IG rano o 10:00)
 VOTE_SERVICES = {"youtube", "instagram"}   # tu sa hlasy citaju (YT API, IG Graph) -> koniec s hlasovanim
 NOVOTE_SERVICES = {"tiktok"}               # tu nie -> koniec "Part N+1 drops tomorrow"
 PY = sys.executable
@@ -59,15 +59,51 @@ def release(n, title, od, mp4s):
         sys.exit("GitHub Release zlyhal")
 
 
+def buffer_push(files, asap=False):
+    """files = {mp4 v output/: sluzby}. Kazdy subor len na svoje siete cez push_to_buffer. asap = najblizsia cela hodina
+    (dobeh), inak POST_HOUR. Vrati (poslane sluzby, planovany cas ISO UTC)."""
+    sys.path.insert(0, str(REPO))
+    os.chdir(REPO)
+    if not (REPO / "config.json").exists():
+        shutil.copy(REPO / "config.example.json", REPO / "config.json")
+    import push_to_buffer as pb
+    if asap:
+        from zoneinfo import ZoneInfo
+        pb.SLOT_HOURS = [(dt.datetime.now(ZoneInfo("Europe/Bratislava")).hour + 1) % 24]
+    else:
+        pb.SLOT_HOURS = [POST_HOUR]
+    due = pb.next_slots(1)[0]
+    base_cfg = pb.load_cfg
+    done = set()
+    for f, services in files.items():   # kazdy subor len na svoje siete
+        pb.load_cfg = lambda s=services: {**base_cfg(), "buffer_channels": [c for c in base_cfg()["buffer_channels"]
+                                                                             if c["service"].lower() in s]}
+        keep = {x: [] for x in os.listdir(REPO / "output") if x.endswith(".mp4") and x != f}
+        for x in keep:   # push_to_buffer berie vsetky mp4 v output/ -> ostatne docasne odlozit
+            os.replace(REPO / "output" / x, REPO / "output" / (x + ".hold"))
+        sys.argv = ["push_to_buffer.py", "1"]
+        try:
+            pb.main()
+        finally:
+            for x in keep:
+                os.replace(REPO / "output" / (x + ".hold"), REPO / "output" / x)
+        done |= set(pb.load_pushed().get(f, []))
+    return done, due
+
+
 def main():
     force, no_post = "--force" in sys.argv, "--no-post" in sys.argv
     manual = "--manual" in sys.argv   # len TikTok verzia -> GitHub Release, Damian nahra z mobilu (bez Buffra a hlasov)
+    hybrid = "--hybrid" in sys.argv   # od 19.10. default: YT + IG cez Buffer o 10:00, TikTok verzia do Releases (Damian nahra z mobilu)
+    repost = int(sys.argv[sys.argv.index("--repost") + 1]) if "--repost" in sys.argv else None   # dohnat hotovy diel N na YT + IG hned
     st, b = state(), bible()
-    n = st["next_part"]
+    n = repost or st["next_part"]
     if n > b["parts_max"]:
         print(f"Seria {b['series']} je dokoncena ({b['parts_max']} dielov) - treba novu bibliu serie.")
         return
-    if n > 1:
+    if repost and not part_path(n).exists():
+        sys.exit(f"--repost {n}: diel este nie je napisany")
+    if n > 1 and not repost:
         prev = st["parts"].get(str(n - 1), {})
         h = hours_since(prev["posted_at"]) if prev.get("posted_at") else 999
         if h < MIN_HOURS and not force:
@@ -110,6 +146,8 @@ def main():
         variants = variants[:1]   # finale nema hlasovanie -> jedna verzia pre vsetkych
     elif manual:
         variants = variants[1:]   # len TikTok verzia
+    elif repost:
+        variants = variants[:1]   # dobeh na YT + IG = len verzia s hlasovanim
     for variant, suffix, services in variants:
         args = [PY, "tools/prep.py", str(n)] + ([variant] if variant else [])
         if sh(*args):
@@ -127,6 +165,23 @@ def main():
     if no_post:
         print("--no-post: nezverejnujem")
         return
+    if hybrid or repost:   # YT + IG automaticky cez Buffer o POST_HOUR, TikTok verzia do Releases na rucne nahratie
+        vote_f = f"{name}.mp4"
+        tt_f = f"{name}-tt.mp4" if f"{name}-tt.mp4" in files else vote_f   # finale = jedna verzia pre vsetkych
+        if not repost:
+            release(n, title, od, [tt_f])
+        done, due = buffer_push({vote_f: VOTE_SERVICES}, asap=bool(repost))
+        if not done:
+            sys.exit("Buffer: nic sa neposlalo - skusi sa znova pri dalsom behu" +
+                     ("" if repost else " (TikTok verzia uz je v Releases)"))
+        prev = st["parts"].get(str(n), {})
+        services = sorted(set(prev.get("services", [])) | done | ({"tiktok-manual"} if not repost else set()))
+        st["parts"][str(n)] = {**prev, "title": part["title"], "vote": part["vote"], "posted_at": due, "services": services}
+        if not repost:
+            st["next_part"] = n + 1
+        save(STATE, st)
+        print(f"HOTOVO: Part {n} -> {', '.join(sorted(done))} na {due}" + ("" if repost else f" + TikTok v Releases (part-{n:02d})"))
+        return
     if manual:
         release(n, title, od, list(files))
         st["parts"][str(n)] = {"title": part["title"], "vote": part["vote"],
@@ -135,27 +190,7 @@ def main():
         save(STATE, st)
         print(f"HOTOVO: Part {n} v GitHub Releases (part-{n:02d}) na rucne nahratie.")
         return
-    sys.path.insert(0, str(REPO))
-    os.chdir(REPO)
-    if not (REPO / "config.json").exists():
-        shutil.copy(REPO / "config.example.json", REPO / "config.json")
-    import push_to_buffer as pb
-    pb.SLOT_HOURS = [POST_HOUR]
-    base_cfg = pb.load_cfg
-    done = set()
-    for f, services in files.items():   # kazdy subor len na svoje siete
-        pb.load_cfg = lambda s=services: {**base_cfg(), "buffer_channels": [c for c in base_cfg()["buffer_channels"]
-                                                                             if c["service"].lower() in s]}
-        keep = {x: [] for x in os.listdir(REPO / "output") if x.endswith(".mp4") and x != f}
-        for x in keep:   # push_to_buffer berie vsetky mp4 v output/ -> ostatne docasne odlozit
-            os.replace(REPO / "output" / x, REPO / "output" / (x + ".hold"))
-        sys.argv = ["push_to_buffer.py", "1"]
-        try:
-            pb.main()
-        finally:
-            for x in keep:
-                os.replace(REPO / "output" / (x + ".hold"), REPO / "output" / x)
-        done |= set(pb.load_pushed().get(f, []))
+    done, _ = buffer_push(files)
     if not done:
         sys.exit("Buffer: nic sa neposlalo - skusi sa znova pri dalsom behu")
     st["parts"][str(n)] = {"title": part["title"], "vote": part["vote"], "posted_at": now().isoformat(timespec="seconds"),
