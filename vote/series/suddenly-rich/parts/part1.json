@@ -5,13 +5,13 @@
   "CLAIM",
   "WAIT"
  ],
- "caption": "You won $100M. You get $38M. Where did $62M go? 🎟️\nCLAIM or WAIT? One word. Part 2 does what you pick.\n\n#SuddenlyRich #money #lottery #finance",
+ "caption": "You won $100M. Claim it, and you only get $38M.\nCLAIM or WAIT? Comment one word. Part 2 does what the comments pick.\n\n#SuddenlyRich #money #lottery #finance",
  "hook": {
   "kind": "drain",
   "beats": 2,
   "top": [
    "YOU WON",
-   "YOU GET"
+   "YOU'D GET"
   ],
   "from": 100000000,
   "to": 38000000,
@@ -74,7 +74,7 @@
  },
  "beats": [
   {
-   "text": "You won a hundred million.",
+   "text": "You just won a hundred million.",
    "shot": "hook",
    "hud": [
     38000000,
@@ -85,13 +85,13 @@
    "emo": "excited"
   },
   {
-   "text": "You get thirty-eight.",
+   "text": "Claim it, and you only get thirty-eight million.",
    "shot": "hook",
    "pause": 0.62,
    "emo": "shocked"
   },
   {
-   "text": "And what you do next? The comments decide.",
+   "text": "Do you claim it? The comments decide.",
    "shot": "img02",
    "fx": [
     "glow",
@@ -105,7 +105,7 @@
    "emo": "dramatic"
   },
   {
-   "text": "Problem one. That hundred million is paid over thirty years.",
+   "text": "Problem one. It's paid over thirty years.",
    "shot": "img03",
    "label": "PROBLEM 1",
    "fx": [
@@ -114,7 +114,7 @@
    "emo": "serious"
   },
   {
-   "text": "Want it all now? You get the cash value. About half.",
+   "text": "Want it now? You get about half.",
    "shot": "card:jackpot",
    "sfx": "whoosh",
    "emo": "sarcastic"
@@ -135,13 +135,13 @@
    "emo": "shocked"
   },
   {
-   "text": "That's only a down payment. The top rate is thirty-seven percent.",
+   "text": "That's just a down payment. The top rate is thirty-seven percent.",
    "shot": "card:tax2",
    "sfx": "whoosh",
    "emo": "serious"
   },
   {
-   "text": "Next April, you owe six and a half million more.",
+   "text": "Next April, you'd owe six and a half million more.",
    "shot": "card:tax2",
    "hud": [
     38000000,
@@ -158,7 +158,7 @@
    "emo": "serious"
   },
   {
-   "text": "Day two. You tell one person. Just your mom.",
+   "text": "Day two. You tell one person. Your mom.",
    "shot": "img06",
    "hud": [
     38000000,
@@ -169,7 +169,7 @@
    "fx": [
     "rain"
    ],
-   "emo": "whisper"
+   "emo": "happy"
   },
   {
    "text": "That night, your cousin texts. Congrats! You never told him.",
@@ -202,7 +202,7 @@
    "emo": "serious"
   },
   {
-   "text": "Day three. Forty missed calls. Numbers you don't know.",
+   "text": "Day three. Forty missed calls from strangers.",
    "shot": "img09",
    "hud": [
     38000000,
@@ -217,7 +217,7 @@
    "emo": "nervous"
   },
   {
-   "text": "Then, a knock. A man in a suit. He knows your name.",
+   "text": "A man in a suit knocks. A financial advisor you never called.",
    "shot": "img10",
    "hud": [
     38000000,
@@ -228,10 +228,10 @@
     "knock"
    ],
    "knock": "knock",
-   "emo": "whisper"
+   "emo": "suspicious"
   },
   {
-   "text": "Claim now, and your name and photo hit the news.",
+   "text": "Claim now. Fast money, but your name and face hit the news.",
    "shot": "img11",
    "fx": [
     "handheld"
@@ -239,7 +239,7 @@
    "emo": "dramatic"
   },
   {
-   "text": "Wait, and that ticket sits in your kitchen. He knows where you live.",
+   "text": "Or wait. Get a lawyer first and stay more private. But the ticket's in your kitchen, and people know.",
    "shot": "img03",
    "zoom": "in",
    "vote": true,
@@ -247,7 +247,7 @@
    "emo": "ominous"
   },
   {
-   "text": "Claim or wait? One word. Part two does what you pick.",
+   "text": "Claim or wait? One word. Part two does what the comments pick.",
    "shot": "card:end",
    "sfx": "impact",
    "emo": "excited"
