@@ -1,0 +1,16 @@
+name: TTS test
+on:
+  push:
+    branches: [tts-test]
+jobs:
+  t:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install requests && python tts/orpheus.py
+        env:
+          MODELS_TOKEN: ${{ secrets.MODELS_TOKEN }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: orpheus
+          path: out/
