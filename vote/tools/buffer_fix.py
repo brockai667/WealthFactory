@@ -28,8 +28,20 @@ def posts(channel):
     for o in orgs:
         res = pb.gql(tok, Q, {"i": {"organizationId": o, "filter": {"channelIds": [channel], "status": ["scheduled", "error"]}}})
         out += [e["node"] for e in res["posts"]["edges"] or []]
-    return [p for p in out if f"Part {n}:" in p["text"] or f"Part {n}:" in json.dumps(p.get("metadata") or {})]
+    return [p for p in out if f"Part {n}:" in p["text"] or f"Part {n}:" in json.dumps(p.get("metadata") or {})
+            or any(f"part{n:02d}" in a["source"] for a in p["assets"])]
 
+
+if url == "draft":   # user 20.10.: "zrus to, vyjde az ked to bude hotove" -> naspat do konceptov, nic sa nemaze
+    for ch in ("youtube", "instagram"):
+        for p in posts(want[ch]):
+            if p["status"] == "scheduled":
+                meta = ({"youtube": {"title": p["metadata"]["title"], "categoryId": pb.YT_CATEGORY, "privacy": "public"}}
+                        if ch == "youtube" else {"instagram": {"type": "reel", "shouldShareToFeed": True}})
+                print(ch, p["id"], pb.gql(tok, EDIT, {"i": {"id": p["id"], "saveToDraft": True, "text": p["text"],
+                                                            "assets": [{"video": {"url": a["source"]}} for a in p["assets"]],
+                                                            "metadata": meta}})["editPost"])
+    sys.exit(0)
 
 yt = posts(want["youtube"])
 print("YT:", [(p["id"], p["status"], p["dueAt"], [a["source"][-60:] for a in p["assets"]]) for p in yt])

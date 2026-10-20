@@ -8,7 +8,7 @@ on:
         description: "Cislo dielu"
         required: true
       url:
-        description: "Verejna URL spravneho videa (GitHub Release)"
+        description: "Verejna URL spravneho videa (GitHub Release), alebo 'draft' = YT + IG dielu spat do konceptov"
         required: true
 
 permissions:
