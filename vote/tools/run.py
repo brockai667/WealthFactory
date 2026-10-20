@@ -174,11 +174,7 @@ def main():
         tt_f = f"{name}-tt.mp4" if f"{name}-tt.mp4" in files else vote_f   # finale = jedna verzia pre vsetkych
         if not repost:
             release(n, title, od, [tt_f])
-        if part.get("vote"):   # IG prvy komentar od uctu = startovac hlasovania (user 19.10.)
-            a, b2 = part["vote"][:2]
-            fc = f"{a} or {b2}? 👇 Comment one word. The majority writes Part {n + 1}."
-        else:
-            fc = ""
+        fc = ""   # IG prvy komentar: Buffer free plan ho odmieta ("First comment requires a paid plan", 20.10.)
         done, due = buffer_push({vote_f: VOTE_SERVICES}, asap=bool(repost) or "--asap" in sys.argv, first_comment=fc)
         if not done:
             sys.exit("Buffer: nic sa neposlalo - skusi sa znova pri dalsom behu" +
