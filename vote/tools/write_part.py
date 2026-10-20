@@ -356,7 +356,7 @@ def main():
     total = sum(counts.values()) if counts else 0
     locs = set(b["image"]["locations"])
     ctx = {"n": n, "bible": b, "finale": finale, "rule_no": rule_no, "day_from": day_from, "numbers": numbers,
-           "wmin": 205, "wmax": 320, "bmin": 20, "bmax": 32,
+           "wmin": 205, "wmax": 320, "bmin": 18, "bmax": 32,   # 18: Groq casto pise 18-19 beatov, slov je dost
            "vote_result": {"options": last["vote"], "winner": winner, "counts": counts, "total": total}}
     if total >= 5:
         pct = round(100 * counts[winner] / total)
@@ -409,6 +409,17 @@ def main():
                     x["text"] = f"You chose {winner.lower()}."
                 elif s == "card:title":
                     x["text"] = b["tagline"].rstrip(".").capitalize() + "."
+        vote = p.get("vote") or []
+        if not finale and len(beats) > 3 and len(vote) == 2:   # 20.10.: diel 2 padol 8x na tychto drobnostiach -> opravi kod
+            q = beats[-2]
+            if str(q.get("shot", "")).startswith("card:") and last_img:
+                q["shot"] = last_img
+            if not str(q.get("shot", "")).startswith("card:"):
+                q["vote"] = True
+            for x, tail in ((q, f" {vote[0].capitalize()} or {vote[1].lower()}?"),
+                            (beats[-1], f" Comment {vote[0]} or {vote[1]}.")):
+                if any(not re.search(rf"\b{re.escape(v.lower())}", str(x.get("text", "")).lower()) for v in vote):
+                    x["text"] = str(x.get("text", "")).rstrip() + tail
         rules = [c for c in cards.values() if isinstance(c, dict) and c.get("kind") == "rule"]
         if len(rules) == 1:
             rules[0]["small"] = f"RULE {ctx['rule_no']}"

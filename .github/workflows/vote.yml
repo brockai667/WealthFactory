@@ -23,6 +23,10 @@ on:
       repost:
         description: "Dohnat hotovy diel N na YT + IG hned (prazdne = normalny beh)"
         default: ""
+      asap:
+        description: "YT + IG o najblizsiu celu hodinu namiesto 10:00 (dobeh zmeskaneho dielu)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -72,7 +76,7 @@ jobs:
           CLOUDFLARE_ACCOUNT_ID_3: ${{ secrets.CLOUDFLARE_ACCOUNT_ID_3 }}
           CLOUDFLARE_API_TOKEN_4: ${{ secrets.CLOUDFLARE_API_TOKEN_4 }}
           CLOUDFLARE_ACCOUNT_ID_4: ${{ secrets.CLOUDFLARE_ACCOUNT_ID_4 }}
-        run: python -u vote/tools/run.py ${{ inputs.force && '--force' || '' }} ${{ inputs.no_post && '--no-post' || '' }} ${{ (inputs.mode == 'manual' && '--manual') || (inputs.mode == 'buffer' && ' ') || '--hybrid' }} ${{ inputs.repost && format('--repost {0}', inputs.repost) || '' }}
+        run: python -u vote/tools/run.py ${{ inputs.force && '--force' || '' }} ${{ inputs.no_post && '--no-post' || '' }} ${{ (inputs.mode == 'manual' && '--manual') || (inputs.mode == 'buffer' && ' ') || '--hybrid' }} ${{ inputs.repost && format('--repost {0}', inputs.repost) || '' }} ${{ inputs.asap && '--asap' || '' }}
 
       - name: Upload video
         if: always()

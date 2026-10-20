@@ -176,7 +176,7 @@ def main():
             fc = f"{a} or {b2}? 👇 Comment one word. The majority writes Part {n + 1}."
         else:
             fc = ""
-        done, due = buffer_push({vote_f: VOTE_SERVICES}, asap=bool(repost), first_comment=fc)
+        done, due = buffer_push({vote_f: VOTE_SERVICES}, asap=bool(repost) or "--asap" in sys.argv, first_comment=fc)
         if not done:
             sys.exit("Buffer: nic sa neposlalo - skusi sa znova pri dalsom behu" +
                      ("" if repost else " (TikTok verzia uz je v Releases)"))
