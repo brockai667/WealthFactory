@@ -13,7 +13,13 @@
     "instagram",
     "tiktok-manual",
     "youtube"
-   ]
+   ],
+   "votes": {
+    "CLAIM": 0,
+    "WAIT": 0
+   },
+   "winner": "CLAIM",
+   "video_id": "z23X-beWHXM"
   }
  }
 }
