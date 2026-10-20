@@ -36,7 +36,7 @@ def centered(draw, y, text, fnt, fill):
 
 def make_cover(n, out):
     part, b = load(part_path(n)), bible()
-    shot = next(x["shot"] for x in part["beats"] if not x["shot"].startswith("card:"))
+    shot = next(x["shot"] for x in part["beats"] if str(x.get("shot", "")).startswith("img"))   # nie card:/hook
     bg = Image.open(img_dir(n) / f"{shot}.jpg").convert("RGB")
     s = max(W / bg.width, H / bg.height)
     bg = bg.resize((round(bg.width * s), round(bg.height * s)), Image.LANCZOS)

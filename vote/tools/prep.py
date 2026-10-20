@@ -152,7 +152,7 @@ def main():
         spec["beats"][-1]["text"] = f"Part {nxt} drops tomorrow. Follow, so you don't miss what happens."
         spec["cards"]["end"]["foot"] = "Follow so you don't miss it.\nFind out what happens tomorrow."
         spec["vote"] = []
-        spec["caption"] = "\n".join(l if "Comment" not in l else f"Part {n + 1} drops tomorrow. Follow so you don't miss it."
+        spec["caption"] = "\n".join(l if not re.search(r"Comment|One word", l) else f"Part {n + 1} drops tomorrow. Follow so you don't miss it."
                                      for l in spec["caption"].split("\n"))
     out = os.path.join(ROOT, "build", (fname or f"part{n}") + ("_novote" if novote else ""))
     if os.path.isdir(out):
