@@ -42,7 +42,7 @@ def _orpheus(text, out, voice, emo):
                             "input": (f"[{emo}] " if emo else "") + text}, timeout=90)
     time.sleep(6.5)   # free tier ~10 poziadaviek/min (test 20.10.: 11. hned 429)
     if r.status_code != 200:
-        raise RuntimeError(f"orpheus {r.status_code} {r.text[:150]}")
+        raise RuntimeError(f"orpheus {r.status_code} {r.text[:450]}")   # 429 na konci hovori "try again in ..."
     open(out, "wb").write(r.content)
     return None
 

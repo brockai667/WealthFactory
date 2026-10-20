@@ -58,6 +58,13 @@ jobs:
           pip install edge-tts numpy soundfile requests cloudinary Pillow
           cd vote && npm install --no-audit --no-fund
 
+      - name: TTS cache   # Orpheus free ~100 poziadaviek/den: hotove beaty sa medzi behmi negeneruju znova
+        uses: actions/cache@v4
+        with:
+          path: vote/tts_cache
+          key: tts-${{ github.run_id }}
+          restore-keys: tts-
+
       - name: Make next part
         env:
           MODELS_TOKEN: ${{ secrets.MODELS_TOKEN }}
