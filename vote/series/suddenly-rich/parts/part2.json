@@ -1,0 +1,259 @@
+{
+ "title": "THE TEAM",
+ "vote": [
+  "HIRE",
+  "SIGN"
+ ],
+ "result_foot": "Choose your next move",
+ "caption": "You claimed the jackpot. Now the real game begins.\nComment HIRE or SIGN. The majority writes Part 3.\n\n#SuddenlyRich #money #lottery #finance #personalfinance",
+ "summary": "You walked through the door with the suit and claimed the prize. The advisor’s pitch hides commissions, and you learn you need a lawyer, CPA, and fiduciary. A rule warns you to assemble the right team before any paperwork. The cliffhanger: do you hire a proper team or sign the deal alone?",
+ "hud_end": [
+  38000000,
+  6500000,
+  70
+ ],
+ "bubble": null,
+ "cards": {
+  "rule2": {
+   "kind": "rule",
+   "small": "RULE 2",
+   "text": "Hire lawyer, CPA, fiduciary.\nBefore any signature."
+  },
+  "public1": {
+   "kind": "public",
+   "label": "PROBLEM 1 · THE TEAM",
+   "line": "Commission vs fee",
+   "arrow": "ask",
+   "stamp": "Ask how they’re paid",
+   "foot": "Fee-only advisors charge less"
+  },
+  "title": {
+   "kind": "title",
+   "small": "PART 2 · THE TEAM",
+   "big": [
+    "EVERY",
+    "DOLLAR",
+    "HAS A"
+   ],
+   "accent": "PRICE"
+  },
+  "result": {
+   "kind": "result",
+   "label": "PART 1 · YOU VOTED",
+   "options": [
+    {
+     "name": "CLAIM"
+    },
+    {
+     "name": "WAIT"
+    }
+   ],
+   "winner": 0,
+   "foot": "Choose your next move"
+  },
+  "end": {
+   "kind": "end",
+   "small": "SUDDENLY RICH · EVERY DOLLAR HAS A PRICE",
+   "big": "PART 3",
+   "accent": "TOMORROW",
+   "foot": "Comment HIRE or SIGN.\nThe majority writes Part 3."
+  }
+ },
+ "shot_briefs": {
+  "img01": "apartment | extreme wide | you + anxious + claim form",
+  "img02": "doorway | low angle | advisor + smug + briefcase",
+  "img04": "table | top-down hands | paperwork + pen + coffee",
+  "img05": "street | over the shoulder | you + looking at phone + traffic",
+  "img06": "mom_kitchen | face close-up | mom + worried + phone",
+  "img07": "car | macro | contract page + ink blot",
+  "img08": "office | through a window | advisor + silhouette + window glare"
+ },
+ "beats": [
+  {
+   "text": "Problem one. You’ve just claimed the jackpot, suit at your door.",
+   "shot": "img01",
+   "label": "PROBLEM 1",
+   "fx": [
+    "rain"
+   ]
+  },
+  {
+   "text": "You chose to claim it now.",
+   "shot": "card:result",
+   "hud": [
+    38000000,
+    6500000,
+    58
+   ],
+   "phase": 2,
+   "fx": []
+  },
+  {
+   "text": "Every dollar has a price.",
+   "shot": "card:title",
+   "fx": []
+  },
+  {
+   "text": "Problem two. The advisor offers help, but his commission is hidden.",
+   "shot": "img02",
+   "label": "PROBLEM 2",
+   "fx": [
+    "dust"
+   ]
+  },
+  {
+   "text": "Before any money lands, winners need three pros: lawyer, CPA, fiduciary.",
+   "shot": "card:public1",
+   "hud": [
+    38000000,
+    6500000,
+    68
+   ],
+   "sfx": "whoosh",
+   "fx": []
+  },
+  {
+   "text": "A fiduciary must act in your best interest; a salesman does not.",
+   "shot": "img04",
+   "label": "PROBLEM 1",
+   "fx": [
+    "bubble"
+   ],
+   "bubble": {
+    "from": "Advisor",
+    "text": "I’ll get you the best deal.",
+    "word": "best"
+   }
+  },
+  {
+   "text": "Day four. You call a lawyer, but the advisor pushes a fast‑track contract.",
+   "shot": "img05",
+   "day": 4,
+   "hud": [
+    38000000,
+    6500000,
+    70
+   ],
+   "fx": []
+  },
+  {
+   "text": "Rule two. Hire a lawyer, CPA, fiduciary before you sign.",
+   "shot": "card:rule2",
+   "hud": [
+    38000000,
+    6500000,
+    70
+   ],
+   "sfx": "riser",
+   "fx": []
+  },
+  {
+   "text": "Problem three. Advisors often charge about one percent of your portfolio each year.",
+   "shot": "img06",
+   "label": "PROBLEM 3",
+   "fx": [
+    "dust"
+   ]
+  },
+  {
+   "text": "On a hundred million that’s a million a year – ask how they’re paid.",
+   "shot": "img07",
+   "hud": [
+    38000000,
+    6500000,
+    70
+   ],
+   "zoom": "in",
+   "fx": []
+  },
+  {
+   "text": "If you sign now, you lock in a commission‑heavy deal.",
+   "shot": "img08",
+   "label": "PROBLEM 4",
+   "fx": []
+  },
+  {
+   "text": "If you hire a proper team, you gain protection and lower fees.",
+   "shot": "img04",
+   "label": "PROBLEM 5",
+   "fx": [
+    "bubble"
+   ],
+   "bubble": {
+    "from": "Mom",
+    "text": "Get a lawyer first.",
+    "word": "lawyer"
+   }
+  },
+  {
+   "text": "So what do you do? Sign the fast contract or hire a proper team?",
+   "shot": "img02",
+   "vote": true,
+   "fx": [
+    "handheld"
+   ]
+  },
+  {
+   "text": "Comment HIRE or SIGN. The majority writes Part three.",
+   "shot": "card:end",
+   "fx": []
+  }
+ ],
+ "shots": {
+  "img01": {
+   "location": "apartment",
+   "camera": "CAMERA: extreme wide shot from a low corner of the cheap one‑room apartment, eye level, capturing the whole kitchenette and the narrow hallway, the hero centered near the small table, the light from the brass pendant spilling warm amber across the scene.",
+   "scene": "Anxious. The hero stands near the kitchenette, shoulders hunched, eyes wide, mouth slightly open as if about to speak. A crumpled claim form rests on the countertop, illuminated by the pendant lamp. Behind him the cream‑white fridge glows faintly, the rest of the room fades into deep night blue shadows. The mood is tense, the jackpot just claimed and a suit looming.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img02": {
+   "location": "doorway",
+   "camera": "CAMERA: low angle from the floor looking up toward the doorway, the advisor looming above the hero, the briefcase held at waist height, the frame emphasizing power dynamics.",
+   "scene": "Smug. The advisor, a pale egg‑head without beanie or jacket, leans against the doorway, eyebrows arched, a thin grin, holding a sleek briefcase. The hero stands slightly behind, shoulders tense, eyes narrowed, mouth set. The hallway light creates a harsh contrast, shadows stretching behind them. The air feels charged with hidden commissions.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img04": {
+   "location": "table",
+   "camera": "CAMERA: flat‑lay from directly above at 90°, the square wooden tabletop fills the frame, edges crisp, lamp light forming a bright circular pool in the center.",
+   "scene": "Concerned. A messy stack of paperwork lies across the table: a blank form, a pen, a steaming coffee mug, and a tiny calculator. Two white hands with four fingers each enter from the bottom edge—one presses keys on the calculator, the other hovers the pen above the forms. Warm amber lamp light highlights the items, dark wood edges recede into shadow.",
+   "refs": [],
+   "hands_only": true
+  },
+  "img05": {
+   "location": "street",
+   "camera": "CAMERA: over‑the‑shoulder of the hero walking on a quiet grey‑morning street, his head turned toward a glowing phone screen, traffic blurred in the background, perspective low enough to capture the road’s line of sight.",
+   "scene": "Determined. The hero, wearing his mustard beanie and olive jacket, strides down the cold street, eyes fixed on the phone, mouth set in a thin line. Cars pass silently, their headlights hazy. Streetlights cast soft pools of amber on wet pavement. The surrounding houses are muted pastel tones, the morning fog softening the scene, conveying urgency to call a lawyer.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img06": {
+   "location": "mom_kitchen",
+   "camera": "CAMERA: close‑up of the mother’s face framed by the yellow‑flowered curtains, soft evening light from the stove window bathing her features, the phone held near her ear.",
+   "scene": "Worried. The mother, a round pale egg‑head without the hero’s beanie or jacket, has gentle dot eyes and a furrowed brow, lips slightly pursed as she listens. Behind her, a steaming pot on the old stove releases gentle vapor, family photos on the wall show smiling faces. Warm kitchen light mixes with the evening glow, emphasizing her concern.",
+   "refs": [],
+   "no_character": true
+  },
+  "img07": {
+   "location": "car",
+   "camera": "CAMERA: macro close‑up of a contract page resting on the car seat, focus on the ink blot spreading across the paper, background blurred to show the beige sedan interior’s cracked dashboard.",
+   "scene": "Serious. The contract page lies open on the passenger seat, a dark ink blot spreading from the corner, the paper’s edges slightly curled. The car’s cracked dashboard and faded beige upholstery are out of focus, while a faint streetlight filters through the window, casting a cool bluish tint over the scene, highlighting the gravity of the terms.",
+   "refs": [],
+   "no_character": true
+  },
+  "img08": {
+   "location": "office",
+   "camera": "CAMERA: view through the green desk lamp’s glass pane, looking at the advisor’s silhouette framed by the window glare, the office’s dark wood bookshelves receding into the background.",
+   "scene": "Foreboding. The advisor, another pale egg‑head lacking the hero’s beanie and jacket, stands silhouetted against the bright window, shoulders broad, briefcase at his side. The green lamp casts a focused pool of light on the heavy oak desk, while dark wood bookshelves filled with legal tomes loom behind. The window glare creates sharp contrasts, underscoring the weight of a commission‑heavy deal.",
+   "refs": [],
+   "no_character": true
+  }
+ },
+ "part": 2,
+ "winner": "CLAIM",
+ "lesson": "THE TEAM"
+}
