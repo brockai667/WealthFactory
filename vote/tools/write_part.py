@@ -36,7 +36,7 @@ PREMISE: {premise}
 HERO: {hero}
 RECURRING CAST: {cast}
 
-STRUCTURE of part {n} (250-300 spoken words, never under {wmin}, {bmin}-{bmax} beats, each beat = 1-2 sentences, max 22 words):
+STRUCTURE of part {n} (a 60-second video: {wmin}-{wmax} spoken words, {bmin}-{bmax} beats, each beat = 1-2 sentences, max 22 words):
 1. Beat 1: a 1-sentence recap hook of where we are (an image shot).
 2. Beat 2: shot "card:result" - you say what the viewers chose ({winner}) and set it in motion ("You chose to wait." / "Most of you said wait.").
    {votes_line}
@@ -58,7 +58,7 @@ THE MONEY (HUD at the top of the video): labels {hud_labels}. At the end of part
 (cash $, tax due $, attention % 0-100). Give "hud": [cash, tax_due, attention] on beats where it changes; keep money consistent.
 "attention" is how much unwanted attention you get (it rises with mistakes, can fall when you protect yourself).
 
-IMAGES: every image beat uses a shot id ("img01".."img11"). Use 8-11 different shots, each used 1-3 times (never more than 3), never two
+IMAGES: every image beat uses a shot id ("img01".."img11"). Use 6-10 different shots, each used 1-3 times (never more than 3), never two
 shots that look alike. For every shot id give a one-line brief in "shot_briefs": "<location> | <camera angle> | <who + emotion + key object>".
 Locations: {locations} (or a new place name). Vary camera: extreme wide, low angle, high angle, over the shoulder, face close-up,
 through a window, top-down hands, macro of an object. Never the same angle twice in a row. No text can be shown in images.
@@ -171,6 +171,9 @@ def check_story(p, ctx):
     if not finale and (len(vote) != 2 or any(not re.fullmatch(r"[A-Z]{2,8}", str(v)) for v in vote) or vote[0] == vote[1]):
         e.append('"vote" must be 2 different single UPPER-CASE words (2-8 letters)')
     allowed = set(ctx["numbers"])
+    base = [a for a in allowed if a]
+    allowed |= {a + b for a in base for b in base} | {abs(a - b) for a in base for b in base} | \
+               {a * b / 100 for a in base for b in base if 0 < b <= 100}   # vypocitane z faktov (38M - 6.5M, 24 % z 38M)
     for i, b in enumerate(beats):
         t = str(b.get("text", ""))
         if len(t.split()) > 24:
@@ -254,8 +257,8 @@ def check_story(p, ctx):
                                      for c in cards.values()):
         e.append("teach with at least one data card (jackpot/tax/bracket/public) besides the rule card")
     used = [s for s in shots_seq if not str(s).startswith("card:")]
-    if not 7 <= len(briefs) <= 12:
-        e.append(f"{len(briefs)} shots, need 8-11")
+    if not 5 <= len(briefs) <= 11:
+        e.append(f"{len(briefs)} shots, need 6-10")
     for k in briefs:
         if not re.fullmatch(r"img\d\d", k):
             e.append(f"shot id '{k}' must look like img01")
@@ -356,7 +359,7 @@ def main():
     total = sum(counts.values()) if counts else 0
     locs = set(b["image"]["locations"])
     ctx = {"n": n, "bible": b, "finale": finale, "rule_no": rule_no, "day_from": day_from, "numbers": numbers,
-           "wmin": 205, "wmax": 320, "bmin": 18, "bmax": 32,   # 18: Groq casto pise 18-19 beatov, slov je dost
+           "wmin": 140, "wmax": 210, "bmin": 14, "bmax": 24,   # 60 s diel (user 20.10.); Groq aj tak pise ~160-190 slov
            "vote_result": {"options": last["vote"], "winner": winner, "counts": counts, "total": total}}
     if total >= 5:
         pct = round(100 * counts[winner] / total)
@@ -398,7 +401,9 @@ def main():
                 x["fx"].remove("glow")
             if x.get("sfx") not in SFX:
                 x.pop("sfx", None)
-            s = str(x.get("shot", ""))
+            s = str(x.get("shot") or "")
+            if not s and last_img:   # beat bez zaberu -> predosly obrazok
+                x["shot"] = s = last_img
             if s.startswith("card:") and s[5:] not in cards and s[5:] not in ("title", "result", "end") and last_img:
                 x["shot"] = s = last_img   # model si vymyslel kartu (napr. card:vote) -> predosly obrazok
             if not s.startswith("card:"):
