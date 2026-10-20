@@ -1,0 +1,250 @@
+{
+ "part": 1,
+ "title": "THE TICKET",
+ "vote": [
+  "CLAIM",
+  "WAIT"
+ ],
+ "caption": "You won $100M. You get $38M. Where did $62M go? 🎟️\nCLAIM or WAIT? One word. Part 2 does what you pick.\n\n#SuddenlyRich #money #lottery #finance",
+ "hook": {
+  "kind": "drain",
+  "beats": 2,
+  "top": [
+   "YOU WON",
+   "YOU GET"
+  ],
+  "from": 100000000,
+  "to": 38000000,
+  "sub": "WHERE DID $62M GO?",
+  "chips": {
+   "beat": 2,
+   "items": [
+    "−50% CASH OPTION",
+    "−24% IRS"
+   ]
+  }
+ },
+ "cards": {
+  "jackpot": {
+   "kind": "jackpot",
+   "label": "PROBLEM 1 · THE JACKPOT",
+   "from": 100000000,
+   "to": 50000000,
+   "note": "cash: half or less",
+   "alt": "30 yearly payments"
+  },
+  "tax": {
+   "kind": "tax",
+   "label": "PROBLEM 2 · THE TAX",
+   "line": "Withheld on day one",
+   "pct": 24,
+   "amount": 12000000,
+   "left": 38000000
+  },
+  "tax2": {
+   "kind": "bracket",
+   "label": "PROBLEM 2 · THE TRAP",
+   "line": "Top federal bracket",
+   "pct": 37,
+   "owe": 6500000,
+   "stamp": "DUE IN APRIL"
+  },
+  "rule1": {
+   "kind": "rule",
+   "small": "RULE 1",
+   "text": "Withheld\nis not\npaid."
+  },
+  "public": {
+   "kind": "public",
+   "label": "THE PUBLIC RECORD",
+   "line": "Lottery winner's name",
+   "arrow": "Public record",
+   "stamp": "IN MOST STATES",
+   "foot": "Only some states let winners stay anonymous"
+  },
+  "end": {
+   "kind": "end",
+   "small": "SUDDENLY RICH · EVERY DOLLAR HAS A PRICE",
+   "big": "PART 2",
+   "accent": "YOU PICK",
+   "foot": "CLAIM or WAIT? One word."
+  }
+ },
+ "beats": [
+  {
+   "text": "You won a hundred million.",
+   "shot": "hook",
+   "hud": [
+    38000000,
+    0,
+    0
+   ],
+   "pause": 0.32
+  },
+  {
+   "text": "You get thirty-eight.",
+   "shot": "hook",
+   "pause": 0.62
+  },
+  {
+   "text": "And what you do next? The comments decide.",
+   "shot": "img02",
+   "fx": [
+    "glow",
+    "handheld"
+   ],
+   "glow": [
+    0.62,
+    0.55,
+    "#9fd3ff"
+   ]
+  },
+  {
+   "text": "Problem one. That hundred million is paid over thirty years.",
+   "shot": "img03",
+   "label": "PROBLEM 1",
+   "fx": [
+    "dust"
+   ]
+  },
+  {
+   "text": "Want it all now? You get the cash value. About half.",
+   "shot": "card:jackpot",
+   "sfx": "whoosh"
+  },
+  {
+   "text": "Problem two. Twenty-four percent goes straight to the IRS.",
+   "shot": "img04",
+   "label": "PROBLEM 2",
+   "fx": [
+    "dust"
+   ]
+  },
+  {
+   "text": "Twelve million. Gone.",
+   "shot": "card:tax",
+   "sfx": "whoosh"
+  },
+  {
+   "text": "That's only a down payment. The top rate is thirty-seven percent.",
+   "shot": "card:tax2",
+   "sfx": "whoosh"
+  },
+  {
+   "text": "Next April, you owe six and a half million more.",
+   "shot": "card:tax2",
+   "hud": [
+    38000000,
+    6500000,
+    0
+   ],
+   "phase": 2
+  },
+  {
+   "text": "Rule one. Withheld is not paid. April always comes.",
+   "shot": "card:rule1",
+   "sfx": "impact"
+  },
+  {
+   "text": "Day two. You tell one person. Just your mom.",
+   "shot": "img06",
+   "hud": [
+    38000000,
+    6500000,
+    5
+   ],
+   "day": 2,
+   "fx": [
+    "rain"
+   ]
+  },
+  {
+   "text": "That night, your cousin texts. Congrats! You never told him.",
+   "shot": "img07",
+   "hud": [
+    38000000,
+    6500000,
+    18
+   ],
+   "fx": [
+    "bubble",
+    "glow"
+   ],
+   "glow": [
+    0.52,
+    0.42,
+    "#bfe3ff"
+   ]
+  },
+  {
+   "text": "In most states, a winner's name is public record.",
+   "shot": "card:public",
+   "hud": [
+    38000000,
+    6500000,
+    31
+   ],
+   "sfx": "whoosh"
+  },
+  {
+   "text": "Day three. Forty missed calls. Numbers you don't know.",
+   "shot": "img09",
+   "hud": [
+    38000000,
+    6500000,
+    47
+   ],
+   "day": 3,
+   "fx": [
+    "calls",
+    "buzz"
+   ]
+  },
+  {
+   "text": "Then, a knock. A man in a suit. He knows your name.",
+   "shot": "img10",
+   "hud": [
+    38000000,
+    6500000,
+    58
+   ],
+   "fx": [
+    "knock"
+   ],
+   "knock": "knock"
+  },
+  {
+   "text": "Claim now, and your name and photo hit the news.",
+   "shot": "img11",
+   "fx": [
+    "handheld"
+   ]
+  },
+  {
+   "text": "Wait, and that ticket sits in your kitchen. He knows where you live.",
+   "shot": "img03",
+   "zoom": "in",
+   "vote": true,
+   "sfx": "riser"
+  },
+  {
+   "text": "Claim or wait? One word. Part two does what you pick.",
+   "shot": "card:end",
+   "sfx": "impact"
+  }
+ ],
+ "bubble": {
+  "from": "Cousin Mike",
+  "text": "CONGRATS!! 🎉🎉 mom told me everything 👀",
+  "at": 0.62,
+  "word": "congrats"
+ },
+ "summary": "You won $100M. The cash option is about $50M, 24% withheld leaves $38M, and next April you owe $6.5M more at the 37% bracket. You told only your mom; cousin Mike texted congrats; by day three: forty missed calls and a man in a suit who knows your name. You have not claimed yet.",
+ "hud_end": [
+  38000000,
+  6500000,
+  58
+ ],
+ "lesson": "Lump sum is about half, 24% withheld is not the full tax, winners are public record in most states.",
+ "note": "SAMPLE 60 s cut with the Shrinking Jackpot hook. Images reused from img/part1."
+}

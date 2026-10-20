@@ -126,6 +126,9 @@ def main():
             st["parts"][str(n - 1)] = prev
             save(STATE, st)
             print(f"Hlasy Part {n - 1}: {counts} -> {winner}")
+            if b.get("author") == "claude":   # user 20.10.: diely pise Claude podla vitaza, Groq nie
+                print(f"Part {n} este nie je napisany (autor = Claude, vitaz {winner}) - nic nezverejnujem.")
+                return
             import json
             if sh(PY, "tools/write_part.py", str(n), winner, "--votes", json.dumps(counts)):
                 sys.exit("autor zlyhal")

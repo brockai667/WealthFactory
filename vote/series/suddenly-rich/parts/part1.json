@@ -5,18 +5,28 @@
   "CLAIM",
   "WAIT"
  ],
- "caption": "You just won $100 million. Day 1 goes worse than you think. 🎟️\nComment CLAIM or WAIT. The majority writes Part 2.\n\n#SuddenlyRich #money #lottery #finance",
- "cards": {
-  "title": {
-   "kind": "title",
-   "small": "PART 1 · THE TICKET",
-   "big": [
-    "EVERY",
-    "DOLLAR",
-    "HAS A"
-   ],
-   "accent": "PRICE"
+ "caption": "You won $100M. You get $38M. Where did $62M go? 🎟️\nCLAIM or WAIT? One word. Part 2 does what you pick.\n\n#SuddenlyRich #money #lottery #finance",
+ "hook": {
+  "kind": "drain",
+  "beats": 2,
+  "top": [
+   "YOU WON",
+   "YOU GET"
+  ],
+  "from": 100000000,
+  "to": 38000000,
+  "sub": "WHERE DID $62M GO?",
+  "chips": {
+   "beat": 2,
+   "items": [
+    "−50% CASH OPTION",
+    "−24% IRS"
+   ]
   },
+  "style": "jackpot",
+  "bg": "img01"
+ },
+ "cards": {
   "jackpot": {
    "kind": "jackpot",
    "label": "PROBLEM 1 · THE JACKPOT",
@@ -44,7 +54,7 @@
   "rule1": {
    "kind": "rule",
    "small": "RULE 1",
-   "text": "Sign the ticket.\nTonight."
+   "text": "Withheld\nis not\npaid."
   },
   "public": {
    "kind": "public",
@@ -58,26 +68,30 @@
    "kind": "end",
    "small": "SUDDENLY RICH · EVERY DOLLAR HAS A PRICE",
    "big": "PART 2",
-   "accent": "TOMORROW",
-   "foot": "Comment CLAIM or WAIT.\nThe majority writes Part 2."
+   "accent": "YOU PICK",
+   "foot": "CLAIM or WAIT? One word."
   }
  },
  "beats": [
   {
-   "text": "You just won one hundred million dollars.",
-   "shot": "img01",
+   "text": "You won a hundred million.",
+   "shot": "hook",
    "hud": [
-    100000000,
+    38000000,
     0,
     0
    ],
-   "fx": [
-    "rain"
-   ],
-   "zoom": "in"
+   "pause": 0.32,
+   "emo": "excited"
   },
   {
-   "text": "One a.m., a gas station parking lot. You check the numbers five times.",
+   "text": "You get thirty-eight.",
+   "shot": "hook",
+   "pause": 0.62,
+   "emo": "shocked"
+  },
+  {
+   "text": "And what you do next? The comments decide.",
    "shot": "img02",
    "fx": [
     "glow",
@@ -87,99 +101,61 @@
     0.62,
     0.55,
     "#9fd3ff"
-   ]
-  },
-  {
-   "text": "They don't change.",
-   "shot": "img02",
-   "zoom": "in",
-   "fx": [
-    "glow"
    ],
-   "glow": [
-    0.62,
-    0.55,
-    "#9fd3ff"
-   ]
+   "emo": "dramatic"
   },
   {
-   "text": "But nobody tells you what happens next. Because every dollar has a price.",
-   "shot": "card:title",
-   "sfx": "impact"
-  },
-  {
-   "text": "Problem one. That hundred million isn't really a hundred million.",
+   "text": "Problem one. That hundred million is paid over thirty years.",
    "shot": "img03",
    "label": "PROBLEM 1",
    "fx": [
     "dust"
-   ]
-  },
-  {
-   "text": "The big number is paid slowly, a little every year, for thirty years.",
-   "shot": "card:jackpot",
-   "sfx": "whoosh"
-  },
-  {
-   "text": "Want it all today? Then you get the cash value. Half, often less.",
-   "shot": "card:jackpot",
-   "hud": [
-    50000000,
-    0,
-    0
    ],
-   "phase": 2
+   "emo": "serious"
   },
   {
-   "text": "Problem two. Before the money even reaches you, someone takes a cut.",
+   "text": "Want it all now? You get the cash value. About half.",
+   "shot": "card:jackpot",
+   "sfx": "whoosh",
+   "emo": "sarcastic"
+  },
+  {
+   "text": "Problem two. Twenty-four percent goes straight to the IRS.",
    "shot": "img04",
    "label": "PROBLEM 2",
    "fx": [
     "dust"
-   ]
-  },
-  {
-   "text": "The lottery sends twenty-four percent straight to the IRS. Twelve million dollars, gone on day one.",
-   "shot": "card:tax",
-   "hud": [
-    38000000,
-    0,
-    0
    ],
-   "sfx": "whoosh"
+   "emo": "serious"
   },
   {
-   "text": "And here's the trap. That twenty-four percent is only a down payment.",
-   "shot": "img04",
-   "zoom": "in",
-   "fx": [
-    "dust"
-   ]
+   "text": "Twelve million. Gone.",
+   "shot": "card:tax",
+   "sfx": "whoosh",
+   "emo": "shocked"
   },
   {
-   "text": "At this level, most of it is taxed at thirty-seven percent.",
+   "text": "That's only a down payment. The top rate is thirty-seven percent.",
    "shot": "card:tax2",
-   "sfx": "whoosh"
+   "sfx": "whoosh",
+   "emo": "serious"
   },
   {
-   "text": "So next April, you owe six and a half million more. And nobody sends you a reminder.",
+   "text": "Next April, you owe six and a half million more.",
    "shot": "card:tax2",
    "hud": [
     38000000,
     6500000,
     0
    ],
-   "phase": 2
+   "phase": 2,
+   "emo": "ominous"
   },
   {
-   "text": "Rule one. Before you sleep, sign the back of the ticket.",
+   "text": "Rule one. Withheld is not paid. April always comes.",
    "shot": "card:rule1",
-   "sfx": "impact"
-  },
-  {
-   "text": "A lottery ticket works like cash. Until your name is on it, it belongs to whoever is holding it.",
-   "shot": "img05",
-   "zoom": "in"
+   "sfx": "impact",
+   "emo": "serious"
   },
   {
    "text": "Day two. You tell one person. Just your mom.",
@@ -192,20 +168,11 @@
    "day": 2,
    "fx": [
     "rain"
-   ]
+   ],
+   "emo": "whisper"
   },
   {
-   "text": "It feels safe. It isn't.",
-   "shot": "img06",
-   "zoom": "in"
-  },
-  {
-   "text": "In most states, a winner's name is public record. Anyone can look it up.",
-   "shot": "card:public",
-   "sfx": "whoosh"
-  },
-  {
-   "text": "That evening, your phone buzzes. It's your cousin. Congrats!!",
+   "text": "That night, your cousin texts. Congrats! You never told him.",
    "shot": "img07",
    "hud": [
     38000000,
@@ -220,27 +187,22 @@
     0.52,
     0.42,
     "#bfe3ff"
-   ]
+   ],
+   "emo": "suspicious"
   },
   {
-   "text": "You never told your cousin.",
-   "shot": "img07",
-   "zoom": "in"
-  },
-  {
-   "text": "Your mom told one person. Just one.",
-   "shot": "img08",
+   "text": "In most states, a winner's name is public record.",
+   "shot": "card:public",
    "hud": [
     38000000,
     6500000,
     31
    ],
-   "fx": [
-    "steam"
-   ]
+   "sfx": "whoosh",
+   "emo": "serious"
   },
   {
-   "text": "Day three. Forty missed calls. You don't know a single number.",
+   "text": "Day three. Forty missed calls. Numbers you don't know.",
    "shot": "img09",
    "hud": [
     38000000,
@@ -251,44 +213,44 @@
    "fx": [
     "calls",
     "buzz"
-   ]
-  },
-  {
-   "text": "Then, a knock at the door.",
-   "shot": "img10",
-   "fx": [
-    "knock"
    ],
-   "knock": "knock"
+   "emo": "nervous"
   },
   {
-   "text": "A man in a suit. A financial advisor you never called. He knows your name.",
+   "text": "Then, a knock. A man in a suit. He knows your name.",
    "shot": "img10",
-   "zoom": "in",
    "hud": [
     38000000,
     6500000,
     58
-   ]
+   ],
+   "fx": [
+    "knock"
+   ],
+   "knock": "knock",
+   "emo": "whisper"
   },
   {
-   "text": "And you haven't even claimed the money yet.",
+   "text": "Claim now, and your name and photo hit the news.",
    "shot": "img11",
    "fx": [
     "handheld"
-   ]
+   ],
+   "emo": "dramatic"
   },
   {
-   "text": "So what do you do? Claim it now, with your name in the news. Or wait, and build a wall first.",
-   "shot": "img11",
+   "text": "Wait, and that ticket sits in your kitchen. He knows where you live.",
+   "shot": "img03",
    "zoom": "in",
    "vote": true,
-   "sfx": "riser"
+   "sfx": "riser",
+   "emo": "ominous"
   },
   {
-   "text": "Comment claim or wait. The majority writes part two.",
+   "text": "Claim or wait? One word. Part two does what you pick.",
    "shot": "card:end",
-   "sfx": "impact"
+   "sfx": "impact",
+   "emo": "excited"
   }
  ],
  "bubble": {
@@ -297,6 +259,14 @@
   "at": 0.62,
   "word": "congrats"
  },
+ "summary": "You won $100M. The cash option is about $50M, 24% withheld leaves $38M, and next April you owe $6.5M more at the 37% bracket. You told only your mom; cousin Mike texted congrats; by day three: forty missed calls and a man in a suit who knows your name. You have not claimed yet.",
+ "hud_end": [
+  38000000,
+  6500000,
+  58
+ ],
+ "lesson": "Lump sum is about half, 24% withheld is not the full tax, winners are public record in most states.",
+ "note": "SAMPLE 60 s cut, hook style jackpot. Same script as part1_60.json.",
  "shots": {
   "img01": {
    "location": "street",
@@ -385,12 +355,5 @@
     "char"
    ]
   }
- },
- "summary": "You won $100M at a gas station at 1 a.m. Cash option is about $50M, 24% withheld leaves $38M, and you will owe $6.5M more next April at the 37% bracket. You signed the ticket. You told only your mom; she told cousin Mike; by day three: forty missed calls and an uninvited advisor in a navy suit at your door. You have not claimed yet.",
- "hud_end": [
-  38000000,
-  6500000,
-  58
- ],
- "lesson": "Lump sum is about half, 24% withheld is not the full tax, sign the ticket, winners are public record in most states."
+ }
 }

@@ -4,6 +4,8 @@ import {
 } from "remotion";
 import { Card } from "./Cards";
 import { Bubble, Calls, Dust, Glow, Rain, Steam, shakeOf } from "./Fx";
+import { HookChips, HookDrain, HookRecap } from "./Hook";
+import { HookJackpot, HookTicket } from "./HookFx";
 import { Beat, C, Ep, MONO, SANS, Word, money } from "./theme";
 
 /* cas slova (s) v danom beate, ktore zacina na token; null ak nie je */
@@ -218,14 +220,20 @@ export const Episode: React.FC<{ ep: Ep }> = ({ ep }) => {
   const segs: Seg[] = [];
   ep.beats.forEach((b, i) => {
     const prev = segs[segs.length - 1];
-    if (prev && b.shot.startsWith("card:") && prev.shot === b.shot) {
+    if (prev && (b.shot.startsWith("card:") || b.shot === "hook") && prev.shot === b.shot) {
       prev.to = fr(i + 1);
       prev.phases.push(fr(i) - prev.from);
     } else {
       segs.push({ shot: b.shot, from: fr(i), to: fr(i + 1), first: i, phases: [] });
     }
   });
-  const cur = ep.beats.find((b, i) => t >= b.t0 && (i === last || t < ep.beats[i + 1].t0)) ?? ep.beats[0];
+  const curI = Math.max(0, ep.beats.findIndex((b, i) => t >= b.t0 && (i === last || t < ep.beats[i + 1].t0)));
+  const cur = ep.beats[curI];
+  // volitelny hak: bez ep.hook je hookN = 0 a vsetko ide ako predtym
+  const hook = ep.hook;
+  const hookN = hook ? Math.min(last, hook.beats ?? 2) : 0;
+  const inHook = curI < hookN;
+  const isHookCard = cur.shot === "hook";
   const isCard = cur.shot.startsWith("card:");
   const isEnd = cur.shot === "card:end";
   const musicVol = (f: number) =>
@@ -236,6 +244,16 @@ export const Episode: React.FC<{ ep: Ep }> = ({ ep }) => {
     </Sequence>
   );
   const sounds: React.ReactNode[] = [];
+  if (hook && hook.kind === "drain") {
+    sounds.push(sfx("cash", 0, 0.75, "h0"));
+    const d0 = ep.beats.length > 1 ? fr(1) : 20;
+    sounds.push(sfx("drain", d0 - 1, 0.6, "h1"), sfx("impact-bass-1", d0 + 19, 0.55, "h2"));
+    if (hook.style === "jackpot" || hook.style === "ticket") sounds.push(sfx("whoosh-short", d0 - 2, 0.5, "h4"));
+    if (hook.style === "ticket") sounds.push(sfx("tear", d0, 0.6, "h5"), sfx("tear", d0 + 8, 0.55, "h6"));
+  }
+  if (hook && hook.kind === "recap") sounds.push(sfx("impact-bass-1", fr(Math.min(last, hook.stamp_beat ?? 1)), 0.55, "h3"));
+  if (hook?.chips && hook.chips.beat <= last)
+    hook.chips.items.forEach((_, n) => sounds.push(sfx("pop", fr(hook.chips!.beat) + 4 + n * 10, 0.5, `hc${n}`)));
   ep.beats.forEach((b, i) => {
     const at = fr(i);
     const name = b.sfx === "impact" ? "impact-bass-1" : b.sfx === "whoosh" ? "whoosh-short" : b.sfx === "riser" ? "riser" : null;
@@ -256,7 +274,11 @@ export const Episode: React.FC<{ ep: Ep }> = ({ ep }) => {
     <AbsoluteFill style={{ backgroundColor: "#000" }}>
       {segs.map((s, k) => (
         <Sequence key={`v${k}`} from={s.from} durationInFrames={s.to - s.from}>
-          {s.shot.startsWith("card:")
+          {s.shot === "hook" && hook
+            ? (hook.style === "jackpot" ? <HookJackpot h={hook} len={s.to - s.from} ph={s.phases} />
+              : hook.style === "ticket" ? <HookTicket h={hook} len={s.to - s.from} ph={s.phases} />
+              : <HookDrain h={hook} len={s.to - s.from} ph={s.phases} />)
+            : s.shot.startsWith("card:")
             ? <CardIn><Card ep={ep} id={s.shot.slice(5)} len={s.to - s.from} phases={s.phases} /></CardIn>
             : <Still ep={ep} bi={s.first} len={s.to - s.from} fresh={s.first === 0 || ep.beats[s.first - 1].shot !== s.shot} />}
         </Sequence>
@@ -274,12 +296,18 @@ export const Episode: React.FC<{ ep: Ep }> = ({ ep }) => {
               at={bt !== null ? Math.round((bt - b.t0) * fps) : Math.round(len * ep.bubble.at)} /> : null}
             {keepBubble && ep.bubble ? <Bubble from={ep.bubble.from} text={ep.bubble.text} at={-40} /> : null}
             {b.day ? <DayStamp n={b.day} series={ep.series} /> : null}
+            {hook?.chips && hook.chips.beat === i ? <HookChips items={hook.chips.items} /> : null}
             {b.vote ? <VoteButtons a={ep.vote[0]} b={ep.vote[1]} y={1480} delay={Math.round(len * 0.45)} /> : null}
           </Sequence>
         );
       })}
-      {!isEnd && <Hud ep={ep} t={t} />}
-      {!isEnd && <Captions ep={ep} t={t} y={isCard ? 1600 : cur.vote ? 1210 : 1320} />}
+      {hook && hook.kind === "recap" && hookN > 0 ? (
+        <Sequence from={fr(0)} durationInFrames={fr(hookN) - fr(0)}>
+          <HookRecap h={hook} stampAt={fr(Math.min(hookN - 1, hook.stamp_beat ?? 1)) - fr(0)} />
+        </Sequence>
+      ) : null}
+      {!isEnd && !isHookCard && <Hud ep={ep} t={t} />}
+      {!isEnd && !inHook && <Captions ep={ep} t={t} y={isCard ? 1600 : cur.vote ? 1210 : 1320} />}
       <Audio src={staticFile(ep.voice)} />
       <Audio src={staticFile(ep.music)} volume={musicVol} />
       {sounds}

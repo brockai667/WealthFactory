@@ -1,25 +1,32 @@
 {
  "series": "suddenly-rich",
- "next_part": 2,
- "parts": {
-  "1": {
-   "title": "THE TICKET",
-   "vote": [
-    "CLAIM",
-    "WAIT"
-   ],
-   "posted_at": "2026-10-19T16:22:01.000Z",
-   "services": [
-    "instagram",
-    "tiktok-manual",
-    "youtube"
-   ],
-   "votes": {
-    "CLAIM": 0,
-    "WAIT": 0
-   },
-   "winner": "CLAIM",
-   "video_id": "z23X-beWHXM"
+ "next_part": 1,
+ "parts": {},
+ "archiv": [
+  {
+   "reset": "2026-10-20",
+   "why": "restart: 60 s diely, hook V2, hlas Orpheus troy; stare videa zmazane",
+   "parts": {
+    "1": {
+     "title": "THE TICKET",
+     "vote": [
+      "CLAIM",
+      "WAIT"
+     ],
+     "posted_at": "2026-10-19T16:22:01.000Z",
+     "services": [
+      "instagram",
+      "tiktok-manual",
+      "youtube"
+     ],
+     "votes": {
+      "CLAIM": 0,
+      "WAIT": 0
+     },
+     "winner": "CLAIM",
+     "video_id": "z23X-beWHXM"
+    }
+   }
   }
- }
+ ]
 }

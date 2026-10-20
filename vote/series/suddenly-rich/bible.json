@@ -4,6 +4,8 @@
  "slug": "suddenly-rich",
  "voice": "en-US-AndrewNeural",
  "rate": "+3%",
+ "tts": {"engine": "orpheus", "voice": "troy"},
+ "author": "claude",
  "hud_labels": [
   "CASH",
   "TAX DUE",

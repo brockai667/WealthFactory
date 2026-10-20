@@ -1,0 +1,396 @@
+{
+ "part": 1,
+ "title": "THE TICKET",
+ "vote": [
+  "CLAIM",
+  "WAIT"
+ ],
+ "caption": "You just won $100 million. Day 1 goes worse than you think. 🎟️\nComment CLAIM or WAIT. The majority writes Part 2.\n\n#SuddenlyRich #money #lottery #finance",
+ "cards": {
+  "title": {
+   "kind": "title",
+   "small": "PART 1 · THE TICKET",
+   "big": [
+    "EVERY",
+    "DOLLAR",
+    "HAS A"
+   ],
+   "accent": "PRICE"
+  },
+  "jackpot": {
+   "kind": "jackpot",
+   "label": "PROBLEM 1 · THE JACKPOT",
+   "from": 100000000,
+   "to": 50000000,
+   "note": "cash: half or less",
+   "alt": "30 yearly payments"
+  },
+  "tax": {
+   "kind": "tax",
+   "label": "PROBLEM 2 · THE TAX",
+   "line": "Withheld on day one",
+   "pct": 24,
+   "amount": 12000000,
+   "left": 38000000
+  },
+  "tax2": {
+   "kind": "bracket",
+   "label": "PROBLEM 2 · THE TRAP",
+   "line": "Top federal bracket",
+   "pct": 37,
+   "owe": 6500000,
+   "stamp": "DUE IN APRIL"
+  },
+  "rule1": {
+   "kind": "rule",
+   "small": "RULE 1",
+   "text": "Sign the ticket.\nTonight."
+  },
+  "public": {
+   "kind": "public",
+   "label": "THE PUBLIC RECORD",
+   "line": "Lottery winner's name",
+   "arrow": "Public record",
+   "stamp": "IN MOST STATES",
+   "foot": "Only some states let winners stay anonymous"
+  },
+  "end": {
+   "kind": "end",
+   "small": "SUDDENLY RICH · EVERY DOLLAR HAS A PRICE",
+   "big": "PART 2",
+   "accent": "TOMORROW",
+   "foot": "Comment CLAIM or WAIT.\nThe majority writes Part 2."
+  }
+ },
+ "beats": [
+  {
+   "text": "You just won one hundred million dollars.",
+   "shot": "img01",
+   "hud": [
+    100000000,
+    0,
+    0
+   ],
+   "fx": [
+    "rain"
+   ],
+   "zoom": "in"
+  },
+  {
+   "text": "One a.m., a gas station parking lot. You check the numbers five times.",
+   "shot": "img02",
+   "fx": [
+    "glow",
+    "handheld"
+   ],
+   "glow": [
+    0.62,
+    0.55,
+    "#9fd3ff"
+   ]
+  },
+  {
+   "text": "They don't change.",
+   "shot": "img02",
+   "zoom": "in",
+   "fx": [
+    "glow"
+   ],
+   "glow": [
+    0.62,
+    0.55,
+    "#9fd3ff"
+   ]
+  },
+  {
+   "text": "But nobody tells you what happens next. Because every dollar has a price.",
+   "shot": "card:title",
+   "sfx": "impact"
+  },
+  {
+   "text": "Problem one. That hundred million isn't really a hundred million.",
+   "shot": "img03",
+   "label": "PROBLEM 1",
+   "fx": [
+    "dust"
+   ]
+  },
+  {
+   "text": "The big number is paid slowly, a little every year, for thirty years.",
+   "shot": "card:jackpot",
+   "sfx": "whoosh"
+  },
+  {
+   "text": "Want it all today? Then you get the cash value. Half, often less.",
+   "shot": "card:jackpot",
+   "hud": [
+    50000000,
+    0,
+    0
+   ],
+   "phase": 2
+  },
+  {
+   "text": "Problem two. Before the money even reaches you, someone takes a cut.",
+   "shot": "img04",
+   "label": "PROBLEM 2",
+   "fx": [
+    "dust"
+   ]
+  },
+  {
+   "text": "The lottery sends twenty-four percent straight to the IRS. Twelve million dollars, gone on day one.",
+   "shot": "card:tax",
+   "hud": [
+    38000000,
+    0,
+    0
+   ],
+   "sfx": "whoosh"
+  },
+  {
+   "text": "And here's the trap. That twenty-four percent is only a down payment.",
+   "shot": "img04",
+   "zoom": "in",
+   "fx": [
+    "dust"
+   ]
+  },
+  {
+   "text": "At this level, most of it is taxed at thirty-seven percent.",
+   "shot": "card:tax2",
+   "sfx": "whoosh"
+  },
+  {
+   "text": "So next April, you owe six and a half million more. And nobody sends you a reminder.",
+   "shot": "card:tax2",
+   "hud": [
+    38000000,
+    6500000,
+    0
+   ],
+   "phase": 2
+  },
+  {
+   "text": "Rule one. Before you sleep, sign the back of the ticket.",
+   "shot": "card:rule1",
+   "sfx": "impact"
+  },
+  {
+   "text": "A lottery ticket works like cash. Until your name is on it, it belongs to whoever is holding it.",
+   "shot": "img05",
+   "zoom": "in"
+  },
+  {
+   "text": "Day two. You tell one person. Just your mom.",
+   "shot": "img06",
+   "hud": [
+    38000000,
+    6500000,
+    5
+   ],
+   "day": 2,
+   "fx": [
+    "rain"
+   ]
+  },
+  {
+   "text": "It feels safe. It isn't.",
+   "shot": "img06",
+   "zoom": "in"
+  },
+  {
+   "text": "In most states, a winner's name is public record. Anyone can look it up.",
+   "shot": "card:public",
+   "sfx": "whoosh"
+  },
+  {
+   "text": "That evening, your phone buzzes. It's your cousin. Congrats!!",
+   "shot": "img07",
+   "hud": [
+    38000000,
+    6500000,
+    18
+   ],
+   "fx": [
+    "bubble",
+    "glow"
+   ],
+   "glow": [
+    0.52,
+    0.42,
+    "#bfe3ff"
+   ]
+  },
+  {
+   "text": "You never told your cousin.",
+   "shot": "img07",
+   "zoom": "in"
+  },
+  {
+   "text": "Your mom told one person. Just one.",
+   "shot": "img08",
+   "hud": [
+    38000000,
+    6500000,
+    31
+   ],
+   "fx": [
+    "steam"
+   ]
+  },
+  {
+   "text": "Day three. Forty missed calls. You don't know a single number.",
+   "shot": "img09",
+   "hud": [
+    38000000,
+    6500000,
+    47
+   ],
+   "day": 3,
+   "fx": [
+    "calls",
+    "buzz"
+   ]
+  },
+  {
+   "text": "Then, a knock at the door.",
+   "shot": "img10",
+   "fx": [
+    "knock"
+   ],
+   "knock": "knock"
+  },
+  {
+   "text": "A man in a suit. A financial advisor you never called. He knows your name.",
+   "shot": "img10",
+   "zoom": "in",
+   "hud": [
+    38000000,
+    6500000,
+    58
+   ]
+  },
+  {
+   "text": "And you haven't even claimed the money yet.",
+   "shot": "img11",
+   "fx": [
+    "handheld"
+   ]
+  },
+  {
+   "text": "So what do you do? Claim it now, with your name in the news. Or wait, and build a wall first.",
+   "shot": "img11",
+   "zoom": "in",
+   "vote": true,
+   "sfx": "riser"
+  },
+  {
+   "text": "Comment claim or wait. The majority writes part two.",
+   "shot": "card:end",
+   "sfx": "impact"
+  }
+ ],
+ "bubble": {
+  "from": "Cousin Mike",
+  "text": "CONGRATS!! 🎉🎉 mom told me everything 👀",
+  "at": 0.62,
+  "word": "congrats"
+ },
+ "shots": {
+  "img01": {
+   "location": "street",
+   "camera": "CAMERA: extreme wide establishing shot from a high angle, as if from a rooftop across the street; the character is small in the lower third.",
+   "scene": "Night, a lonely gas station on the edge of the suburb. The character stands seen from behind next to an old dented beige sedan under the bright white canopy lights, holding a tiny paper lottery ticket up in front of his face with both hands. Wet black asphalt reflects the canopy lights and a warm glowing shop window. Empty street, one streetlight, light rain, puddles, dark trees and power lines against a deep navy sky. Mood: lonely, quiet, the moment before everything changes.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img02": {
+   "location": "car",
+   "camera": "CAMERA: close-up from the passenger seat at eye level, the character turned three-quarters toward the camera.",
+   "scene": "1 a.m. The character sits in the driver's seat, eyebrows raised high in shock and disbelief, dot eyes wide, tiny open oval mouth. He holds a smartphone close to his face; the screen glows soft cold blue and lights his white face and beanie from below. His other hand, slightly shaking, holds the small paper lottery ticket next to the phone.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img03": {
+   "location": "apartment",
+   "camera": "CAMERA: wide establishing shot from the dark apartment doorway at standing eye level, showing the whole kitchenette; the character is small, sitting at the table in the middle distance.",
+   "scene": "Late night. The character sits alone at the small table, leaning forward, staring at the lottery ticket lying in the center of the table inside the golden cone of light from the pendant lamp. A pile of unpaid bills with red stamps lies next to the laptop. Everything outside the lamp light falls into deep blue shadow. Mood: quiet disbelief, the cheap life he has right now.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img04": {
+   "location": "table",
+   "camera": "CAMERA: flat-lay composition seen from directly above at 90 degrees, the wooden tabletop fills the entire frame edge to edge, like an overhead product shot.",
+   "scene": "Worry. Spread across the tabletop: a messy pile of blank tax forms with empty lines, a calculator, a pen, the chipped white mug with a little steam, the corner of the silver laptop, and the small paper lottery ticket lying on top of the forms. Two hands enter from the bottom edge: one presses keys on the calculator, the other holds the pen above the papers. Warm lamp light makes a bright circle in the middle, dark edges.",
+   "refs": [],
+   "hands_only": true
+  },
+  "img05": {
+   "location": "table",
+   "camera": "CAMERA: extreme macro close-up that fills the entire frame with only the ticket, the pen and one hand, camera almost touching the table, very shallow depth of field.",
+   "scene": "One hand from an olive-green jacket sleeve signs the back of the small paper lottery ticket with a blue ballpoint pen, the pen tip touching the paper, the signature only an abstract squiggle line. Background is a soft warm blur of lamp light. Wood grain sharp in the foreground. Calm, careful, important moment.",
+   "refs": [],
+   "hands_only": true
+  },
+  "img06": {
+   "location": "apartment",
+   "camera": "CAMERA: medium shot from OUTSIDE the apartment window looking in through the rainy glass; rain drops and reflections of city lights on the glass in the foreground.",
+   "scene": "The character stands inside by the window, holding a phone to the side of his round head, a small nervous smile, looking down. Behind him the warm brass floor lamp and the worn grey couch. Warm light inside, cold blue rain outside. Mood: sharing a secret he shouldn't.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img07": {
+   "location": "apartment",
+   "camera": "CAMERA: low angle from the coffee table surface, looking up past takeout boxes in the blurred foreground at the character on the couch.",
+   "scene": "The character sits on the worn grey couch, frozen, staring down at his phone, dot eyes fixed and wide, mouth a small flat line. The phone screen glows bright cold blue on his white face; one small glowing message bubble shape on the screen. The brass floor lamp is off, the room is dark blue. Mood: a chill of realization, someone knows.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img08": {
+   "location": "mom_kitchen",
+   "camera": "CAMERA: medium shot at eye level, slightly from the side.",
+   "scene": "A different character in the same art style: the main character's mother, a cartoon woman with the same perfectly round pale white head with no ears and no nose, black dot eyes, round glasses, grey hair in a neat bun, a pink knitted cardigan over a floral blouse. She laughs into the beige landline phone, her other hand covering her mouth, shoulders raised in excitement, gossiping happily. She does NOT wear a beanie and does NOT wear the olive-green jacket; image 1 is only a reference for the art style and the head shape. The main character is not in this image.",
+   "refs": [
+    "char"
+   ],
+   "no_character": true
+  },
+  "img09": {
+   "location": "apartment",
+   "camera": "CAMERA: top-down close-up of the couch cushion.",
+   "scene": "A smartphone lies face up on the worn grey couch cushion at night, its screen glowing bright cold blue and flooded with a stack of many blank notification bars with small red phone icons, the phone slightly blurred as if vibrating. One white cartoon hand from an olive-green jacket sleeve reaches toward it from the top edge, fingers hesitant. Dark room, blue glow spilling onto the fabric. Mood: overwhelmed.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img10": {
+   "location": "apartment",
+   "camera": "CAMERA: over-the-shoulder shot from behind the character inside the dark apartment, looking through the narrow gap of the front door held by a door chain.",
+   "scene": "In the foreground the character's back, mustard beanie and olive jacket in dark silhouette. Through the gap, in the bright yellow hallway light, stands a smiling stranger with the same round pale white head style but slicked-back black hair, an expensive navy suit, a red tie and a leather briefcase, a too-wide polite smile. Strong contrast between the warm hallway and the cold dark room. Mood: uninvited, unsettling.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img11": {
+   "location": "street",
+   "camera": "CAMERA: extreme low angle from the pavement looking up, the building towers over him; the character stands from behind in the lower middle.",
+   "scene": "Daytime. The character stands in front of the tall glass doors of a big official government building with stone columns, holding the small lottery ticket at his side. The glass doors reflect his small figure. To the right a white news van with a satellite dish is parked, a reporter silhouette with a microphone nearby. Pale cold light, wet pavement, a few pigeons. Mood: a point of no return.",
+   "refs": [
+    "char"
+   ]
+  }
+ },
+ "summary": "You won $100M at a gas station at 1 a.m. Cash option is about $50M, 24% withheld leaves $38M, and you will owe $6.5M more next April at the 37% bracket. You signed the ticket. You told only your mom; she told cousin Mike; by day three: forty missed calls and an uninvited advisor in a navy suit at your door. You have not claimed yet.",
+ "hud_end": [
+  38000000,
+  6500000,
+  58
+ ],
+ "lesson": "Lump sum is about half, 24% withheld is not the full tax, sign the ticket, winners are public record in most states."
+}
