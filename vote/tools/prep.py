@@ -151,6 +151,7 @@ def main():
         spec["beats"][-2].pop("vote", None)
         spec["beats"][-1]["text"] = f"Part {nxt} drops tomorrow. Follow, so you don't miss what happens."
         spec["cards"]["end"]["foot"] = "Follow so you don't miss it.\nFind out what happens tomorrow."
+        spec["cards"]["end"]["accent"] = "TOMORROW"   # "YOU PICK" bez hlasovania klame
         spec["vote"] = []
         spec["caption"] = "\n".join(l if not re.search(r"Comment|One word", l) else f"Part {n + 1} drops tomorrow. Follow so you don't miss it."
                                      for l in spec["caption"].split("\n"))
