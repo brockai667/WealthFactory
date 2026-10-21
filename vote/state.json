@@ -8,7 +8,12 @@
     "CLAIM",
     "WAIT"
    ],
-   "services": []
+   "services": [
+    "instagram",
+    "tiktok-manual",
+    "youtube"
+   ],
+   "posted_at": "2026-10-21T18:00:00.000Z"
   }
  },
  "archiv": [
@@ -37,6 +42,5 @@
     }
    }
   }
- ],
- "hold": "Part 1 v2 caka na schvalenie (20.10. stiahnuty do konceptov v Buffri)"
+ ]
 }
