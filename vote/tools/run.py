@@ -98,6 +98,9 @@ def main():
     hybrid = "--hybrid" in sys.argv   # od 19.10. default: YT + IG cez Buffer o 10:00, TikTok verzia do Releases (Damian nahra z mobilu)
     repost = int(sys.argv[sys.argv.index("--repost") + 1]) if "--repost" in sys.argv else None   # dohnat hotovy diel N na YT + IG hned
     st, b = state(), bible()
+    if st.get("hold") and not repost:   # user 20.10.: "vyjde az ked to bude hotove" -> cron caka na schvalenie
+        print("Pozastavene:", st["hold"])
+        return
     n = repost or st["next_part"]
     if n > b["parts_max"]:
         print(f"Seria {b['series']} je dokoncena ({b['parts_max']} dielov) - treba novu bibliu serie.")
