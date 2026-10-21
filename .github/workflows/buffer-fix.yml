@@ -10,6 +10,9 @@ on:
       url:
         description: "Verejna URL spravneho videa (GitHub Release), alebo 'draft' = YT + IG dielu spat do konceptov"
         required: true
+      due:
+        description: "Volitelne: koncept/naplanovany diel -> nove video + popisok z part JSON na tento cas (ISO UTC)"
+        default: ""
 
 permissions:
   contents: write
@@ -26,11 +29,11 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install requests
+      - run: pip install requests numpy soundfile
       - name: Fix
         env:
           BUFFER_TOKEN: ${{ secrets.BUFFER_TOKEN }}
-        run: python vote/tools/buffer_fix.py "${{ inputs.part }}" "${{ inputs.url }}"
+        run: python vote/tools/buffer_fix.py "${{ inputs.part }}" "${{ inputs.url }}" ${{ inputs.due }}
       - name: Commit pushed.json
         run: |
           git config user.name "github-actions[bot]"

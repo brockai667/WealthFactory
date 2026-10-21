@@ -26,7 +26,7 @@ CREATE = """mutation($i: CreatePostInput!) { createPost(input: $i) {
 def posts(channel):
     out = []
     for o in orgs:
-        res = pb.gql(tok, Q, {"i": {"organizationId": o, "filter": {"channelIds": [channel], "status": ["scheduled", "error"]}}})
+        res = pb.gql(tok, Q, {"i": {"organizationId": o, "filter": {"channelIds": [channel], "status": ["scheduled", "error", "draft"]}}})
         out += [e["node"] for e in res["posts"]["edges"] or []]
     return [p for p in out if f"Part {n}:" in p["text"] or f"Part {n}:" in json.dumps(p.get("metadata") or {})
             or any(f"part{n:02d}" in a["source"] for a in p["assets"])]
@@ -41,6 +41,25 @@ if url == "draft":   # user 20.10.: "zrus to, vyjde az ked to bude hotove" -> na
                 print(ch, p["id"], pb.gql(tok, EDIT, {"i": {"id": p["id"], "saveToDraft": True, "text": p["text"],
                                                             "assets": [{"video": {"url": a["source"]}} for a in p["assets"]],
                                                             "metadata": meta}})["editPost"])
+    sys.exit(0)
+
+if len(sys.argv) > 3:   # koncepty dielu -> nove video + popisok z part JSON + presny cas (user 21.10.: Part 1 v2 o 20:00)
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    from common import load, part_path
+    from prep import MUSIC_CREDIT
+    text = load(part_path(n))["caption"] + "\n\n" + MUSIC_CREDIT
+    for ch in ("youtube", "instagram"):
+        mine = [p for p in posts(want[ch]) if p["status"] in ("draft", "scheduled")]
+        if len(mine) != 1:
+            sys.exit(f"{ch}: cakal som presne 1 koncept/naplanovany prispevok dielu, mam {len(mine)} - nic nemenim")
+        p = mine[0]
+        meta = ({"youtube": {"title": p["metadata"]["title"], "categoryId": pb.YT_CATEGORY, "privacy": "public"}}
+                if ch == "youtube" else {"instagram": {"type": "reel", "shouldShareToFeed": True}})
+        res = pb.gql(tok, EDIT, {"i": {"id": p["id"], "text": text, "assets": [{"video": {"url": url}}], "metadata": meta,
+                                       "schedulingType": "automatic", "saveToDraft": False, "mode": "customScheduled", "dueAt": sys.argv[3]}})["editPost"]
+        print(ch, res)
+        if res.get("message"):
+            sys.exit(1)
     sys.exit(0)
 
 yt = posts(want["youtube"])
