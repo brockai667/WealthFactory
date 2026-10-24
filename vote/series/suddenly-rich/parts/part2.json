@@ -117,7 +117,7 @@
    "shot": "img06",
    "hud": [38000000, 6500000, 900],
    "day": 5,
-   "fx": ["calls", "buzz"],
+   "fx": ["buzz"],
    "emo": "shocked"
   },
   {
