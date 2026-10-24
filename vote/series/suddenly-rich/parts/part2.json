@@ -1,0 +1,195 @@
+{
+ "part": 2,
+ "title": "THE SUIT",
+ "vote": [
+  "SMILE",
+  "HIDE"
+ ],
+ "caption": "You claimed $38M. 38 minutes later, a stranger knew your name.\nSMILE or HIDE? Comment one word. Part 3 does what the comments pick.\n\n#SuddenlyRich #money #lottery #finance",
+ "hook": {
+  "kind": "recap",
+  "beats": 2,
+  "tag": "PART 2 · YOU CLAIMED IT",
+  "big": "$38,000,000",
+  "stamp": "THEY KNOW YOUR NAME",
+  "stamp_beat": 1
+ },
+ "cards": {
+  "fee": {
+   "kind": "tax",
+   "label": "THE 1% FEE",
+   "line": "Every single year",
+   "pct": 1,
+   "amount": 380000,
+   "left": 37620000,
+   "bar": ["", "YOU"]
+  },
+  "fiduciary": {
+   "kind": "public",
+   "label": "THE ONE QUESTION",
+   "line": "Fiduciary",
+   "arrow": "Must put you first",
+   "stamp": "BY LAW",
+   "foot": "A commission salesman gets paid when you buy"
+  },
+  "rule2": {
+   "kind": "rule",
+   "small": "RULE 2",
+   "text": "Team first.\nSign\nlater."
+  },
+  "end": {
+   "kind": "end",
+   "small": "SUDDENLY RICH · EVERY DOLLAR HAS A PRICE",
+   "big": "PART 3",
+   "accent": "YOU PICK",
+   "foot": "SMILE or HIDE? One word."
+  }
+ },
+ "beats": [
+  {
+   "text": "You claimed it. Thirty-eight million dollars, after tax.",
+   "shot": "img01",
+   "hud": [38000000, 6500000, 58],
+   "fx": ["handheld"],
+   "pause": 0.3,
+   "emo": "excited"
+  },
+  {
+   "text": "Thirty-eight minutes later, a stranger already knew your name.",
+   "shot": "img01",
+   "hud": [38000000, 6500000, 140],
+   "zoom": "in",
+   "pause": 0.55,
+   "emo": "shocked"
+  },
+  {
+   "text": "The man in the navy suit is back. With a contract.",
+   "shot": "img02",
+   "knock": "knock",
+   "fx": ["knock"],
+   "emo": "dramatic"
+  },
+  {
+   "text": "He'll manage everything. For just one percent a year.",
+   "shot": "img03",
+   "fx": ["dust"],
+   "emo": "sarcastic"
+  },
+  {
+   "text": "One percent of thirty-eight million? Three hundred eighty thousand dollars. Every year.",
+   "shot": "card:fee",
+   "sfx": "whoosh",
+   "emo": "shocked"
+  },
+  {
+   "text": "So you ask him one question. Are you a fiduciary?",
+   "shot": "img04",
+   "fx": ["handheld"],
+   "emo": "suspicious"
+  },
+  {
+   "text": "A fiduciary has a legal duty to put you first. A salesman on commission gets paid when you buy.",
+   "shot": "card:fiduciary",
+   "sfx": "whoosh",
+   "emo": "serious"
+  },
+  {
+   "text": "He smiles. He doesn't answer.",
+   "shot": "img04",
+   "zoom": "in",
+   "pause": 0.5,
+   "emo": "nervous"
+  },
+  {
+   "text": "Rule two. Build the team first. Sign later.",
+   "shot": "card:rule2",
+   "sfx": "impact",
+   "emo": "serious"
+  },
+  {
+   "text": "A lawyer. A tax pro. And an advisor paid a flat fee, not a cut.",
+   "shot": "img05",
+   "fx": ["dust"],
+   "emo": "serious"
+  },
+  {
+   "text": "Day five. Your mom calls. You're on the front page.",
+   "shot": "img06",
+   "hud": [38000000, 6500000, 900],
+   "day": 5,
+   "fx": ["calls", "buzz"],
+   "emo": "shocked"
+  },
+  {
+   "text": "The lottery wants a photo. You, holding a giant check.",
+   "shot": "img07",
+   "hud": [38000000, 6500000, 2400],
+   "fx": ["glow"],
+   "glow": [0.5, 0.45, "#fff2c4"],
+   "emo": "dramatic"
+  },
+  {
+   "text": "Smile, and the whole country sees your face. Hide, and they print your name anyway.",
+   "shot": "img07",
+   "zoom": "in",
+   "vote": true,
+   "sfx": "riser",
+   "emo": "ominous"
+  },
+  {
+   "text": "Smile or hide? One word. Part three does what the comments pick.",
+   "shot": "card:end",
+   "sfx": "impact",
+   "emo": "excited"
+  }
+ ],
+ "summary": "You claimed the prize: $38M after the 24% withholding, $6.5M more due in April. Within the hour strangers knew your name. The man in the navy suit came back with a contract for 1% a year ($380,000 a year); asked if he is a fiduciary, he smiled and did not answer. You did not sign: you are building a team first (lawyer, tax pro, flat-fee fiduciary advisor). Day five: you are on the front page and the lottery wants a photo with a giant check.",
+ "hud_end": [38000000, 6500000, 2400],
+ "lesson": "Ask every advisor if they are a fiduciary and how they are paid; 1% a year on $38M is $380,000. Build a team (lawyer, CPA, fee-only fiduciary) before signing anything.",
+ "note": "Napisal Claude 24.10. (Part 1 0 hlasov -> CLAIM). Hak recap: samostatny pre cudzieho divaka.",
+ "shots": {
+  "img01": {
+   "location": "A bright official lottery claim office lobby in the daytime: a long counter with a thick glass partition, a clerk behind the glass, blue plastic chairs, a ticket number machine, pale cold fluorescent light, a big window with a grey city street outside.",
+   "camera": "CAMERA: medium-wide shot at eye level from the side of the counter.",
+   "scene": "The character stands at the counter, pushing a thick envelope of signed forms under the glass to the clerk, his small lottery ticket on top. Behind him, through the big window, a blurry stranger on the street is already holding up a phone toward him. Mood: done, no way back, and somebody is already watching.",
+   "refs": ["char"]
+  },
+  "img02": {
+   "location": "doorway",
+   "camera": "CAMERA: over-the-shoulder shot from behind the character inside the apartment, looking out through the wide open front door.",
+   "scene": "In the bright yellow hallway stands a smiling stranger with the same round pale white head style but slicked-back black hair, an expensive navy suit, a red tie, holding up a thick stapled contract in one hand and a shiny gold pen in the other, a too-wide polite smile. In the foreground the character's back, mustard beanie and olive jacket in dark silhouette. Mood: he came back, and he came prepared.",
+   "refs": ["char"]
+  },
+  "img03": {
+   "location": "apartment",
+   "camera": "CAMERA: wide shot at standing eye level from the kitchenette, showing the couch area.",
+   "scene": "The man in the expensive navy suit with slicked-back black hair and a red tie sits comfortably on the worn grey couch, one arm spread along the backrest like he owns the place, his open leather briefcase on the coffee table full of folders. The character stands awkwardly to the side, holding a thick contract with both hands, looking down at it. Warm lamp light, rain on the window. Mood: a salesman too comfortable in your home.",
+   "refs": ["char"]
+  },
+  "img04": {
+   "location": "apartment",
+   "camera": "CAMERA: close-up over the character's shoulder, the man in the suit facing the camera in sharp focus.",
+   "scene": "The man in the expensive navy suit with slicked-back black hair and a red tie fills the frame, a frozen too-wide smile, eyebrows slightly raised, saying nothing. In the blurred foreground the edge of the character's mustard beanie and olive-green jacket shoulder. Dark room, one warm lamp light on the salesman's face, cold blue shadows. Mood: an answer that never comes.",
+   "refs": ["char"]
+  },
+  "img05": {
+   "location": "office",
+   "camera": "CAMERA: medium-wide shot at eye level from behind the desk, the character facing the camera.",
+   "scene": "The character sits on one side of a big wooden desk, calm and listening. Across from him, seen from behind and the side, three professionals in the same cartoon style with round pale white heads, no ears and no nose: a woman with round glasses and a dark blazer holding a folder, a bald man in a grey cardigan with a calculator, and an older woman in a beige suit with a notepad. Warm daylight from a tall window. Mood: finally, people on his side.",
+   "refs": ["char"]
+  },
+  "img06": {
+   "location": "mom_kitchen",
+   "camera": "CAMERA: medium shot at eye level, slightly from the side.",
+   "scene": "A different character in the same art style: the main character's mother, a cartoon woman with the same perfectly round pale white head with no ears and no nose, black dot eyes, round glasses, grey hair in a neat bun, a pink knitted cardigan over a floral blouse. She holds an open newspaper up in one hand, its front page showing a big blank photo rectangle and blank grey lines, and the beige landline phone to her ear with the other, mouth wide open in shock. She does NOT wear a beanie and does NOT wear the olive-green jacket; image 1 is only a reference for the art style and the head shape. The main character is not in this image.",
+   "refs": ["char"],
+   "no_character": true
+  },
+  "img07": {
+   "location": "A small press room at the lottery headquarters: a low stage with a dark blue backdrop covered in blank star shapes, two big studio lights on stands, three cameras on tripods facing the stage, a few empty chairs.",
+   "camera": "CAMERA: wide shot from the back of the room behind the cameras, looking at the stage.",
+   "scene": "On the stage stands a giant oversized blank cardboard check on an easel, completely blank with only empty lines, glowing under the bright studio lights. Next to the stage, half hidden behind the edge of the blue backdrop, the character peeks out, nervous, holding his beanie down with one hand. Mood: the spotlight is waiting for him.",
+   "refs": ["char"]
+  }
+ }
+}

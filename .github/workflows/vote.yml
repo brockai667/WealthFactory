@@ -27,6 +27,9 @@ on:
         description: "YT + IG o najblizsiu celu hodinu namiesto 10:00 (dobeh zmeskaneho dielu)"
         type: boolean
         default: false
+      hour:
+        description: "YT + IG o tejto hodine (Bratislava) namiesto 10:00, napr. 20"
+        default: ""
 
 permissions:
   contents: write
@@ -83,7 +86,7 @@ jobs:
           CLOUDFLARE_ACCOUNT_ID_3: ${{ secrets.CLOUDFLARE_ACCOUNT_ID_3 }}
           CLOUDFLARE_API_TOKEN_4: ${{ secrets.CLOUDFLARE_API_TOKEN_4 }}
           CLOUDFLARE_ACCOUNT_ID_4: ${{ secrets.CLOUDFLARE_ACCOUNT_ID_4 }}
-        run: python -u vote/tools/run.py ${{ inputs.force && '--force' || '' }} ${{ inputs.no_post && '--no-post' || '' }} ${{ (inputs.mode == 'manual' && '--manual') || (inputs.mode == 'buffer' && ' ') || '--hybrid' }} ${{ inputs.repost && format('--repost {0}', inputs.repost) || '' }} ${{ inputs.asap && '--asap' || '' }}
+        run: python -u vote/tools/run.py ${{ inputs.force && '--force' || '' }} ${{ inputs.no_post && '--no-post' || '' }} ${{ (inputs.mode == 'manual' && '--manual') || (inputs.mode == 'buffer' && ' ') || '--hybrid' }} ${{ inputs.repost && format('--repost {0}', inputs.repost) || '' }} ${{ inputs.asap && '--asap' || '' }} ${{ inputs.hour && format('--hour {0}', inputs.hour) || '' }}
 
       - name: Upload video
         if: always()

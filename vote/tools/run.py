@@ -71,8 +71,8 @@ def buffer_push(files, asap=False, first_comment=""):
     if asap:
         from zoneinfo import ZoneInfo
         pb.SLOT_HOURS = [(dt.datetime.now(ZoneInfo("Europe/Bratislava")).hour + 1) % 24]
-    else:
-        pb.SLOT_HOURS = [POST_HOUR]
+    else:   # --hour H = rucny beh na konkretnu hodinu (user 24.10.: Part 2 este dnes vecer)
+        pb.SLOT_HOURS = [int(sys.argv[sys.argv.index("--hour") + 1]) if "--hour" in sys.argv else POST_HOUR]
     due = pb.next_slots(1)[0]
     base_cfg = pb.load_cfg
     done = set()
@@ -129,9 +129,8 @@ def main():
             st["parts"][str(n - 1)] = prev
             save(STATE, st)
             print(f"Hlasy Part {n - 1}: {counts} -> {winner}")
-            if b.get("author") == "claude":   # user 20.10.: diely pise Claude podla vitaza, Groq nie
-                print(f"Part {n} este nie je napisany (autor = Claude, vitaz {winner}) - nic nezverejnujem.")
-                return
+            if b.get("author") == "claude":   # user 24.10.: "nech sa vzdy vyda video" -> bez Claude dielu pise Groq, seria nestoji
+                print(f"Part {n} od Clauda chyba (vitaz {winner}) - zalozne ho pise Groq.")
             import json
             if sh(PY, "tools/write_part.py", str(n), winner, "--votes", json.dumps(counts)):
                 sys.exit("autor zlyhal")
