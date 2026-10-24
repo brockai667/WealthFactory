@@ -1,6 +1,6 @@
 {
  "series": "suddenly-rich",
- "next_part": 2,
+ "next_part": 3,
  "parts": {
   "1": {
    "title": "THE TICKET",
@@ -20,6 +20,19 @@
    },
    "winner": "CLAIM",
    "video_id": "-AWFpmv6Sr4"
+  },
+  "2": {
+   "title": "THE SUIT",
+   "vote": [
+    "SMILE",
+    "HIDE"
+   ],
+   "posted_at": "2026-10-24T18:10:02.000Z",
+   "services": [
+    "instagram",
+    "tiktok-manual",
+    "youtube"
+   ]
   }
  },
  "archiv": [
