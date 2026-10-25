@@ -152,9 +152,15 @@ def main():
         spec["beats"][-1]["text"] = f"Part {nxt} drops tomorrow. Follow, so you don't miss what happens."
         spec["cards"]["end"]["foot"] = "Follow so you don't miss it.\nFind out what happens tomorrow."
         spec["cards"]["end"]["accent"] = "TOMORROW"   # "YOU PICK" bez hlasovania klame
+        ask = re.compile(r"[Cc]omment|One word|majority|\b(" + "|".join(map(re.escape, spec["vote"])) + r")\b")
         spec["vote"] = []
-        spec["caption"] = "\n".join(l if not re.search(r"Comment|One word", l) else f"Part {n + 1} drops tomorrow. Follow so you don't miss it."
-                                     for l in spec["caption"].split("\n"))
+        lines = []
+        for l in spec["caption"].split("\n"):   # vety s hlasovanim von, pribeh na tom istom riadku ostane (Groq Part 3)
+            if ask.search(l):
+                l = " ".join([s for s in re.split(r"(?<=[.?!])\s+", l) if not ask.search(s)]
+                             + [f"Part {n + 1} drops tomorrow. Follow so you don't miss it."])
+            lines.append(l)
+        spec["caption"] = "\n".join(lines)
     out = os.path.join(ROOT, "build", (fname or f"part{n}") + ("_novote" if novote else ""))
     if os.path.isdir(out):
         shutil.rmtree(out)
@@ -178,9 +184,9 @@ def main():
     tail = 2.6  # koncova karta dobehne
     ep = {k: spec[k] for k in ("series", "tagline", "part", "title", "vote", "hud_labels", "cards", "beats", "bubble", "hook") if k in spec}
     ep.update({"fps": 30, "duration": round(cur + tail, 2), "voice": "voice.mp3", "music": "music.mp3",
-               "music_gain": 0.16, "words": words})
+               "music_gain": 0 if novote else 0.16, "words": words})   # user 25.10.: TikTok bez hudby, zvuk prida v appke
     json.dump(ep, open(os.path.join(out, "episode.json"), "w", encoding="utf-8"), indent=1, ensure_ascii=False)
-    cap = spec["caption"] + "\n\n" + MUSIC_CREDIT + "\n"
+    cap = spec["caption"] + ("\n" if novote else "\n\n" + MUSIC_CREDIT + "\n")
     open(os.path.join(out, "caption.txt"), "w", encoding="utf-8").write(cap)
     print(f"hlas {cur:.1f}s, {len(words)} slov, video {ep['duration']}s")
 
