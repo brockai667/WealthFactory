@@ -51,7 +51,13 @@
     "instagram",
     "tiktok-manual",
     "youtube"
-   ]
+   ],
+   "votes": {
+    "ANON": 0,
+    "PUBLIC": 0
+   },
+   "winner": "ANON",
+   "video_id": "_nbSHKbjV7E"
   }
  },
  "archiv": [
