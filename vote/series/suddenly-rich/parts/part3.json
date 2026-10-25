@@ -1,0 +1,229 @@
+{
+ "title": "THE NAME",
+ "vote": [
+  "ANON",
+  "PUBLIC"
+ ],
+ "result_foot": "You chose SMILE, the cameras roll.",
+ "caption": "You grin for the giant check. The world now knows your face. Comment ANON or PUBLIC. The majority writes Part 4.\n\n#SuddenlyRich #money #lottery #finance #personalfinance",
+ "summary": "You smile for the photo, instantly becoming a headline. The lottery releases your name and photo, flooding you with callers and scammers. Your attention meter spikes. You learn that only a few states let winners stay anonymous, and even trusts can leak. Now you must decide whether to fight the exposure with a legal shield or lean into the fame.",
+ "hud_end": [
+  38000000,
+  6500000,
+  78
+ ],
+ "bubble": null,
+ "cards": {
+  "public": {
+   "kind": "public",
+   "label": "PROBLEM 1 · PUBLICITY",
+   "line": "Name released",
+   "arrow": "gets",
+   "stamp": "Media frenzy",
+   "foot": "Scammers love a known winner"
+  },
+  "rule3": {
+   "kind": "rule",
+   "small": "RULE 3",
+   "text": "Use a trust.\nHide your name.\nStay invisible."
+  },
+  "title": {
+   "kind": "title",
+   "small": "PART 3 · THE NAME",
+   "big": [
+    "EVERY",
+    "DOLLAR",
+    "HAS A"
+   ],
+   "accent": "PRICE"
+  },
+  "result": {
+   "kind": "result",
+   "label": "PART 2 · YOU VOTED",
+   "options": [
+    {
+     "name": "SMILE"
+    },
+    {
+     "name": "HIDE"
+    }
+   ],
+   "winner": 0,
+   "foot": "You chose SMILE, the cameras roll."
+  },
+  "end": {
+   "kind": "end",
+   "small": "SUDDENLY RICH · EVERY DOLLAR HAS A PRICE",
+   "big": "PART 4",
+   "accent": "TOMORROW",
+   "foot": "Comment ANON or PUBLIC.\nThe majority writes Part 4."
+  }
+ },
+ "shot_briefs": {
+  "img01": "apartment | extreme wide | you, nervous, holding check",
+  "img02": "street | low angle | reporter, flashbulbs, giant check",
+  "img03": "office | over the shoulder | advisor, laptop, contract",
+  "img04": "mom_kitchen | high angle | mom, coffee, concern",
+  "img05": "doorway | face close-up | you, forced smile",
+  "img06": "table | top-down hands | phone, dozens of missed calls"
+ },
+ "beats": [
+  {
+   "text": "You grin, giant check in hand, cameras flash.",
+   "shot": "img01",
+   "sfx": "whoosh",
+   "fx": []
+  },
+  {
+   "text": "You chose SMILE. The nation now knows you.",
+   "shot": "card:result",
+   "phase": 2,
+   "fx": []
+  },
+  {
+   "text": "Every dollar has a price.",
+   "shot": "card:title",
+   "sfx": "impact",
+   "fx": []
+  },
+  {
+   "text": "Problem one. Your name hits the press release.",
+   "shot": "img02",
+   "label": "PROBLEM 1",
+   "hud": [
+    38000000,
+    6500000,
+    30
+   ],
+   "fx": []
+  },
+  {
+   "text": "Problem two. Scammers start dialing nonstop.",
+   "shot": "img06",
+   "label": "PROBLEM 2",
+   "hud": [
+    38000000,
+    6500000,
+    55
+   ],
+   "fx": [
+    "rain"
+   ]
+  },
+  {
+   "text": "Only a handful of states let winners stay anonymous by law.",
+   "shot": "card:public",
+   "fx": []
+  },
+  {
+   "text": "Some let a trust claim the prize, but the trustee's name still shows up.",
+   "shot": "card:public",
+   "fx": []
+  },
+  {
+   "text": "Lotteries love photos; reporters and scammers read them like gossip.",
+   "shot": "img03",
+   "fx": [
+    "bubble"
+   ]
+  },
+  {
+   "text": "Day six. Your inbox explodes.",
+   "shot": "img04",
+   "day": 6,
+   "hud": [
+    38000000,
+    6500000,
+    70
+   ],
+   "fx": []
+  },
+  {
+   "text": "Rule three. Use a trust to stay private.",
+   "shot": "card:rule3",
+   "sfx": "impact",
+   "fx": []
+  },
+  {
+   "text": "Your mom calls, worries about the flood of calls.",
+   "shot": "img04",
+   "hud": [
+    38000000,
+    6500000,
+    78
+   ],
+   "fx": []
+  },
+  {
+   "text": "The advisor whispers, \"We can file a trust today. It costs a fee, not a cut.\"",
+   "shot": "img03",
+   "fx": []
+  },
+  {
+   "text": "Or you could lean into the fame, sell merch, ride the wave.",
+   "shot": "img05",
+   "fx": []
+  },
+  {
+   "text": "So what do you do? Hide your identity with a trust... or go public and monetize? Anon or public?",
+   "shot": "img02",
+   "vote": true,
+   "fx": []
+  },
+  {
+   "text": "Comment ANON or PUBLIC. The majority writes Part four.",
+   "shot": "card:end",
+   "fx": []
+  }
+ ],
+ "shots": {
+  "img01": {
+   "location": "apartment",
+   "camera": "CAMERA: extreme wide establishing shot from the hallway corner at low eye level, capturing the whole cramped kitchen, the flickering bulb, and the hero standing near the window holding a giant check.",
+   "scene": "Excited. The hero stands in the centre, trembling, clutching an oversized white check that shines under the single pendant lamp; his mustard beanie tilts, eyebrows raised, mouth forming a nervous grin. The cheap cream‑white fridge glows faintly, shadows crawl along the teal walls, and a soft night glow filters through the cracked window.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img02": {
+   "location": "street",
+   "camera": "CAMERA: low angle from ground level looking up at the hero on the quiet grey street, with a reporter beside him and flashbulbs exploding overhead.",
+   "scene": "Anxious. The hero stands on the curb, mustard beanie slightly askew, eyes wide, mouth slightly open as a reporter points a microphone at him. Bright camera flashes create white cones of light, illuminating the cold pavement and the pale brick façades. A distant fog drifts, while the hero’s white sneakers reflect the flash.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img03": {
+   "location": "office",
+   "camera": "CAMERA: over‑the‑shoulder view from just behind the hero’s left shoulder, focusing on the advisor at the oak desk, laptop screen glowing, contract papers spread.",
+   "scene": "Intriguing. A pale egg‑head advisor with a plain gray beanie sits at the heavy oak desk, eyebrows furrowed, mouth forming a whisper. The green desk lamp casts a focused pool of light on the contract, while the laptop screen shows abstract icons. Dark wood bookshelves line the walls, and the hero’s head is off‑frame, unseen.",
+   "refs": [],
+   "no_character": true
+  },
+  "img04": {
+   "location": "mom_kitchen",
+   "camera": "CAMERA: high angle looking down from above the kitchen table, capturing mom leaning over a steaming pot, her face creased with concern.",
+   "scene": "Worried. The mother, a round pale egg‑head with soft brown hair, wears a cozy cardigan and no mustard beanie or olive jacket. She holds a white mug, eyes narrowed, mouth pursed as she glances at a buzzing phone. Yellow‑flowered curtains filter warm evening light, and the old stove emits gentle steam.",
+   "refs": [],
+   "no_character": true
+  },
+  "img05": {
+   "location": "doorway",
+   "camera": "CAMERA: tight close‑up of the hero’s face in the narrow doorway, framing his eyes and forced smile against the dull teal wall and flickering bulb.",
+   "scene": "Determined. The hero’s round white head fills the frame, mustard‑yellow beanie snug, eyebrows raised, a forced grin stretching his simple mouth. The teal‑painted doorway behind him is dim, a cracked picture frame hangs left, and a single bulb flickers, casting a thin halo of light on his face.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img06": {
+   "location": "table",
+   "camera": "CAMERA: top‑down flat‑lay of the wooden square table, showing only the hero’s white hands amid a clutter of missed‑call icons and a phone.",
+   "scene": "Frustrated. Two white hands with four fingers each hover over a sleek black phone, scrolling through dozens of missed‑call bubbles in pale blue. A scattered pile of papers, a coffee mug with faint steam, and a small lamp’s warm glow create a bright circle amid dark corners of the table.",
+   "refs": [],
+   "hands_only": true
+  }
+ },
+ "part": 3,
+ "winner": "SMILE",
+ "lesson": "THE NAME"
+}

@@ -1,6 +1,6 @@
 {
  "series": "suddenly-rich",
- "next_part": 3,
+ "next_part": 4,
  "parts": {
   "1": {
    "title": "THE TICKET",
@@ -28,6 +28,25 @@
     "HIDE"
    ],
    "posted_at": "2026-10-24T18:10:02.000Z",
+   "services": [
+    "instagram",
+    "tiktok-manual",
+    "youtube"
+   ],
+   "votes": {
+    "SMILE": 0,
+    "HIDE": 0
+   },
+   "winner": "SMILE",
+   "video_id": "hpm4_23cYSM"
+  },
+  "3": {
+   "title": "THE NAME",
+   "vote": [
+    "ANON",
+    "PUBLIC"
+   ],
+   "posted_at": "2026-10-25T09:21:12.000Z",
    "services": [
     "instagram",
     "tiktok-manual",
