@@ -1,0 +1,229 @@
+{
+ "part": 4,
+ "title": "THE ASKS",
+ "vote": [
+  "BUY",
+  "NO"
+ ],
+ "caption": "Your cousin wants $200,000. \"I'll pay you back.\"\nBUY or NO? Comment one word. Part 5 does what the comments pick.\n\n#SuddenlyRich #money #lottery #finance",
+ "hook": {
+  "kind": "recap",
+  "beats": 2,
+  "tag": "PART 4 · YOU WENT PUBLIC",
+  "big": "$200,000?",
+  "stamp": "\"I'LL PAY YOU BACK\"",
+  "stamp_beat": 1
+ },
+ "cards": {
+  "handshake": {
+   "kind": "public",
+   "label": "THE HANDSHAKE LOAN",
+   "line": "Loan with no paper",
+   "arrow": "Gift that never comes back",
+   "stamp": "USUALLY",
+   "foot": "Family loans go wrong when nobody writes them down"
+  },
+  "limit": {
+   "kind": "rule",
+   "small": "2026 GIFT LIMIT",
+   "text": "$19,000\nper person,\nper year."
+  },
+  "form": {
+   "kind": "public",
+   "label": "GIVING MORE?",
+   "line": "Over $19,000",
+   "arrow": "One IRS form (709)",
+   "stamp": "NO TAX YET",
+   "foot": "Gift tax starts only after $15 million in lifetime gifts"
+  },
+  "rule4": {
+   "kind": "rule",
+   "small": "RULE 4",
+   "text": "Gift it,\nor write\nit down."
+  },
+  "end": {
+   "kind": "end",
+   "small": "SUDDENLY RICH · EVERY DOLLAR HAS A PRICE",
+   "big": "PART 5",
+   "accent": "YOU PICK",
+   "foot": "BUY or NO? One word."
+  }
+ },
+ "beats": [
+  {
+   "text": "You went public. Now everyone knows you have thirty-eight million.",
+   "shot": "img01",
+   "hud": [
+    38000000,
+    6500000,
+    78
+   ],
+   "fx": [
+    "handheld"
+   ],
+   "pause": 0.3,
+   "emo": "excited"
+  },
+  {
+   "text": "Cousin Mike is at your door. He needs two hundred thousand dollars.",
+   "shot": "img01",
+   "hud": [
+    38000000,
+    6500000,
+    95
+   ],
+   "zoom": "in",
+   "pause": 0.5,
+   "emo": "shocked"
+  },
+  {
+   "text": "For food trucks. He'll pay you back. Probably.",
+   "shot": "img02",
+   "fx": [
+    "dust"
+   ],
+   "emo": "sarcastic"
+  },
+  {
+   "text": "Then Mom calls. Just help him, honey. He's family.",
+   "shot": "img03",
+   "emo": "happy"
+  },
+  {
+   "text": "Careful. A loan nobody writes down is usually just a gift.",
+   "shot": "card:handshake",
+   "sfx": "whoosh",
+   "emo": "serious"
+  },
+  {
+   "text": "And gifts don't come back.",
+   "shot": "img04",
+   "fx": [
+    "rain"
+   ],
+   "pause": 0.45,
+   "emo": "ominous"
+  },
+  {
+   "text": "Gifts have a simple rule. Up to nineteen thousand dollars a year, per person. No paperwork.",
+   "shot": "card:limit",
+   "sfx": "impact",
+   "emo": "serious"
+  },
+  {
+   "text": "Give more, and you fill out one IRS form. Tax only starts after fifteen million in gifts.",
+   "shot": "card:form",
+   "sfx": "whoosh",
+   "emo": "serious"
+  },
+  {
+   "text": "So you write it down. Amount, interest, payback date. Mike signs.",
+   "shot": "img05",
+   "emo": "dramatic"
+  },
+  {
+   "text": "Rule four. Gift it, or write it down.",
+   "shot": "card:rule4",
+   "sfx": "impact",
+   "emo": "serious"
+  },
+  {
+   "text": "Day nine. Mom calls again. She found a house.",
+   "shot": "img06",
+   "hud": [
+    38000000,
+    6500000,
+    120
+   ],
+   "day": 9,
+   "emo": "happy"
+  },
+  {
+   "text": "Three hundred thousand. She's never asked you for anything.",
+   "shot": "img06",
+   "zoom": "in",
+   "emo": "serious"
+  },
+  {
+   "text": "Buy it, and the whole family lines up next. Say no, and that's your mom.",
+   "shot": "img07",
+   "zoom": "in",
+   "vote": true,
+   "sfx": "riser",
+   "emo": "ominous"
+  },
+  {
+   "text": "Buy or no? One word. Part five does what the comments pick.",
+   "shot": "card:end",
+   "sfx": "impact",
+   "emo": "excited"
+  }
+ ],
+ "summary": "You went public with your win. Cousin Mike asked for $200,000 for food trucks and Mom told you to help. You learned a handshake loan is usually a gift, gifts up to $19,000 a person a year need no paperwork, and above that you file IRS Form 709 but pay no gift tax until $15 million in lifetime gifts. You lent Mike the money on paper: amount, interest, payback date, his signature. Day nine: Mom found a $300,000 house and asked you to buy it.",
+ "hud_end": [
+  38000000,
+  6500000,
+  120
+ ],
+ "lesson": "Write family loans down or treat them as gifts; 2026 gift limit $19,000 per person per year, Form 709 above it, gift tax only after $15M lifetime.",
+ "note": "Napisal Claude 25.10. vopred v 2 verziach podla vitaza Part 3 (ANON/PUBLIC).",
+ "shots": {
+  "img01": {
+   "location": "doorway",
+   "camera": "CAMERA: medium shot from inside the apartment at eye level, looking at the open front door.",
+   "scene": "Cousin Mike, a different character in the same cartoon style: the same perfectly round smooth pale white egg-shaped head with NO ears and NO nose, small black dot eyes, a big eager grin, a red baseball cap worn backwards, a bright orange hoodie, grey sweatpants. He does NOT wear a beanie and does NOT wear the olive-green jacket. He stands in the bright yellow hallway in the open doorway, holding up a big rolled paper poster with both hands like a trophy, leaning in with an overexcited grin. The main character stands in the foreground at the left edge, seen from behind, one hand still on the door handle. Mood: here comes trouble.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img02": {
+   "location": "apartment",
+   "camera": "CAMERA: medium-wide shot at eye level from the kitchenette, showing the small table.",
+   "scene": "Cousin Mike, a different character in the same cartoon style: the same perfectly round smooth pale white egg-shaped head with NO ears and NO nose, small black dot eyes, a big eager grin, a red baseball cap worn backwards, a bright orange hoodie, grey sweatpants. He does NOT wear a beanie and does NOT wear the olive-green jacket. He leans over the small table, spreading out a big paper with a hand-drawn colorful food truck sketch (only drawings and blank lines, no writing), pointing at it with both hands, talking fast. The main character sits across the table, arms crossed, one eyebrow raised, unimpressed. Warm lamp light, rain on the window.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img03": {
+   "location": "mom_kitchen",
+   "camera": "CAMERA: medium close-up at eye level.",
+   "scene": "A different character in the same art style: the main character's mother, a cartoon woman with the same perfectly round pale white head with no ears and no nose, black dot eyes, round glasses, grey hair in a neat bun, a pink knitted cardigan over a floral blouse. She does NOT wear a beanie and does NOT wear the olive-green jacket; image 1 is only a reference for the art style and the head shape. She holds the beige landline phone to her ear with both hands, head tilted, a soft pleading smile, eyebrows raised kindly. A pot steams on the stove behind her. The main character is not in this image.",
+   "refs": [
+    "char"
+   ],
+   "no_character": true
+  },
+  "img04": {
+   "location": "street",
+   "camera": "CAMERA: wide shot at street level from the sidewalk, long perspective down the wet road.",
+   "scene": "Evening rain. A bright orange food truck drives away down the wet street, already small in the distance, red tail lights glowing and reflecting on the asphalt. In the foreground the main character stands on the sidewalk seen from behind, hands in his jacket pockets, watching it go. Streetlights, puddles, deep blue dusk. Mood: that money is gone.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img05": {
+   "location": "table",
+   "camera": "CAMERA: flat-lay composition seen from directly above at 90 degrees, the wooden tabletop fills the entire frame.",
+   "scene": "On the tabletop lies one neat typed page with only blank grey lines and an empty signature line at the bottom. From the bottom edge a white cartoon hand in an olive-green jacket sleeve slides the page forward; from the top edge a white cartoon hand in a bright orange hoodie sleeve signs it with a blue pen, the signature only an abstract squiggle. A calculator and the chipped white mug at the side. Warm lamp light circle in the middle, dark edges. Only these two hands, no faces.",
+   "refs": [],
+   "no_character": true
+  },
+  "img06": {
+   "location": "mom_kitchen",
+   "camera": "CAMERA: medium shot at eye level, slightly from the side.",
+   "scene": "A different character in the same art style: the main character's mother, a cartoon woman with the same perfectly round pale white head with no ears and no nose, black dot eyes, round glasses, grey hair in a neat bun, a pink knitted cardigan over a floral blouse. She does NOT wear a beanie and does NOT wear the olive-green jacket; image 1 is only a reference for the art style and the head shape. She sits at her small kitchen table holding a glossy real-estate flyer with a big photo of a small white house with a porch and a little garden (no text on it), looking at it with a hopeful, shy smile, the landline phone tucked between her ear and shoulder. Warm evening light. The main character is not in this image.",
+   "refs": [
+    "char"
+   ],
+   "no_character": true
+  },
+  "img07": {
+   "location": "street",
+   "camera": "CAMERA: wide shot from across the quiet suburban street at eye level.",
+   "scene": "Golden sunset. A small white house with a porch, a little garden and a picket fence. On the sidewalk in front of it stand the main character and his mother side by side, seen from behind, both looking at the house. His mother is, a cartoon woman with the same perfectly round pale white head with no ears and no nose, black dot eyes, round glasses, grey hair in a neat bun, a pink knitted cardigan over a floral blouse. She does NOT wear a beanie and does NOT wear the olive-green jacket; image 1 is only a reference for the art style and the head shape. Long warm shadows. Mood: a big, quiet decision.",
+   "refs": [
+    "char"
+   ]
+  }
+ }
+}

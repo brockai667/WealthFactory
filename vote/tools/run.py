@@ -129,11 +129,15 @@ def main():
             st["parts"][str(n - 1)] = prev
             save(STATE, st)
             print(f"Hlasy Part {n - 1}: {counts} -> {winner}")
-            if b.get("author") == "claude":   # user 24.10.: "nech sa vzdy vyda video" -> bez Claude dielu pise Groq, seria nestoji
+            pre = part_path(n).with_name(f"part{n}_{winner}.json")   # Claude pise diel dopredu v oboch verziach
+            if pre.exists():
+                shutil.copy(pre, part_path(n))
+                print(f"Part {n}: verzia {winner} od Clauda")
+            else:   # user 24.10.: "nech sa vzdy vyda video" -> bez Claude dielu pise Groq, seria nestoji
                 print(f"Part {n} od Clauda chyba (vitaz {winner}) - zalozne ho pise Groq.")
-            import json
-            if sh(PY, "tools/write_part.py", str(n), winner, "--votes", json.dumps(counts)):
-                sys.exit("autor zlyhal")
+                import json
+                if sh(PY, "tools/write_part.py", str(n), winner, "--votes", json.dumps(counts)):
+                    sys.exit("autor zlyhal")
     rc = sh(PY, "tools/gen_images.py", str(n))
     if rc == 3:
         print("Cloudflare denny limit - obrazky sa dorobia zajtra, diel ide potom.")
