@@ -1,6 +1,6 @@
 {
  "series": "suddenly-rich",
- "next_part": 5,
+ "next_part": 6,
  "parts": {
   "1": {
    "title": "THE TICKET",
@@ -77,6 +77,19 @@
    },
    "winner": "NO",
    "video_id": "1LIY34VskEs"
+  },
+  "5": {
+   "title": "THE STATE",
+   "vote": [
+    "PAY",
+    "IGNORE"
+   ],
+   "posted_at": "2026-10-27T18:03:40.000Z",
+   "services": [
+    "instagram",
+    "tiktok-manual",
+    "youtube"
+   ]
   }
  },
  "archiv": [
