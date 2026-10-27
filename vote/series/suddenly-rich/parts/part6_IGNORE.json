@@ -1,0 +1,205 @@
+{
+ "part": 6,
+ "title": "THE SCAM",
+ "vote": [
+  "SPLURGE",
+  "SAVE"
+ ],
+ "caption": "\"The state\" wanted $48,000 today. You hung up. Then they called your mom.\nSPLURGE or SAVE? Comment one word. Part 7 does what the comments pick.\n\n#SuddenlyRich #money #lottery #finance",
+ "hook": {
+  "kind": "recap",
+  "beats": 2,
+  "tag": "PART 6 · YOU HUNG UP",
+  "big": "$48,000",
+  "stamp": "NOT SENT",
+  "stamp_beat": 1
+ },
+ "cards": {
+  "free": {
+   "kind": "public",
+   "label": "PAY TO GET YOUR PRIZE?",
+   "line": "Fee up front",
+   "arrow": "Scam",
+   "stamp": "ALWAYS",
+   "foot": "Real prizes are free (FTC)"
+  },
+  "where": {
+   "kind": "public",
+   "label": "WHERE REAL TAX GOES",
+   "line": "Your tax bill",
+   "arrow": "IRS and your state",
+   "stamp": "NEVER A STRANGER",
+   "foot": "No agent, no caller, no wire to a person"
+  },
+  "rule6": {
+   "kind": "rule",
+   "small": "RULE 6",
+   "text": "Real money\nnever asks\nfor money\nfirst."
+  },
+  "end": {
+   "kind": "end",
+   "small": "SUDDENLY RICH · EVERY DOLLAR HAS A PRICE",
+   "big": "PART 7",
+   "accent": "YOU PICK",
+   "foot": "SPLURGE or SAVE? One word."
+  }
+ },
+ "beats": [
+  {
+   "text": "You hung up. Your hands are still shaking.",
+   "shot": "img01",
+   "hud": [
+    38000000,
+    13900000,
+    160
+   ],
+   "fx": [
+    "handheld"
+   ],
+   "pause": 0.3,
+   "emo": "serious"
+  },
+  {
+   "text": "You call your tax pro instead. On her real number.",
+   "shot": "img01",
+   "zoom": "in",
+   "pause": 0.4,
+   "emo": "serious"
+  },
+  {
+   "text": "She almost laughs. The state doesn't call for money. It sends letters.",
+   "shot": "img02",
+   "emo": "serious"
+  },
+  {
+   "text": "If you have to pay to get your prize, it's a scam. Every time.",
+   "shot": "card:free",
+   "sfx": "whoosh",
+   "emo": "serious"
+  },
+  {
+   "text": "Real taxes go to the IRS and your state. Never to a stranger on the phone.",
+   "shot": "card:where",
+   "sfx": "impact",
+   "emo": "serious"
+  },
+  {
+   "text": "How did they find you? Cousin Mike posted his food truck. Tagged you.",
+   "shot": "img03",
+   "emo": "sarcastic"
+  },
+  {
+   "text": "Scammers read every press release and every post. New money is easy to spot.",
+   "shot": "img03",
+   "zoom": "in",
+   "emo": "serious"
+  },
+  {
+   "text": "Next day, Mom calls. She won a car! Delivery is just nine hundred dollars. In gift cards.",
+   "shot": "img04",
+   "emo": "happy"
+  },
+  {
+   "text": "You get there before she pays.",
+   "shot": "img04",
+   "zoom": "in",
+   "pause": 0.4,
+   "emo": "dramatic"
+  },
+  {
+   "text": "Rule six. Real money never asks for money first.",
+   "shot": "card:rule6",
+   "sfx": "impact",
+   "emo": "serious"
+  },
+  {
+   "text": "Day fourteen. You're tired of feeling poor with thirty-eight million.",
+   "shot": "img05",
+   "day": 14,
+   "hud": [
+    38000000,
+    13900000,
+    170
+   ],
+   "emo": "dramatic"
+  },
+  {
+   "text": "A dealer smiles. Four hundred thousand. Today only.",
+   "shot": "img05",
+   "zoom": "in",
+   "emo": "sarcastic"
+  },
+  {
+   "text": "Splurge, and finally feel rich. Or save, and stay the guy in the old sedan.",
+   "shot": "img06",
+   "vote": true,
+   "sfx": "riser",
+   "emo": "ominous"
+  },
+  {
+   "text": "Splurge or save? One word. Part seven does what the comments pick.",
+   "shot": "card:end",
+   "sfx": "impact",
+   "emo": "excited"
+  }
+ ],
+ "summary": "A caller posing as the State Tax Office demanded $48,000; you hung up and called your tax pro on her real number. She explained the state sends letters, not demands by phone. You learned real prizes are free, anyone asking a fee up front is a scammer (FTC), and real taxes go only to the IRS and the state. The scammers found you because cousin Mike posted his new food truck and tagged you. Next they called Mom: she 'won a car' and only needed $900 in gift cards for delivery; you got there before she paid. Day fourteen: tired of feeling poor, you stand in a car showroom in front of a $400,000 sports car, 'today only'.",
+ "hud_end": [
+  38000000,
+  13900000,
+  170
+ ],
+ "lesson": "Real prizes are free; any fee up front is a scam (FTC). Real taxes go only to the IRS and the state, never to a caller. Scammers watch press releases and social media; 'recovery' agencies that charge a fee are the second scam.",
+ "note": "Napisal Claude 27.10. vopred v 2 verziach podla vitaza Part 5 (PAY/IGNORE).",
+ "shots": {
+  "img01": {
+   "location": "apartment",
+   "camera": "CAMERA: medium close-up at eye level at the small wooden table.",
+   "scene": "Night. The main character sits at the small table under the brass pendant lamp, having just put his smartphone face down on the table, his white hand still on it, trembling slightly, eyes wide, breathing out. Rain on the dark window behind him, distant city lights.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img02": {
+   "location": "office",
+   "camera": "CAMERA: medium shot at eye level across the desk.",
+   "scene": "A different character in the same cartoon style: a calm middle-aged woman tax professional with the same perfectly round smooth pale white egg-shaped head with NO ears and NO nose, small black dot eyes, a short dark bob haircut, thin black-rimmed glasses, a charcoal blazer over a white blouse. She does NOT wear a beanie and does NOT wear the olive-green jacket. She sits behind the oak desk holding a desk phone receiver to her ear, a small amused smile, shaking her head slightly. The main character sits in the foreground at the left edge, seen from behind over his shoulder, wearing his mustard-yellow knit beanie and olive-green jacket, leaning forward, relieved. Green desk lamp light.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img03": {
+   "location": "street",
+   "camera": "CAMERA: medium shot at eye level on the sidewalk.",
+   "scene": "Cousin Mike, a different character in the same cartoon style: the same perfectly round smooth pale white egg-shaped head with NO ears and NO nose, small black dot eyes, a big eager grin, a red baseball cap worn backwards, a bright orange hoodie, grey sweatpants. He does NOT wear a beanie and does NOT wear the olive-green jacket. He stands in front of a shiny bright orange food truck with a blank side panel, holding his phone up at arm's length for a selfie, making a peace sign, grinning hugely. Bright cold morning light. The main character is not in this image.",
+   "refs": [
+    "char"
+   ],
+   "no_character": true
+  },
+  "img04": {
+   "location": "mom_kitchen",
+   "camera": "CAMERA: medium shot at eye level.",
+   "scene": "The main character's mother, a cartoon woman with the same perfectly round pale white head with no ears and no nose, black dot eyes, round glasses, grey hair in a neat bun, a pink knitted cardigan over a floral blouse. She does NOT wear a beanie and does NOT wear the olive-green jacket. She stands at her kitchen counter holding a small fan of colorful blank gift cards, smiling happily, the beige landline phone tucked between ear and shoulder. In the open kitchen doorway behind her the main character has just rushed in, out of breath, one hand raised: stop. Warm evening light.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img05": {
+   "location": "SETTING: a bright luxury car showroom with a glossy white floor, tall glass walls, spotlights from the ceiling, potted palm plants.",
+   "camera": "CAMERA: wide shot at eye level.",
+   "scene": "In the center a gleaming low red sports car on a slowly turning platform under spotlights, no badges or logos. The main character stands next to it with his hands in his jacket pockets, looking at it with wide, tempted eyes. Beside him a different character in the same cartoon style: a slick car dealer with the same perfectly round smooth pale white egg-shaped head with NO ears and NO nose, small black dot eyes, slicked-back black hair, a shiny grey suit and a big toothy smile, one arm spread toward the car. The dealer does NOT wear a beanie and does NOT wear the olive-green jacket.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img06": {
+   "location": "car",
+   "camera": "CAMERA: medium shot from the passenger seat at night.",
+   "scene": "The main character sits in his old worn beige sedan in a parking lot, both hands on the cracked steering wheel, staring through the rain-speckled windshield at a brightly lit glass car showroom across the street where a red sports car glows under spotlights. His face is torn, lips pressed together. The pine-tree air freshener swings on the mirror.",
+   "refs": [
+    "char"
+   ]
+  }
+ }
+}
