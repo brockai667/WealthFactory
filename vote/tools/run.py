@@ -57,6 +57,22 @@ def release(n, title, od, mp4s):
         rc = sh("gh", "release", "create", tag, *assets, "--title", title, "--notes-file", str(notes), cwd=REPO)
     if rc:
         sys.exit("GitHub Release zlyhal")
+    tiktok_feed(n, title, tag, mp4s[0], caption)
+
+
+def tiktok_feed(n, title, tag, mp4, text):
+    """Zaznam pre Android appku TikTokNahravac (session 3#, 27.10.): cita verejny vote/tiktok.json
+    z raw.githubusercontent.com a dielu nahra sama na @wealth_mindset34. due = 18:00 Bratislava."""
+    import json
+    feed_f = VOTE / "tiktok.json"
+    feed = json.loads(feed_f.read_text(encoding="utf-8")) if feed_f.exists() else {"episodes": {}}
+    due = now().replace(hour=17, minute=0, second=0, microsecond=0)
+    if due < now():
+        due = now()
+    feed["episodes"][str(n)] = {"id": tag, "title": title, "text": text,
+                                "video": f"https://github.com/brockai667/WealthFactory/releases/download/{tag}/{mp4}",
+                                "due": due.isoformat(timespec="seconds")}
+    feed_f.write_text(json.dumps(feed, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
 def buffer_push(files, asap=False, first_comment=""):

@@ -1,0 +1,234 @@
+{
+ "part": 5,
+ "title": "THE STATE",
+ "vote": [
+  "PAY",
+  "IGNORE"
+ ],
+ "caption": "Moving to Florida won't save you. And now \"the state\" is calling.\nPAY or IGNORE? Comment one word. Part 6 does what the comments pick.\n\n#SuddenlyRich #money #lottery #finance",
+ "hook": {
+  "kind": "recap",
+  "beats": 2,
+  "tag": "PART 5 · YOU SAID NO",
+  "big": "$7,400,000",
+  "stamp": "STILL OWED",
+  "stamp_beat": 1
+ },
+ "cards": {
+  "zero": {
+   "kind": "public",
+   "label": "LOTTERY WIN, STATE TAX",
+   "line": "Florida, Texas, Washington...",
+   "arrow": "$0 state tax",
+   "stamp": "7 STATES",
+   "foot": "Also Tennessee, Wyoming, South Dakota, New Hampshire"
+  },
+  "ny": {
+   "kind": "bracket",
+   "label": "PROBLEM 5 · THE STATE",
+   "line": "New York top rate",
+   "pct": 10.9,
+   "owe": 5450000,
+   "stamp": "+ CITY TAX"
+  },
+  "move": {
+   "kind": "public",
+   "label": "MOVE TO FLORIDA?",
+   "line": "Move after you win",
+   "arrow": "Same tax bill",
+   "stamp": "TOO LATE",
+   "foot": "The prize is taxed where and when you won it"
+  },
+  "rule5": {
+   "kind": "rule",
+   "small": "RULE 5",
+   "text": "Know your\nstate's cut\nbefore you\nspend."
+  },
+  "end": {
+   "kind": "end",
+   "small": "SUDDENLY RICH · EVERY DOLLAR HAS A PRICE",
+   "big": "PART 6",
+   "accent": "YOU PICK",
+   "foot": "PAY or IGNORE? One word."
+  }
+ },
+ "beats": [
+  {
+   "text": "You said no to the house. Mom said, that's fine, honey. Then she hung up first.",
+   "shot": "img01",
+   "hud": [
+    38000000,
+    6500000,
+    120
+   ],
+   "fx": [
+    "handheld"
+   ],
+   "pause": 0.3,
+   "emo": "serious"
+  },
+  {
+   "text": "She never hangs up first.",
+   "shot": "img01",
+   "zoom": "in",
+   "pause": 0.5,
+   "emo": "serious"
+  },
+  {
+   "text": "Day ten. Your tax pro slides one page across her desk.",
+   "shot": "img02",
+   "day": 10,
+   "emo": "serious"
+  },
+  {
+   "text": "The IRS already took its cut. The state hasn't. Yet.",
+   "shot": "img03",
+   "fx": [
+    "dust"
+   ],
+   "pause": 0.4,
+   "emo": "ominous"
+  },
+  {
+   "text": "In seven states, a lottery win has no state income tax. Florida. Texas. Washington.",
+   "shot": "card:zero",
+   "sfx": "whoosh",
+   "emo": "serious"
+  },
+  {
+   "text": "You don't live in one. You live in New York.",
+   "shot": "img04",
+   "fx": [
+    "rain"
+   ],
+   "emo": "sarcastic"
+  },
+  {
+   "text": "New York takes up to ten point nine percent. That's five point four million.",
+   "shot": "card:ny",
+   "sfx": "impact",
+   "emo": "serious"
+  },
+  {
+   "text": "And the city adds almost four percent more. About seven point four million, all together.",
+   "shot": "img05",
+   "hud": [
+    38000000,
+    13900000,
+    130
+   ],
+   "zoom": "in",
+   "emo": "shocked"
+  },
+  {
+   "text": "Your first idea: drive to Florida tonight.",
+   "shot": "img06",
+   "emo": "sarcastic"
+  },
+  {
+   "text": "Too late. The prize is taxed where you won it. Moving now doesn't erase the bill.",
+   "shot": "card:move",
+   "sfx": "whoosh",
+   "emo": "serious"
+  },
+  {
+   "text": "Rule five. Know your state's cut before you spend a dollar.",
+   "shot": "card:rule5",
+   "sfx": "impact",
+   "emo": "serious"
+  },
+  {
+   "text": "That night, your phone rings. State Tax Office. They know your prize, your address, your bill.",
+   "shot": "img07",
+   "hud": [
+    38000000,
+    13900000,
+    160
+   ],
+   "fx": [
+    "rain"
+   ],
+   "emo": "ominous"
+  },
+  {
+   "text": "You underpaid, they say. Send forty-eight thousand today, or your prize gets frozen.",
+   "shot": "img07",
+   "zoom": "in",
+   "vote": true,
+   "sfx": "riser",
+   "emo": "ominous"
+  },
+  {
+   "text": "Pay or ignore? One word. Part six does what the comments pick.",
+   "shot": "card:end",
+   "sfx": "impact",
+   "emo": "excited"
+  }
+ ],
+ "summary": "You said no to buying Mom's $300,000 house; she said it was fine but hung up first. Day ten: your tax pro showed you the state bill. Seven states (Florida, Texas, Washington, Tennessee, Wyoming, South Dakota, New Hampshire) have no state tax on lottery wins, but you live in New York: up to 10.9% state ($5.4M) plus almost 4% city, about $7.4M on the $50M cash prize, so tax due is now about $13.9M. Moving to Florida after the win does not erase the bill. That night a caller from the 'State Tax Office' who knew your prize, address and bill demanded $48,000 today or your prize gets frozen.",
+ "hud_end": [
+  38000000,
+  13900000,
+  160
+ ],
+ "lesson": "State tax on lottery wins depends on where you live and win: 7 states charge nothing, New York up to 10.9% plus NYC up to 3.876%; moving after the win does not erase the bill.",
+ "note": "Napisal Claude 27.10. pre vitaza NO (Part 4). Nahradza Groq verziu MOVE/STAY (zla premisa), ta je v parts/_archiv/part5_groq.json.",
+ "shots": {
+  "img01": {
+   "location": "mom_kitchen",
+   "camera": "CAMERA: medium close-up at eye level, slightly from the side.",
+   "scene": "A different character in the same art style: the main character's mother, a cartoon woman with the same perfectly round pale white head with no ears and no nose, black dot eyes, round glasses, grey hair in a neat bun, a pink knitted cardigan over a floral blouse. She does NOT wear a beanie and does NOT wear the olive-green jacket; image 1 is only a reference for the art style and the head shape. She has just hung the beige landline phone back on the wall, her hand still resting on it, looking down with a small sad smile, eyes lowered. A glossy flyer of a small white house lies face down on the counter. The pot on the stove no longer steams. Dim evening light. The main character is not in this image.",
+   "refs": [
+    "char"
+   ],
+   "no_character": true
+  },
+  "img02": {
+   "location": "office",
+   "camera": "CAMERA: medium shot at eye level across the desk.",
+   "scene": "A different character in the same cartoon style: a calm middle-aged woman tax professional with the same perfectly round smooth pale white egg-shaped head with NO ears and NO nose, small black dot eyes, a short dark bob haircut, thin black-rimmed glasses, a charcoal blazer over a white blouse. She does NOT wear a beanie and does NOT wear the olive-green jacket. She sits behind the oak desk and slides one single page across it with two fingers, looking straight at the viewer, serious. The main character sits in the foreground at the left edge, seen from behind over his shoulder. Green desk lamp light.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img03": {
+   "location": "table",
+   "camera": "CAMERA: flat-lay composition seen from directly above at 90 degrees, the tabletop fills the entire frame.",
+   "scene": "One typed page with only blank grey lines lies in the center; near the bottom one line is circled twice in thick red pen. A red pen lies across the corner, a calculator and the chipped white mug at the side. A white cartoon hand in an olive-green jacket sleeve rests flat next to the page, fingers tense. Warm lamp light circle in the middle, dark edges. Only this one hand, no faces.",
+   "refs": [],
+   "no_character": true
+  },
+  "img04": {
+   "location": "street",
+   "camera": "CAMERA: wide shot at street level, long perspective down a busy avenue.",
+   "scene": "A big rainy American city at dusk: tall dark skyscrapers, glowing windows, yellow taxi cabs with blank roofs, steam rising from a street grate, wet asphalt reflecting red and gold lights. The main character stands in the foreground on the sidewalk, seen from the side, collar up, looking up at the towers. No readable signs anywhere.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img05": {
+   "location": "office",
+   "camera": "CAMERA: close-up of the main character at eye level from across the desk.",
+   "scene": "The main character sits in front of the oak desk, frozen, both hands gripping the edge of the desk, eyebrows shot up, mouth a small round O, one bead of sweat on his round head. The single page lies in front of him. Green desk lamp light from the side, dark shelves behind him.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img06": {
+   "location": "car",
+   "camera": "CAMERA: medium shot from the passenger seat, looking at the driver.",
+   "scene": "The main character sits at the wheel of the old beige sedan at night, both hands on the steering wheel, a determined look, a folded paper road map with only colored shapes and lines (no writing) open on the passenger seat. Through the rain-speckled windshield the gas station canopy glows warm. The engine is running, the dashboard lights on.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img07": {
+   "location": "apartment",
+   "camera": "CAMERA: medium shot at eye level from the kitchenette.",
+   "scene": "Late night. The main character sits at the small wooden table under the brass pendant lamp, holding a smartphone to his ear with one hand, the other hand flat on the table, frozen, eyes wide, listening. The phone glows with a plain blank screen. Rain streaks the dark window behind him, distant city lights. The rest of the apartment is in deep shadow. Mood: something is wrong.",
+   "refs": [
+    "char"
+   ]
+  }
+ }
+}

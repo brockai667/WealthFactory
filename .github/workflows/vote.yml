@@ -105,6 +105,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           rm -f config.json
-          git add vote/state.json vote/series pushed.json 2>/dev/null || true
+          git add vote/state.json vote/series vote/tiktok.json pushed.json 2>/dev/null || true
           git commit -m "vote: daily run $(date -u +%F)" || echo "no changes"
           git push || echo "nothing to push"

@@ -1,0 +1,248 @@
+{
+ "title": "THE STATE",
+ "vote": [
+  "MOVE",
+  "STAY"
+ ],
+ "result_foot": "You said no, you keep the house off the table.",
+ "caption": "You refused Mom’s house. Now the tax man knocks. Comment MOVE or STAY. The majority writes Part 6.\n\n#SuddenlyRich #money #lottery #finance #personalfinance",
+ "summary": "You turned Mom down, keeping the cash untouched but the state tax question looms. Viewers learn that where you live decides how much of the jackpot disappears. A choice appears: flee to a tax‑free state or stay and face the bill.",
+ "hud_end": [
+  38000000,
+  6500000,
+  85
+ ],
+ "bubble": null,
+ "cards": {
+  "tax_state": {
+   "kind": "tax",
+   "label": "PROBLEM 1 · STATE TAX",
+   "line": "Your state takes a cut",
+   "pct": 10,
+   "amount": 3800000,
+   "left": 34200000,
+   "bar": [
+    "STATE",
+    "YOU"
+   ]
+  },
+  "rule6": {
+   "kind": "rule",
+   "small": "RULE 6",
+   "text": "Know where you live.\nState tax bites.\nPick wisely."
+  },
+  "title": {
+   "kind": "title",
+   "small": "PART 5 · THE STATE",
+   "big": [
+    "EVERY",
+    "DOLLAR",
+    "HAS A"
+   ],
+   "accent": "PRICE"
+  },
+  "result": {
+   "kind": "result",
+   "label": "PART 4 · YOU VOTED",
+   "options": [
+    {
+     "name": "BUY"
+    },
+    {
+     "name": "NO"
+    }
+   ],
+   "winner": 1,
+   "foot": "You said no, you keep the house off the table."
+  },
+  "end": {
+   "kind": "end",
+   "small": "SUDDENLY RICH · EVERY DOLLAR HAS A PRICE",
+   "big": "PART 6",
+   "accent": "TOMORROW",
+   "foot": "Comment MOVE or STAY.\nThe majority writes Part 6."
+  }
+ },
+ "shot_briefs": {
+  "img01": "apartment | extreme wide | you, tense, holding lottery ticket",
+  "img02": "doorway | low angle | mom, hopeful, holding house brochure",
+  "img03": "street | high angle | you, walking, rain slick pavement",
+  "img04": "office | over the shoulder | advisor, smug, glossy brochure",
+  "img05": "car | top‑down hands | you, gripping steering wheel, map of states",
+  "img06": "mom_kitchen | face close‑up | mom, worried, coffee mug",
+  "img07": "table | macro | paperwork, red pen, tax form",
+  "img08": "apartment | through a window | you, silhouetted, city lights"
+ },
+ "beats": [
+  {
+   "text": "You turned Mom’s offer down, cash still sits at thirty‑eight million.",
+   "shot": "img01",
+   "sfx": "whoosh",
+   "fx": []
+  },
+  {
+   "text": "You chose NO. Most of you said you’d keep the house off the table.",
+   "shot": "card:result",
+   "phase": 2,
+   "fx": []
+  },
+  {
+   "text": "Every dollar has a price.",
+   "shot": "card:title",
+   "fx": [
+    "glow"
+   ],
+   "glow": [
+    0.5,
+    0.1,
+    "#ffdd00"
+   ]
+  },
+  {
+   "text": "Problem one. Your state takes a slice of the winnings.",
+   "shot": "card:tax_state",
+   "label": "PROBLEM 1",
+   "hud": [
+    38000000,
+    10300000,
+    80
+   ],
+   "fx": []
+  },
+  {
+   "text": "In New York that slice is ten point nine percent, plus three point eight seven six percent city tax.",
+   "shot": "img02",
+   "label": "PROBLEM 2",
+   "fx": []
+  },
+  {
+   "text": "That means roughly three point eight million more to the state, leaving you with thirty‑four point two million.",
+   "shot": "img03",
+   "hud": [
+    34200000,
+    10300000,
+    80
+   ],
+   "fx": []
+  },
+  {
+   "text": "Rule six. Know where you live. State tax bites.",
+   "shot": "card:rule6",
+   "sfx": "impact",
+   "fx": []
+  },
+  {
+   "text": "Day eleven. You stare at a map, rain pattering on the window.",
+   "shot": "img04",
+   "day": 11,
+   "fx": [
+    "rain"
+   ]
+  },
+  {
+   "text": "Problem three. Moving costs money, paperwork, and time. Staying means paying the tax now.",
+   "shot": "img05",
+   "label": "PROBLEM 3",
+   "fx": []
+  },
+  {
+   "text": "The advisor whispers about a “tax‑friendly” state, but the paperwork is a maze.",
+   "shot": "img06",
+   "fx": [
+    "dust"
+   ]
+  },
+  {
+   "text": "Problem four. Your attention meter spikes as the tax deadline looms.",
+   "shot": "img07",
+   "hud": [
+    34200000,
+    10300000,
+    90
+   ],
+   "fx": []
+  },
+  {
+   "text": "Day twelve. Your phone buzzes with two offers: a relocation package or a settlement offer to stay.",
+   "shot": "img08",
+   "day": 12,
+   "fx": []
+  },
+  {
+   "text": "So what do you do? Pack up and move to a tax‑free state, or stay and pay the bill?",
+   "shot": "img08",
+   "vote": true,
+   "fx": []
+  },
+  {
+   "text": "Comment MOVE or STAY. The majority writes Part six.",
+   "shot": "card:end",
+   "fx": []
+  }
+ ],
+ "shots": {
+  "img01": {
+   "location": "apartment",
+   "camera": "CAMERA: extreme wide shot from the low corner of the one‑room apartment, eye level, capturing the whole kitchenette and the cramped living space, the hero stands near the tiny window.",
+   "scene": "Tense. The hero is centered, clutching a crumpled lottery ticket in both white hands, shoulders hunched, eyebrows knit. The cream‑white fridge glows faintly, a brass pendant lamp casts a warm pool on the floor, the rest of the room falls into cool blue night shadows. The ticket catches a glint of light.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img02": {
+   "location": "doorway",
+   "camera": "CAMERA: low angle from the cracked picture frame side, looking up at the narrow hallway doorway, the hero’s mother is framed against the teal wall, the flickering bulb overhead creates a halo.",
+   "scene": "Hopeful. The mother, a round pale egg head without the hero’s beanie or jacket, wears a simple sweater, holds an open house brochure with bright sketches. She leans forward, eyes wide, eyebrows raised, her hands gesture toward the paper. Warm yellow light from the bulb highlights her worried smile, the teal walls stay muted.",
+   "refs": [],
+   "no_character": true
+  },
+  "img03": {
+   "location": "street",
+   "camera": "CAMERA: high angle looking down the quiet town street, rain‑slick pavement glistens, the hero walks from left to right, the city’s cold grey morning haze softens the background.",
+   "scene": "Calculating. The hero strides forward, rain droplets bounce off his dark blue jeans, the olive jacket clings damply. He holds the lottery ticket loosely in one hand, the other swings by his side. Streetlights reflect amber on the wet asphalt, distant houses are silhouettes, the sky is a muted steel.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img04": {
+   "location": "office",
+   "camera": "CAMERA: over‑the‑shoulder shot from behind the advisor’s left shoulder, focusing on the glossy brochure on the heavy oak desk, the hero’s back partially visible.",
+   "scene": "Smug. The advisor, another round pale egg head with a tidy gray suit, leans forward, eyebrows arched, holding a glossy brochure up. The hero’s head is turned toward the brochure, eyes narrowed, mouth thin. Green desk lamp casts a focused pool on the brochure, dark books line the shelves behind.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img05": {
+   "location": "table",
+   "camera": "CAMERA: top‑down view of the car interior, looking straight down at the steering wheel and the map spread on the passenger seat, the hero’s hands centered.",
+   "scene": "Focused. White hands with four fingers grip the black steering wheel tightly; the other hand points at a folded map of states laid on the seat. The beige sedan’s cracked dashboard and empty coffee cup are visible. Dim streetlight filters through the windshield, casting a soft amber glow on the map.",
+   "refs": [],
+   "hands_only": true
+  },
+  "img06": {
+   "location": "mom_kitchen",
+   "camera": "CAMERA: close‑up from just above eye level, framing the mother’s face and a steaming coffee mug on the stove, the background softened by yellow flowered curtains.",
+   "scene": "Worried. The mother, round pale egg head without beanie or jacket, wears a simple apron, her eyebrows furrowed, mouth a thin line. She holds a steaming mug close, steam curls upward. Behind her, a pot simmers on the old stove, yellow curtains diffuse warm evening light, family photos blur on the wall.",
+   "refs": [],
+   "no_character": true
+  },
+  "img07": {
+   "location": "table",
+   "camera": "CAMERA: macro extreme close‑up of the wooden tabletop, shallow depth of field, focusing on paperwork and a red pen, the hero’s hands enter from the bottom edge.",
+   "scene": "Urgent. A tax form lies open, a red pen poised above a blank line, a stack of documents fanned out. Two white hands appear: one holds the pen, the other steadies the form. Warm brass lamp light creates a bright circle on the table, the surrounding wood darkens into shadow.",
+   "refs": [],
+   "hands_only": true
+  },
+  "img08": {
+   "location": "apartment",
+   "camera": "CAMERA: view through the small apartment window at night, framing the hero silhouetted against city lights, the interior dimly lit by the pendant lamp.",
+   "scene": "Contemplative. The hero stands by the window, body black silhouette, mustard beanie barely visible, arms crossed. Outside, distant skyscraper lights flicker amber; inside, a soft golden pool from the lamp outlines his outline. The night sky is deep navy, the room beyond the window is hushed darkness.",
+   "refs": [
+    "char"
+   ]
+  }
+ },
+ "part": 5,
+ "winner": "NO",
+ "lesson": "THE STATE"
+}
