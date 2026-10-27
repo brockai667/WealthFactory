@@ -70,7 +70,13 @@
     "instagram",
     "tiktok-manual",
     "youtube"
-   ]
+   ],
+   "votes": {
+    "BUY": 0,
+    "NO": 1
+   },
+   "winner": "NO",
+   "video_id": "1LIY34VskEs"
   }
  },
  "archiv": [
