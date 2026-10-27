@@ -4,7 +4,7 @@ name: Vote Story Daily
 # -> edge-tts + Remotion -> od 19.10. hybrid: YT + IG cez Buffer o 10:00, TikTok video + popisok do GitHub Releases (user nahra z mobilu). Bez PC, zadarmo, 0 Claude tokenov.
 on:
   schedule:
-    - cron: "15 1 * * *"    # 03:15 SK (+ az ~6 h meskanie cronu) -> YT + IG planovane na 10:00, TikTok video rano v Releases
+    - cron: "15 12 * * *"   # 13:15 SK (zima; leto 14:15) -> YT + IG planovane na 18:00, TikTok do feedu; diel vonku od vcera 18:00 = ~19 h hlasovania
   workflow_dispatch:
     inputs:
       force:

@@ -15,8 +15,8 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from common import REPO, VOTE, bible, load, part_path, save, state, STATE  # noqa: E402
 import votes  # noqa: E402
 
-MIN_HOURS = 6        # ochrana pred dvojitym behom (posted_at je buduci cas -> zaporne h); 6 h, aby diel o 20:00 nezablokoval nocny cron o 03:15
-POST_HOUR = 10       # Europe/Bratislava (user 19.10.: YT + IG rano o 10:00)
+MIN_HOURS = 16       # user 27.10.: kazdy diel musi byt vonku aspon 16 h, kym sa citaju hlasy (aj ochrana pred dvojitym behom)
+POST_HOUR = 18       # Europe/Bratislava (user 27.10.: diely vecer o 18:00, predtym rano 10:00)
 VOTE_SERVICES = {"youtube", "instagram"}   # tu sa hlasy citaju (YT API, IG Graph) -> koniec s hlasovanim
 NOVOTE_SERVICES = {"tiktok"}               # tu nie -> koniec "Part N+1 drops tomorrow"
 PY = sys.executable
