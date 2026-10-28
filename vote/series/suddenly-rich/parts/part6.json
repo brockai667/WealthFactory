@@ -1,0 +1,208 @@
+{
+ "part": 6,
+ "title": "THE SCAM",
+ "vote": [
+  "SPLURGE",
+  "SAVE"
+ ],
+ "caption": "You wired $48,000 to \"the state\". The state never called.\nSPLURGE or SAVE? Comment one word. Part 7 does what the comments pick.\n\n#SuddenlyRich #money #lottery #finance",
+ "hook": {
+  "kind": "recap",
+  "beats": 2,
+  "tag": "PART 6 · YOU PAID",
+  "big": "-$48,000",
+  "stamp": "GONE",
+  "stamp_beat": 1
+ },
+ "cards": {
+  "free": {
+   "kind": "public",
+   "label": "PAY TO GET YOUR PRIZE?",
+   "line": "Fee up front",
+   "arrow": "Scam",
+   "stamp": "ALWAYS",
+   "foot": "Real prizes are free (FTC)"
+  },
+  "where": {
+   "kind": "public",
+   "label": "WHERE REAL TAX GOES",
+   "line": "Your tax bill",
+   "arrow": "IRS and your state",
+   "stamp": "NEVER A STRANGER",
+   "foot": "No agent, no caller, no wire to a person"
+  },
+  "rule6": {
+   "kind": "rule",
+   "small": "RULE 6",
+   "text": "Real money\nnever asks\nfor money\nfirst."
+  },
+  "end": {
+   "kind": "end",
+   "small": "SUDDENLY RICH · EVERY DOLLAR HAS A PRICE",
+   "big": "PART 7",
+   "accent": "YOU PICK",
+   "foot": "SPLURGE or SAVE? One word."
+  }
+ },
+ "beats": [
+  {
+   "text": "You paid. Forty-eight thousand dollars, wired before lunch.",
+   "shot": "img01",
+   "hud": [
+    37952000,
+    13900000,
+    160
+   ],
+   "fx": [
+    "handheld"
+   ],
+   "pause": 0.3,
+   "emo": "serious"
+  },
+  {
+   "text": "It felt official. They knew everything.",
+   "shot": "img01",
+   "zoom": "in",
+   "pause": 0.5,
+   "emo": "ominous"
+  },
+  {
+   "text": "Your tax pro sighs. The state doesn't call for money. It sends letters.",
+   "shot": "img02",
+   "emo": "serious"
+  },
+  {
+   "text": "If you have to pay to get your prize, it's a scam. Every time.",
+   "shot": "card:free",
+   "sfx": "whoosh",
+   "emo": "serious"
+  },
+  {
+   "text": "Real taxes go to the IRS and your state. Never to a stranger on the phone.",
+   "shot": "card:where",
+   "sfx": "impact",
+   "emo": "serious"
+  },
+  {
+   "text": "How did they find you? Cousin Mike posted his food truck. Tagged you.",
+   "shot": "img03",
+   "emo": "sarcastic"
+  },
+  {
+   "text": "Scammers read every press release and every post. New money is easy to spot.",
+   "shot": "img03",
+   "zoom": "in",
+   "emo": "serious"
+  },
+  {
+   "text": "Two days later, a new call. A refund agency. They can get your forty-eight thousand back.",
+   "shot": "img04",
+   "fx": [
+    "rain"
+   ],
+   "emo": "ominous"
+  },
+  {
+   "text": "For a ten thousand dollar fee. You hang up.",
+   "shot": "img04",
+   "zoom": "in",
+   "pause": 0.4,
+   "emo": "sarcastic"
+  },
+  {
+   "text": "Rule six. Real money never asks for money first.",
+   "shot": "card:rule6",
+   "sfx": "impact",
+   "emo": "serious"
+  },
+  {
+   "text": "Day fourteen. You're tired of feeling poor with thirty-eight million.",
+   "shot": "img05",
+   "day": 14,
+   "hud": [
+    37952000,
+    13900000,
+    170
+   ],
+   "emo": "dramatic"
+  },
+  {
+   "text": "A dealer smiles. Four hundred thousand. Today only.",
+   "shot": "img05",
+   "zoom": "in",
+   "emo": "sarcastic"
+  },
+  {
+   "text": "Splurge, and finally feel rich. Or save, and stay the guy in the old sedan.",
+   "shot": "img06",
+   "vote": true,
+   "sfx": "riser",
+   "emo": "ominous"
+  },
+  {
+   "text": "Splurge or save? One word. Part seven does what the comments pick.",
+   "shot": "card:end",
+   "sfx": "impact",
+   "emo": "excited"
+  }
+ ],
+ "summary": "You wired $48,000 to a caller posing as the State Tax Office. Your tax pro explained the state sends letters, not demands by phone. You learned real prizes are free, anyone asking a fee up front is a scammer (FTC), and real taxes go only to the IRS and the state. The scammers found you because cousin Mike posted his new food truck and tagged you. A fake 'refund agency' then offered to recover the $48,000 for a $10,000 fee; you hung up. Day fourteen: tired of feeling poor, you stand in a car showroom in front of a $400,000 sports car, 'today only'.",
+ "hud_end": [
+  37952000,
+  13900000,
+  170
+ ],
+ "lesson": "Real prizes are free; any fee up front is a scam (FTC). Real taxes go only to the IRS and the state, never to a caller. Scammers watch press releases and social media; 'recovery' agencies that charge a fee are the second scam.",
+ "note": "Napisal Claude 27.10. vopred v 2 verziach podla vitaza Part 5 (PAY/IGNORE).",
+ "shots": {
+  "img01": {
+   "location": "apartment",
+   "camera": "CAMERA: medium close-up from the side at the small wooden table.",
+   "scene": "Daytime, grey light through the rainy window. The main character sits at the small table in front of the old silver laptop, one finger just lifted off the keyboard, the screen glowing with blank shapes and one big green check mark. His phone lies face up next to the laptop. His face is calm but a little uneasy, one eyebrow slightly raised. The chipped white mug beside him.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img02": {
+   "location": "office",
+   "camera": "CAMERA: medium shot at eye level across the desk.",
+   "scene": "A different character in the same cartoon style: a calm middle-aged woman tax professional with the same perfectly round smooth pale white egg-shaped head with NO ears and NO nose, small black dot eyes, a short dark bob haircut, thin black-rimmed glasses, a charcoal blazer over a white blouse. She does NOT wear a beanie and does NOT wear the olive-green jacket. She sits behind the oak desk holding a small blank receipt slip up between two fingers, looking at it over her glasses with a flat, unimpressed stare. The main character sits in the foreground at the left edge, seen from behind over his shoulder, wearing his mustard-yellow knit beanie and olive-green jacket, shoulders slumped. Green desk lamp light.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img03": {
+   "location": "street",
+   "camera": "CAMERA: medium shot at eye level on the sidewalk.",
+   "scene": "Cousin Mike, a different character in the same cartoon style: the same perfectly round smooth pale white egg-shaped head with NO ears and NO nose, small black dot eyes, a big eager grin, a red baseball cap worn backwards, a bright orange hoodie, grey sweatpants. He does NOT wear a beanie and does NOT wear the olive-green jacket. He stands in front of a shiny bright orange food truck with a blank side panel, holding his phone up at arm's length for a selfie, making a peace sign, grinning hugely. Bright cold morning light. The main character is not in this image.",
+   "refs": [
+    "char"
+   ],
+   "no_character": true
+  },
+  "img04": {
+   "location": "apartment",
+   "camera": "CAMERA: medium shot at eye level from the kitchenette.",
+   "scene": "Night. The main character sits at the small wooden table under the brass pendant lamp holding his smartphone a little away from his ear, staring at it with narrowed, disbelieving eyes and a flat mouth. The phone screen glows with a plain blank screen. Rain on the dark window behind him, distant city lights.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img05": {
+   "location": "SETTING: a bright luxury car showroom with a glossy white floor, tall glass walls, spotlights from the ceiling, potted palm plants.",
+   "camera": "CAMERA: wide shot at eye level.",
+   "scene": "In the center a gleaming low red sports car on a slowly turning platform under spotlights, no badges or logos. The main character stands next to it with his hands in his jacket pockets, looking at it with wide, tempted eyes. Beside him a different character in the same cartoon style: a slick car dealer with the same perfectly round smooth pale white egg-shaped head with NO ears and NO nose, small black dot eyes, slicked-back black hair, a shiny grey suit and a big toothy smile, one arm spread toward the car. The dealer does NOT wear a beanie and does NOT wear the olive-green jacket.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img06": {
+   "location": "car",
+   "camera": "CAMERA: medium shot from the passenger seat at night.",
+   "scene": "The main character sits in his old worn beige sedan in a parking lot, both hands on the cracked steering wheel, staring through the rain-speckled windshield at a brightly lit glass car showroom across the street where a red sports car glows under spotlights. His face is torn, lips pressed together. The pine-tree air freshener swings on the mirror.",
+   "refs": [
+    "char"
+   ]
+  }
+ }
+}
