@@ -1,0 +1,207 @@
+{
+ "part": 7,
+ "title": "THE CURSE",
+ "vote": [
+  "PLAN",
+  "PARTY"
+ ],
+ "caption": "You bought the $400,000 car. A week later, the whole street had photos of it.\nPLAN or PARTY? Comment one word. The finale does what the comments pick.\n\n#SuddenlyRich #money #lottery #finance",
+ "hook": {
+  "kind": "recap",
+  "beats": 2,
+  "tag": "PART 7 · YOU SPLURGED",
+  "big": "-$400,000",
+  "stamp": "TODAY ONLY",
+  "stamp_beat": 1
+ },
+ "cards": {
+  "myth": {
+   "kind": "public",
+   "label": "70% OF WINNERS GO BROKE?",
+   "line": "The famous 70%",
+   "arrow": "Real source?",
+   "stamp": "NONE FOUND",
+   "foot": "NEFE says it can't confirm it"
+  },
+  "study": {
+   "kind": "public",
+   "label": "THE REAL STUDY · 2011",
+   "line": "Won $50K-$150K",
+   "arrow": "Bankruptcy",
+   "stamp": "JUST DELAYED",
+   "foot": "Florida winners (Hankins, Hoekstra, Skiba)"
+  },
+  "rule7": {
+   "kind": "rule",
+   "small": "RULE 7",
+   "text": "Money won't\nfix habits.\nA plan will."
+  },
+  "end": {
+   "kind": "end",
+   "small": "SUDDENLY RICH · EVERY DOLLAR HAS A PRICE",
+   "big": "FINALE",
+   "accent": "YOU PICK",
+   "foot": "PLAN or PARTY? One word."
+  }
+ },
+ "beats": [
+  {
+   "text": "You bought it. Four hundred thousand dollars, paid before the coffee got cold.",
+   "shot": "img01",
+   "hud": [
+    37552000,
+    13900000,
+    190
+   ],
+   "fx": [
+    "handheld"
+   ],
+   "pause": 0.3,
+   "emo": "dramatic"
+  },
+  {
+   "text": "For one whole week, you felt rich.",
+   "shot": "img01",
+   "zoom": "in",
+   "pause": 0.4,
+   "emo": "sarcastic"
+  },
+  {
+   "text": "Then a red car showed up outside a cheap apartment building. The whole street took pictures.",
+   "shot": "img02",
+   "hud": [
+    37552000,
+    13900000,
+    220
+   ],
+   "fx": [
+    "calls"
+   ],
+   "emo": "ominous"
+  },
+  {
+   "text": "And everyone sends you the same headline. Seventy percent of lottery winners go broke.",
+   "shot": "img03",
+   "emo": "serious"
+  },
+  {
+   "text": "Here's the twist. Nobody can find where that number comes from. Not even the group it's blamed on.",
+   "shot": "card:myth",
+   "sfx": "whoosh",
+   "emo": "serious"
+  },
+  {
+   "text": "A real study from twenty eleven followed Florida winners. The win only delayed bankruptcy. It didn't stop it.",
+   "shot": "card:study",
+   "sfx": "impact",
+   "emo": "serious"
+  },
+  {
+   "text": "The curse isn't the money. Money just makes your habits bigger.",
+   "shot": "img04",
+   "emo": "serious"
+  },
+  {
+   "text": "Rule seven. Money won't fix your habits. A plan will.",
+   "shot": "card:rule7",
+   "sfx": "impact",
+   "emo": "serious"
+  },
+  {
+   "text": "Day twenty-one. You add it up. Insurance, gifts, dinners. Two hundred thirty thousand, on top of the car.",
+   "shot": "img04",
+   "zoom": "in",
+   "day": 21,
+   "hud": [
+    37322000,
+    13900000,
+    220
+   ],
+   "emo": "dramatic"
+  },
+  {
+   "text": "Then Cousin Mike texts. Party yacht, Saturday. Everyone's coming. Guess who's paying.",
+   "shot": "img05",
+   "emo": "sarcastic"
+  },
+  {
+   "text": "Same night, your tax pro emails. Monday, nine a.m. Bring everything. We build a real plan.",
+   "shot": "img06",
+   "emo": "serious"
+  },
+  {
+   "text": "Plan, and make this money last for good. Or party, because you only get rich once.",
+   "shot": "img06",
+   "zoom": "in",
+   "vote": true,
+   "sfx": "riser",
+   "emo": "ominous"
+  },
+  {
+   "text": "Plan or party? One word. The finale does what the comments pick.",
+   "shot": "card:end",
+   "sfx": "impact",
+   "emo": "excited"
+  }
+ ],
+ "summary": "You bought the $400,000 red sports car and felt rich for one week, until the car parked outside your cheap apartment building got photographed by the whole street. Everyone sent you the headline that 70% of lottery winners go broke; you learned nobody can find a source for it and NEFE, the group it is blamed on, says it cannot confirm it. A real 2011 study of Florida winners of $50,000 to $150,000 found the win delayed bankruptcy but did not prevent it: money does not fix habits, a plan does. Day 21: insurance, gifts and dinners cost $230,000 on top of the car. Cousin Mike invited everyone to a party yacht on Saturday on your money, and your tax pro set a Monday 9 a.m. meeting to build a real plan.",
+ "hud_end": [
+  37322000,
+  13900000,
+  220
+ ],
+ "lesson": "The '70% of lottery winners go broke' claim has no source; NEFE says it cannot confirm it. A real 2011 study (Hankins, Hoekstra, Skiba) of Florida winners of $50,000-$150,000 found the win delayed bankruptcy but did not prevent it. Money does not fix spending habits; a budget and a plan do.",
+ "note": "Napisal Claude 28.10. vopred v 2 verziach podla vitaza Part 6 (SPLURGE/SAVE). Part 8 = finale bez hlasovania.",
+ "shots": {
+  "img01": {
+   "location": "SETTING: a bright luxury car showroom with a glossy white floor, tall glass walls, spotlights from the ceiling, potted palm plants.",
+   "camera": "CAMERA: medium shot at eye level through the open driver door.",
+   "scene": "The main character sits behind the wheel of a gleaming low red sports car with no badges or logos, both hands on the steering wheel, grinning wide with raised eyebrows, a little dazed. A slick car dealer in the same cartoon style, with the same perfectly round smooth pale white egg-shaped head with NO ears and NO nose, small black dot eyes, slicked-back black hair and a shiny grey suit, stands outside the car holding up a single car key with a red fob and smiling with big teeth. The dealer does NOT wear a beanie and does NOT wear the olive-green jacket.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img02": {
+   "location": "SETTING: a run-down street in a rainy city at dusk, a shabby four-story brick apartment building with a cracked front stoop, overflowing trash cans, wet sidewalk reflecting streetlights.",
+   "camera": "CAMERA: wide shot at eye level from across the street.",
+   "scene": "A gleaming low red sports car with no badges or logos is parked at the curb in front of the shabby building, looking completely out of place. Five neighbors in the same cartoon style, each with the same perfectly round smooth pale white egg-shaped head with NO ears and NO nose and small black dot eyes, wearing ordinary hoodies and coats, crowd around it holding up phones with blank glowing screens to take photos. The main character stands on the stoop by the building door with his hands in his jacket pockets, shoulders raised, looking uneasy.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img03": {
+   "location": "apartment",
+   "camera": "CAMERA: medium close-up from the side at the small wooden table.",
+   "scene": "Night. The main character sits at the small table under the brass pendant lamp holding his smartphone with both hands, the screen glowing with blank shapes, his face lit by it, eyebrows pulled together, mouth a flat worried line. Rain on the dark window behind him.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img04": {
+   "location": "table",
+   "camera": "CAMERA: top-down shot of the table surface.",
+   "scene": "A messy pile of long paper receipts, three blank envelopes, a car key with a red fob and a small grey calculator on the wooden table. His white cartoon hands hold one long receipt up, pinched between two fingers. The chipped white mug at the edge.",
+   "refs": [
+    "char"
+   ],
+   "hands_only": true
+  },
+  "img05": {
+   "location": "SETTING: a marina dock at sunset, a large white party yacht with strings of warm lights, calm water, other boats in the distance.",
+   "camera": "CAMERA: medium shot at eye level on the dock.",
+   "scene": "Cousin Mike, a different character in the same cartoon style: the same perfectly round smooth pale white egg-shaped head with NO ears and NO nose, small black dot eyes, a big eager grin, a red baseball cap worn backwards, a bright orange hoodie and sunglasses pushed up on his cap. He does NOT wear a beanie and does NOT wear the olive-green jacket. He stands in front of the yacht holding his phone up for a selfie with one arm and pointing at the yacht with the other, grinning hugely. The main character is not in this image.",
+   "refs": [
+    "char"
+   ],
+   "no_character": true
+  },
+  "img06": {
+   "location": "apartment",
+   "camera": "CAMERA: medium shot at eye level from the kitchenette.",
+   "scene": "Night. The main character sits on the worn grey couch leaning forward, elbows on his knees, holding his smartphone in one hand with its screen glowing blank, his other hand rubbing his forehead, torn, lips pressed together. On the low coffee table in front of him lie a car key with a red fob and a thick closed folder. The tall brass floor lamp is on.",
+   "refs": [
+    "char"
+   ]
+  }
+ }
+}

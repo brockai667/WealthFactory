@@ -1,0 +1,202 @@
+{
+ "part": 7,
+ "title": "THE CURSE",
+ "vote": [
+  "PLAN",
+  "PARTY"
+ ],
+ "caption": "You walked away from the $400,000 car. Then everyone sent you the same scary headline.\nPLAN or PARTY? Comment one word. The finale does what the comments pick.\n\n#SuddenlyRich #money #lottery #finance",
+ "hook": {
+  "kind": "recap",
+  "beats": 2,
+  "tag": "PART 7 · YOU SAVED",
+  "big": "$400,000",
+  "stamp": "STILL YOURS",
+  "stamp_beat": 1
+ },
+ "cards": {
+  "myth": {
+   "kind": "public",
+   "label": "70% OF WINNERS GO BROKE?",
+   "line": "The famous 70%",
+   "arrow": "Real source?",
+   "stamp": "NONE FOUND",
+   "foot": "NEFE says it can't confirm it"
+  },
+  "study": {
+   "kind": "public",
+   "label": "THE REAL STUDY · 2011",
+   "line": "Won $50K-$150K",
+   "arrow": "Bankruptcy",
+   "stamp": "JUST DELAYED",
+   "foot": "Florida winners (Hankins, Hoekstra, Skiba)"
+  },
+  "rule7": {
+   "kind": "rule",
+   "small": "RULE 7",
+   "text": "Money won't\nfix habits.\nA plan will."
+  },
+  "end": {
+   "kind": "end",
+   "small": "SUDDENLY RICH · EVERY DOLLAR HAS A PRICE",
+   "big": "FINALE",
+   "accent": "YOU PICK",
+   "foot": "PLAN or PARTY? One word."
+  }
+ },
+ "beats": [
+  {
+   "text": "You walked out. Four hundred thousand dollars, still in your account.",
+   "shot": "img01",
+   "hud": [
+    37952000,
+    13900000,
+    160
+   ],
+   "fx": [
+    "handheld"
+   ],
+   "pause": 0.3,
+   "emo": "dramatic"
+  },
+  {
+   "text": "The dealer called three times. You didn't pick up once.",
+   "shot": "img01",
+   "zoom": "in",
+   "pause": 0.4,
+   "emo": "sarcastic"
+  },
+  {
+   "text": "Then everyone sends you the same headline. Seventy percent of lottery winners go broke.",
+   "shot": "img02",
+   "fx": [
+    "calls"
+   ],
+   "emo": "ominous"
+  },
+  {
+   "text": "Here's the twist. Nobody can find where that number comes from. Not even the group it's blamed on.",
+   "shot": "card:myth",
+   "sfx": "whoosh",
+   "emo": "serious"
+  },
+  {
+   "text": "A real study from twenty eleven followed Florida winners. The win only delayed bankruptcy. It didn't stop it.",
+   "shot": "card:study",
+   "sfx": "impact",
+   "emo": "serious"
+  },
+  {
+   "text": "So skipping one car doesn't save you. Your habits come with you.",
+   "shot": "img03",
+   "emo": "serious"
+  },
+  {
+   "text": "Rule seven. Money won't fix your habits. A plan will.",
+   "shot": "card:rule7",
+   "sfx": "impact",
+   "emo": "serious"
+  },
+  {
+   "text": "Day twenty-one. You write it all down. Your old life cost twenty-nine hundred a month.",
+   "shot": "img04",
+   "day": 21,
+   "emo": "serious"
+  },
+  {
+   "text": "These three weeks? Twenty-two thousand. No car. Just takeout, rides and gifts.",
+   "shot": "img04",
+   "zoom": "in",
+   "hud": [
+    37930000,
+    13900000,
+    160
+   ],
+   "emo": "dramatic"
+  },
+  {
+   "text": "Then Cousin Mike texts. Party yacht, Saturday. Everyone's coming. Guess who's paying.",
+   "shot": "img05",
+   "emo": "sarcastic"
+  },
+  {
+   "text": "Same night, your tax pro emails. Monday, nine a.m. Bring everything. We build a real plan.",
+   "shot": "img06",
+   "emo": "serious"
+  },
+  {
+   "text": "Plan, and make this money last for good. Or party, because you only get rich once.",
+   "shot": "img06",
+   "zoom": "in",
+   "vote": true,
+   "sfx": "riser",
+   "emo": "ominous"
+  },
+  {
+   "text": "Plan or party? One word. The finale does what the comments pick.",
+   "shot": "card:end",
+   "sfx": "impact",
+   "emo": "excited"
+  }
+ ],
+ "summary": "You walked away from the $400,000 red sports car and ignored the dealer's three calls. Then everyone sent you the headline that 70% of lottery winners go broke; you learned nobody can find a source for it and NEFE, the group it is blamed on, says it cannot confirm it. A real 2011 study of Florida winners of $50,000 to $150,000 found the win delayed bankruptcy but did not prevent it: money does not fix habits, a plan does. Day 21: you wrote down your spending; your old life cost $2,900 a month, but these three weeks cost $22,000 without any car, on takeout, rides and gifts. Cousin Mike invited everyone to a party yacht on Saturday on your money, and your tax pro set a Monday 9 a.m. meeting to build a real plan.",
+ "hud_end": [
+  37930000,
+  13900000,
+  160
+ ],
+ "lesson": "The '70% of lottery winners go broke' claim has no source; NEFE says it cannot confirm it. A real 2011 study (Hankins, Hoekstra, Skiba) of Florida winners of $50,000-$150,000 found the win delayed bankruptcy but did not prevent it. Money does not fix spending habits; a budget and a plan do.",
+ "note": "Napisal Claude 28.10. vopred v 2 verziach podla vitaza Part 6 (SPLURGE/SAVE). Part 8 = finale bez hlasovania.",
+ "shots": {
+  "img01": {
+   "location": "SETTING: a city sidewalk outside a bright luxury car showroom at midday, tall glass windows behind, a gleaming low red sports car with no badges or logos visible through the glass.",
+   "camera": "CAMERA: medium shot at eye level from the sidewalk.",
+   "scene": "The main character walks away from the showroom toward the camera, hands in his jacket pockets, a small calm smile, eyebrows relaxed. Behind him, through the glass, a slick car dealer in the same cartoon style, with the same perfectly round smooth pale white egg-shaped head with NO ears and NO nose, small black dot eyes, slicked-back black hair and a shiny grey suit, presses a phone to his head with an open mouth, frantic. The dealer does NOT wear a beanie and does NOT wear the olive-green jacket.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img02": {
+   "location": "apartment",
+   "camera": "CAMERA: medium close-up from the side at the small wooden table.",
+   "scene": "Evening. The main character sits at the small table under the brass pendant lamp holding his smartphone with both hands, the screen glowing with blank shapes, his face lit by it, one eyebrow raised, skeptical, mouth a flat line.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img03": {
+   "location": "apartment",
+   "camera": "CAMERA: medium shot at eye level from the kitchenette.",
+   "scene": "The main character stands by the open fridge holding a stack of takeout food containers in both arms, looking down at them with a slightly guilty frown. Several empty takeout bags sit on the counter beside him.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img04": {
+   "location": "table",
+   "camera": "CAMERA: top-down shot of the table surface.",
+   "scene": "An open lined notebook with handwritten columns of numbers, a small pile of paper receipts, a pen and a small grey calculator on the wooden table. His white cartoon hands hold the pen over the notebook, one finger pressing the calculator. The chipped white mug at the edge.",
+   "refs": [
+    "char"
+   ],
+   "hands_only": true
+  },
+  "img05": {
+   "location": "SETTING: a marina dock at sunset, a large white party yacht with strings of warm lights, calm water, other boats in the distance.",
+   "camera": "CAMERA: medium shot at eye level on the dock.",
+   "scene": "Cousin Mike, a different character in the same cartoon style: the same perfectly round smooth pale white egg-shaped head with NO ears and NO nose, small black dot eyes, a big eager grin, a red baseball cap worn backwards, a bright orange hoodie and sunglasses pushed up on his cap. He does NOT wear a beanie and does NOT wear the olive-green jacket. He stands in front of the yacht holding his phone up for a selfie with one arm and pointing at the yacht with the other, grinning hugely. The main character is not in this image.",
+   "refs": [
+    "char"
+   ],
+   "no_character": true
+  },
+  "img06": {
+   "location": "apartment",
+   "camera": "CAMERA: medium shot at eye level from the kitchenette.",
+   "scene": "Night. The main character sits on the worn grey couch leaning forward, elbows on his knees, holding his smartphone in one hand with its screen glowing blank, his other hand rubbing his forehead, torn, lips pressed together. On the low coffee table in front of him lies an open lined notebook full of numbers and a thick closed folder. The tall brass floor lamp is on.",
+   "refs": [
+    "char"
+   ]
+  }
+ }
+}
