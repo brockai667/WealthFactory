@@ -1,6 +1,6 @@
 {
  "series": "suddenly-rich",
- "next_part": 7,
+ "next_part": 8,
  "parts": {
   "1": {
    "title": "THE TICKET",
@@ -104,6 +104,25 @@
     "SAVE"
    ],
    "posted_at": "2026-10-28T17:19:38.000Z",
+   "services": [
+    "instagram",
+    "tiktok-manual",
+    "youtube"
+   ],
+   "votes": {
+    "SPLURGE": 0,
+    "SAVE": 0
+   },
+   "winner": "SAVE",
+   "video_id": "oLGbYOhPKDU"
+  },
+  "7": {
+   "title": "THE CURSE",
+   "vote": [
+    "PLAN",
+    "PARTY"
+   ],
+   "posted_at": "2026-10-30T17:26:43.000Z",
    "services": [
     "instagram",
     "tiktok-manual",
