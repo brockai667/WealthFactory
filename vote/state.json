@@ -127,7 +127,13 @@
     "instagram",
     "tiktok-manual",
     "youtube"
-   ]
+   ],
+   "votes": {
+    "PLAN": 0,
+    "PARTY": 0
+   },
+   "winner": "PLAN",
+   "video_id": "RMM1JUO4Njc"
   }
  },
  "archiv": [
