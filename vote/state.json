@@ -1,6 +1,6 @@
 {
  "series": "suddenly-rich",
- "next_part": 8,
+ "next_part": 9,
  "parts": {
   "1": {
    "title": "THE TICKET",
@@ -134,6 +134,16 @@
    },
    "winner": "PLAN",
    "video_id": "RMM1JUO4Njc"
+  },
+  "8": {
+   "title": "THE PLAN",
+   "vote": [],
+   "posted_at": "2026-10-31T21:11:00.000Z",
+   "services": [
+    "instagram",
+    "tiktok-manual",
+    "youtube"
+   ]
   }
  },
  "archiv": [
