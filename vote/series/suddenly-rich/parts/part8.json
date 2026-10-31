@@ -1,0 +1,267 @@
+{
+ "part": 8,
+ "title": "THE PLAN",
+ "vote": [],
+ "winner": "PLAN",
+ "result_foot": "No yacht. A Monday meeting instead.",
+ "caption": "You won $100 million. After taxes, how much can you actually spend every year?\nThe Suddenly Rich finale: the 4% rule. A rule of thumb, not financial advice. Follow for the next story, and comment what it should be.\n\n#SuddenlyRich #money #lottery #finance #personalfinance",
+ "hook": {
+  "kind": "recap",
+  "beats": 1,
+  "tag": "PART 8 · YOU PLANNED",
+  "big": "$100,000,000",
+  "stamp": "SPEND HOW MUCH?",
+  "stamp_beat": 0
+ },
+ "cards": {
+  "net": {
+   "kind": "jackpot",
+   "label": "AFTER THE TAX BILL",
+   "from": 37930000,
+   "to": 24030000,
+   "note": "what's really yours",
+   "alt": "$13.9M tax, paid in full"
+  },
+  "cash": {
+   "kind": "public",
+   "label": "RULE 8 · CASH SHRINKS",
+   "line": "$1 in cash",
+   "arrow": "Buys half",
+   "stamp": "IN ~24 YEARS",
+   "foot": "3% yearly inflation. Rule of 72: 72 ÷ 3 = 24"
+  },
+  "four": {
+   "kind": "public",
+   "label": "THE 4% RULE · BENGEN, 1994",
+   "line": "$24M invested",
+   "arrow": "4% a year",
+   "stamp": "$961,200/YEAR",
+   "foot": "Inflation-adjusted. Lasted 30+ years historically. Not a guarantee."
+  },
+  "rule9": {
+   "kind": "rule",
+   "small": "RULE 9",
+   "text": "Live on 4%.\nLet the rest\nwork."
+  },
+  "title": {
+   "kind": "title",
+   "small": "PART 8 · THE PLAN",
+   "big": [
+    "EVERY",
+    "DOLLAR",
+    "HAS A"
+   ],
+   "accent": "PRICE"
+  },
+  "result": {
+   "kind": "result",
+   "label": "PART 7 · YOU VOTED",
+   "options": [
+    {
+     "name": "PLAN"
+    },
+    {
+     "name": "PARTY"
+    }
+   ],
+   "winner": 0,
+   "foot": "No yacht. A Monday meeting instead."
+  },
+  "end": {
+   "kind": "end",
+   "small": "SUDDENLY RICH · EVERY DOLLAR HAS A PRICE",
+   "big": "THE END",
+   "accent": "FOR NOW",
+   "foot": "Follow for the next story.\nWhat should it be? Comment below."
+  }
+ },
+ "beats": [
+  {
+   "text": "You won a hundred million dollars. Today, find out what you can actually spend.",
+   "shot": "img01",
+   "hud": [
+    37930000,
+    13900000,
+    100
+   ],
+   "fx": [
+    "handheld"
+   ],
+   "pause": 0.3,
+   "emo": "dramatic"
+  },
+  {
+   "text": "You chose the plan. Cousin Mike's yacht party sailed without your card.",
+   "shot": "card:result",
+   "sfx": "whoosh",
+   "emo": "sarcastic"
+  },
+  {
+   "text": "Monday, nine a.m. Your tax pro's only job: make it last.",
+   "shot": "card:title",
+   "sfx": "impact",
+   "emo": "serious"
+  },
+  {
+   "text": "First, the tax you still owe. Thirteen point nine million.",
+   "shot": "img02",
+   "emo": "serious"
+  },
+  {
+   "text": "Pay it, and what's really yours is about twenty-four million.",
+   "shot": "card:net",
+   "hud": [
+    24030000,
+    0,
+    100
+   ],
+   "sfx": "whoosh",
+   "emo": "dramatic"
+  },
+  {
+   "text": "Rule eight. Don't sit on cash. At three percent inflation, prices double in about twenty-four years.",
+   "shot": "card:cash",
+   "sfx": "whoosh",
+   "emo": "serious"
+  },
+  {
+   "text": "So it gets invested. Stocks and bonds, low fees.",
+   "shot": "img03",
+   "zoom": "in",
+   "emo": "serious"
+  },
+  {
+   "text": "How much can you take each year? Planner William Bengen tested that in nineteen ninety-four.",
+   "shot": "card:four",
+   "sfx": "whoosh",
+   "emo": "serious"
+  },
+  {
+   "text": "Take four percent in year one, raise it with inflation, and historically, it lasted at least thirty years.",
+   "shot": "card:four",
+   "phase": 2,
+   "emo": "serious"
+  },
+  {
+   "text": "For you, about nine hundred sixty thousand a year. A rule of thumb, not a promise.",
+   "shot": "img04",
+   "zoom": "in",
+   "emo": "dramatic"
+  },
+  {
+   "text": "Rule nine. Live on four percent. Let the rest work.",
+   "shot": "card:rule9",
+   "sfx": "impact",
+   "emo": "serious"
+  },
+  {
+   "text": "Mom gets help every year. From the four percent, not the pile.",
+   "shot": "img05",
+   "emo": "happy"
+  },
+  {
+   "text": "Day forty. New number, no posts. The strangers stop calling.",
+   "shot": "img06",
+   "day": 40,
+   "hud": [
+    24030000,
+    0,
+    5
+   ],
+   "emo": "serious"
+  },
+  {
+   "text": "Every dollar had a price. A plan keeps the rest.",
+   "shot": "img07",
+   "zoom": "out",
+   "fx": [
+    "dust"
+   ],
+   "sfx": "riser",
+   "pause": 0.5,
+   "emo": "dramatic"
+  },
+  {
+   "text": "Suddenly Rich ends here. Follow, and comment the next story you want.",
+   "shot": "card:end",
+   "sfx": "impact",
+   "emo": "excited"
+  }
+ ],
+ "summary": "You chose the plan and skipped Cousin Mike's yacht party. On Monday your tax pro started with the $13.9M tax still owed; paying it left about $24M that is really yours. Rule 8: don't sit on cash, because at 3% inflation prices double in about 24 years, so the money is invested in stocks and bonds with low fees. The 4% rule of thumb (Bengen, 1994: take 4% in year one, raise it with inflation; historically it lasted at least 30 years) gives about $961,200 a year, and Rule 9 is live on 4%, let the rest work. Mom gets help every year out of the 4%, not the pile, and by day 40 a new number and no posts stopped the strangers' calls. Series finale: the story ends, no vote.",
+ "hud_end": [
+  24030000,
+  0,
+  5
+ ],
+ "lesson": "Pay the tax you still owe first. Do not hold a fortune in cash: at 3% inflation prices double in about 24 years (rule of 72). The 4% rule (Bengen, 1994): withdraw 4% in year one and raise it with inflation each year; with a stock and bond mix it historically lasted at least 30 years. It is a rule of thumb, not a guarantee. 4% of $24.03M is about $961,200 a year.",
+ "note": "Napisal Claude 31.10. pre vitaza PLAN (Part 7, 0 hlasov = pevna nahoda). Finale bez hlasovania (vote []). Uvod = hook recap na 1 beat + card:result + card:title, aby presiel check_story z write_part.py. Validator chce 'RULE 9' (rata aj kartu 'limit' z Part 4), preto 'Rule eight' zaznie nad kartou cash a rule karta je RULE 9. Pozornost max 100 (validator), Part 7 skoncil na 160. Cash po zaplateni dane: 37.93M - 13.9M = 24.03M, 4 % = 961 200 $.",
+ "shot_briefs": {
+  "img01": "street | low angle, walking toward camera | the hero, determined, thick folder under his arm, cold bright Monday morning",
+  "img02": "office | over the shoulder across the desk | the tax pro, calm, slides one page to the hero",
+  "img03": "office | over the shoulder at a laptop | the hero leans in, hopeful, blank rising line chart on screen",
+  "img04": "office | face close-up across the desk | the hero, amazed slow smile, hands on the folder",
+  "img05": "mom_kitchen | medium shot across the kitchen | mom alone, laughing on the landline, pot steaming",
+  "img06": "apartment | wide shot from the kitchenette | the hero relaxed on the couch, phone face down and silent",
+  "img07": "apartment | three-quarter from behind at the window | the hero with the mug, peaceful, sunrise after rain"
+ },
+ "shots": {
+  "img01": {
+   "location": "street",
+   "camera": "CAMERA: low angle from the sidewalk, looking slightly up at him as he walks toward the camera, a few low brick buildings and bare trees behind him.",
+   "scene": "Determined. The hero, the main character, walks along an empty sidewalk on a cold bright Monday morning toward the camera, a thick stuffed paper folder tucked under one arm, his other hand in his jacket pocket, a small confident smile, eyebrows set. His breath shows as a faint cloud in the cold air. Pale golden sunlight breaks through grey clouds behind him, long shadows on the damp pavement.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img02": {
+   "location": "office",
+   "camera": "CAMERA: over-the-shoulder shot from behind the hero at eye level, looking across the oak desk.",
+   "scene": "Calm. A different character in the same cartoon style: a calm middle-aged woman tax professional with the same perfectly round smooth pale white egg-shaped head with NO ears and NO nose, small black dot eyes, a short dark bob haircut, thin black-rimmed glasses, a charcoal blazer over a white blouse. She does NOT wear a beanie and does NOT wear the olive-green jacket. She sits behind the oak desk and slides one single blank page across it with two fingers, a small reassuring smile. The hero sits in the foreground at the left edge, seen from behind over his shoulder, a thick paper folder on the desk in front of him. Green desk lamp light.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img03": {
+   "location": "office",
+   "camera": "CAMERA: close over-the-shoulder shot from behind the hero, looking past his beanie at an open laptop on the oak desk.",
+   "scene": "Hopeful. The hero leans forward in his chair toward an open silver laptop on the oak desk. The screen shows only a simple chart: one smooth line rising slowly from left to right over a blank grid, with two plain colored blocks beside it, no numbers and no letters. The glow of the screen lights the side of his round white head and his mustard beanie. Green desk lamp light, dark bookshelves blurred in the background.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img04": {
+   "location": "office",
+   "camera": "CAMERA: face close-up of the hero at eye level from across the desk, shallow depth of field.",
+   "scene": "Amazed. The hero sits at the oak desk, eyebrows raised high, small black dot eyes wide, a slow growing smile, both white cartoon hands resting flat on a thick closed paper folder in front of him. Warm light from the green desk lamp falls on one side of his round white head, the dark wooden bookshelves are soft and blurred behind him.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img05": {
+   "location": "mom_kitchen",
+   "camera": "CAMERA: medium shot at eye level from across the kitchen.",
+   "scene": "Joyful. A different character in the same art style: the hero's mother, a cartoon woman with the same perfectly round pale white head with no ears and no nose, black dot eyes, round glasses, grey hair in a neat bun, a pink knitted cardigan over a floral blouse. She does NOT wear a beanie and does NOT wear the olive-green jacket; image 1 is only a reference for the art style and the head shape. She laughs warmly into the beige wall-mounted landline phone, eyes squeezed shut in a happy smile, one hand on her cheek. The pot on the old stove is steaming again. Warm golden evening light. The hero is not in this image.",
+   "refs": [
+    "char"
+   ],
+   "no_character": true
+  },
+  "img06": {
+   "location": "apartment",
+   "camera": "CAMERA: wide shot at eye level from the kitchenette toward the living side of the room.",
+   "scene": "Relaxed. Evening. The hero sits back on the worn grey couch with his feet up on the low wooden coffee table, hands behind his head, eyes half closed, a calm small smile. His smartphone lies face down on the coffee table, dark and silent. The tall brass floor lamp glows warm. Through the window, calm distant city lights and no rain.",
+   "refs": [
+    "char"
+   ]
+  },
+  "img07": {
+   "location": "apartment",
+   "camera": "CAMERA: medium shot in three-quarter view from behind and slightly to the side of the hero, looking past him out of the window.",
+   "scene": "Peaceful. Early morning. The hero stands at the apartment window holding the chipped white mug in both hands, looking out at the city as the sun rises, warm golden light pouring across his face and the room, a quiet content smile. A few last rain drops on the glass sparkle in the light. The cream-white fridge with the child's crayon drawing of a red house is visible at the edge of the frame.",
+   "refs": [
+    "char"
+   ]
+  }
+ }
+}
