@@ -1,0 +1,50 @@
+name: Post ready part
+
+# Hotovy diel z GitHub Release (seria 2 sa renderuje mimo denneho behu) -> YT + IG cez Buffer na hodinu, TikTok do tiktok.json.
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Release s videami (napr. s2-part-01)"
+        required: true
+      key:
+        description: "Cislo epizody pre appku TikTok Nahravac (seria 2 = 101, 102...)"
+        required: true
+      hour:
+        description: "Hodina zverejnenia (Europe/Bratislava)"
+        default: "10"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vote
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests cloudinary
+      - name: Post
+        env:
+          BUFFER_TOKEN: ${{ secrets.BUFFER_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CLOUDINARY_CLOUD_NAME: ${{ secrets.CLOUDINARY_CLOUD_NAME }}
+          CLOUDINARY_API_KEY: ${{ secrets.CLOUDINARY_API_KEY }}
+          CLOUDINARY_API_SECRET: ${{ secrets.CLOUDINARY_API_SECRET }}
+        run: python -u vote/tools/post_ready.py "${{ inputs.tag }}" "${{ inputs.key }}" "${{ inputs.hour }}"
+      - name: Persist state
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          rm -f config.json
+          git add vote/tiktok.json pushed.json 2>/dev/null || true
+          git commit -m "vote: post ${{ inputs.tag }}" || echo "no changes"
+          git push || echo "nothing to push"
