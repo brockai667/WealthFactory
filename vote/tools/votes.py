@@ -88,8 +88,9 @@ def ig_counts(options):
             with urllib.request.urlopen(url, timeout=30) as r:
                 return json.loads(r.read())
         media = get(g + "me/media?" + urllib.parse.urlencode({"fields": "id,caption", "limit": 25, "access_token": tok}))
-        key = f"{options[0]} or {options[1]}".lower()
-        mid = next((m["id"] for m in media.get("data", []) if key in (m.get("caption") or "").lower()), None)
+        # najnovsi prispevok, ktoreho popis obsahuje obe volby ako slova ("TELL her or HIDE it?" aj "KNOCK or WATCH?")
+        rx = [re.compile(rf"\b{re.escape(o)}\b") for o in options]
+        mid = next((m["id"] for m in media.get("data", []) if all(r.search(m.get("caption") or "") for r in rx)), None)
         if not mid:
             print("votes: IG prispevok dielu nenajdeny")
             return None

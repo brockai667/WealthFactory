@@ -1,0 +1,13 @@
+{
+ "series": "SUDDENLY RICH",
+ "items": [
+  {
+   "date": "2026-11-06",
+   "vote_part": 1,
+   "options": ["TELL", "HIDE"],
+   "tags": {"TELL": "s2-part-02-tell", "HIDE": "s2-part-02-hide"},
+   "key": "102",
+   "hour": 10
+  }
+ ]
+}

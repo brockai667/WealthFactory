@@ -1,0 +1,45 @@
+name: S2 daily
+
+# Seria 2: rano spocita hlasy predosleho dielu a vitaznu verziu z Release naplanuje na YT + IG (Buffer) a TikTok (tiktok.json).
+on:
+  schedule:
+    - cron: "0 7 * * *"   # 8:00 SK (zima) -> post na hodinu z vote/s2_plan.json
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vote
+  cancel-in-progress: false
+
+jobs:
+  s2:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests cloudinary
+      - name: Votes and post
+        env:
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+          IG_TOKEN: ${{ secrets.IG_TOKEN_WEALTH }}
+          BUFFER_TOKEN: ${{ secrets.BUFFER_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CLOUDINARY_CLOUD_NAME: ${{ secrets.CLOUDINARY_CLOUD_NAME }}
+          CLOUDINARY_API_KEY: ${{ secrets.CLOUDINARY_API_KEY }}
+          CLOUDINARY_API_SECRET: ${{ secrets.CLOUDINARY_API_SECRET }}
+        run: python -u vote/tools/s2_daily.py
+      - name: Persist state
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          rm -f config.json
+          git add vote/s2_plan.json vote/tiktok.json pushed.json 2>/dev/null || true
+          git commit -m "vote: s2 daily" || echo "no changes"
+          git pull --rebase -q || true
+          git push || echo "nothing to push"
