@@ -33,7 +33,13 @@
     "WATCH": "s2-part-03-watch"
    },
    "key": "103",
-   "hour": 10
+   "hour": 10,
+   "winner": "KNOCK",
+   "counts": {
+    "KNOCK": 0,
+    "WATCH": 0
+   },
+   "done": "2026-11-15T16:18:00+00:00"
   }
  ]
 }
