@@ -20,6 +20,20 @@
     "HIDE": 0
    },
    "done": "2026-11-06T14:54:58+00:00"
+  },
+  {
+   "date": "2026-11-15",
+   "vote_part": 2,
+   "options": [
+    "KNOCK",
+    "WATCH"
+   ],
+   "tags": {
+    "KNOCK": "s2-part-03-knock",
+    "WATCH": "s2-part-03-watch"
+   },
+   "key": "103",
+   "hour": 10
   }
  ]
 }
